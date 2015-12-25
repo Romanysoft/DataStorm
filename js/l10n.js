@@ -100,11 +100,11 @@
   c$.loadL10n = function () {
     try {
 
-      var navLang = navigator.language.toLowerCase();
+      var navLang = navigator.language;
       var tryLangList = [
         "l10n/" + c$.l10nPre + navLang + ".json",
         "l10n/" + c$.l10nPre + navLang.split('-')[0] + ".json",
-        "l10n/" + c$.l10nPre + "en-us.json",
+        "l10n/" + c$.l10nPre + "en-US.json",
         "l10n/" + c$.l10nPre + "en.json"
       ];
 

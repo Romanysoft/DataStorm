@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daa96fc7-00bd-4797-9f3e-f1b7f85888b5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/app-store-mac-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/no-app-store-mac-button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screens/en_US/1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/images/screens/en_US/2.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/app.css" afterPath="$PROJECT_DIR$/stylesheets/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/app.less" afterPath="$PROJECT_DIR$/stylesheets/app.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/l10n.js" afterPath="$PROJECT_DIR$/js/l10n.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_zh-CN.json" afterPath="$PROJECT_DIR$/l10n/app_zh-CN.json" />
     </list>
     <ignored path="DataStorm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -82,21 +77,19 @@
         <entry file="file://$PROJECT_DIR$/js/views/top-bar.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <caret line="22" column="33" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="33" />
               <folding>
                 <element signature="e#13#94#0" expanded="true" />
-                <element signature="e#334#1258#0" expanded="true" />
-                <element signature="e#423#1125#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="l10n.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="l10n.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/l10n.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30992737">
-              <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="104" column="49" selection-start-line="104" selection-start-column="49" selection-end-line="104" selection-end-column="49" />
               <folding>
                 <element signature="e#346#1205#0" expanded="true" />
                 <element signature="e#1321#1601#0" expanded="true" />
@@ -110,9 +103,17 @@
                 <element signature="e#1871#1991#0" expanded="true" />
                 <element signature="e#2040#2247#0" expanded="true" />
                 <element signature="e#2146#2232#0" expanded="true" />
-                <element signature="e#2310#2746#0" expanded="true" />
-                <element signature="e#2401#2610#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app_zh-CN.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/l10n/app_zh-CN.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.18703242">
+              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,18 +125,6 @@
               <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
               <folding>
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view-buy-page.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/views/view-buy-page.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="61" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
-              <folding>
-                <element signature="e#13#94#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -179,6 +168,7 @@
         <option value="$PROJECT_DIR$/js/views/view-versions-page.js" />
         <option value="$PROJECT_DIR$/js/views/top-bar.js" />
         <option value="$PROJECT_DIR$/js/l10n.js" />
+        <option value="$PROJECT_DIR$/l10n/app_zh-CN.json" />
       </list>
     </option>
   </component>
@@ -421,14 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/l10n/app_zh-CN.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.541667">
-          <caret line="152" column="30" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/l10n/app_en.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.375">
@@ -527,19 +509,17 @@
     <entry file="file://$PROJECT_DIR$/js/views/top-bar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="33" />
           <folding>
             <element signature="e#13#94#0" expanded="true" />
-            <element signature="e#334#1258#0" expanded="true" />
-            <element signature="e#423#1125#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/l10n.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30992737">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="104" column="49" selection-start-line="104" selection-start-column="49" selection-end-line="104" selection-end-column="49" />
           <folding>
             <element signature="e#346#1205#0" expanded="true" />
             <element signature="e#1321#1601#0" expanded="true" />
@@ -553,9 +533,15 @@
             <element signature="e#1871#1991#0" expanded="true" />
             <element signature="e#2040#2247#0" expanded="true" />
             <element signature="e#2146#2232#0" expanded="true" />
-            <element signature="e#2310#2746#0" expanded="true" />
-            <element signature="e#2401#2610#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/l10n/app_zh-CN.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18703242">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding />
         </state>
       </provider>
     </entry>
