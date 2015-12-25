@@ -1,0 +1,182 @@
+{
+    "TopBar": {
+        "Home": "主页",
+        "Feature": "特性",
+        "Documents": "文档",
+        "ReleaseNotes": "发行说明",
+        "Downloads": "下载",
+        "Buy": "购买",
+        "Roadmap": "路线",
+        "ReportIssue": "提交问题"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "非常实用的应用程序。适合在Windows，Linux和MacOSX上使用。",
+        "BtnDownload": "下载",
+        "BtnBuy": "采购",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "主要特点",
+            "list": [
+                "JSON，XML，CSV，PLIST，INI，的.properties（JAVA）和阳明海运（YAML）之间的转换，从一种格式转换为另一种。",
+                "支持批量转换",
+                "支持定制转换参数",
+                "支持复杂的文件格式",
+                "多语言支持（采用TryToTranslate工具翻译）。"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "看看大家都在说什么",
+            "list": [
+                {
+                    "reviewContent": "DataStorm是惊人的。简单。清洁。完善。干得漂亮。",
+                    "userName": "evanw",
+                    "professional": "数据库管理员"
+                },
+                {
+                    "reviewContent": "DataStorm是我做的几乎我所有的工具，这是一个伟大的小应用程序。",
+                    "userName": "彼得·光明",
+                    "professional": "测试工程师"
+                },
+                {
+                    "reviewContent": "如果您需要做数据转换，DataStorm是绝对值得下载。",
+                    "userName": "Lifehacker",
+                    "professional": "网页开发者和设计师"
+                },
+                {
+                    "reviewContent": "我真的很喜欢DataStorm，给我的工作带来太多的方便。",
+                    "userName": "jeruss",
+                    "professional": "PHP框架开发"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "版本",
+        "list": [
+            {
+                "version": "4.19",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task contions is '&&' run error.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] Open the most recently used documents that use dock appliction icon, not normal to open}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task must run success, application can't launch.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for complex object format(all support file format)}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for custom to csv}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for .ini format file}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] (Transformation engine) i18n update}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Performance] (Transformation engine) use file stream aysnc.}}"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "第一次发布"
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "第一次发布"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "版本",
+        "list": [
+            {
+                "version": "4.19",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5ffb02u8njdz/DataStorm-v4.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
+                        "size": "{{67.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5d9bo1eh2nmf/DataStorm-v4.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
+                        "size": "{{16.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1y3hgnhzja3d/DataStorm-v4.19.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
+                        "size": "{{56.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5n88zywa2nmt/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
+                        "size": "{{56.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/549swlp46odz/DataStorm-v4.19-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "购买方式",
+        "list": [
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$19.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
+            }
+        ]
+    },
+    "RoadMapPage": {}
+}

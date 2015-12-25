@@ -1,0 +1,182 @@
+{
+    "TopBar": {
+        "Home": "Nhà",
+        "Feature": "Tính năng",
+        "Documents": "Các tài liệu",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Downloads",
+        "Buy": "Mua",
+        "Roadmap": "Lộ trình",
+        "ReportIssue": "Báo cáo phát hành"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "App rất hữu ích. Đối với Windows, Linux, MacOSX.",
+        "BtnDownload": "Tải về",
+        "BtnBuy": "Mua",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Những đặc điểm chính",
+            "list": [
+                "Chuyển đổi giữa JSON, XML, CSV, plist, INI, .properties (java) và YML (YAML), từ một định dạng khác.",
+                "Hỗ trợ chuyển đổi hàng loạt.",
+                "Hỗ trợ tùy chọn tùy chỉnh chuyển đổi.",
+                "Hỗ trợ định dạng tập tin nội dung phức tạp",
+                "Hỗ trợ đa ngôn ngữ (Translated by DataStorm)."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Những điều tuyệt vời mọi người đang nói về nó",
+            "list": [
+                {
+                    "reviewContent": "DataStorm là cảnh quan tuyệt đẹp. Đơn giản. Lau sạch. Hoàn hảo. Làm tốt.",
+                    "userName": "evanw",
+                    "professional": "Công nghệ Evangelist"
+                },
+                {
+                    "reviewContent": "DataStorm là những gì tôi làm được khá nhiều tất cả các bài viết của tôi. Đó là một ứng dụng nhỏ tuyệt vời.",
+                    "userName": "Peter Bright",
+                    "professional": "Writer tại Ars Technica"
+                },
+                {
+                    "reviewContent": "Nếu bạn có bất cứ quan tâm trong việc chuyển đổi dữ liệu, DataStorm chắc chắn là giá trị một download.",
+                    "userName": "Lifehacker",
+                    "professional": "Web Developer và Designer"
+                },
+                {
+                    "reviewContent": "Tôi thực sự thích DataStorm, đã mang lại nhiều tiện lợi cho công việc của tôi.",
+                    "userName": "jeruss",
+                    "professional": "PHP Framework Developer"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "4.19",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task contions is '&&' run error.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] Open the most recently used documents that use dock appliction icon, not normal to open}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task must run success, application can't launch.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for complex object format(all support file format)}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for custom to csv}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for .ini format file}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] (Transformation engine) i18n update}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Performance] (Transformation engine) use file stream aysnc.}}"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Đầu tiên phát hành."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Đầu tiên phát hành."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "4.19",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5ffb02u8njdz/DataStorm-v4.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
+                        "size": "{{67.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5d9bo1eh2nmf/DataStorm-v4.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
+                        "size": "{{16.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1y3hgnhzja3d/DataStorm-v4.19.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
+                        "size": "{{56.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5n88zywa2nmt/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
+                        "size": "{{56.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/549swlp46odz/DataStorm-v4.19-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Mua Way",
+        "list": [
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$19.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
+            }
+        ]
+    },
+    "RoadMapPage": {}
+}

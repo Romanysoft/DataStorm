@@ -1,0 +1,182 @@
+{
+    "TopBar": {
+        "Home": "Tsev",
+        "Feature": "Feature",
+        "Documents": "Cov ntaub ntawv",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Downloads",
+        "Buy": "Yuav",
+        "Roadmap": "Roadmap",
+        "ReportIssue": "Daim ntawv qhia txog qhov teeb meem"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Heev pab App. Rau lub qhov rais, Linux, MacOSX.",
+        "BtnDownload": "Download",
+        "BtnBuy": "Purchase",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main nta",
+            "list": [
+                "Hloov ntawm JSON, XML, CSV, plist, no, .properties (java) thiab YML (YAML), los ntawm ib hom mus rau lwm lub.",
+                "Them nyiaj yug Batch hloov dua siab tshiab.",
+                "Them nyiaj yug hloov dua siab tshiab kev cai xaiv.",
+                "Them nyiaj yug txoj ntsiab lus cov hom ntaub ntawv",
+                "Multi-hom lus yug (txhais los ntawm DataStorm)."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Yam zoo kawg nkaus cov neeg no hais txog nws",
+            "list": [
+                {
+                    "reviewContent": "DataStorm yog stunning. Tej yam yooj yim. Huv si. Zoo meej. Zoo li cas.",
+                    "userName": "evanw",
+                    "professional": "Technology qhia Txoj Moo Zoo"
+                },
+                {
+                    "reviewContent": "DataStorm yog li cas kuv ua zoo nkauj npaum li cas txhua yam ntawm kuv kev sau ntawv nyob rau hauv. Nws yog ib tug zoo me ntsis app.",
+                    "userName": "Peter Kaj",
+                    "professional": "Txawj sau ntawv nyob rau ntawm lub Ars Technica"
+                },
+                {
+                    "reviewContent": "Yog hais tias koj muaj tej kev txaus siab rau cov ntaub ntawv hloov dua siab tshiab, DataStorm yog twv yuav raug hu muaj nqis ib download.",
+                    "userName": "LifeHacker",
+                    "professional": "Web tsim tawm thiab Designer"
+                },
+                {
+                    "reviewContent": "Kuv yeej zoo li DataStorm, tau coj ntau yooj yim rau kuv ua hauj lwm.",
+                    "userName": "jeruss",
+                    "professional": "PHP moj khaum tsim tawm"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "4,19",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task contions is '&&' run error.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] Open the most recently used documents that use dock appliction icon, not normal to open}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task must run success, application can't launch.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for complex object format(all support file format)}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for custom to csv}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for .ini format file}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] (Transformation engine) i18n update}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Performance] (Transformation engine) use file stream aysnc.}}"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "Ua ntej tso tawm."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "Ua ntej tso tawm."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "4,19",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5ffb02u8njdz/DataStorm-v4.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
+                        "size": "{{67.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5d9bo1eh2nmf/DataStorm-v4.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
+                        "size": "{{16.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1y3hgnhzja3d/DataStorm-v4.19.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
+                        "size": "{{56.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5n88zywa2nmt/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
+                        "size": "{{56.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/549swlp46odz/DataStorm-v4.19-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Muas Txoj Kev",
+        "list": [
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$19.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
+            }
+        ]
+    },
+    "RoadMapPage": {}
+}

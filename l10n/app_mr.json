@@ -1,0 +1,182 @@
+{
+    "TopBar": {
+        "Home": "मुख्यपृष्ठ",
+        "Feature": "वैशिष्ट्य",
+        "Documents": "दस्तऐवज",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "डाउनलोड",
+        "Buy": "खरेदी",
+        "Roadmap": "आराखड्यामुळे",
+        "ReportIssue": "समस्या नोंदवा"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "अतिशय उपयुक्त अनुप्रयोग. विंडोज, लिनक्स, MacOSX आहे.",
+        "BtnDownload": "डाउनलोड",
+        "BtnBuy": "खरेदी",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "मुख्य वैशिष्ट्ये",
+            "list": [
+                "एक स्वरूप दुसर्या आणि JSON, एक्स एम एल, सी, plist, ini, .properties (जावा) आणि YML (YAML) दरम्यान रुपांतरित.",
+                "समर्थन बॅच रूपांतरण.",
+                "समर्थन रूपांतरण सानुकूल पर्याय.",
+                "समर्थन जटिल सामग्री फाइल स्वरूप",
+                "(DataStorm द्वारे अनुवादित) मल्टी भाषा समर्थन."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "लोक तो काय म्हणत आहेत अद्भुत गोष्टी",
+            "list": [
+                {
+                    "reviewContent": "DataStorm जबरदस्त आकर्षक आहे. साधे. स्वच्छ. योग्य. छान.",
+                    "userName": "evanw",
+                    "professional": "तंत्रज्ञान लेखक"
+                },
+                {
+                    "reviewContent": "DataStorm मी खूपच जास्त सर्व माझ्या लेखन काय आहे. तो एक महान थोडे अनुप्रयोग आहे.",
+                    "userName": "पीटर तेजस्वी",
+                    "professional": "Ars Technica येथे लेखक"
+                },
+                {
+                    "reviewContent": "आपण डेटा रूपांतरण कोणत्याही स्वारस्य आहे, तर, DataStorm निश्चितपणे एक डाउनलोड वाचतो आहे.",
+                    "userName": "Lifehacker",
+                    "professional": "वेब डेव्हलपर आणि डिझायनर"
+                },
+                {
+                    "reviewContent": "मी खरोखर DataStorm सारखे, माझ्या कामासाठी किती सोयीसाठी आणले आहे.",
+                    "userName": "jeruss",
+                    "professional": "कृपया PHP फ्रेमवर्क विकसक"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "आवृत्ती",
+        "list": [
+            {
+                "version": "4.19",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task contions is '&&' run error.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] Open the most recently used documents that use dock appliction icon, not normal to open}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task must run success, application can't launch.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for complex object format(all support file format)}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for custom to csv}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for .ini format file}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] (Transformation engine) i18n update}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Performance] (Transformation engine) use file stream aysnc.}}"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "प्रथम प्रकाशन करण्यात आले."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "प्रथम प्रकाशन करण्यात आले."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "आवृत्ती",
+        "list": [
+            {
+                "version": "4.19",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5ffb02u8njdz/DataStorm-v4.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
+                        "size": "{{67.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5d9bo1eh2nmf/DataStorm-v4.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
+                        "size": "{{16.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1y3hgnhzja3d/DataStorm-v4.19.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
+                        "size": "{{56.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5n88zywa2nmt/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
+                        "size": "{{56.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/549swlp46odz/DataStorm-v4.19-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "खरेदी वे",
+        "list": [
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$19.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
+            }
+        ]
+    },
+    "RoadMapPage": {}
+}

@@ -1,0 +1,10 @@
+(function () {
+    window.RTYConfig = {
+        appName:"DataStorm",
+        documentTitle:"DataStorm By Romanysoft",
+        googleUA:"UA-43238484-7",
+        gitHome:"https://github.com/Romanysoft/DataStorm",
+        romanysoftHome:"http://www.romanysoft.com",
+        copyright:"Copyright © 2016 Romanysoft LAB."
+    }
+})();

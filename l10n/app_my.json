@@ -1,0 +1,182 @@
+{
+    "TopBar": {
+        "Home": "မူလစာမျက်နှာ",
+        "Feature": "Feature ကို",
+        "Documents": "documents",
+        "ReleaseNotes": "ReleaseNotes တွင်",
+        "Downloads": "downloads",
+        "Buy": "ဝယ်မယ်",
+        "Roadmap": "လမ်းပြမြေပုံ",
+        "ReportIssue": "အစီရင်ခံစာစာစောင်"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "အလွန်အသုံးဝင် App ကို။ Windows, Linux MacOSX သည်။",
+        "BtnDownload": "ဒေါင်းလုပ်",
+        "BtnBuy": "ဝယ်ယူ",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "main အင်္ဂါရပ်များ",
+            "list": [
+                "တဦးတည်း format နဲ့မှအခြားဖို့, JSON, XML, CSV, PLIST, INI, .properties (java) အကြားနှင့် YML (YAML) convert ။",
+                "ပံ့ပိုးမှု Batch အဖြစ်ပြောင်းလဲခြင်း။",
+                "အဖြစ်ပြောင်းလဲခြင်းထုံးစံ options ကိုထောက်ခံခဲ့သည်။",
+                "ရှုပ်ထွေးသော content တွေကိုဖိုင်ကို format ကိုထောကျပံ့",
+                "(DataStorm အားဖြင့်သာ) multi-ဘာသာစကားထောက်ခံမှု။"
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "အံ့ဩဘွယ်အမှုအရာကလူကအကြောင်းပြောနေ",
+            "list": [
+                {
+                    "reviewContent": "DataStorm ရင်သပ်ရှုမောဖွယ်ဖြစ်ပါသည်။ ရိုးရှင်းတဲ့။ စင်ကြယ်သော။ စုံလင်သော။ ကောင်းစွာပြီးဆုံးသည်။",
+                    "userName": "evanw",
+                    "professional": "နည်းပညာကိုသာသနာပွုဆရာ"
+                },
+                {
+                    "reviewContent": "DataStorm ငါတော်တော်များများအားလုံး၌ငါ့အရေးအသား၏အဘယ်သို့ပြုမည်အရာကိုဖြစ်ပါတယ်။ ဒါဟာအလွန်ကြီးစွာသောအနည်းငယ်သာ app ကိုဖွင့်။",
+                    "userName": "ပေတရု မှစ. တ Bright",
+                    "professional": "ARS Technica မှာစာရေးဆရာ"
+                },
+                {
+                    "reviewContent": "သငျသညျဒေတာတွေကိုအဖြစ်ပြောင်းလဲခြင်းအတွက်မည်သည့်အကျိုးစီးပွားရှိပါက DataStorm ကျိန်းသေတစ်ဦးကို download ရကျိုးနပ်သည်။",
+                    "userName": "LifeHacker",
+                    "professional": "Web Developer များနှင့်ဒီဇိုင်နာ"
+                },
+                {
+                    "reviewContent": "ငါတကယ် DataStorm သကဲ့သို့ငါ၏အလုပျအတှကျအများကြီးအဆင်ပြေစေရန်ဆောင်ခဲ့တော်မူပြီ။",
+                    "userName": "jeruss",
+                    "professional": "PHP ကို​​မူဘောင် Developer တွေ"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Version ကို",
+        "list": [
+            {
+                "version": "4,19",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task contions is '&&' run error.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] Open the most recently used documents that use dock appliction icon, not normal to open}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task must run success, application can't launch.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for complex object format(all support file format)}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for custom to csv}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for .ini format file}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] (Transformation engine) i18n update}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Performance] (Transformation engine) use file stream aysnc.}}"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "ပထမဦးစွာထုတ်ပြန်ခဲ့သည်။"
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "ပထမဦးစွာထုတ်ပြန်ခဲ့သည်။"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version ကို",
+        "list": [
+            {
+                "version": "4,19",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5ffb02u8njdz/DataStorm-v4.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
+                        "size": "{{67.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5d9bo1eh2nmf/DataStorm-v4.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
+                        "size": "{{16.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1y3hgnhzja3d/DataStorm-v4.19.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
+                        "size": "{{56.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5n88zywa2nmt/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
+                        "size": "{{56.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/549swlp46odz/DataStorm-v4.19-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Way ကို Buy",
+        "list": [
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$19.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
+            }
+        ]
+    },
+    "RoadMapPage": {}
+}

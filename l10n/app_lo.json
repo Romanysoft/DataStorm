@@ -1,0 +1,182 @@
+{
+    "TopBar": {
+        "Home": "ຫນ້າ​ທໍາ​ອິດ",
+        "Feature": "ຄຸນ​ນະ​ສົມ​ບັດ",
+        "Documents": "ເອ​ກະ​ສານ",
+        "ReleaseNotes": "releasenotes",
+        "Downloads": "ດາວ​ໂຫລດ",
+        "Buy": "ຊື້",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "ສະ​ບັບ Report"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "ເປັນ​ປະ​ໂຫຍດ​ຫຼາຍ App​. ສໍາ​ລັບ Windows​, Linux​, MacOSX​.",
+        "BtnDownload": "ດາວ​ໂຫລດ",
+        "BtnBuy": "ຊື້",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "ຄຸນ​ນະ​ສົມ​ບັດ​ຕົ້ນ​ຕໍ",
+            "list": [
+                "ແປງ​ລະ​ຫວ່າງ JSON​, XML​, CSV​, plist​, INI​, .properties (java​) ແລະ YML (YAML​)​, ​​ຈາກ​ຮູບ​ແບບ​ຫນຶ່ງ​ກັບ​ຄົນ​ອື່ນ​.",
+                "ການ​ແປງ​ຊຸດ​ສະ​ຫນັບ​ສະ​ຫນູນ​.",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ທາງ​ເລືອກ custom ການ​ປ່ຽນ​ແປງ​.",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ຮູບ​ແບບ​ໄຟລ​໌​ສະ​ລັບ​ສັບ​ຊ້ອນ​ເນື້ອ​ໃນ",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ຫຼາຍ​ພາ​ສາ (ແປ​ໂດຍ DataStorm​)​."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "ສິ່ງ​ທີ່​ປະ​ເສີດ​ປະ​ຊາ​ຊົນ​ເວົ້າ​ກ່ຽວ​ກັບ​ມັນ",
+            "list": [
+                {
+                    "reviewContent": "DataStorm ແມ່ນ stunning​. ງ່າຍ​ດາຍ​. ທໍາ​ຄວາມ​ສະ​ອາດ​. ທີ່​ດີ​ເລີດ​. ເຮັດ​ໄດ້​ດີ​.",
+                    "userName": "evanw",
+                    "professional": "ເຕັກ​ໂນ​ໂລ​ຊີ Evangelist"
+                },
+                {
+                    "reviewContent": "DataStorm ແມ່ນ​ສິ່ງ​ທີ່​ຂ້າ​ພະ​ເຈົ້າ​ເຮັດ pretty ຫຼາຍ​ທັງ​ຫມົດ​ຂອງ​ລາຍ​ລັກ​ອັກ​ສອນ​ຂ້າ​ພະ​ເຈົ້າ​ໃນ​. ມັນ​ເປັນ app ທີ່​ຍິ່ງ​ໃຫຍ່​ພຽງ​ເລັກ​ນ້ອຍ​.",
+                    "userName": "Peter ສົດ​ໃສ",
+                    "professional": "Writer ຢູ່ Ars Technica"
+                },
+                {
+                    "reviewContent": "ຖ້າ​ຫາກ​ທ່ານ​ມີ​ຄວາມ​ສົນ​ໃຈ​ໃນ​ການ​ປ່ຽນ​ແປງ​ຂໍ້​ມູນ​ໃດໆ​, DataStorm ແມ່ນ​ຕົກ​ເປັນ​ມູນ​ຄ່າ​ການ​ດາວ​ໂຫຼດ​.",
+                    "userName": "LifeHacker",
+                    "professional": "ຜູ້​ພັດ​ທະ​ນາ​ເວັບ​ໄຊ​ແລະ​ການ​ອອກ​ແບບ"
+                },
+                {
+                    "reviewContent": "ຂ້າ​ພະ​ເຈົ້າ​ກໍ່​ຄື DataStorm​, ໄດ້​ນໍາ​ເອົາ​ຄວາມ​ສະ​ດວກ​ຫຼາຍ​ສໍາ​ລັບ​ການ​ເຮັດ​ວຽກ​ຂ້າ​ພະ​ເຈົ້າ​.",
+                    "userName": "jeruss",
+                    "professional": "ພັດ​ທະ​ນາ PHP Framework"
+                }
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {},
+    "ReleaseNotePage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "4.19",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task contions is '&&' run error.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] Open the most recently used documents that use dock appliction icon, not normal to open}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task must run success, application can't launch.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for complex object format(all support file format)}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for custom to csv}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for .ini format file}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] (Transformation engine) i18n update}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Performance] (Transformation engine) use file stream aysnc.}}"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "ປ່ອຍ​ອອກ​ມາ​ເມື່ອ​ຄັ້ງ​ທໍາ​ອິດ​."
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "ປ່ອຍ​ອອກ​ມາ​ເມື່ອ​ຄັ້ງ​ທໍາ​ອິດ​."
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "4.19",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5ffb02u8njdz/DataStorm-v4.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
+                        "size": "{{67.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5d9bo1eh2nmf/DataStorm-v4.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
+                        "size": "{{16.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1y3hgnhzja3d/DataStorm-v4.19.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
+                        "size": "{{56.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5n88zywa2nmt/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
+                        "size": "{{56.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/549swlp46odz/DataStorm-v4.19-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "ຊື້ Way",
+        "list": [
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$19.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
+            }
+        ]
+    },
+    "RoadMapPage": {}
+}
