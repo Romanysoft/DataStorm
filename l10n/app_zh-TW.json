@@ -121,31 +121,31 @@
                         "osUrl": "{{images/download/win32.png}}",
                         "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
                         "size": "{{57.1MB}}",
-                        "downURL": "{{http://www.filefactory.com/file/5ffb02u8njdz/DataStorm-v4.19-win32-x86-setup.exe}}"
+                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
                     },
                     {
                         "osUrl": "{{images/download/win32.png}}",
                         "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
                         "size": "{{67.4MB}}",
-                        "downURL": "{{http://www.filefactory.com/file/5d9bo1eh2nmf/DataStorm-v4.19-win32-x64-setup.exe}}"
+                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
                     },
                     {
                         "osUrl": "{{images/download/osx.png}}",
                         "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
                         "size": "{{16.8MB}}",
-                        "downURL": "{{http://www.filefactory.com/file/1y3hgnhzja3d/DataStorm-v4.19.0-darwin-x64.zip}}"
+                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
                     },
                     {
                         "osUrl": "{{images/download/linux.png}}",
                         "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
                         "size": "{{56.2MB}}",
-                        "downURL": "{{http://www.filefactory.com/file/5n88zywa2nmt/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
+                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
                     },
                     {
                         "osUrl": "{{images/download/linux.png}}",
                         "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
                         "size": "{{56.7MB}}",
-                        "downURL": "{{http://www.filefactory.com/file/549swlp46odz/DataStorm-v4.19-linux-x64-install.tar.gz}}"
+                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
                     }
                 ]
             }
