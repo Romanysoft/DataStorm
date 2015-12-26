@@ -53,7 +53,7 @@
   c$.languageMap = {};
   c$.MC_l10n = $.Callbacks();
 
-  c$.LoadLanguageMap = function(url){
+  c$.LoadLanguageMap = function(url, next){
     $.ajax({
       url: url,
       dataType: "json",
@@ -64,6 +64,7 @@
       success: function (data) {
         console.log('----- load LoadLanguageMap .... ' + url);
         c$.languageMap = data;
+        next && next();
       }
     })
   };
@@ -135,9 +136,10 @@
 
   c$.loadL10n = function () {
     try {
-      /// 启动翻译尝试
-      this.LoadAppLanguage(this.getPreTryLangList());
-      this.LoadLanguageMap("l10n/lang.json");
+      this.LoadLanguageMap("l10n/lang.json", function(){
+        /// 启动翻译尝试
+        this.LoadAppLanguage(this.getPreTryLangList());
+      });
 
 
     } catch (e) {
