@@ -178,5 +178,8 @@
             }
         ]
     },
-    "RoadMapPage": {}
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Ngôn ngữ có sẵn"
+    }
 }

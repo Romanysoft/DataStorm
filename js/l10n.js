@@ -68,6 +68,25 @@
     })
   };
 
+  c$.setUserCustomLanguage = function(langID){
+    var localKey = RTYConfig.appID+"+userConfig";
+    var userConfig = null;
+    userConfig = (userConfig = localStorage.getItem(localKey)) && JSON.parse(userConfig);
+    userConfig = userConfig || {};
+
+    userConfig["lang"] = langID;
+    localStorage.setItem(localKey, JSON.stringify(userConfig));
+  };
+
+  c$.getUserCustomLanguage = function(){
+    var localKey = RTYConfig.appID+"+userConfig";
+    var userConfig = null;
+    userConfig = (userConfig = localStorage.getItem(localKey)) && JSON.parse(userConfig);
+    userConfig = userConfig || {};
+
+    return userConfig["lang"];
+  };
+
   c$.LoadAppLanguage = function (languageList) {
     function trySetLocal(url, next) {
       $.ajax({
@@ -97,19 +116,27 @@
     gotoTry(languageList);
   };
 
+  c$.getPreTryLangList = function(){
+    var navLang = navigator.language;
+    var tryLangList = [
+      "l10n/" + c$.l10nPre + navLang + ".json",
+      "l10n/" + c$.l10nPre + navLang.split('-')[0] + ".json",
+      "l10n/" + c$.l10nPre + "en-US.json",
+      "l10n/" + c$.l10nPre + "en.json"
+    ];
+
+    var userLang = this.getUserCustomLanguage();
+    if(userLang){
+      tryLangList =["l10n/" + c$.l10nPre + userLang + ".json"].concat(tryLangList);
+    }
+
+    return tryLangList;
+  };
+
   c$.loadL10n = function () {
     try {
-
-      var navLang = navigator.language;
-      var tryLangList = [
-        "l10n/" + c$.l10nPre + navLang + ".json",
-        "l10n/" + c$.l10nPre + navLang.split('-')[0] + ".json",
-        "l10n/" + c$.l10nPre + "en-US.json",
-        "l10n/" + c$.l10nPre + "en.json"
-      ];
-
       /// 启动翻译尝试
-      this.LoadAppLanguage(tryLangList);
+      this.LoadAppLanguage(this.getPreTryLangList());
       this.LoadLanguageMap("l10n/lang.json");
 
 

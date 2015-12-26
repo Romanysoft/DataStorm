@@ -178,5 +178,8 @@
             }
         ]
     },
-    "RoadMapPage": {}
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ಲಭ್ಯವಿರುವ ಭಾಷೆಗಳು"
+    }
 }

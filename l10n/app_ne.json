@@ -178,5 +178,8 @@
             }
         ]
     },
-    "RoadMapPage": {}
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "उपलब्ध भाषा"
+    }
 }

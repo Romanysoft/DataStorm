@@ -178,5 +178,8 @@
             }
         ]
     },
-    "RoadMapPage": {}
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ភាសា​ដែល​អាច​ប្រើ​បាន"
+    }
 }

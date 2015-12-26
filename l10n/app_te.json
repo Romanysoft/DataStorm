@@ -178,5 +178,8 @@
             }
         ]
     },
-    "RoadMapPage": {}
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "అందుబాటులో ఉన్న భాషలు"
+    }
 }

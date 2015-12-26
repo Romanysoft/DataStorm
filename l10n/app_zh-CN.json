@@ -12,7 +12,7 @@
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "非常实用的应用程序。适合在Windows，Linux和MacOSX上使用。",
+        "ProjectTagline": "非常实用的应用程序，适合在在Windows，Linux和MacOSX上上使用。",
         "BtnDownload": "下载",
         "BtnBuy": "采购",
         "Screens": [
@@ -25,10 +25,11 @@
         "Features": {
             "SectionName": "主要特点",
             "list": [
-                "JSON，XML，CSV，PLIST，INI，的.properties（JAVA）和阳明海运（YAML）之间的转换，从一种格式转换为另一种。",
+                "支持JSON，XML，CSV，PLIST，INI，的.properties和阳明海运（YAML）文件数据之间的转换。",
                 "支持批量转换",
                 "支持定制转换参数",
-                "支持复杂的文件格式",
+                "支持复杂数据的文件处理，特别是嵌套JSON文件转换成CSV",
+                "支持转换到CSV，设置CSV的字段排序及分隔符设置",
                 "多语言支持（采用TryToTranslate工具翻译）。"
             ]
         },
@@ -36,7 +37,7 @@
             "SectionName": "看看大家都在说什么",
             "list": [
                 {
-                    "reviewContent": "DataStorm是惊人的。简单。清洁。完善。干得漂亮。",
+                    "reviewContent": "DataStorm是惊人的。简单，清洁，完善。干得漂亮。",
                     "userName": "evanw",
                     "professional": "数据库管理员"
                 },
@@ -47,7 +48,7 @@
                 },
                 {
                     "reviewContent": "如果您需要做数据转换，DataStorm是绝对值得下载。",
-                    "userName": "Lifehacker",
+                    "userName": "Lifehacker的",
                     "professional": "网页开发者和设计师"
                 },
                 {
@@ -155,6 +156,24 @@
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
+            },
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
@@ -179,5 +198,8 @@
             }
         ]
     },
-    "RoadMapPage": {}
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "网站可用语言"
+    }
 }

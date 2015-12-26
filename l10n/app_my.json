@@ -178,5 +178,8 @@
             }
         ]
     },
-    "RoadMapPage": {}
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "ရရှိနိုင်သည့်ဘာသာစကားများကို"
+    }
 }
