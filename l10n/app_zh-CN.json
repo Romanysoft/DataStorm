@@ -12,7 +12,7 @@
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "非常实用的应用程序，适合在在Windows，Linux和MacOSX上上使用。",
+        "ProjectTagline": "非常实用的应用程序，适合在 Windows，Linux 和 MacOSX 操作系统上使用。",
         "BtnDownload": "下载",
         "BtnBuy": "采购",
         "Screens": [
@@ -37,7 +37,7 @@
             "SectionName": "看看大家都在说什么",
             "list": [
                 {
-                    "reviewContent": "DataStorm是惊人的。简单，清洁，完善。干得漂亮。",
+                    "reviewContent": "DataStorm是非常棒的。简单，清洁，完善。干得漂亮。",
                     "userName": "evanw",
                     "professional": "数据库管理员"
                 },
