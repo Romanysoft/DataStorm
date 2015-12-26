@@ -136,9 +136,9 @@
 
   c$.loadL10n = function () {
     try {
-      this.LoadLanguageMap("l10n/lang.json", function(){
+      c$.LoadLanguageMap("l10n/lang.json", function(){
         /// 启动翻译尝试
-        this.LoadAppLanguage(this.getPreTryLangList());
+        c$.LoadAppLanguage(c$.getPreTryLangList());
       });
 
 
