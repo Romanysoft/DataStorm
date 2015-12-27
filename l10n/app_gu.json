@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ઉપલબ્ધ ભાષા"
+        "SectionName": "ઉપલબ્ધ ભાષા",
+        "ChangeAlert": "પૂર્ણ સ્વીચ ભાષા"
     }
 }

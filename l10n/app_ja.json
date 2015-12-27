@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "利用できる言語"
+        "SectionName": "利用できる言語",
+        "ChangeAlert": "完全なスイッチの言語"
     }
 }

@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Gjuhë të disponueshme"
+        "SectionName": "Gjuhë të disponueshme",
+        "ChangeAlert": "Complete kaloni gjuhë"
     }
 }

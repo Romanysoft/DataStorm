@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Доступные Языки"
+        "SectionName": "Доступные Языки",
+        "ChangeAlert": "Полный переключить язык"
     }
 }

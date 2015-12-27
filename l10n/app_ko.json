@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "사용 가능한 언어"
+        "SectionName": "사용 가능한 언어",
+        "ChangeAlert": "전체 언어 변경"
     }
 }

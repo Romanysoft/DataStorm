@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ရရှိနိုင်သည့်ဘာသာစကားများကို"
+        "SectionName": "ရရှိနိုင်သည့်ဘာသာစကားများကို",
+        "ChangeAlert": "complete switch ကိုဘာသာစကား"
     }
 }

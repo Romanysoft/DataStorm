@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "বিদ্যমান ভাষাসমূহ"
+        "SectionName": "বিদ্যমান ভাষাসমূহ",
+        "ChangeAlert": "সমাপ্তি করুন ভাষা"
     }
 }

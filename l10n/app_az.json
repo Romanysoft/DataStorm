@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Mövcud Dillər"
+        "SectionName": "Mövcud Dillər",
+        "ChangeAlert": "Tam keçid dil"
     }
 }

@@ -201,6 +201,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "网站可用语言"
+        "SectionName": "网站可用语言",
+        "ChangeAlert": "切换语言完成"
     }
 }

@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Dostupné jazyky"
+        "SectionName": "Dostupné jazyky",
+        "ChangeAlert": "Kompletní Jazyk Přepínač"
     }
 }

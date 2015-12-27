@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Tersedia Bahasa"
+        "SectionName": "Tersedia Bahasa",
+        "ChangeAlert": "Lengkap ganti bahasa"
     }
 }

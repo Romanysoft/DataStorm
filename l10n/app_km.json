@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ភាសា​ដែល​អាច​ប្រើ​បាន"
+        "SectionName": "ភាសា​ដែល​អាច​ប្រើ​បាន",
+        "ChangeAlert": "ភាសា​កុងតាក់​ពេញលេញ"
     }
 }

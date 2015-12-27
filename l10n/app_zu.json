@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Izilimi Iyatholakala"
+        "SectionName": "Izilimi Iyatholakala",
+        "ChangeAlert": "Complete switch ulimi"
     }
 }

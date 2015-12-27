@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Mevcut Diller"
+        "SectionName": "Mevcut Diller",
+        "ChangeAlert": "Komple anahtar dili"
     }
 }

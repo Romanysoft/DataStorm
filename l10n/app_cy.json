@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Ieithoedd sydd ar gael"
+        "SectionName": "Ieithoedd sydd ar gael",
+        "ChangeAlert": "Cwblhau iaith switsh"
     }
 }

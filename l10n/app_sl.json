@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Razpoložljivi jeziki"
+        "SectionName": "Razpoložljivi jeziki",
+        "ChangeAlert": "Popolna stikalo jezik"
     }
 }

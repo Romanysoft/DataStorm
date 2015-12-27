@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Tilgængelige sprog"
+        "SectionName": "Tilgængelige sprog",
+        "ChangeAlert": "Komplet skifte sprog"
     }
 }

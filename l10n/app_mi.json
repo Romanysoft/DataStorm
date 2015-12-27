@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Reo wātea"
+        "SectionName": "Reo wātea",
+        "ChangeAlert": "Reo whakakā Whakaoti"
     }
 }

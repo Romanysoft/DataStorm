@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "שפות זמינות"
+        "SectionName": "שפות זמינות",
+        "ChangeAlert": "שפת מתג מלאה"
     }
 }

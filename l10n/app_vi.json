@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Ngôn ngữ có sẵn"
+        "SectionName": "Ngôn ngữ có sẵn",
+        "ChangeAlert": "Hoàn thành chuyển đổi ngôn ngữ"
     }
 }

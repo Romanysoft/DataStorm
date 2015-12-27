@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Pieejamās valodas"
+        "SectionName": "Pieejamās valodas",
+        "ChangeAlert": "Pilnīga pāreja valoda"
     }
 }

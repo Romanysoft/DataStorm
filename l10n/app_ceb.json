@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Anaa mga Pinulongan"
+        "SectionName": "Anaa mga Pinulongan",
+        "ChangeAlert": "Bug-os nga switch pinulongan"
     }
 }

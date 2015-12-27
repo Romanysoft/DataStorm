@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Qhov ntau thiab Yam Lus"
+        "SectionName": "Qhov ntau thiab Yam Lus",
+        "ChangeAlert": "Sau kom tiav hloov lus"
     }
 }

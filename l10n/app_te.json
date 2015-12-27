@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "అందుబాటులో ఉన్న భాషలు"
+        "SectionName": "అందుబాటులో ఉన్న భాషలు",
+        "ChangeAlert": "పూర్తి స్విచ్ భాష"
     }
 }

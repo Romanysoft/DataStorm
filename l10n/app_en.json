@@ -186,6 +186,7 @@
   "RoadMapPage": {
   },
   "LanguagesPage":{
-    "SectionName": "Available Languages"
+    "SectionName": "Available Languages",
+    "ChangeAlert": "Complete switch language"
   }
 }

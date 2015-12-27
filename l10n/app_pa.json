@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ਉਪਲੱਬਧ ਭਾਸ਼ਾ"
+        "SectionName": "ਉਪਲੱਬਧ ਭਾਸ਼ਾ",
+        "ChangeAlert": "ਮੁਕੰਮਲ ਸਵਿੱਚ ਭਾਸ਼ਾ"
     }
 }

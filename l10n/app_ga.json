@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Teangacha ar Fáil"
+        "SectionName": "Teangacha ar Fáil",
+        "ChangeAlert": "Lasc Comhlánaigh teanga"
     }
 }

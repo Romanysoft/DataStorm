@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Idiomas disponibles"
+        "SectionName": "Idiomas disponibles",
+        "ChangeAlert": "Lenguaje completo interruptor"
     }
 }

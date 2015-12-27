@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Dostupni jezici"
+        "SectionName": "Dostupni jezici",
+        "ChangeAlert": "Kompletan prekidač jezik"
     }
 }

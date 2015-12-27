@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ലഭ്യമായ ഭാഷകൾ"
+        "SectionName": "ലഭ്യമായ ഭാഷകൾ",
+        "ChangeAlert": "പൂർത്തിയാക്കുക സ്വിച്ച് ഭാഷാ"
     }
 }

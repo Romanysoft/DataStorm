@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ภาษาที่ใช้ได้"
+        "SectionName": "ภาษาที่ใช้ได้",
+        "ChangeAlert": "ภาษาสวิทช์ที่สมบูรณ์"
     }
 }

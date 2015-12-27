@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Sadia Basa"
+        "SectionName": "Sadia Basa",
+        "ChangeAlert": "Lengkep switch basa"
     }
 }

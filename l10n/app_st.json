@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Available Lipuo"
+        "SectionName": "Available Lipuo",
+        "ChangeAlert": "Ho feletseng fapoha puo"
     }
 }

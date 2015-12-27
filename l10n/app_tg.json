@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Забонҳои дастрас"
+        "SectionName": "Забонҳои дастрас",
+        "ChangeAlert": "Забони Калиди пурра"
     }
 }

@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Laus Tungumál"
+        "SectionName": "Laus Tungumál",
+        "ChangeAlert": "Complete skipta tungumál"
     }
 }

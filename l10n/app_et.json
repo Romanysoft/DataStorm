@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Olemasolevad keeled"
+        "SectionName": "Olemasolevad keeled",
+        "ChangeAlert": "Täielik üleminek keel"
     }
 }

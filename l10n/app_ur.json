@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "دستیاب زبانوں"
+        "SectionName": "دستیاب زبانوں",
+        "ChangeAlert": "مکمل سوئچ زبان"
     }
 }

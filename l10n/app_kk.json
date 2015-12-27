@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Бар тілдері"
+        "SectionName": "Бар тілдері",
+        "ChangeAlert": "Толық қосқыш тілі"
     }
 }

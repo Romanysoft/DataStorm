@@ -182,6 +182,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "கிடைக்கும் மொழிகள்"
+        "SectionName": "கிடைக்கும் மொழிகள்",
+        "ChangeAlert": "முழுமையான சுவிட்ச் மொழி"
     }
 }
