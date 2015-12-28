@@ -4,7 +4,7 @@
         "Feature": "Feature",
         "Documents": "Waraaqaha",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Trial Free",
         "Buy": "Iibso",
         "Roadmap": "Roadmap-",
         "ReportIssue": "Warbixinta Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Aad u faa'iido badan App. Wixii Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Trial Free",
         "BtnBuy": "Iibso",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

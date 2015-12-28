@@ -4,7 +4,7 @@
         "Feature": "Feature ကို",
         "Documents": "documents",
         "ReleaseNotes": "ReleaseNotes တွင်",
-        "Downloads": "downloads",
+        "Downloads": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
         "Buy": "ဝယ်မယ်",
         "Roadmap": "လမ်းပြမြေပုံ",
         "ReportIssue": "အစီရင်ခံစာစာစောင်",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "အလွန်အသုံးဝင် App ကို။ Windows, Linux MacOSX သည်။",
-        "BtnDownload": "ဒေါင်းလုပ်",
+        "BtnDownload": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
         "BtnBuy": "ဝယ်ယူ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

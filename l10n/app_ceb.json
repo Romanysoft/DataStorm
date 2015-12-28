@@ -4,7 +4,7 @@
         "Feature": "News",
         "Documents": "Dokumento",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Free Trial",
         "Buy": "Palita",
         "Roadmap": "Roadmap",
         "ReportIssue": "Report Isyu",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Very mapuslanon nga App. Kay Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Pagpalit",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

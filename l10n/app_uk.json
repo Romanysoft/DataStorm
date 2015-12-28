@@ -4,7 +4,7 @@
         "Feature": "Особливість",
         "Documents": "Документи",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Завантаження",
+        "Downloads": "Безкоштовне випробування",
         "Buy": "Купити",
         "Roadmap": "RoadMap",
         "ReportIssue": "Повідомити випуск",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Дуже корисний додаток. Для Windows, Linux, MacOSX.",
-        "BtnDownload": "Завантажити",
+        "BtnDownload": "Безкоштовне випробування",
         "BtnBuy": "Купівля",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

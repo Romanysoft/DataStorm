@@ -4,7 +4,7 @@
         "Feature": "Feature",
         "Documents": "Unterlagen",
         "ReleaseNotes": "Versionshinweise",
-        "Downloads": "Downloads",
+        "Downloads": "Kostenlose Testversion",
         "Buy": "Kaufen",
         "Roadmap": "Straßenkarte",
         "ReportIssue": "Bericht Ausgabe",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Sehr nützlich, App. Für Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Kostenlose Testversion",
         "BtnBuy": "Kauf",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

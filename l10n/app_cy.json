@@ -4,7 +4,7 @@
         "Feature": "Nodwedd",
         "Documents": "Dogfennau",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Lawrlwythiadau",
+        "Downloads": "Treial am ddim",
         "Buy": "Prynu",
         "Roadmap": "Map Ffyrdd",
         "ReportIssue": "Adroddiad Mater",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App Defnyddiol iawn. Ar gyfer Windows, Linux, MacOSX.",
-        "BtnDownload": "Lawrlwytho",
+        "BtnDownload": "Treial am ddim",
         "BtnBuy": "Prynu",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

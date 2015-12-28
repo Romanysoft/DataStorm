@@ -4,7 +4,7 @@
         "Feature": "বৈশিষ্ট্য",
         "Documents": "কাগজপত্র",
         "ReleaseNotes": "অব্যাহতি পত্র",
-        "Downloads": "জনপ্রিয়তা",
+        "Downloads": "ফ্রি ট্রায়াল",
         "Buy": "কিনুন",
         "Roadmap": "রোডম্যাপ",
         "ReportIssue": "রিপোর্ট ইস্যু",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "অত্যন্ত দরকারী অ্যাপ্লিকেশন. উইন্ডোজ, লিনাক্স, MacOSX জন্য.",
-        "BtnDownload": "ডাউনলোড",
+        "BtnDownload": "ফ্রি ট্রায়াল",
         "BtnBuy": "ক্রয়",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

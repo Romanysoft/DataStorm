@@ -4,7 +4,7 @@
         "Feature": "Tipar",
         "Documents": "Dokumentet",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Shkarkime",
+        "Downloads": "Prove falas",
         "Buy": "Blej",
         "Roadmap": "Udhërrëfyesi",
         "ReportIssue": "Raporti Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App shumë të dobishme. Për Windows, Linux, MacOSX.",
-        "BtnDownload": "Shkarko",
+        "BtnDownload": "Prove falas",
         "BtnBuy": "Blerje",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

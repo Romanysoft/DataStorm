@@ -4,7 +4,7 @@
         "Feature": "Tính năng",
         "Documents": "Các tài liệu",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Dùng thử miễn phí",
         "Buy": "Mua",
         "Roadmap": "Lộ trình",
         "ReportIssue": "Báo cáo phát hành",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App rất hữu ích. Đối với Windows, Linux, MacOSX.",
-        "BtnDownload": "Tải về",
+        "BtnDownload": "Dùng thử miễn phí",
         "BtnBuy": "Mua",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

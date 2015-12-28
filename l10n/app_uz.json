@@ -4,7 +4,7 @@
         "Feature": "Xususiyat",
         "Documents": "Hujjatlar",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Yuklashlar",
+        "Downloads": "Bepul Sinov",
         "Buy": "Sotib olish",
         "Roadmap": "Nima bo'ladi?",
         "ReportIssue": "Hisobot son",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Juda foydali App. Windows, Linux, MacOSX uchun.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Bepul Sinov",
         "BtnBuy": "Sotib olish to'g'risida",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

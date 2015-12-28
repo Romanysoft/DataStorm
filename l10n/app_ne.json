@@ -4,7 +4,7 @@
         "Feature": "सुविधा",
         "Documents": "दस्तावेज",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "डाउनलोड",
+        "Downloads": "निशुल्क परिक्षण",
         "Buy": "किन्न",
         "Roadmap": "Roadmap",
         "ReportIssue": "रिपोर्ट मुद्दा",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "धेरै उपयोगी अनुप्रयोग। विन्डोज, लिनक्स, MacOSX लागि।",
-        "BtnDownload": "डाउनलोड",
+        "BtnDownload": "निशुल्क परिक्षण",
         "BtnBuy": "खरीद",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

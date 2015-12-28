@@ -4,7 +4,7 @@
         "Feature": "Njirimara",
         "Documents": "Documents",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Free Trial",
         "Buy": "Ịzụta",
         "Roadmap": "RoadMap",
         "ReportIssue": "Report Esemokwu",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Nnọọ uru App. N'ihi na Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Ịzụ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

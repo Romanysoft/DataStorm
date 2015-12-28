@@ -4,7 +4,7 @@
         "Feature": "वैशिष्ट्य",
         "Documents": "दस्तऐवज",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "डाउनलोड",
+        "Downloads": "विनामूल्य चाचणी",
         "Buy": "खरेदी",
         "Roadmap": "आराखड्यामुळे",
         "ReportIssue": "समस्या नोंदवा",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "अतिशय उपयुक्त अनुप्रयोग. विंडोज, लिनक्स, MacOSX आहे.",
-        "BtnDownload": "डाउनलोड",
+        "BtnDownload": "विनामूल्य चाचणी",
         "BtnBuy": "खरेदी",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

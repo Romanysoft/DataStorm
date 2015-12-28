@@ -4,7 +4,7 @@
         "Feature": "Առանձնահատկություն",
         "Documents": "Documents",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Free Trial",
         "Buy": "Գնել",
         "Roadmap": "Ճանապարհային քարտեզի",
         "ReportIssue": "Report Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Շատ օգտակար է App. For Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Գնում",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

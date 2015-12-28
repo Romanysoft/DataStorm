@@ -4,7 +4,7 @@
         "Feature": "Одлика",
         "Documents": "Документи",
         "ReleaseNotes": "РелеасеНотес",
-        "Downloads": "Преузето",
+        "Downloads": "Besplatna reklama",
         "Buy": "Купити",
         "Roadmap": "РоадМап",
         "ReportIssue": "Извештај бр",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Веома корисно апликација. За Виндовс, Линук, МацОСКС.",
-        "BtnDownload": "Preuzimanje",
+        "BtnDownload": "Besplatna reklama",
         "BtnBuy": "Куповина",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

@@ -4,7 +4,7 @@
         "Feature": "Tunnusjoon",
         "Documents": "Dokumendid",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Allalaadimised",
+        "Downloads": "Tasuta prooviversioon",
         "Buy": "Ostma",
         "Roadmap": "Teekaart",
         "ReportIssue": "Aruanne Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Väga kasulik App. Windows, Linux, MacOSX.",
-        "BtnDownload": "Laadi alla",
+        "BtnDownload": "Tasuta prooviversioon",
         "BtnBuy": "Ostu",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

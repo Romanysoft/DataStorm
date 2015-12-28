@@ -4,7 +4,7 @@
         "Feature": "特性",
         "Documents": "文档",
         "ReleaseNotes": "发行说明",
-        "Downloads": "下载",
+        "Downloads": "免费试用",
         "Buy": "购买",
         "Roadmap": "路线",
         "ReportIssue": "提交问题",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "非常实用的应用程序，适合在 Windows，Linux 和 MacOSX 操作系统上使用。",
-        "BtnDownload": "下载",
+        "BtnDownload": "免费试用",
         "BtnBuy": "采购",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

@@ -4,7 +4,7 @@
         "Feature": "نمایاں کریں",
         "Documents": "دستاویزات",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "ڈاؤن لوڈ",
+        "Downloads": "مفت جانچ",
         "Buy": "خریدیں",
         "Roadmap": "روڈ میپ",
         "ReportIssue": "رپورٹ جاری",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "بہت مفید اپلی کیشن. ونڈوز، لینکس، MacOSX لئے.",
-        "BtnDownload": "ڈاؤن لوڈ",
+        "BtnDownload": "مفت جانچ",
         "BtnBuy": "خریداری",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

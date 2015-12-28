@@ -4,7 +4,7 @@
         "Feature": "Χαρακτηριστικό",
         "Documents": "Έγγραφα",
         "ReleaseNotes": "Σημειώσεις έκδοσης",
-        "Downloads": "Λήψεις",
+        "Downloads": "Δωρεάν δοκιμή",
         "Buy": "Αγορά",
         "Roadmap": "Οδικός χάρτης",
         "ReportIssue": "Τεύχος",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Πολύ χρήσιμο App. Για τα Windows, Linux, MacOSX.",
-        "BtnDownload": "Λήψη",
+        "BtnDownload": "Δωρεάν δοκιμή",
         "BtnBuy": "Αγορά",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

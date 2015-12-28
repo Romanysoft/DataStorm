@@ -4,7 +4,7 @@
         "Feature": "Trajto",
         "Documents": "Dokumentoj",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Elŝutoj",
+        "Downloads": "Free Trial",
         "Buy": "Aĉeti",
         "Roadmap": "Roadmap",
         "ReportIssue": "Raporti Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Tre utila App. Por Vindozo, Linukso, MacOSX.",
-        "BtnDownload": "Elŝuti",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Aĉeto",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

@@ -4,7 +4,7 @@
         "Feature": "Feature",
         "Documents": "Documents",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Free Trial",
         "Buy": "Reka",
         "Roadmap": "RoadMap",
         "ReportIssue": "Report Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Molemo haholo App. Bakeng sa Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Reka",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

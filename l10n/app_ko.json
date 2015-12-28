@@ -4,7 +4,7 @@
         "Feature": "특색",
         "Documents": "서류",
         "ReleaseNotes": "릴리즈 노트",
-        "Downloads": "다운로드",
+        "Downloads": "무료 시험판",
         "Buy": "사기",
         "Roadmap": "할일 : 개발 예정표",
         "ReportIssue": "문제 신고",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "매우 유용한 응용 프로그램. 윈도우, 리눅스,에서라도하십시오.",
-        "BtnDownload": "다운로드",
+        "BtnDownload": "무료 시험판",
         "BtnBuy": "매수",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

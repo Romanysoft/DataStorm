@@ -4,7 +4,7 @@
         "Feature": "ವೈಶಿಷ್ಟ್ಯ",
         "Documents": "ಡಾಕ್ಯುಮೆಂಟ್ಸ್",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "ಡೌನ್ಲೋಡ್ಗಳು",
+        "Downloads": "ಉಚಿತ ಪ್ರಯೋಗ",
         "Buy": "ಖರೀದಿ",
         "Roadmap": "ಮಾರ್ಗಸೂಚಿ",
         "ReportIssue": "ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "ಉಪಯುಕ್ತ ಅಪ್ಲಿಕೇಶನ್. ವಿಂಡೋಸ್, ಲಿನಕ್ಸ್, MacOSX ಫಾರ್.",
-        "BtnDownload": "ಡೌನ್ಲೋಡ್",
+        "BtnDownload": "ಉಚಿತ ಪ್ರಯೋಗ",
         "BtnBuy": "ಖರೀದಿ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

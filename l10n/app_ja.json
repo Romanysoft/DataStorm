@@ -4,7 +4,7 @@
         "Feature": "特徴",
         "Documents": "ドキュメント",
         "ReleaseNotes": "リリースノート",
-        "Downloads": "ダウンロード",
+        "Downloads": "フリートライアル",
         "Buy": "購入",
         "Roadmap": "ロードマップ",
         "ReportIssue": "レポートの問題",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "非常に便利なアプリ。 Windows、Linux、MacOSXのために。",
-        "BtnDownload": "ダウンロード",
+        "BtnDownload": "フリートライアル",
         "BtnBuy": "購入",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

@@ -4,7 +4,7 @@
         "Feature": "Ezaugarri",
         "Documents": "Dokumentuak",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Free Trial",
         "Buy": "Erosi",
         "Roadmap": "Ibilbide Orria",
         "ReportIssue": "Txostena",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Aplikazioa oso erabilgarria. Windows, Linux, MacOSX da.",
-        "BtnDownload": "Deskargatu",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Erosteko",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

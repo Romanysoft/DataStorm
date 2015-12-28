@@ -4,7 +4,7 @@
     "Feature": "Feature",
     "Documents": "Documents",
     "ReleaseNotes": "ReleaseNotes",
-    "Downloads": "Downloads",
+    "Downloads": "Free Trial",
     "Buy": "Buy",
     "Roadmap": "RoadMap",
     "ReportIssue": "Report Issue",
@@ -14,7 +14,7 @@
   },
   "HomePage": {
     "ProjectTagline": "Very useful App. For Windows, Linux, MacOSX.",
-    "BtnDownload": "Download",
+    "BtnDownload": "Free Trial",
     "BtnBuy": "Purchase",
     "Screens": [
       "{{images/screens/common/c1.jpg}}",

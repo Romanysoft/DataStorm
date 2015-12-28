@@ -4,7 +4,7 @@
         "Feature": "Särdrag",
         "Documents": "Dokument",
         "ReleaseNotes": "Releasenotes",
-        "Downloads": "Överför",
+        "Downloads": "Free Trial",
         "Buy": "Köpa",
         "Roadmap": "Vägkarta",
         "ReportIssue": "Rapportera problem",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Mycket användbart App. För Windows, Linux, MacOSX.",
-        "BtnDownload": "Hämta",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Inköp",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

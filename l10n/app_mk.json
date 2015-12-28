@@ -4,7 +4,7 @@
         "Feature": "Функција",
         "Documents": "Документи",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Преземања",
+        "Downloads": "Бесплатен пробен период",
         "Buy": "Размислете за купување",
         "Roadmap": "Патоказ",
         "ReportIssue": "Извештај прашање",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Многу корисна апликација. За Windows, Linux, MacOSX.",
-        "BtnDownload": "Превземи",
+        "BtnDownload": "Бесплатен пробен период",
         "BtnBuy": "Купување",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

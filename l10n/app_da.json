@@ -4,7 +4,7 @@
         "Feature": "Feature",
         "Documents": "Dokumenter",
         "ReleaseNotes": "Udgivelses noter",
-        "Downloads": "Downloads",
+        "Downloads": "Gratis prøveversion",
         "Buy": "Købe",
         "Roadmap": "RoadMap",
         "ReportIssue": "Rapport Problem",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Meget nyttig App. Til Windows, Linux, MacOSX.",
-        "BtnDownload": "Hent",
+        "BtnDownload": "Gratis prøveversion",
         "BtnBuy": "Køb",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

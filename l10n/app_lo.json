@@ -4,7 +4,7 @@
         "Feature": "ຄຸນ​ນະ​ສົມ​ບັດ",
         "Documents": "ເອ​ກະ​ສານ",
         "ReleaseNotes": "releasenotes",
-        "Downloads": "ດາວ​ໂຫລດ",
+        "Downloads": "ການ​ທົດ​ລອງ​ຟຣີ",
         "Buy": "ຊື້",
         "Roadmap": "RoadMap",
         "ReportIssue": "ສະ​ບັບ Report",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "ເປັນ​ປະ​ໂຫຍດ​ຫຼາຍ App​. ສໍາ​ລັບ Windows​, Linux​, MacOSX​.",
-        "BtnDownload": "ດາວ​ໂຫລດ",
+        "BtnDownload": "ການ​ທົດ​ລອງ​ຟຣີ",
         "BtnBuy": "ຊື້",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

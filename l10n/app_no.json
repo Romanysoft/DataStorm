@@ -4,7 +4,7 @@
         "Feature": "Trekk",
         "Documents": "Dokumenter",
         "ReleaseNotes": "Versjonsmerknadene",
-        "Downloads": "Nedlastinger",
+        "Downloads": "Gratis prøveversjon",
         "Buy": "Kjøpe",
         "Roadmap": "Veikart",
         "ReportIssue": "Rapporter Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Veldig nyttig App. For Windows, Linux, MacOSX.",
-        "BtnDownload": "Nedlasting",
+        "BtnDownload": "Gratis prøveversjon",
         "BtnBuy": "Kjøpe",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

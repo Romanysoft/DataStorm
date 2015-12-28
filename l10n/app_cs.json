@@ -4,7 +4,7 @@
         "Feature": "Rys",
         "Documents": "Dokumenty",
         "ReleaseNotes": "Poznámky k vydání",
-        "Downloads": "Ke stažení",
+        "Downloads": "Zkušební verze zdarma",
         "Buy": "Koupit",
         "Roadmap": "Cestovní mapa",
         "ReportIssue": "Report Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Velmi užitečné App. Pro Windows, Linux, MacOSX.",
-        "BtnDownload": "Ke stažení",
+        "BtnDownload": "Zkušební verze zdarma",
         "BtnBuy": "Nákup",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

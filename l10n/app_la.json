@@ -4,7 +4,7 @@
         "Feature": "Feature",
         "Documents": "Documenta",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Free",
         "Buy": "Buy",
         "Roadmap": "Roadmap",
         "ReportIssue": "Report Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Valde utilis App. Windows Linux MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Free",
         "BtnBuy": "Purchase",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

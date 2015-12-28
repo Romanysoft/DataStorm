@@ -4,7 +4,7 @@
         "Feature": "Trăsătură",
         "Documents": "Documente",
         "ReleaseNotes": "Note de lansare",
-        "Downloads": "Downloads",
+        "Downloads": "Încercare gratuită",
         "Buy": "A cumpara",
         "Roadmap": "Foaie de parcurs",
         "ReportIssue": "Raport Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Foarte util App. Pentru Windows, Linux, MacOSX.",
-        "BtnDownload": "Desacărcați",
+        "BtnDownload": "Încercare gratuită",
         "BtnBuy": "Cumpărare",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

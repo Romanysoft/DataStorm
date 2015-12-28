@@ -4,7 +4,7 @@
         "Feature": "फ़ीचर",
         "Documents": "दस्तावेज़",
         "ReleaseNotes": "रिलीज नोट्स",
-        "Downloads": "डाउनलोड",
+        "Downloads": "मुफ्त आज़माइश",
         "Buy": "खरीदें",
         "Roadmap": "रोडमैप",
         "ReportIssue": "रिपोर्ट जारी",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "बहुत ही उपयोगी अनुप्रयोग। विंडोज, लिनक्स, MacOSX लिए।",
-        "BtnDownload": "डाउनलोड",
+        "BtnDownload": "मुफ्त आज़माइश",
         "BtnBuy": "क्रय",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

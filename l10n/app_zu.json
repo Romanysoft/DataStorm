@@ -4,7 +4,7 @@
         "Feature": "Isici",
         "Documents": "Imibhalo",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Trial Free",
         "Buy": "Thenga",
         "Roadmap": "Roadmap",
         "ReportIssue": "Bika Inkinga",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App ewusizo kakhulu. Ukuze Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Trial Free",
         "BtnBuy": "Ukuthengwa",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

@@ -4,7 +4,7 @@
         "Feature": "Сэдэвт",
         "Documents": "Баримт бичиг",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Файл татаж авах",
+        "Downloads": "Үнэгүй туршилт",
         "Buy": "Одоо худалдаж авах",
         "Roadmap": "Замын зураг",
         "ReportIssue": "Тайлан гаргах",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Маш ашигтай App. Windows, Linux, MacOSX нь.",
-        "BtnDownload": "Татаж авах",
+        "BtnDownload": "Үнэгүй туршилт",
         "BtnBuy": "Худалдан авах",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

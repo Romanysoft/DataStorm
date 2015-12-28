@@ -4,7 +4,7 @@
         "Feature": "Funkció",
         "Documents": "Dokumentumok",
         "ReleaseNotes": "Kiadási megjegyzések",
-        "Downloads": "Letöltések",
+        "Downloads": "Ingyenes próba",
         "Buy": "Vétel",
         "Roadmap": "Útiterv",
         "ReportIssue": "Probléma jelentése",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Nagyon hasznos App. Windows, Linux, MacOSX.",
-        "BtnDownload": "Letöltés",
+        "BtnDownload": "Ingyenes próba",
         "BtnBuy": "Vásárlás",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

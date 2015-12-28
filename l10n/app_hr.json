@@ -4,7 +4,7 @@
         "Feature": "Značajka",
         "Documents": "Dokumenti",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Preuzimanja",
+        "Downloads": "Free Trial",
         "Buy": "Kupiti",
         "Roadmap": "Putokaz",
         "ReportIssue": "Izvješće o problemu",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Vrlo korisna aplikacija. Za Windows, Linux, MacOSX.",
-        "BtnDownload": "Preuzimanje",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Kupiti",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

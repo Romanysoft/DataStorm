@@ -4,7 +4,7 @@
         "Feature": "Хусусияти",
         "Documents": "Ҳуҷҷатҳои",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Боргирии",
+        "Downloads": "Мурофиаи озод",
         "Buy": "Харидан",
         "Roadmap": "Харитаи роҳ",
         "ReportIssue": "Ҳисоботи Масъала",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Барнома хеле муфид мебошад. Барои Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Мурофиаи озод",
         "BtnBuy": "Харид",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

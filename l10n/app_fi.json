@@ -4,7 +4,7 @@
         "Feature": "Ominaisuus",
         "Documents": "Asiakirjat",
         "ReleaseNotes": "Julkaisutiedot",
-        "Downloads": "Lataukset",
+        "Downloads": "Ilmainen kokeilu",
         "Buy": "Ostaa",
         "Roadmap": "Roadmap",
         "ReportIssue": "Ilmoita ongelmasta",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Erittäin hyödyllinen App. Windows, Linux, MacOSX.",
-        "BtnDownload": "Lataa",
+        "BtnDownload": "Ilmainen kokeilu",
         "BtnBuy": "Ostaa",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

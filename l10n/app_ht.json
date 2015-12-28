@@ -4,7 +4,7 @@
         "Feature": "Feature",
         "Documents": "Dokiman",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Gratis Jijman",
         "Buy": "Achte",
         "Roadmap": "Plan",
         "ReportIssue": "Rapò Nimewo",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Trè itil App. Pou Windows, Linux, makoo.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Gratis Jijman",
         "BtnBuy": "Achte",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

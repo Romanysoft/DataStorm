@@ -4,7 +4,7 @@
         "Feature": "Ciri",
         "Documents": "Dokumen",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Download",
+        "Downloads": "Free Trial",
         "Buy": "Membeli",
         "Roadmap": "Peta jalan",
         "ReportIssue": "Laporan Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App sangat berguna. Untuk Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Membeli",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

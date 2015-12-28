@@ -4,7 +4,7 @@
         "Feature": "විශේෂාංගය",
         "Documents": "ලිපි ලේඛන",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "බාගත කිරීම්",
+        "Downloads": "නිදහස් ට්රයල්",
         "Buy": "මිලට ගන්න",
         "Roadmap": "මාර්ග සිතියමක්",
         "ReportIssue": "වාර්තාව නිකුත් කිරීම",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "ඉතා ප්රයෝජනවත් යෙදුම. වින්ඩෝස්, ලිනක්ස්, MacOSX සඳහා.",
-        "BtnDownload": "බාගත",
+        "BtnDownload": "නිදහස් ට්රයල්",
         "BtnBuy": "මිලදී",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

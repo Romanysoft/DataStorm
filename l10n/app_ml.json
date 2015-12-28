@@ -4,7 +4,7 @@
         "Feature": "ഫീച്ചർ",
         "Documents": "പ്രമാണങ്ങൾ",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "ഡൗൺലോഡുകൾ",
+        "Downloads": "സൗജന്യ ട്രയൽ",
         "Buy": "വാങ്ങുക",
         "Roadmap": "മി",
         "ReportIssue": "പ്രശ്നം റിപ്പോർട്ട്",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "വളരെ ഉപകാരപ്രദമായ അപ്ലിക്കേഷൻ. വിൻഡോസ്, ലിനക്സ്, MacOSX വേണ്ടി.",
-        "BtnDownload": "ഡൗൺലോഡ്",
+        "BtnDownload": "സൗജന്യ ട്രയൽ",
         "BtnBuy": "വാങ്ങൽ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

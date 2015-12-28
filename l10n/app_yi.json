@@ -4,7 +4,7 @@
         "Feature": "שטריך",
         "Documents": "דאָקומענץ",
         "ReleaseNotes": "רעלעאַסענאָטעס",
-        "Downloads": "דאַונלאָודז",
+        "Downloads": "פּאָטער פּראָצעס",
         "Buy": "קויפן",
         "Roadmap": "ראָאַדמאַפּ",
         "ReportIssue": "באריכט ישו",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "זייער נוצלעך אַפּ. פֿאַר ווינדאָוז, לינוקס, מאַקאָסקס.",
-        "BtnDownload": "דאַונלאָוד",
+        "BtnDownload": "פּאָטער פּראָצעס",
         "BtnBuy": "קויפן",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

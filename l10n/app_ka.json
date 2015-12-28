@@ -4,7 +4,7 @@
         "Feature": "მხატვრული",
         "Documents": "დოკუმენტები",
         "ReleaseNotes": "გამოშვების შენიშვნები",
-        "Downloads": "გადმოწერა",
+        "Downloads": "უფასო ცდა",
         "Buy": "ყიდვა",
         "Roadmap": "საგზაო რუკა",
         "ReportIssue": "ანგარიში Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "ძალიან სასარგებლო ოთახი. იყიდება Windows, Linux, MacOSX.",
-        "BtnDownload": "გადმოწერა",
+        "BtnDownload": "უფასო ცდა",
         "BtnBuy": "შესყიდვა",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

@@ -4,7 +4,7 @@
         "Feature": "خصوصیات",
         "Documents": "اسناد",
         "ReleaseNotes": "به ReleaseNotes",
-        "Downloads": "دانلود",
+        "Downloads": "امتحان رایگان",
         "Buy": "خرید",
         "Roadmap": "نقشه راه",
         "ReportIssue": "گزارش شماره",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "نرم افزار بسیار مفید است. برای ویندوز، لینوکس، MacOSX برای.",
-        "BtnDownload": "دانلود",
+        "BtnDownload": "امتحان رایگان",
         "BtnBuy": "خرید",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

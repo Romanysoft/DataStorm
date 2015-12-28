@@ -4,7 +4,7 @@
         "Feature": "Gné",
         "Documents": "Doiciméid",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Íoslódálacha",
+        "Downloads": "Triail shaor",
         "Buy": "A cheannach",
         "Roadmap": "Treochlár",
         "ReportIssue": "Tuairisc Eisiúint",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App An-úsáideach. Do Windows, Linux, MacOSX.",
-        "BtnDownload": "Íosluchtaigh",
+        "BtnDownload": "Triail shaor",
         "BtnBuy": "Ceannach",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

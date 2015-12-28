@@ -4,7 +4,7 @@
         "Feature": "Cecha",
         "Documents": "Dokumenty",
         "ReleaseNotes": "Informacje o wydaniu",
-        "Downloads": "Pliki do pobrania",
+        "Downloads": "Darmowy okres próbny",
         "Buy": "Kupować",
         "Roadmap": "Mapa drogowa",
         "ReportIssue": "Zgłoś Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Bardzo przydatne App. Dla Windows, Linux, MacOSX.",
-        "BtnDownload": "Pobieranie",
+        "BtnDownload": "Darmowy okres próbny",
         "BtnBuy": "Zakup",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

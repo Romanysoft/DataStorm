@@ -4,7 +4,7 @@
         "Feature": "Mbali",
         "Documents": "Zikalata",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Free Mlandu",
         "Buy": "Kugula",
         "Roadmap": "RoadMap",
         "ReportIssue": "Nkhani Report",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Kwambiri App. Pakuti Mawindo, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Free Mlandu",
         "BtnBuy": "Purchase",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

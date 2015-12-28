@@ -4,7 +4,7 @@
         "Feature": "Fitur",
         "Documents": "Dokumen",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Nyoba free",
         "Buy": "Tuku",
         "Roadmap": "Roadmap",
         "ReportIssue": "Report Issue",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App banget migunani. Kanggo Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Nyoba free",
         "BtnBuy": "Tuku",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

@@ -4,7 +4,7 @@
         "Feature": "Karatteristika",
         "Documents": "Dokumenti",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Free Trial",
         "Buy": "Buy",
         "Roadmap": "PJAN DIREZZJONALI",
         "ReportIssue": "Rapport Ħruġ",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App utli ħafna. Għall-Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Xiri",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

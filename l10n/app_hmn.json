@@ -4,7 +4,7 @@
         "Feature": "Feature",
         "Documents": "Cov ntaub ntawv",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Dawb Mus sib hais",
         "Buy": "Yuav",
         "Roadmap": "Roadmap",
         "ReportIssue": "Daim ntawv qhia txog qhov teeb meem",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Heev pab App. Rau lub qhov rais, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Dawb Mus sib hais",
         "BtnBuy": "Purchase",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

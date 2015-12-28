@@ -4,7 +4,7 @@
         "Feature": "ఫీచర్",
         "Documents": "పత్రాలు",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "డౌన్ లోడ్",
+        "Downloads": "ఉచిత ప్రయత్నం",
         "Buy": "కొనుగోలు",
         "Roadmap": "రోడ్మ్యాప్",
         "ReportIssue": "సమస్యను నివేదించు",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "చాలా ఉపయోగకరమైన App. Windows, Linux, MacOSX కోసం.",
-        "BtnDownload": "డౌన్లోడ్",
+        "BtnDownload": "ఉచిత ప్రయత్నం",
         "BtnBuy": "కొనుగోలు",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

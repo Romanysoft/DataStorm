@@ -4,7 +4,7 @@
         "Feature": "ਵਿਸ਼ੇਸ਼ਤਾ",
         "Documents": "ਦਸਤਾਵੇਜ਼",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "ਡਾਊਨਲੋਡ",
+        "Downloads": "ਮੁਫ਼ਤ ਮੁਕੱਦਮੇ",
         "Buy": "ਖਰੀਦੋ",
         "Roadmap": "ਖਾਕਾ",
         "ReportIssue": "ਰਿਪੋਰਟ ਜਾਰੀ",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "ਬਹੁਤ ਹੀ ਲਾਭਦਾਇਕ ਹੈ App. Windows ਨੂੰ, ਲੀਨਕਸ, MacOSX ਲਈ.",
-        "BtnDownload": "ਡਾਊਨਲੋਡ",
+        "BtnDownload": "ਮੁਫ਼ਤ ਮੁਕੱਦਮੇ",
         "BtnBuy": "ਖਰੀਦ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

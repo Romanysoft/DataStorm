@@ -4,7 +4,7 @@
         "Feature": "Özellik",
         "Documents": "Belgeler",
         "ReleaseNotes": "Sürüm notları",
-        "Downloads": "Yüklemeler",
+        "Downloads": "Ücretsiz deneme",
         "Buy": "Satın",
         "Roadmap": "Yol haritası",
         "ReportIssue": "Rapor Sayı",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Çok yararlı App. Windows, Linux, MacOSX için.",
-        "BtnDownload": "İndir",
+        "BtnDownload": "Ücretsiz deneme",
         "BtnBuy": "Satınalma",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

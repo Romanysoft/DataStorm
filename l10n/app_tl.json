@@ -4,7 +4,7 @@
         "Feature": "Tampok",
         "Documents": "Dokumento",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Libreng subok",
         "Buy": "Bilhin",
         "Roadmap": "Roadmap",
         "ReportIssue": "Iulat ang Isyu",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Very kapaki-pakinabang App. Para sa Windows, Linux, MacOSX.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Libreng subok",
         "BtnBuy": "Purchase",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

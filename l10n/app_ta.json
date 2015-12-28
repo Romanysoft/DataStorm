@@ -4,7 +4,7 @@
         "Feature": "வசதிகள்",
         "Documents": "ஆவணங்கள்",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "இறக்கம்",
+        "Downloads": "இலவச சோதனை",
         "Buy": "வாங்க",
         "Roadmap": "திட்டத்தை",
         "ReportIssue": "அறிக்கை வெளியீடு",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "மிகவும் பயனுள்ள ஆப். விண்டோஸ், லினக்ஸ், MacOSX வேண்டும்.",
-        "BtnDownload": "பதிவிறக்க",
+        "BtnDownload": "இலவச சோதனை",
         "BtnBuy": "கொள்முதல்",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

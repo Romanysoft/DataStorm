@@ -4,7 +4,7 @@
         "Feature": "Āhuahira",
         "Documents": "Tuhinga",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Tikiake",
+        "Downloads": "Whakamātau Free",
         "Buy": "Hokona",
         "Roadmap": "Mape",
         "ReportIssue": "Putanga Report",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App Tino whai hua. Hoki Windows, Linux, MacOSX.",
-        "BtnDownload": "Tikiake",
+        "BtnDownload": "Whakamātau Free",
         "BtnBuy": "Hoko",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

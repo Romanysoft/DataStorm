@@ -4,7 +4,7 @@
         "Feature": "Ерекшелік",
         "Documents": "Құжаттар",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Жүктеулер",
+        "Downloads": "Тегін байқама версиясы",
         "Buy": "Сатып",
         "Roadmap": "Жол картасы",
         "ReportIssue": "Есеп шығару",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Өте пайдалы App. Windows, Linux, MacOSX үшін.",
-        "BtnDownload": "Жүктеу",
+        "BtnDownload": "Тегін байқама версиясы",
         "BtnBuy": "Сатып алу",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

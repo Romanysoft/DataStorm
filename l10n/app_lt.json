@@ -4,7 +4,7 @@
         "Feature": "Žanras",
         "Documents": "Dokumentai",
         "ReleaseNotes": "Releasenotes",
-        "Downloads": "Siuntiniai",
+        "Downloads": "Nemokama bandomoji versija",
         "Buy": "Nupirkti",
         "Roadmap": "PLANAS",
         "ReportIssue": "Pranešti išdavimas",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Labai naudinga app. Windows, Linux, MacOSX.",
-        "BtnDownload": "Atsisiųsti",
+        "BtnDownload": "Nemokama bandomoji versija",
         "BtnBuy": "Pirkimo",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

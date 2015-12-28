@@ -4,7 +4,7 @@
         "Feature": "Xüsusiyyət",
         "Documents": "Sənədlər",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Ödənişsiz sınaq",
         "Buy": "Almaq",
         "Roadmap": "Yol",
         "ReportIssue": "Xəbər Sayı",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Çox faydalı Proq. Windows, Linux, MacOSX üçün.",
-        "BtnDownload": "Download",
+        "BtnDownload": "Ödənişsiz sınaq",
         "BtnBuy": "Alış",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

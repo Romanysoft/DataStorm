@@ -4,7 +4,7 @@
         "Feature": "Lögun",
         "Documents": "Skjöl",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Ókeypis prufa",
         "Buy": "Kaupa",
         "Roadmap": "Vegamaður",
         "ReportIssue": "Tilkynna vandamál",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Mjög gagnlegt App. Fyrir Windows, Linux, MacOSX.",
-        "BtnDownload": "Sækja",
+        "BtnDownload": "Ókeypis prufa",
         "BtnBuy": "Purchase",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

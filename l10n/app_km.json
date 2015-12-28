@@ -4,7 +4,7 @@
         "Feature": "លក្ខណៈ​ពិសេស",
         "Documents": "ឯកសារ",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "ទាញ​យក",
+        "Downloads": "សាកល្បង​ដោយសេរី",
         "Buy": "ទិញ",
         "Roadmap": "ផែនទី​បង្ហាញ​ផ្លូវ",
         "ReportIssue": "របាយការណ៍​បញ្ហា",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "កម្មវិធី​ដែល​មាន​សារៈ​ប្រយោជន៍​ខ្លាំង​ណាស់​។ សម្រាប់​វីនដូ​, លីនុច​, MacOSX ។",
-        "BtnDownload": "ទាញ​យក",
+        "BtnDownload": "សាកល្បង​ដោយសេរី",
         "BtnBuy": "ការ​ទិញ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

@@ -4,7 +4,7 @@
         "Feature": "คุณสมบัติ",
         "Documents": "เอกสาร",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "ดาวน์โหลด",
+        "Downloads": "ทดลองฟรี",
         "Buy": "ซื้อ",
         "Roadmap": "RoadMap",
         "ReportIssue": "รายงานฉบับ",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "App ที่มีประโยชน์มาก สำหรับ Windows, Linux, MacOSX",
-        "BtnDownload": "ดาวน์โหลด",
+        "BtnDownload": "ทดลองฟรี",
         "BtnBuy": "ซื้อ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

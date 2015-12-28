@@ -4,7 +4,7 @@
         "Feature": "લક્ષણ",
         "Documents": "દસ્તાવેજો",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "ડાઉનલોડ",
+        "Downloads": "મફત ટ્રાયલ",
         "Buy": "ખરીદો",
         "Roadmap": "RoadMap",
         "ReportIssue": "સમસ્યાની જાણ કરો",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "ખૂબ જ ઉપયોગી એપ્લિકેશન. વિન્ડોઝ, Linux, MacOSX છે.",
-        "BtnDownload": "ડાઉનલોડ કરો",
+        "BtnDownload": "મફત ટ્રાયલ",
         "BtnBuy": "ખરીદી",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",

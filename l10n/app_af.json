@@ -4,7 +4,7 @@
         "Feature": "Funksie",
         "Documents": "Dokumente",
         "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Downloads",
+        "Downloads": "Gratis toets",
         "Buy": "Koop",
         "Roadmap": "Padkaart",
         "ReportIssue": "Verslag Uitgawe",
@@ -13,7 +13,7 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Baie nuttig App. Vir Windows, Linux, MacOSX.",
-        "BtnDownload": "Aflaai",
+        "BtnDownload": "Gratis toets",
         "BtnBuy": "Aankoop",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
