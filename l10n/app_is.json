@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Setting skilju",
+                "videos": [
+                    {
+                        "description": "Output csv skrá, setja skilju. (sjálfgefið: ',')",
+                        "url": "myndbönd / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Setja CSV raða sviðum",
+                "videos": [
+                    {
+                        "description": "Output CSV skrá, setja raða sviði.",
+                        "url": "myndbönd / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Nota flókin hlut vél",
+                "videos": [
+                    {
+                        "description": "Output CSV skrá, séð um flókna sniði.",
+                        "url": "myndbönd / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

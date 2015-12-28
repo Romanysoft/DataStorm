@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Omgeving separator",
+                "videos": [
+                    {
+                        "description": "Uitgang csv-bestand, het instellen van de afscheider. (standaard: ',')",
+                        "url": "videos / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Instellen csv soort velden",
+                "videos": [
+                    {
+                        "description": "Uitgang csv-bestand, het instellen van een soort veld.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Gebruik complex object motor",
+                "videos": [
+                    {
+                        "description": "Uitgang csv-bestand, omgaan met de complexe bestandsformaat.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Versie",
         "list": [

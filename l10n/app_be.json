@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Асяроддзе сепаратар",
+                "videos": [
+                    {
+                        "description": "Выхад CSV файл, усталяваўшы падзельнік. (па змаўчанні: ',')",
+                        "url": "відэа / дакументы / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Усталёўка CSV поля сартавання",
+                "videos": [
+                    {
+                        "description": "Выхад CSV файл, усталяваўшы сартавання полі.",
+                        "url": "відэа / дакументы / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Выкарыстанне складаны аб'ект рухавіка",
+                "videos": [
+                    {
+                        "description": "Выхадны файл CSV, апрацоўваць складаны фармат файла.",
+                        "url": "відэа / дакументы / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Версія",
         "list": [

@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Chaw separator",
+                "videos": [
+                    {
+                        "description": "Tso zis csv ntaub ntawv, qhov chaw kawm lub separator. (neej ntawd hais: ',')",
+                        "url": "cov yeeb yaj duab / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Teem csv tsi teb",
+                "videos": [
+                    {
+                        "description": "Tso zis csv ntaub ntawv, qhov chaw kawm tsi teb.",
+                        "url": "cov yeeb yaj duab / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Siv txoj yam khoom cav",
+                "videos": [
+                    {
+                        "description": "Tso zis csv ntaub ntawv, ko lub complex cov hom ntaub ntawv.",
+                        "url": "cov yeeb yaj duab / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

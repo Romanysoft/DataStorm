@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ТоЦСВ - Постављање сепаратора",
+                "videos": [
+                    {
+                        "description": "Излаз ЦСВ филе, постављање сепаратора. (Дефаулт: ',')",
+                        "url": "Видео / доцс / ит2цсв_сепаратор.мп4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ТоЦСВ - Постављање ЦСВ сортирања поља",
+                "videos": [
+                    {
+                        "description": "Излаз ЦСВ филе, постављање сорт поље.",
+                        "url": "Видео / доцс / ит2цсв_сортФиелдс.мп4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ТоЦСВ - Користите комплекс објекат мотор",
+                "videos": [
+                    {
+                        "description": "Излаз ЦСВ филе, држите сложену формат.",
+                        "url": "Видео / доцс / ит2цсв_усеЦомплекЈСОНЕнгине.мп4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Верзија",
         "list": [

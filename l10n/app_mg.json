@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Setting Separator",
+                "videos": [
+                    {
+                        "description": "Output csv rakitra, ny fametrahana ny Separator. (Toerana misy anao: ',')",
+                        "url": "lahatsary / Docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Ny fametrahana karazana csv saha",
+                "videos": [
+                    {
+                        "description": "Output csv rakitra, mametraka karazana an-tsaha.",
+                        "url": "lahatsary / Docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Ampiasao sarotra zavatra maotera",
+                "videos": [
+                    {
+                        "description": "Output csv rakitra, mitana ny sarotra endrika rakitra.",
+                        "url": "lahatsary / Docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

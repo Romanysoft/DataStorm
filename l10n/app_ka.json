@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Setting გამყოფი",
+                "videos": [
+                    {
+                        "description": "გამოყვანის csv ფაილი, შექმნის გამყოფი. (default: ',')",
+                        "url": "ვიდეო / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Setting csv ერთგვარი სფეროებში",
+                "videos": [
+                    {
+                        "description": "გამოყვანის csv ფაილი, შექმნის ერთგვარი სფეროში.",
+                        "url": "ვიდეო / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - გამოიყენეთ რთული ობიექტი სისტემა",
+                "videos": [
+                    {
+                        "description": "გამოყვანის csv ფაილი, გაუმკლავდეს რთული ფორმატში.",
+                        "url": "ვიდეო / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "ვერსია",
         "list": [

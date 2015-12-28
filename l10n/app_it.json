@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - separatore Impostazioni",
+                "videos": [
+                    {
+                        "description": "Output file .csv, impostare il separatore. (predefinito: ',')",
+                        "url": "Video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Impostazione campi csv ordinamento",
+                "videos": [
+                    {
+                        "description": "Output file .csv, impostando campo di ordinamento.",
+                        "url": "Video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Utilizzare motore oggetto complesso",
+                "videos": [
+                    {
+                        "description": "Csv di output, di gestire il formato file complesso.",
+                        "url": "Video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Versione",
         "list": [

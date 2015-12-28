@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - جدا تنظیم",
+                "videos": [
+                    {
+                        "description": "خروجی فایل CSV، تنظیم جدا. (به طور پیش فرض: '،')",
+                        "url": "فیلم / اسناد / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - تنظیم زمینه مرتب سازی بر CSV",
+                "videos": [
+                    {
+                        "description": "خروجی فایل CSV، تنظیم درست مرتب سازی بر.",
+                        "url": "فیلم / اسناد / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - استفاده از موتور شی پیچیده",
+                "videos": [
+                    {
+                        "description": "خروجی فایل CSV، رسیدگی به فرمت فایل های پیچیده است.",
+                        "url": "فیلم / اسناد / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "نسخه",
         "list": [

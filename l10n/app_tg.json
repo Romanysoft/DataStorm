@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - ҷудосози Параметри",
+                "videos": [
+                    {
+                        "description": "Баромади файл, муқаррар намудани ҷудосози. (пешфарз: ',')",
+                        "url": "Видео / Docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Замина соҳаҳои гуна CSV",
+                "videos": [
+                    {
+                        "description": "Баромади файл, муқаррар намудани соҳаи навъ.",
+                        "url": "Видео / Docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - истифодаи объекти муҳаррик мураккаб",
+                "videos": [
+                    {
+                        "description": "Баромади файл, идора кардани формати файли мураккаб.",
+                        "url": "Видео / Docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Нусхаи",
         "list": [

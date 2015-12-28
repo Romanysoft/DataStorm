@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - separator Podešavanje",
+                "videos": [
+                    {
+                        "description": "Izlaz csv datoteku, postavljanje separator. (zadana: ',')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Postavljanje CSV razvrstava polja",
+                "videos": [
+                    {
+                        "description": "Izlazna CSV datoteka, postavljanje sortiranje polje.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Koristite složen objekt motora",
+                "videos": [
+                    {
+                        "description": "Izlazna CSV datoteka, obrađuju složenu format datoteke.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Verzija",
         "list": [

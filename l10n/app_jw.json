@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Setelan separator",
+                "videos": [
+                    {
+                        "description": "Output file CSV, setelan separator ing. (Standar: ',')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Setelan lapangan csv Urut",
+                "videos": [
+                    {
+                        "description": "Output file CSV, setelan dhaftar lapangan.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Gunakake engine obyek Komplek",
+                "videos": [
+                    {
+                        "description": "Output file CSV, nangani file format Komplek.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Versi",
         "list": [

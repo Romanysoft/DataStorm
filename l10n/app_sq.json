@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Vendosja ndarës",
+                "videos": [
+                    {
+                        "description": "Output skedar CSV, vendosjen e ndarës. (parazgjedhur: '')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Vendosja fushat CSV Renditur",
+                "videos": [
+                    {
+                        "description": "Output skedar CSV, vendosjen fushë lloji.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Përdorimi motor kompleks objekt",
+                "videos": [
+                    {
+                        "description": "Output skedar CSV, të trajtojë format komplekse file.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

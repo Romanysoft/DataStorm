@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Anviwònman séparation",
+                "videos": [
+                    {
+                        "description": "Sòti dosye CSV, mete séparation la. (default: ',')",
+                        "url": "videyo / Doc / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Mete jaden yo CSV sòt",
+                "videos": [
+                    {
+                        "description": "Sòti dosye CSV, mete jaden sòt.",
+                        "url": "videyo / Doc / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Sèvi ak konplèks motè objè",
+                "videos": [
+                    {
+                        "description": "Sòti dosye CSV, okipe fòma a dosye konplèks.",
+                        "url": "videyo / Doc / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

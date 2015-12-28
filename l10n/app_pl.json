@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Otoczenie separator",
+                "videos": [
+                    {
+                        "description": "Wyjście pliku csv, ustawienie separatora. (zaniedbanie: ',')",
+                        "url": "filmy / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Ustawienie pola CSV sortowania",
+                "videos": [
+                    {
+                        "description": "Wyjście pliku CSV, ustawienie pola sortowania.",
+                        "url": "filmy / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Wykorzystanie złożone silnika obiektu",
+                "videos": [
+                    {
+                        "description": "Wyjście pliku CSV, uchwyt złożony format pliku.",
+                        "url": "filmy / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Wersja",
         "list": [

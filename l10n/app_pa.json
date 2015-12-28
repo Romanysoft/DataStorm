@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - ਸੈਟਿੰਗ ਵੱਖਰੇ",
+                "videos": [
+                    {
+                        "description": "ਆਉਟਪੁੱਟ CSV ਫਾਇਲ, ਵੱਖਰੇ ਸੈੱਟ. (ਮੂਲ: ',')",
+                        "url": "ਵੀਡੀਓ / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - CSV ਲੜੀਬੱਧ ਖੇਤਰ ਸੈੱਟ",
+                "videos": [
+                    {
+                        "description": "ਆਉਟਪੁੱਟ CSV ਫਾਇਲ, ਕਰਮ ਖੇਤਰ ਨਿਰਧਾਰਿਤ ਕਰਨ.",
+                        "url": "ਵੀਡੀਓ / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - ਵਰਤੋ ਕੰਪਲੈਕਸ ਇਕਾਈ ਇੰਜਣ",
+                "videos": [
+                    {
+                        "description": "ਆਉਟਪੁੱਟ CSV ਫਾਇਲ, ਗੁੰਝਲਦਾਰ ਫਾਇਲ ਫਾਰਮੈਟ ਨੂੰ ਸੰਭਾਲਣ.",
+                        "url": "ਵੀਡੀਓ / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "ਵਰਜਨ",
         "list": [

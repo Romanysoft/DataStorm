@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Beállítás elválasztó",
+                "videos": [
+                    {
+                        "description": "Kimeneti CSV fájlba, amelyben az elválasztó. (alapértelmezett: ',')",
+                        "url": "Videók / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Beállítás csv rendezési mezők",
+                "videos": [
+                    {
+                        "description": "Kimeneti CSV fájlba, amelyben egyfajta területen.",
+                        "url": "Videók / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - A komplex objektum motor",
+                "videos": [
+                    {
+                        "description": "Kimeneti CSV fájlba, kezeli a komplex fájlformátumot.",
+                        "url": "Videók / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Változat",
         "list": [

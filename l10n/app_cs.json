@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - separátor Nastavení",
+                "videos": [
+                    {
+                        "description": "Výstup csv soubor, nastavení separátor. (default: ',')",
+                        "url": "Videa / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Nastavení csv třídění polí",
+                "videos": [
+                    {
+                        "description": "Výstupní soubor csv, nastavení řazení pole.",
+                        "url": "Videa / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Používejte komplexní objekt motoru",
+                "videos": [
+                    {
+                        "description": "Výstupní soubor csv, zvládnout složitou formát souboru.",
+                        "url": "Videa / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Verze",
         "list": [

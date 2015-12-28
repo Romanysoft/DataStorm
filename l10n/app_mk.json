@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Поставување сепаратор",
+                "videos": [
+                    {
+                        "description": "Излез CSV датотека, поставувајќи ги одвоите. (стандардно: \",\")",
+                        "url": "видеа / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Поставување CSV вид полиња",
+                "videos": [
+                    {
+                        "description": "Излез CSV датотека, поставување вид поле.",
+                        "url": "видеа / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Употреба комплекс објект мотор",
+                "videos": [
+                    {
+                        "description": "Излез CSV фајл, се справи со сложените формат на датотека.",
+                        "url": "видеа / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Верзија",
         "list": [

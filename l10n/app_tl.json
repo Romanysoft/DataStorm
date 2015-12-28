@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Pagtatakda separator",
+                "videos": [
+                    {
+                        "description": "Output csv file, ang pagtatakda ng separator. (default: ',')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Pagtatakda ng mga patlang csv uri",
+                "videos": [
+                    {
+                        "description": "Output csv file, pagse-set ang patlang na uri.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Gumamit ng mahirap maintindihan na bagay engine",
+                "videos": [
+                    {
+                        "description": "Output csv file, panghawakan ang mahirap na format ng file.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Bersyon",
         "list": [

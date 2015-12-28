@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Inställning avskiljare",
+                "videos": [
+                    {
+                        "description": "Utgångs csv-fil, ställa separatorn. (default: \",\")",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Inställning csv sorteringsfält",
+                "videos": [
+                    {
+                        "description": "Utgångs csv-fil, ställa in sorteringsfältet.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Använd komplext objekt motor",
+                "videos": [
+                    {
+                        "description": "Utgångs csv-fil, hantera komplexa filformat.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

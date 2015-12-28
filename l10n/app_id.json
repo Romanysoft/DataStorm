@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Pengaturan pemisah",
+                "videos": [
+                    {
+                        "description": "Output file csv, pengaturan pemisah. (default: ',')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Menetapkan bidang csv semacam",
+                "videos": [
+                    {
+                        "description": "Output file csv, pengaturan semacam lapangan.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Gunakan mesin obyek yang kompleks",
+                "videos": [
+                    {
+                        "description": "File output csv, menangani format file yang kompleks.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Versi",
         "list": [

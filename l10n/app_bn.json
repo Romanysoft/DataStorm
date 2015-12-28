@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - সেটিং বিভাজক",
+                "videos": [
+                    {
+                        "description": "আউটপুট CSV ফাইল, বিভাজক সেটিং. (ডিফল্ট: ',')",
+                        "url": "ভিডিও / ডক্স / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - CSV সাজান ক্ষেত্র সেট",
+                "videos": [
+                    {
+                        "description": "আউটপুট CSV ফাইল, সাজান ক্ষেত্র নির্ধারণ.",
+                        "url": "ভিডিও / ডক্স / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - ব্যবহার জটিল বস্তুর ইঞ্জিন",
+                "videos": [
+                    {
+                        "description": "আউটপুট CSV ফাইল, জটিল ফাইল ফরম্যাট হ্যান্ডেল.",
+                        "url": "ভিডিও / ডক্স / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "সংস্করণ",
         "list": [

@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - ಸೆಟ್ಟಿಂಗ್ ವಿಭಜಕವನ್ನೂ",
+                "videos": [
+                    {
+                        "description": "ಔಟ್ಪುಟ್ CSV ಕಡತ, ವಿಭಜಕವನ್ನೂ ಸ್ಥಾಪನೆಗೆ. (ಡೀಫಾಲ್ಟ್: ',')",
+                        "url": "ವೀಡಿಯೊಗಳನ್ನು / ಡಾಕ್ಸ್ / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - CSV ರೀತಿಯ ಜಾಗ ಹೊಂದಿಸಲಾಗುತ್ತಿದೆ",
+                "videos": [
+                    {
+                        "description": "ಔಟ್ಪುಟ್ CSV ಕಡತ ರೀತಿಯ ಫೀಲ್ಡ್ ಸಂಯೋಜನೆಯನ್ನು.",
+                        "url": "ವೀಡಿಯೊಗಳನ್ನು / ಡಾಕ್ಸ್ / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - ಬಳಸಿ ಸಂಕೀರ್ಣ ವಸ್ತು ಎಂಜಿನ್",
+                "videos": [
+                    {
+                        "description": "ಔಟ್ಪುಟ್ CSV ಕಡತ, ಸಂಕೀರ್ಣ ಕಡತ ಸ್ವರೂಪದ ನಿರ್ವಹಿಸಲು.",
+                        "url": "ವೀಡಿಯೊಗಳನ್ನು / ಡಾಕ್ಸ್ / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "ಆವೃತ್ತಿ",
         "list": [

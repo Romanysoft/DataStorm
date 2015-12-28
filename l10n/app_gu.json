@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - સેટિંગ પાડનાર",
+                "videos": [
+                    {
+                        "description": "આઉટપુટ CSV ફાઈલ, વિભાજક સુયોજિત કરીને. (ડિફોલ્ટ: ',')",
+                        "url": "વિડિઓઝ / ડૉક્સ / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - CSV સૉર્ટ ક્ષેત્રો સુયોજિત કરી રહ્યા છે",
+                "videos": [
+                    {
+                        "description": "આઉટપુટ CSV ફાઈલ, સૉર્ટ ક્ષેત્ર સુયોજિત કરીને.",
+                        "url": "વિડિઓઝ / ડૉક્સ / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - ઉપયોગની જટિલ પદાર્થ એન્જિન",
+                "videos": [
+                    {
+                        "description": "આઉટપુટ CSV ફાઈલ, જટિલ ફાઇલ ફોર્મેટ હાથ ધરે છે.",
+                        "url": "વિડિઓઝ / ડૉક્સ / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "આવૃત્તિ",
         "list": [

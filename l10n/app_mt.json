@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Iffissar separatur",
+                "videos": [
+                    {
+                        "description": "Output fajl CSV, li jistabbilixxi l separatur. (default: \",\")",
+                        "url": "videos / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Twaqqif oqsma sort CSV",
+                "videos": [
+                    {
+                        "description": "Output fajl CSV, li jistabbilixxi qasam sort.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Użu magna oġġett kumpless",
+                "videos": [
+                    {
+                        "description": "Fajl CSV Output, jimmaniġġaw il-format tal-fajl kumpless.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Verżjoni",
         "list": [

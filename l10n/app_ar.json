@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - فاصل إعداد",
+                "videos": [
+                    {
+                        "description": "إخراج ملف CSV، ووضع فاصل. (الافتراضي: '،')",
+                        "url": "أشرطة الفيديو / مستندات / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - وضع حقول CSV النوع",
+                "videos": [
+                    {
+                        "description": "إخراج ملف CSV، وتحديد مجال النوع.",
+                        "url": "أشرطة الفيديو / مستندات / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - استخدام محرك كائن معقد",
+                "videos": [
+                    {
+                        "description": "إخراج ملف CSV، والتعامل مع تنسيق الملف المعقد.",
+                        "url": "أشرطة الفيديو / مستندات / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "الإصدار",
         "list": [

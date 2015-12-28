@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - орнату бөлгіш",
+                "videos": [
+                    {
+                        "description": "Шығыс CSV файлы, бөлгішті орнату. (Әдепкі: ',')",
+                        "url": "бейнелер / Docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - орнату CSV сұрып өрістері",
+                "videos": [
+                    {
+                        "description": "Шығыс CSV файлы, сұрыптау өрісті орнату.",
+                        "url": "бейнелер / Docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - пайдалану күрделі объект қозғалтқыш",
+                "videos": [
+                    {
+                        "description": "Шығыс CSV файлы, күрделі файл пішімін ұстаңыз.",
+                        "url": "бейнелер / Docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Нұсқа",
         "list": [

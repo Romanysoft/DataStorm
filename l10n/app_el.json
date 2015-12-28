@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - διαχωριστή Περιβάλλον",
+                "videos": [
+                    {
+                        "description": "Έξοδος αρχείο CSV, τον καθορισμό του διαχωριστή. (αθέτηση: ',')",
+                        "url": "βίντεο / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Ρύθμιση πεδία CSV είδος",
+                "videos": [
+                    {
+                        "description": "Έξοδος αρχείο CSV, θέτοντας το πεδίο Ταξινόμηση.",
+                        "url": "βίντεο / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Χρήση συγκρότημα κινητήρα αντικειμένου",
+                "videos": [
+                    {
+                        "description": "Έξοδος αρχείο CSV, να χειριστεί τη μορφή αρχείου συγκρότημα.",
+                        "url": "βίντεο / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Έκδοση",
         "list": [

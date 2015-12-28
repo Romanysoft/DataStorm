@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Kafa SEPARATOR",
+                "videos": [
+                    {
+                        "description": "Fitarwa CSV fayil, kafa da SEPARATOR. (tsoho: ',')",
+                        "url": "videos / daftarorin aiki / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Kafa CSV irin filayen",
+                "videos": [
+                    {
+                        "description": "Fitarwa CSV fayil, kafa irin filin.",
+                        "url": "videos / daftarorin aiki / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Yi amfani da hadaddun abu engine",
+                "videos": [
+                    {
+                        "description": "Fitarwa CSV fayil, rike da hadaddun fayil format.",
+                        "url": "videos / daftarorin aiki / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

@@ -61,7 +61,32 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list":[
+            {
+                "hrefID":"{{it2csv_separator}}",
+                "section":"输出CSV - 设置分隔符",
+                "videos":[
+                    {"description":"输出的CSV文件, 设置CSV分隔符的方法. (默认值: ',')", "url":"videos/docs/it2csv_separator.mp4"}
+                ]
+            },
+            {
+                "hrefID":"{{it2csv_sortFields}}",
+                "section":"输出CSV - 设置排序字段",
+                "videos":[
+                    {"description":"输出的CSV文件, 设置CSV字段排序简单方法.", "url":"videos/docs/it2csv_sortFields.mp4"}
+                ]
+            },
+            {
+                "hrefID":"{{it2csv_useComplexJSONEngine}}",
+                "section":"输出CSV - 设置使用复杂对象引擎",
+                "videos":[
+                    {"description":"输出的CSV文件, 设置使用复杂对象引擎处理复杂的输入文件。默认值：开启.", "url":"videos/docs/it2csv_useComplexJSONEngine.mp4"}
+                ]
+            }
+
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "版本",
         "list": [

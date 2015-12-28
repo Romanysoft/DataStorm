@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Setting වෙන්කර",
+                "videos": [
+                    {
+                        "description": "ප්රතිදාන CSV ගොනුවක් ද වෙන්කර තැබීම. (පෙරනිමි: ',')",
+                        "url": "වීඩියෝ / Docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Setting CSV ආකාරයක ක්ෂේත්ර",
+                "videos": [
+                    {
+                        "description": "ප්රතිදාන CSV ගොනුව, ආකාරයක ක්ෂේත්රයේ තැබීම.",
+                        "url": "වීඩියෝ / Docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - භාවිතය සංකීර්ණ වස්තුවක් එන්ජින්",
+                "videos": [
+                    {
+                        "description": "ප්රතිදාන CSV ගොනුව, සංකීර්ණ ගොනු ආකෘතිය හැසිරවීමට.",
+                        "url": "වීඩියෝ / Docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "පිටපත",
         "list": [

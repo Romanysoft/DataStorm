@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Innstilling separator",
+                "videos": [
+                    {
+                        "description": "Utgang csv-fil, sette separatoren. (misligholde: ',')",
+                        "url": "videoer / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Innstilling csv sorteringsfelt",
+                "videos": [
+                    {
+                        "description": "Utgang csv-fil, sette sorteringsfelt.",
+                        "url": "videoer / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Bruk komplekst objekt motor",
+                "videos": [
+                    {
+                        "description": "Utgang csv-fil, håndtere komplekse filformat.",
+                        "url": "videoer / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Versjon",
         "list": [

@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - ແຍກ​ການ​ກໍາ​ນົດ​ຄ່າ",
+                "videos": [
+                    {
+                        "description": "ຜົນ​ຜະ​ລິດ​ໄຟລ​໌ csv​, ການ​ສ້າງ​ຕັ້ງ​ແຍກ​ໄດ້​. (default​: ',​'​​​)",
+                        "url": "ວິ​ດີ​ໂອ / ເອ​ກະ​ສານ / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - ການ​ຈັດ​ຕັ້ງ​ນາ csv ການ​ຈັດ​ລຽງ",
+                "videos": [
+                    {
+                        "description": "ຜົນ​ຜະ​ລິດ​ໄຟລ​໌ csv​, ການ​ສ້າງ​ຕັ້ງ​ພາກ​ສະ​ຫນາມ​ທ​.",
+                        "url": "ວິ​ດີ​ໂອ / ເອ​ກະ​ສານ / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - ການ​ນໍາ​ໃຊ້​ເຄື່ອງ​ຈັກ​ໃນ​ການ​ສະ​ລັບ​ສັບ​ຊ້ອນ​ວັດ​ຖຸ",
+                "videos": [
+                    {
+                        "description": "ໄຟລ​໌ csv ຜົນ​ຜະ​ລິດ​, ຈັດ​ຮູບ​ແບບ​ໄຟລ​໌​ສະ​ລັບ​ສັບ​ຊ້ອນ​.",
+                        "url": "ວິ​ດີ​ໂອ / ເອ​ກະ​ສານ / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

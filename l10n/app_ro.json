@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - separator de setare",
+                "videos": [
+                    {
+                        "description": "Ieșire fișier CSV, stabilind separatorul. (default: ',')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Stabilirea domenii csv sortare",
+                "videos": [
+                    {
+                        "description": "Ieșire fișier CSV, stabilind câmp fel.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - utilizat motor de obiect complex",
+                "videos": [
+                    {
+                        "description": "Ieșire fișier CSV, se ocupe de formatul de fișier complex.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Versiune",
         "list": [

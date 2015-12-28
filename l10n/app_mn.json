@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - тохируулах нь тусгаарлагч",
+                "videos": [
+                    {
+                        "description": "Үр дүн CSV файл тусгаарлагч тогтоох. (анхдагч утга нь: ',')",
+                        "url": "видео / Docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - CSV төрөл талбаруудыг тохируулах нь",
+                "videos": [
+                    {
+                        "description": "Үр дүн CSV файл төрлийн талбарыг тогтоох.",
+                        "url": "видео / Docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - ашиглах цогцолбор обьект хөдөлгүүр",
+                "videos": [
+                    {
+                        "description": "Үр дүн CSV файл төвөгтэй файлын хэлбэршилтийг ажиллах.",
+                        "url": "видео / Docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Хувилбар",
         "list": [

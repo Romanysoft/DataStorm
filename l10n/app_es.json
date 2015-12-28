@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - separador de ajuste",
+                "videos": [
+                    {
+                        "description": "Salida de archivo csv, estableciendo el separador. (defecto: ',')",
+                        "url": "videos / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Configuración de campos csv ordenar",
+                "videos": [
+                    {
+                        "description": "Salida de archivo csv, el establecimiento de campo de clasificación.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Uso motor objeto complejo",
+                "videos": [
+                    {
+                        "description": "Archivo csv salida, manejar el formato de archivo compleja.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Versión",
         "list": [

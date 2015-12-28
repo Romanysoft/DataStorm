@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Sozlama separator",
+                "videos": [
+                    {
+                        "description": "Chiqish CSV faylini, ajratuvchi sozlamalari. (Default: \",\")",
+                        "url": "videos / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - CSV sort maydonlarini o'rnatish",
+                "videos": [
+                    {
+                        "description": "Chiqish CSV fayl, sort maydoni sozlamalari.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - foydalanish murakkab ob'ekt motor",
+                "videos": [
+                    {
+                        "description": "Chiqish CSV fayli, murakkab fayl formatini band.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

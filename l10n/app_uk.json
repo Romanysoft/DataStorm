@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Оточення сепаратор",
+                "videos": [
+                    {
+                        "description": "Вихід CSV файл, встановивши роздільник. (за замовчуванням: ',')",
+                        "url": "відео / документи / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Установка CSV поля сортування",
+                "videos": [
+                    {
+                        "description": "Вихід CSV файл, встановивши сортування полі.",
+                        "url": "відео / документи / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Використання складний об'єкт двигуна",
+                "videos": [
+                    {
+                        "description": "Вихідний файл CSV, обробляти складний формат файлу.",
+                        "url": "відео / документи / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Версія",
         "list": [

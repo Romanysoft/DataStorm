@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Setting separators",
+                "videos": [
+                    {
+                        "description": "Output csv failu, nosakot atdalītāju. (default: '')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - csv Šķirot lauki iestatīšana",
+                "videos": [
+                    {
+                        "description": "Output csv failu, nosakot kārtošanas jomā.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Izmantojiet sarežģīts objekts dzinējs",
+                "videos": [
+                    {
+                        "description": "Output csv failu, rokturis sarežģīto faila formātu.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Versija",
         "list": [

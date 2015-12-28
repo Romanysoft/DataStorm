@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Separator Kuweka",
+                "videos": [
+                    {
+                        "description": "Pato CSV faili, kuweka separator. (default: ')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Kuweka mashamba ya csv aina",
+                "videos": [
+                    {
+                        "description": "Pato CSV faili, kuweka uwanja namna yo yote.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Matumizi tata kitu injini",
+                "videos": [
+                    {
+                        "description": "Pato CSV file, kushughulikia tata faili.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Toleo la",
         "list": [

@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - സജ്ജീകരിക്കുന്നു സെപ്പറേറ്റർ",
+                "videos": [
+                    {
+                        "description": "ഔട്ട്പുട്ട് CSV ഫയൽ, സെപ്പറേറ്റർ ക്രമീകരിക്കുന്നതിൽ. (സ്വതവേ: ',')",
+                        "url": "വീഡിയോകൾ / ഡോക്സ് / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - സജ്ജീകരിക്കുന്നു csv അടുക്കുക നിലങ്ങളും",
+                "videos": [
+                    {
+                        "description": "ഔട്ട്പുട്ട് CSV ഫയൽ, സോർട്ട് ഫീൽഡ് ക്രമീകരിക്കുന്നു.",
+                        "url": "വീഡിയോകൾ / ഡോക്സ് / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - ഉപയോഗിക്കുക സങ്കീർണമായ വസ്തു എഞ്ചിൻ",
+                "videos": [
+                    {
+                        "description": "ഔട്ട്പുട്ട് CSV ഫയൽ, സങ്കീർണ്ണമായ ഫയൽ ഫോർമാറ്റ് കൈകാര്യം.",
+                        "url": "വീഡിയോകൾ / ഡോക്സ് / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "പതിപ്പ്",
         "list": [

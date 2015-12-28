@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Entorno banatzailea",
+                "videos": [
+                    {
+                        "description": "Irteerako csv fitxategia, banatzeko ezarriz. (Lehenetsia: ',')",
+                        "url": "bideoak / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - csv moduko eremuak Entorno",
+                "videos": [
+                    {
+                        "description": "Irteerako csv fitxategia, ordenatu eremua.",
+                        "url": "bideoak / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Erabili objektu motorra konplexua",
+                "videos": [
+                    {
+                        "description": "Irteerako csv fitxategia, kudeatzeko fitxategi-formatua konplexua.",
+                        "url": "bideoak / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Bertsioa",
         "list": [

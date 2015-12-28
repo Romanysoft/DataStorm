@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - מפריד הגדרה",
+                "videos": [
+                    {
+                        "description": "פלט קובץ CSV, הגדרת המפריד. (בְּרִירַת מֶחדָל: ',')",
+                        "url": "קטעי וידאו / מסמכים / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - הגדרת שדות סוג CSV",
+                "videos": [
+                    {
+                        "description": "פלט קובץ CSV, הגדרת שדה סוג.",
+                        "url": "קטעי וידאו / מסמכים / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "מנוע אובייקט מורכב שימוש - ToCSV",
+                "videos": [
+                    {
+                        "description": "קובץ CSV פלט, להתמודד עם פורמט הקובץ המורכב.",
+                        "url": "קטעי וידאו / מסמכים / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "גִרְסָה",
         "list": [

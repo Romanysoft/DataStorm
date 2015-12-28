@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Setting apartigilon",
+                "videos": [
+                    {
+                        "description": "Eligo CSV-dosiero, metante la separador. (defaŭlte: ',')",
+                        "url": "videos / dokumentojn / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - ĝustigado CSV speco kampoj",
+                "videos": [
+                    {
+                        "description": "Eligo CSV-dosiero, metante ia kampo.",
+                        "url": "videos / dokumentojn / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Uzo kompleksa objekto motoro",
+                "videos": [
+                    {
+                        "description": "Eligo CSV-dosiero, manipuli la kompleksa dosierformato.",
+                        "url": "videos / dokumentojn / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Versio",
         "list": [

@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Stel separator",
+                "videos": [
+                    {
+                        "description": "Uitset CSV, die opstel van die skeiding. (verstek: ',')",
+                        "url": "videos / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Kader csv soort velde",
+                "videos": [
+                    {
+                        "description": "Uitset CSV, die opstel soort veld.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Gebruik komplekse voorwerp enjin",
+                "videos": [
+                    {
+                        "description": "Uitset CSV, hanteer die komplekse lêer formaat.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Weergawe",
         "list": [

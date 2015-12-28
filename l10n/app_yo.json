@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Setting separator",
+                "videos": [
+                    {
+                        "description": "O wu CSV faili, eto awọn separator. (Aiyipada: ',')",
+                        "url": "awọn fidio / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Eto CSV too aaye",
+                "videos": [
+                    {
+                        "description": "O wu CSV faili, eto too oko.",
+                        "url": "awọn fidio / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Lo eka ohun engine",
+                "videos": [
+                    {
+                        "description": "O wu CSV faili, mu awọn eka faili kika.",
+                        "url": "awọn fidio / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

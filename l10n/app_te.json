@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - సెట్టింగు విభజించడానికి",
+                "videos": [
+                    {
+                        "description": "అవుట్పుట్ CSV ఫైల్, విభజించడానికి సెట్. (డిఫాల్ట్: ',')",
+                        "url": "వీడియోలను / డాక్స్ / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - csv విధమైన ఖాళీలను చేస్తోంది",
+                "videos": [
+                    {
+                        "description": "అవుట్పుట్ CSV ఫైల్ విధమైన రంగంలో.",
+                        "url": "వీడియోలను / డాక్స్ / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - ఉపయోగ క్లిష్టమైన వస్తువు ఇంజిన్",
+                "videos": [
+                    {
+                        "description": "అవుట్పుట్ CSV ఫైల్, క్లిష్టమైన ఫైల్ ఫార్మాట్ నిర్వహించడానికి.",
+                        "url": "వీడియోలను / డాక్స్ / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "వెర్షన్",
         "list": [

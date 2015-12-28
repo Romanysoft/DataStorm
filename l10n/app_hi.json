@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - स्थापना विभाजक",
+                "videos": [
+                    {
+                        "description": "आउटपुट सीएसवी फ़ाइल, विभाजक की स्थापना। (चूक: ',')",
+                        "url": "वीडियो / डॉक्स / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - सीएसवी तरह खेतों की स्थापना",
+                "videos": [
+                    {
+                        "description": "आउटपुट सीएसवी फ़ाइल है, की तरह क्षेत्र की स्थापना।",
+                        "url": "वीडियो / डॉक्स / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - उपयोग जटिल वस्तु इंजन",
+                "videos": [
+                    {
+                        "description": "आउटपुट सीएसवी फ़ाइल, जटिल फ़ाइल प्रारूप को संभाल।",
+                        "url": "वीडियो / डॉक्स / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "संस्करण",
         "list": [

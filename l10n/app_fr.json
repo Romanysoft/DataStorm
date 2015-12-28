@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - séparateur de réglage",
+                "videos": [
+                    {
+                        "description": "Sortie de fichier csv, le réglage du séparateur. (défaut: ',')",
+                        "url": "Vidéos / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Réglage champs csv de tri",
+                "videos": [
+                    {
+                        "description": "Sortie de fichier csv, la mise en champ de tri.",
+                        "url": "Vidéos / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - utiliser le moteur de objet complexe",
+                "videos": [
+                    {
+                        "description": "Fichier csv de sortie, gérer le format de fichier complexe.",
+                        "url": "Vidéos / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [

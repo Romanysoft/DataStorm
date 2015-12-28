@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - सेटिंग विभाजक",
+                "videos": [
+                    {
+                        "description": "आउटपुट सी फाइल विभाजक सेट. (डीफॉल्ट: ',')",
+                        "url": "व्हिडिओ / दस्तऐवज / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - सी क्रमवारी फील्ड सेट",
+                "videos": [
+                    {
+                        "description": "आउटपुट सी फाइल, क्रमवारी फील्ड सेट.",
+                        "url": "व्हिडिओ / दस्तऐवज / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - वापरा जटिल ऑब्जेक्ट इंजिन",
+                "videos": [
+                    {
+                        "description": "आउटपुट सी फाइल, जटिल फाइल स्वरूपात केली जाते.",
+                        "url": "व्हिडिओ / दस्तऐवज / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "आवृत्ती",
         "list": [

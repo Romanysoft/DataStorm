@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Nustatymas separatorius",
+                "videos": [
+                    {
+                        "description": "Išėjimo CSV failą, nustatant separatorius. (pagal nutylėjimą: ',')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Nustatymas CSV rūšiavimo laukus",
+                "videos": [
+                    {
+                        "description": "Išėjimo CSV failas, kuriame rikiuoti lauką.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Naudokite sudėtingas objektas variklis",
+                "videos": [
+                    {
+                        "description": "Išėjimo CSV failas, rankena sudėtingą failo formatą.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Variantas",
         "list": [

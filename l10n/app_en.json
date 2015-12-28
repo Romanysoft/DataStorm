@@ -63,6 +63,30 @@
   "FeaturePage": {
   },
   "DocumentsPage": {
+    "list":[
+      {
+        "hrefID":"{{it2csv_separator}}",
+        "section":"ToCSV - Setting separator",
+        "videos":[
+          {"description":"Output csv file, setting the separator. (default: ',')", "url":"videos/docs/it2csv_separator.mp4"}
+        ]
+      },
+      {
+        "hrefID":"{{it2csv_sortFields}}",
+        "section":"ToCSV - Setting csv sort fields",
+        "videos":[
+          {"description":"Output csv file, setting sort field.", "url":"videos/docs/it2csv_sortFields.mp4"}
+        ]
+      },
+      {
+        "hrefID":"{{it2csv_useComplexJSONEngine}}",
+        "section":"ToCSV - Use complex object engine",
+        "videos":[
+          {"description":"Output csv file, handle the complex file format.", "url":"videos/docs/it2csv_useComplexJSONEngine.mp4"}
+        ]
+      }
+
+    ]
   },
   "ReleaseNotePage": {
     "labelVersion": "Version ",

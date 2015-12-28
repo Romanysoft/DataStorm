@@ -60,7 +60,40 @@
         }
     },
     "FeaturePage": {},
-    "DocumentsPage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "ToCSV - Setting phân cách",
+                "videos": [
+                    {
+                        "description": "Output file csv, thiết lập phân cách. (mặc định: ',')",
+                        "url": "video / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "ToCSV - Thiết lập các lĩnh vực csv loại",
+                "videos": [
+                    {
+                        "description": "Output file csv, thiết lập trường sắp xếp.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "ToCSV - Sử dụng công cụ đối tượng phức tạp",
+                "videos": [
+                    {
+                        "description": "Output file csv, xử lý các định dạng tập tin phức tạp.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
     "ReleaseNotePage": {
         "labelVersion": "Version",
         "list": [
