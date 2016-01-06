@@ -2,95 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="daa96fc7-00bd-4797-9f3e-f1b7f85888b5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_af.json" afterPath="$PROJECT_DIR$/l10n/app_af.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ar.json" afterPath="$PROJECT_DIR$/l10n/app_ar.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_az.json" afterPath="$PROJECT_DIR$/l10n/app_az.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_be.json" afterPath="$PROJECT_DIR$/l10n/app_be.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_bg.json" afterPath="$PROJECT_DIR$/l10n/app_bg.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_bn.json" afterPath="$PROJECT_DIR$/l10n/app_bn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_bs.json" afterPath="$PROJECT_DIR$/l10n/app_bs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ca.json" afterPath="$PROJECT_DIR$/l10n/app_ca.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ceb.json" afterPath="$PROJECT_DIR$/l10n/app_ceb.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_cs.json" afterPath="$PROJECT_DIR$/l10n/app_cs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_cy.json" afterPath="$PROJECT_DIR$/l10n/app_cy.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_da.json" afterPath="$PROJECT_DIR$/l10n/app_da.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_de.json" afterPath="$PROJECT_DIR$/l10n/app_de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_el.json" afterPath="$PROJECT_DIR$/l10n/app_el.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_en.json" afterPath="$PROJECT_DIR$/l10n/app_en.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_eo.json" afterPath="$PROJECT_DIR$/l10n/app_eo.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_es.json" afterPath="$PROJECT_DIR$/l10n/app_es.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_et.json" afterPath="$PROJECT_DIR$/l10n/app_et.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_eu.json" afterPath="$PROJECT_DIR$/l10n/app_eu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_fa.json" afterPath="$PROJECT_DIR$/l10n/app_fa.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_fi.json" afterPath="$PROJECT_DIR$/l10n/app_fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_fr.json" afterPath="$PROJECT_DIR$/l10n/app_fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ga.json" afterPath="$PROJECT_DIR$/l10n/app_ga.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_gl.json" afterPath="$PROJECT_DIR$/l10n/app_gl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_gu.json" afterPath="$PROJECT_DIR$/l10n/app_gu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ha.json" afterPath="$PROJECT_DIR$/l10n/app_ha.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_hi.json" afterPath="$PROJECT_DIR$/l10n/app_hi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_hmn.json" afterPath="$PROJECT_DIR$/l10n/app_hmn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_hr.json" afterPath="$PROJECT_DIR$/l10n/app_hr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ht.json" afterPath="$PROJECT_DIR$/l10n/app_ht.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_hu.json" afterPath="$PROJECT_DIR$/l10n/app_hu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_hy.json" afterPath="$PROJECT_DIR$/l10n/app_hy.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_id.json" afterPath="$PROJECT_DIR$/l10n/app_id.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ig.json" afterPath="$PROJECT_DIR$/l10n/app_ig.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_is.json" afterPath="$PROJECT_DIR$/l10n/app_is.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_it.json" afterPath="$PROJECT_DIR$/l10n/app_it.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_iw.json" afterPath="$PROJECT_DIR$/l10n/app_iw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ja.json" afterPath="$PROJECT_DIR$/l10n/app_ja.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_jw.json" afterPath="$PROJECT_DIR$/l10n/app_jw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ka.json" afterPath="$PROJECT_DIR$/l10n/app_ka.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_kk.json" afterPath="$PROJECT_DIR$/l10n/app_kk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_km.json" afterPath="$PROJECT_DIR$/l10n/app_km.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_kn.json" afterPath="$PROJECT_DIR$/l10n/app_kn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ko.json" afterPath="$PROJECT_DIR$/l10n/app_ko.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_la.json" afterPath="$PROJECT_DIR$/l10n/app_la.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_lo.json" afterPath="$PROJECT_DIR$/l10n/app_lo.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_lt.json" afterPath="$PROJECT_DIR$/l10n/app_lt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_lv.json" afterPath="$PROJECT_DIR$/l10n/app_lv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_mg.json" afterPath="$PROJECT_DIR$/l10n/app_mg.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_mi.json" afterPath="$PROJECT_DIR$/l10n/app_mi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_mk.json" afterPath="$PROJECT_DIR$/l10n/app_mk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ml.json" afterPath="$PROJECT_DIR$/l10n/app_ml.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_mn.json" afterPath="$PROJECT_DIR$/l10n/app_mn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_mr.json" afterPath="$PROJECT_DIR$/l10n/app_mr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ms.json" afterPath="$PROJECT_DIR$/l10n/app_ms.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_mt.json" afterPath="$PROJECT_DIR$/l10n/app_mt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_my.json" afterPath="$PROJECT_DIR$/l10n/app_my.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ne.json" afterPath="$PROJECT_DIR$/l10n/app_ne.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_nl.json" afterPath="$PROJECT_DIR$/l10n/app_nl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_no.json" afterPath="$PROJECT_DIR$/l10n/app_no.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ny.json" afterPath="$PROJECT_DIR$/l10n/app_ny.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_pa.json" afterPath="$PROJECT_DIR$/l10n/app_pa.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_pl.json" afterPath="$PROJECT_DIR$/l10n/app_pl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_pt.json" afterPath="$PROJECT_DIR$/l10n/app_pt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ro.json" afterPath="$PROJECT_DIR$/l10n/app_ro.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ru.json" afterPath="$PROJECT_DIR$/l10n/app_ru.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_si.json" afterPath="$PROJECT_DIR$/l10n/app_si.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_sk.json" afterPath="$PROJECT_DIR$/l10n/app_sk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_sl.json" afterPath="$PROJECT_DIR$/l10n/app_sl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_so.json" afterPath="$PROJECT_DIR$/l10n/app_so.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_sq.json" afterPath="$PROJECT_DIR$/l10n/app_sq.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_sr.json" afterPath="$PROJECT_DIR$/l10n/app_sr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_st.json" afterPath="$PROJECT_DIR$/l10n/app_st.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_su.json" afterPath="$PROJECT_DIR$/l10n/app_su.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_sv.json" afterPath="$PROJECT_DIR$/l10n/app_sv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_sw.json" afterPath="$PROJECT_DIR$/l10n/app_sw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ta.json" afterPath="$PROJECT_DIR$/l10n/app_ta.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_te.json" afterPath="$PROJECT_DIR$/l10n/app_te.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_tg.json" afterPath="$PROJECT_DIR$/l10n/app_tg.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_th.json" afterPath="$PROJECT_DIR$/l10n/app_th.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_tl.json" afterPath="$PROJECT_DIR$/l10n/app_tl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_tr.json" afterPath="$PROJECT_DIR$/l10n/app_tr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_uk.json" afterPath="$PROJECT_DIR$/l10n/app_uk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_ur.json" afterPath="$PROJECT_DIR$/l10n/app_ur.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_uz.json" afterPath="$PROJECT_DIR$/l10n/app_uz.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_vi.json" afterPath="$PROJECT_DIR$/l10n/app_vi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_yi.json" afterPath="$PROJECT_DIR$/l10n/app_yi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_yo.json" afterPath="$PROJECT_DIR$/l10n/app_yo.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/l10n/app_zu.json" afterPath="$PROJECT_DIR$/l10n/app_zu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DataStorm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -126,7 +38,7 @@
       <file leaf-file-name="app_en.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/l10n/app_en.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.40125">
+            <state vertical-scroll-proportion="0.41375">
               <caret line="159" column="51" selection-start-line="159" selection-start-column="51" selection-end-line="159" selection-end-column="51" />
               <folding>
                 <element signature="n#!!block;n#ReleaseNotePage#0;n#!!top" expanded="false" />
@@ -138,7 +50,7 @@
       <file leaf-file-name="documents.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/documents.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.083334">
+            <state vertical-scroll-proportion="0.0">
               <caret line="64" column="62" selection-start-line="64" selection-start-column="62" selection-end-line="64" selection-end-column="62" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="true" />
@@ -152,7 +64,7 @@
       <file leaf-file-name="app.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stylesheets/app.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-94.375">
+            <state vertical-scroll-proportion="0.0">
               <caret line="151" column="5" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
               <folding />
             </state>
@@ -186,7 +98,7 @@
       <file leaf-file-name="buy.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/buy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-17.5">
+            <state vertical-scroll-proportion="0.0">
               <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="25" />
               <folding />
             </state>
@@ -196,7 +108,7 @@
       <file leaf-file-name="app_zh-CN.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/l10n/app_zh-CN.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.5769231">
+            <state vertical-scroll-proportion="0.0">
               <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
               <folding />
             </state>
@@ -254,8 +166,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="149" />
-    <option name="y" value="40" />
+    <option name="x" value="127" />
+    <option name="y" value="64" />
     <option name="width" value="1603" />
     <option name="height" value="1013" />
   </component>
@@ -284,8 +196,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -370,6 +280,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -451,25 +363,25 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="149" y="40" width="1603" height="1013" extended-state="0" />
-    <editor active="true" />
+    <frame x="127" y="64" width="1603" height="1013" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24984026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47540984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -488,11 +400,101 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#38#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/l10n/app_en.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#ReleaseNotePage#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/documents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="64" column="62" selection-start-line="64" selection-start-column="62" selection-end-line="64" selection-end-column="62" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="151" column="5" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/view-documents-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="e#13#90#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/views/view-buy-page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="81" selection-start-line="16" selection-start-column="65" selection-end-line="16" selection-end-column="81" />
+          <folding>
+            <element signature="e#13#94#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/l10n/app_zh-CN.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/l10n.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="144" column="17" selection-start-line="144" selection-start-column="17" selection-end-line="144" selection-end-column="17" />
+          <folding>
+            <element signature="e#1327#1631#0" expanded="true" />
+            <element signature="e#1340#1626#0" expanded="true" />
+            <element signature="e#1427#1460#0" expanded="true" />
+            <element signature="e#1493#1620#0" expanded="true" />
+            <element signature="e#1679#1984#0" expanded="true" />
+            <element signature="e#3526#3606#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/google-analytics.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -520,9 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
-          <folding>
-            <element signature="e#1114#1321#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -585,9 +584,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="66" selection-start-line="12" selection-start-column="66" selection-end-line="12" selection-end-column="66" />
-          <folding>
-            <element signature="e#13#94#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -595,9 +591,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="12" column="36" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="36" />
-          <folding>
-            <element signature="e#13#94#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -619,9 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.375">
           <caret line="49" column="14" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
-          <folding>
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,7 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,15 +710,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.4909091">
           <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="116" />
-          <folding>
-            <element signature="e#1114#1321#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/app.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-94.375">
+        <state vertical-scroll-proportion="0.0">
           <caret line="151" column="5" selection-start-line="151" selection-start-column="5" selection-end-line="151" selection-end-column="5" />
           <folding />
         </state>
@@ -738,7 +723,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/buy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.5">
+        <state vertical-scroll-proportion="0.0">
           <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="25" />
           <folding />
         </state>
@@ -756,7 +741,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/documents.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-17.083334">
+        <state vertical-scroll-proportion="0.0">
           <caret line="64" column="62" selection-start-line="64" selection-start-column="62" selection-end-line="64" selection-end-column="62" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="true" />
@@ -768,7 +753,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/l10n/app_zh-CN.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5769231">
+        <state vertical-scroll-proportion="0.0">
           <caret line="74" column="43" selection-start-line="74" selection-start-column="43" selection-end-line="74" selection-end-column="43" />
           <folding />
         </state>
@@ -776,7 +761,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/l10n/app_en.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.40125">
+        <state vertical-scroll-proportion="0.41375">
           <caret line="159" column="51" selection-start-line="159" selection-start-column="51" selection-end-line="159" selection-end-column="51" />
           <folding>
             <element signature="n#!!block;n#ReleaseNotePage#0;n#!!top" expanded="false" />

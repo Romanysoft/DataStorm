@@ -1,6 +1,6 @@
 {
     "TopBar": {
-        "Home": "Accueil",
+        "Home": "Page d'accueil",
         "Feature": "Fonctionnalité",
         "Documents": "Documents",
         "ReleaseNotes": "Notes de version",
@@ -12,7 +12,7 @@
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "App très utile. Pour Windows, Linux, MacOSX.",
+        "ProjectTagline": "App très utile. Convient pour système d'exploitation Windows, Linux, MacOSX.",
         "BtnDownload": "Essai gratuit",
         "BtnBuy": "Achat",
         "Screens": [
@@ -68,7 +68,7 @@
                 "videos": [
                     {
                         "description": "Sortie de fichier csv, le réglage du séparateur. (défaut: ',')",
-                        "url": "Vidéos / docs / it2csv_separator.mp4"
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
@@ -78,7 +78,7 @@
                 "videos": [
                     {
                         "description": "Sortie de fichier csv, la mise en champ de tri.",
-                        "url": "Vidéos / docs / it2csv_sortFields.mp4"
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
@@ -88,17 +88,17 @@
                 "videos": [
                     {
                         "description": "Fichier csv de sortie, gérer le format de fichier complexe.",
-                        "url": "Vidéos / docs / it2csv_useComplexJSONEngine.mp4"
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version",
+        "labelVersion": "Numéro de version",
         "list": [
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -145,10 +145,10 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version",
+        "labelVersion": "Numéro de version",
         "list": [
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "zipList": [
                     {
                         "osUrl": "{{images/download/win32.png}}",
@@ -189,9 +189,21 @@
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -204,6 +216,12 @@
                 "logo": "{{images/buy/mas.png}}",
                 "price": "{{$19.99}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
             },
             {
                 "name": "{{DataStorm for linux}}",

@@ -141,38 +141,38 @@
         "labelVersion": "版本",
         "list": [
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "zipList": [
-                    {
-                        "osUrl": "{{images/download/win32.png}}",
-                        "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
-                        "size": "{{57.1MB}}",
-                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
-                    },
-                    {
-                        "osUrl": "{{images/download/win32.png}}",
-                        "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
-                        "size": "{{67.4MB}}",
-                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
-                    },
-                    {
-                        "osUrl": "{{images/download/osx.png}}",
-                        "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
-                        "size": "{{16.8MB}}",
-                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
-                    },
-                    {
-                        "osUrl": "{{images/download/linux.png}}",
-                        "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
-                        "size": "{{56.2MB}}",
-                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
-                    },
-                    {
-                        "osUrl": "{{images/download/linux.png}}",
-                        "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
-                        "size": "{{56.7MB}}",
-                        "downURL": "{{http://pan.baidu.com/s/1kUgfKl5}}"
-                    }
+                  {
+                    "osUrl": "{{images/download/win32.png}}",
+                    "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
+                    "size": "{{57.1MB}}",
+                    "downURL": "{{http://www.filefactory.com/file/2cy636dpxqbp/DataStorm-v4.19-win32-x86-setup.exe}}"
+                  },
+                  {
+                    "osUrl": "{{images/download/win32.png}}",
+                    "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
+                    "size": "{{67.4MB}}",
+                    "downURL": "{{http://www.filefactory.com/file/601ct631n9zl/DataStorm-v4.19-win32-x64-setup.exe}}"
+                  },
+                  {
+                    "osUrl": "{{images/download/osx.png}}",
+                    "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
+                    "size": "{{16.8MB}}",
+                    "downURL": "{{http://www.filefactory.com/file/5yela90xzzjl/DataStorm-v4.19.0-darwin-x64.zip}}"
+                  },
+                  {
+                    "osUrl": "{{images/download/linux.png}}",
+                    "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
+                    "size": "{{56.2MB}}",
+                    "downURL": "{{http://www.filefactory.com/file/417plpunvb8z/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
+                  },
+                  {
+                    "osUrl": "{{images/download/linux.png}}",
+                    "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
+                    "size": "{{56.7MB}}",
+                    "downURL": "{{http://www.filefactory.com/file/b6s0exrgmdl/DataStorm-v4.19-linux-x64-install.tar.gz}}"
+                  }
                 ]
             }
         ]

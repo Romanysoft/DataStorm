@@ -1,6 +1,6 @@
 {
     "TopBar": {
-        "Home": "Tsev",
+        "Home": "Home Page",
         "Feature": "Feature",
         "Documents": "Cov ntaub ntawv",
         "ReleaseNotes": "ReleaseNotes",
@@ -12,7 +12,7 @@
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Heev pab App. Rau lub qhov rais, Linux, MacOSX.",
+        "ProjectTagline": "Heev pab App. Haum rau lub qhov rais, Linux, MacOSX operating system.",
         "BtnDownload": "Dawb Mus sib hais",
         "BtnBuy": "Purchase",
         "Screens": [
@@ -68,7 +68,7 @@
                 "videos": [
                     {
                         "description": "Tso zis csv ntaub ntawv, qhov chaw kawm lub separator. (neej ntawd hais: ',')",
-                        "url": "cov yeeb yaj duab / docs / it2csv_separator.mp4"
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
@@ -78,7 +78,7 @@
                 "videos": [
                     {
                         "description": "Tso zis csv ntaub ntawv, qhov chaw kawm tsi teb.",
-                        "url": "cov yeeb yaj duab / docs / it2csv_sortFields.mp4"
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
@@ -88,17 +88,17 @@
                 "videos": [
                     {
                         "description": "Tso zis csv ntaub ntawv, ko lub complex cov hom ntaub ntawv.",
-                        "url": "cov yeeb yaj duab / docs / it2csv_useComplexJSONEngine.mp4"
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version",
+        "labelVersion": "Version Number",
         "list": [
             {
-                "version": "4,19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -145,10 +145,10 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version",
+        "labelVersion": "Version Number",
         "list": [
             {
-                "version": "4,19",
+                "version": "{{4.19}}",
                 "zipList": [
                     {
                         "osUrl": "{{images/download/win32.png}}",
@@ -189,9 +189,21 @@
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -204,6 +216,12 @@
                 "logo": "{{images/buy/mas.png}}",
                 "price": "{{$19.99}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99 RMB}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
