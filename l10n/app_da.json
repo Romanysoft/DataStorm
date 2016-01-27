@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Feature",
-        "Documents": "Dokumenter",
-        "ReleaseNotes": "Udgivelses noter",
+        "Home": "Hjem",
+        "Feature": "Egenskaber",
+        "Documents": "Fil",
+        "ReleaseNotes": "Release Notes",
         "Downloads": "Gratis prøveversion",
         "Buy": "Købe",
-        "Roadmap": "RoadMap",
-        "ReportIssue": "Rapport Problem",
+        "Roadmap": "Produktlinje",
+        "ReportIssue": "Issue",
         "Languages": "Sprog"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Meget nyttig App. Egnet til Windows, Linux, MacOSX operativsystem.",
+        "ProjectTagline": "Konvertering af data mellem forskellige formater, støtte til Windows, Linux og MacOSX operativsystemer.",
         "BtnDownload": "Gratis prøveversion",
-        "BtnBuy": "Køb",
+        "BtnBuy": "Købe",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Hovedtræk",
+            "SectionName": "Produkt hovedtræk",
             "list": [
-                "Konverter mellem JSON, XML, CSV, PLIST, INI, .properties (java) og YML (YAML), fra et format til et andet.",
-                "Support Batch konvertering.",
-                "Support konvertering brugerdefinerede indstillinger.",
-                "Støttekomplekset indhold filformat",
-                "Multi-language support (Oversat af Datastorm)."
+                "Støtte til JSON, konvertering XML, CSV, PLIST, INI, de .properties og Yang Ming Marine Transport (YAML) fil data.",
+                "Support batch konvertering",
+                "Support parametre tilpasse konvertering",
+                "Støtte til komplekse datafil håndtering, især konvertere CSV-filer til indlejrede JSON",
+                "Støtte konvertere til CSV, CSV felter sæt sortering og delimiter indstillinger",
+                "Multi-language support (ved hjælp TryToTranslate værktøj til at oversætte)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Vidunderlige ting folk siger om det",
+            "SectionName": "Tag et kig på, hvad vi siger",
             "list": [
                 {
-                    "reviewContent": "Datastorm er forbløffende. Enkel. Ren. Perfektionere. Godt gået.",
+                    "reviewContent": "Datastorm er stor. Enkel, ren, perfekt. Pænt gjort.",
                     "userName": "evanw",
-                    "professional": "Teknologi Evangelist"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "Datastorm er, hvad jeg gør temmelig meget alle min skrivning i. Det er en stor lille app.",
+                    "reviewContent": "Datastorm er, hvad jeg gør næsten alle mine værktøjer, dette er en stor lille program.",
                     "userName": "Peter Bright",
-                    "professional": "Skribent på Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Hvis du har nogen interesse i datakonvertering, Datastorm er absolut værd at downloade.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer og Designer"
+                    "reviewContent": "Hvis du skal gøre datakonvertering, Datastorm er absolut værd at downloade.",
+                    "userName": "Lifehacker s",
+                    "professional": "Web-udviklere og designere"
                 },
                 {
-                    "reviewContent": "Jeg kan virkelig godt lide Datastorm, har bragt megen bekvemmelighed for mit arbejde.",
+                    "reviewContent": "Jeg kan virkelig godt lide Datastorm, gav mig en masse arbejde at bringe let.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP ramme udvikling"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Indstilling separator",
+                "section": "Udgang CSV - sæt separatorer",
                 "videos": [
                     {
-                        "description": "Output CSV-fil, indstilling af separatoren. (misligholdelse: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV output-filer, afgrænset CSV sæt metode (standard: '').",
+                        "url": "videoer / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Indstilling csv sorteringsfelter",
+                "section": "Udgang CSV - for at indstille den slags felt",
                 "videos": [
                     {
-                        "description": "Output CSV-fil, indstilling sortere felt.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV-fil output, indstille CSV felter for at sortere en enkel måde.",
+                        "url": "videoer / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Brug komplekse objekt motor",
+                "section": "Udgang CSV - indstilling motorer bruger komplekse objekter",
                 "videos": [
                     {
-                        "description": "Output CSV-fil, håndtere komplekse filformatet.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV-fil output, indstille motoren til at håndtere komplekse objekter ved hjælp af komplekse input filer. Standard: Open.",
+                        "url": "videoer / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Frigivelse",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Først udgivet."
+                        "content": "Første udgivelse"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Først udgivet."
+                        "content": "Første udgivelse"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Frigivelse",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Køb Way",
+        "SectionName": "Sådan køber du",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Tilgængelige sprog",
+        "SectionName": "Website Tilgængelige sprog",
         "ChangeAlert": "Komplet skifte sprog"
     }
 }

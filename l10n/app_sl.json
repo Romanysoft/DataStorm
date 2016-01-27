@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Domača stran",
-        "Feature": "Feature",
-        "Documents": "Dokumenti",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Brezplačen preizkus",
-        "Buy": "Kupi",
-        "Roadmap": "Načrtu",
-        "ReportIssue": "Poročilo Issue",
+        "Home": "Domov",
+        "Feature": "Lastnosti",
+        "Documents": "Datoteka",
+        "ReleaseNotes": "Opombe k izdaji",
+        "Downloads": "Free Trial",
+        "Buy": "Nakup",
+        "Roadmap": "Linija izdelkov",
+        "ReportIssue": "Vprašanje",
         "Languages": "Language"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Zelo uporabno App. Primerno za Windows, Linux, MacOSX operacijskega sistema.",
-        "BtnDownload": "Brezplačen preizkus",
+        "ProjectTagline": "Pretvorba podatkov med različnimi formati, podpora za operacijske sisteme Windows, Linux in MacOSX.",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Nakup",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Glavne značilnosti",
+            "SectionName": "Izdelek Glavne značilnosti",
             "list": [
-                "Pretvarjanje med JSON, XML, CSV, PLIST, INI, .properties (java) in YML (YAML), iz ene oblike v drugo.",
-                "Podpora Batch pretvorba.",
-                "Možnosti podpore pretvorba meri.",
-                "Podpora datotečni format kompleksna vsebina",
-                "Multi-language podpora (Prevedla DataStorm)."
+                "Podpora za JSON, pretvorbe XML, CSV, PLIST, INI, na .properties in Yang Ming morski promet podatkov (YAML) datotek.",
+                "Podpora serije pretvorbo",
+                "Podpora parametri pretvorbe customize",
+                "Podpora za kompleksno obravnavo datoteke podatkov, zlasti konvertaze CSV datoteke v ugnezdeni JSON",
+                "Podpora pretvorbo v CSV, CSV polja, ustanovljenega sortiranje in nastavitve Ločilo",
+                "Multi-language podpora (z uporabo TryToTranslate orodja za prevajanje)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Čudovite stvari ljudje govorijo o tem",
+            "SectionName": "Oglejte si, kaj nam govorijo",
             "list": [
                 {
-                    "reviewContent": "DataStorm je omamljanje. Enostavno. Čista. Popolna. Dobro opravljeno.",
+                    "reviewContent": "DataStorm je super. Preprosta, čista, popolna. Lepo opravljeno.",
                     "userName": "evanw",
-                    "professional": "Tehnologija Evangelist"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm je tisto, kar delam precej vse moje pisanje v. To je zelo malo app.",
+                    "reviewContent": "DataStorm je tisto, kar sem naredil skoraj vse svoje orodje, to je zelo malo aplikacij.",
                     "userName": "Peter Bright",
-                    "professional": "Pisatelj na Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Če imate kakršno koli zanimanje za pretvorbo podatkov, DataStorm je vsekakor vredno download.",
-                    "userName": "Priporočene povezave",
-                    "professional": "Web Developer in Designer"
+                    "reviewContent": "Če morate storiti pretvorbo podatkov, DataStorm je vsekakor vredno prenos.",
+                    "userName": "Priporočene je",
+                    "professional": "Spletni razvijalci in oblikovalci"
                 },
                 {
-                    "reviewContent": "Res mi je všeč DataStorm, je prinesla veliko udobje za moje delo.",
+                    "reviewContent": "Res mi je všeč DataStorm, mi je dal veliko dela, da bi lahko.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework razvijalce"
+                    "professional": "PHP okvir za razvoj"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Nastavitev separator",
+                "section": "Izhodna CSV - set separatorji",
                 "videos": [
                     {
-                        "description": "Izhodna csv datoteko, nastavite ločilo. (privzeto: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV izhodne datoteke CSV razmejena nastavite način (privzeto: '').",
+                        "url": "videos / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Nastavitev csv razvrščanje polja",
+                "section": "Izhodna CSV - Nastavite polje za urejanje",
                 "videos": [
                     {
-                        "description": "Izhodna csv datotek, nastavitev razvrščanja polje.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV datoteka izhod, nastaviti polja CSV rešiti preprost način.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Uporaba kompleks objekt motor",
+                "section": "Izhodna CSV - nastavitev motorji uporabljajo kompleksnih objektov",
                 "videos": [
                     {
-                        "description": "Izhodna csv datoteko, ročaj kompleksno obliko datoteke.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV datoteka izhod nastavite motor za obravnavanje kompleksnih objektov s pomočjo zapletenih vhodnih datotek. Privzeto: Odprti.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Verzija številka",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Prvič sproščeno."
+                        "content": "Prva objava"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Prvič sproščeno."
+                        "content": "Prva objava"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Verzija številka",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Nakup Way",
+        "SectionName": "Kako kupiti",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Razpoložljivi jeziki",
+        "SectionName": "Spletna stran Razpoložljivi jeziki",
         "ChangeAlert": "Popolna stikalo jezik"
     }
 }

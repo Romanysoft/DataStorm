@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Startpagina",
-        "Feature": "Feature",
-        "Documents": "Documenten",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Thuis",
+        "Feature": "Functies",
+        "Documents": "Bestand",
+        "ReleaseNotes": "Release Notes",
         "Downloads": "Free Trial",
-        "Buy": "Kopen",
-        "Roadmap": "Wegenkaart",
-        "ReportIssue": "Report Issue",
+        "Buy": "Aankoop",
+        "Roadmap": "Productlijn",
+        "ReportIssue": "Uitgifte",
         "Languages": "Taal"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Zeer nuttig App. Geschikt voor Windows, Linux, MacOSX besturingssysteem.",
+        "ProjectTagline": "Data conversie tussen verschillende formaten, ondersteuning voor Windows, Linux en MacOSX besturingssystemen.",
         "BtnDownload": "Free Trial",
         "BtnBuy": "Aankoop",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Hoofdlijnen",
+            "SectionName": "Product belangrijkste kenmerken",
             "list": [
-                "Zet tussen JSON, XML, CSV, PLIST, INI, .properties (Java) en YML (YAML), van het ene formaat naar het andere.",
-                "Ondersteuning Batch conversie.",
-                "Ondersteuning conversie aangepaste opties.",
-                "Ondersteuning complexe inhoud bestandsformaat",
-                "Ondersteuning voor meerdere talen (Vertaald door DataStorm)."
+                "Ondersteuning voor JSON, conversie XML, CSV, PLIST, INI, de .properties en Yang Ming Marine Transport (YAML) file data.",
+                "Ondersteuning batch conversie",
+                "Ondersteuning aanpassen conversieparameters",
+                "Ondersteuning voor complexe data file handling, vooral het omzetten van CSV-bestanden in geneste JSON",
+                "Ondersteuning converteren naar CSV, CSV velden set sorteren en begrenzer instellingen",
+                "Ondersteuning voor meerdere talen (met behulp TryToTranslate hulpmiddel om te vertalen)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Prachtige dingen mensen zeggen over",
+            "SectionName": "Neem een ​​kijkje op wat we zeggen",
             "list": [
                 {
-                    "reviewContent": "DataStorm is prachtig. Eenvoudig. Schoon. Perfect. Goed gedaan.",
+                    "reviewContent": "DataStorm is geweldig. Eenvoudig, schoon, perfect. Mooi gedaan.",
                     "userName": "evanw",
-                    "professional": "Technology Evangelist"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm is wat ik doe vrijwel alle van mijn schrijven in. Het is een geweldige kleine app.",
+                    "reviewContent": "DataStorm is wat ik doe bijna al mijn gereedschap, dit is een geweldige kleine applicatie.",
                     "userName": "Peter Bright",
-                    "professional": "Schrijver op Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Als je interesse hebt in het omzetten van gegevens, DataStorm is zeker een download waard.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer en Designer"
+                    "reviewContent": "Als u nodig hebt om data conversie doen, DataStorm is zeker het downloaden waard.",
+                    "userName": "Lifehacker's",
+                    "professional": "Web-ontwikkelaars en ontwerpers"
                 },
                 {
-                    "reviewContent": "Ik hou echt DataStorm, bracht veel gemak voor mijn werk.",
+                    "reviewContent": "Ik hou echt DataStorm, gaf me een hoop werk makkelijk mee te nemen.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP framework ontwikkeling"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Omgeving separator",
+                "section": "Uitgang CSV - set separatoren",
                 "videos": [
                     {
-                        "description": "Uitgang csv-bestand, het instellen van de afscheider. (standaard: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV output bestanden, CSV afgebakend beschreven methode (standaard: '').",
+                        "url": "videos / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Instellen csv soort velden",
+                "section": "Uitgang CSV - om het veld sort ingesteld",
                 "videos": [
                     {
-                        "description": "Uitgang csv-bestand, het instellen van een soort veld.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV-bestand output, stel de CSV velden om op een eenvoudige manier te sorteren.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Gebruik complex object motor",
+                "section": "Uitgang CSV - het instellen van de motoren gebruik maken van complexe objecten",
                 "videos": [
                     {
-                        "description": "Uitgang csv-bestand, omgaan met de complexe bestandsformaat.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV-bestand uitgang, stelt de motor om complexe objecten te behandelen met behulp van complexe input-bestanden. Standaard: Open.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Versie Aantal",
+        "labelVersion": "Vrijlating",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Voor het eerst uitgebracht."
+                        "content": "Eerste release"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Voor het eerst uitgebracht."
+                        "content": "Eerste release"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Versie Aantal",
+        "labelVersion": "Vrijlating",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Buy Way",
+        "SectionName": "Hoe om te kopen",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Beschikbare talen",
+        "SectionName": "Website Beschikbare talen",
         "ChangeAlert": "Compleet taalswitch"
     }
 }

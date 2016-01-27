@@ -1,18 +1,18 @@
 {
     "TopBar": {
         "Home": "主頁",
-        "Feature": "特性",
+        "Feature": "功能特性",
         "Documents": "文檔",
         "ReleaseNotes": "發行說明",
         "Downloads": "免費試用",
         "Buy": "購買",
-        "Roadmap": "路線",
-        "ReportIssue": "提交問題",
+        "Roadmap": "產品路線",
+        "ReportIssue": "問題",
         "Languages": "語言"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "非常實用的應用程序，適合在Windows，Linux 和MacOSX 操作系統上使用。",
+        "ProjectTagline": "多種格式數據相互轉換，支持Windows，Linux及MacOSX操作系統。",
         "BtnDownload": "免費試用",
         "BtnBuy": "採購",
         "Screens": [
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "主要特點",
+            "SectionName": "產品主要功能特性",
             "list": [
                 "支持JSON，XML，CSV，PLIST，INI，的.properties和陽明海運（YAML）文件數據之間的轉換。",
                 "支持批量轉換",
@@ -99,6 +99,15 @@
         "labelVersion": "版本",
         "list": [
             {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
+            {
                 "version": "{{4.20}}",
                 "list": [
                     {
@@ -165,6 +174,29 @@
     "VersionPage": {
         "labelVersion": "版本",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [

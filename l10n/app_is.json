@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Lögun",
-        "Documents": "Skjöl",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Ókeypis prufa",
-        "Buy": "Kaupa",
-        "Roadmap": "Vegamaður",
-        "ReportIssue": "Tilkynna vandamál",
+        "Home": "Home",
+        "Feature": "Features",
+        "Documents": "File",
+        "ReleaseNotes": "Release Notes",
+        "Downloads": "Free Trial",
+        "Buy": "Purchase",
+        "Roadmap": "Vöruframboð",
+        "ReportIssue": "Issue",
         "Languages": "Tungumál"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Mjög gagnlegt App. Hentar fyrir Windows, Linux, MacOSX stýrikerfinu.",
-        "BtnDownload": "Ókeypis prufa",
+        "ProjectTagline": "Gögn viðskipta milli mismunandi snið, stuðning fyrir Windows, Linux og MacOSX stýrikerfum.",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Purchase",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Helstu eiginleikar",
+            "SectionName": "Vara Helstu eiginleikar",
             "list": [
-                "Umbreyta á milli JSON, XML, CSV, plist, INI, .properties (Java) og YML (Yaml), frá einu sniði yfir á annað.",
-                "Stuðningur hópur ummyndun.",
-                "Stuðningur viðskipti sérsniðin valkosti.",
-                "Stuðningur flókið efni skráarsnið",
-                "Multi-tungumál styðja (Þýtt af DataStorm)."
+                "Stuðningur við JSON, ummyndun XML, CSV, plist, ini, á .properties og Yang Ming Marine Transport (Yaml) skrá gögn.",
+                "Stuðningur hópur ummyndun",
+                "Stuðningur Aðlaga viðskipti breytur",
+                "Stuðningur við flókin gögn skrá meðhöndlun, sérstaklega umbreyta CSV skrá inn hreiður JSON",
+                "Stuðningur umbreyta til CSV, CSV sviðum sett flokkun og skiltákn stillingar",
+                "Multi-tungumál styðja (með TryToTranslate tól til að þýða)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Frábæra hluti fólk er að segja um það",
+            "SectionName": "Taka a líta á það sem við erum að segja",
             "list": [
                 {
-                    "reviewContent": "DataStorm er töfrandi. Einfalt. Clean. Perfect. Vel gert.",
+                    "reviewContent": "DataStorm er mikill. Einföld, hreinn, fullkominn. Fallega gert.",
                     "userName": "evanw",
-                    "professional": "Tækni Evangelist"
+                    "professional": "Gagnagrunnur Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm er það sem ég geri nánast öll ræðu í. Það er a mikill lítill app.",
+                    "reviewContent": "DataStorm er það sem ég geri næstum allt verkfæri mitt, þetta er a mikill lítill forrit.",
                     "userName": "Peter Bright",
-                    "professional": "Writer á Ars Technica"
+                    "professional": "Próf Verkfræðingur"
                 },
                 {
-                    "reviewContent": "Ef þú hefur áhuga á vefhegðunargögn, DataStorm er sannarlega þess virði að sækja.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer og Designer"
+                    "reviewContent": "Ef þú þarft að gera vefhegðunargögn, DataStorm er sannarlega þess virði að sækja.",
+                    "userName": "Lifehacker er",
+                    "professional": "Vefur verktaki og hönnuðir"
                 },
                 {
-                    "reviewContent": "ÉG raunverulega eins DataStorm, hefur fært mikið þægindi fyrir vinnu mína.",
+                    "reviewContent": "ÉG raunverulega eins DataStorm, gaf mér mikið af vinnu til að koma auðvelt.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP ramma þróun"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Setting skilju",
+                "section": "Output CSV - setja skiljur",
                 "videos": [
                     {
-                        "description": "Output csv skrá, setja skilju. (sjálfgefið: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV framleiðsla skrá, CSV afmarkast setja aðferð (Sjálfgefið: '').",
+                        "url": "myndbönd / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Setja CSV raða sviðum",
+                "section": "Output CSV - til að stilla sort sviði",
                 "videos": [
                     {
-                        "description": "Output CSV skrá, setja raða sviði.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV skrá framleiðsla, setja CSV sviðum til að raða á einfaldan hátt.",
+                        "url": "myndbönd / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Nota flókin hlut vél",
+                "section": "Output CSV - stilling vélar nota flókin hluti",
                 "videos": [
                     {
-                        "description": "Output CSV skrá, séð um flókna sniði.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV skrá framleiðsla, stilla vél til að sinna flóknum hlutum með flóknum inntak skrá. Default: Open.",
+                        "url": "myndbönd / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version Fjöldi",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Fyrst gefið út."
+                        "content": "Fyrsta útgáfa"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Fyrst gefið út."
+                        "content": "Fyrsta útgáfa"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version Fjöldi",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Kaupa Way",
+        "SectionName": "Hvernig á að kaupa",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Laus Tungumál",
+        "SectionName": "Vefsíða Laus Tungumál",
         "ChangeAlert": "Complete skipta tungumál"
     }
 }

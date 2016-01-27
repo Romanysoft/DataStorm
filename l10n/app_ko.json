@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "홈 페이지",
-        "Feature": "특색",
-        "Documents": "서류",
-        "ReleaseNotes": "릴리즈 노트",
-        "Downloads": "무료 시험판",
-        "Buy": "사기",
-        "Roadmap": "할일 : 개발 예정표",
-        "ReportIssue": "문제 신고",
+        "Home": "홈",
+        "Feature": "특징",
+        "Documents": "파일",
+        "ReleaseNotes": "릴리스 노트",
+        "Downloads": "무료 평가판",
+        "Buy": "매수",
+        "Roadmap": "제품 라인",
+        "ReportIssue": "문제",
         "Languages": "언어"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "매우 유용한 응용 프로그램. 윈도우, 리눅스,에서라도 운영 체제에 적합합니다.",
-        "BtnDownload": "무료 시험판",
+        "ProjectTagline": "다양한 형식 간의 데이터 변환, 윈도우, 리눅스,에서라도 운영 체제에 대한 지원.",
+        "BtnDownload": "무료 평가판",
         "BtnBuy": "매수",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "주요 특징",
+            "SectionName": "제품 주요 특징",
             "list": [
-                "한 형식에서 다른, JSON, XML, CSV, PLIST, INI, .properties 파일 (자바)와 YML (YAML) 사이의 변환합니다.",
-                "지원 일괄 변환.",
-                "지원 변환 사용자 정의 옵션.",
-                "지원 복잡한 내용 파일 형식",
-                "(DataStorm에 의해 번역) 다중 언어를 지원합니다."
+                "JSON, 변환, XML, CSV, PLIST, INI, .properties 파일과 양밍 해운 (YAML) 파일 데이터를 지원합니다.",
+                "지원 일괄 변환",
+                "지원 사용자 정의 변환 매개 변수",
+                "특히 중첩 된 JSON으로 CSV 파일을 변환 복잡한 데이터 파일 처리에 대한 지원",
+                "지원, CSV로 변환 CSV 필드는 정렬 및 구분 설정 세트",
+                "다국어 지원 (번역 TryToTranslate 도구를 사용하여)."
             ]
         },
         "UserReviews": {
-            "SectionName": "사람들이 그것에 대해 말하는 멋진 물건",
+            "SectionName": "우리가 무슨 말을 살펴 보자",
             "list": [
                 {
-                    "reviewContent": "DataStorm은 충격적이다. 단순한. 깨끗한. 완전한. 잘 했어.",
+                    "reviewContent": "DataStorm은 중대하다. 완벽한, 청소, 간단한. 멋지게 수행.",
                     "userName": "evanw",
-                    "professional": "기술 책임자"
+                    "professional": "데이터베이스 관리자"
                 },
                 {
-                    "reviewContent": "DataStorm 내가 거의 모든 내 글을 쓰는 할 것입니다. 그것은 좋은 작은 응용 프로그램입니다.",
+                    "reviewContent": "DataStorm이 좋은 작은 응용 프로그램입니다 제가 거의 내 모든 도구를 할 수 있습니다.",
                     "userName": "피터 밝은",
-                    "professional": "아스 테크니카에서 작가"
+                    "professional": "테스트 엔지니어"
                 },
                 {
-                    "reviewContent": "당신은 데이터 변환에 관심이 있다면, DataStorm 확실히 다운로드 가치가있다.",
-                    "userName": "Lifehacker에",
-                    "professional": "웹 개발자 및 디자이너"
+                    "reviewContent": "당신은 데이터 변환을 수행해야하는 경우, DataStorm 확실히 다운로드 가치가있다.",
+                    "userName": "Lifehacker에의",
+                    "professional": "웹 개발자와 디자이너"
                 },
                 {
-                    "reviewContent": "정말 DataStorm처럼, 내 작품에 대한 많은 편리함을 가져왔다.",
+                    "reviewContent": "정말 DataStorm 같은, 쉽게 가지고 나에게 많은 일을했다.",
                     "userName": "jeruss",
-                    "professional": "PHP 프레임 워크 개발자"
+                    "professional": "PHP 프레임 워크 개발"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - 설정 분리기",
+                "section": "출력 CSV - 세트 분리",
                 "videos": [
                     {
-                        "description": "출력 CSV 파일을 분리 설정. (태만: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV 출력 파일, CSV는 방법 설정으로 구분 된 (기본값 : '').",
+                        "url": "동영상 / 문서 / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV는 - CSV 정렬 필드를 설정",
+                "section": "출력 CSV는 - 정렬 필드를 설정합니다",
                 "videos": [
                     {
-                        "description": "출력 csv 파일, 정렬 필드를 설정.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV 파일 출력, 간단한 방법을 정렬하려면 CSV 필드를 설정합니다.",
+                        "url": "동영상 / 문서 / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV -를 사용하여 복잡한 객체 엔진",
+                "section": "출력 CSV - 설정 엔진은 복잡한 객체를 사용",
                 "videos": [
                     {
-                        "description": "출력 CSV 파일, 복잡한 파일 형식을 처리합니다.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV 파일 출력, 복잡한 입력 파일을 사용하여 복잡한 오브젝트를 처리하기 위해 엔진을 설정한다. 기본값 : 엽니 다.",
+                        "url": "동영상 / 문서 / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "버전 번호",
+        "labelVersion": "해제",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "첫 번째 발표했다."
+                        "content": "첫 번째 릴리스"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "첫 번째 발표했다."
+                        "content": "첫 번째 릴리스"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "버전 번호",
+        "labelVersion": "해제",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -242,20 +275,26 @@
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "사용 가능한 언어",
+        "SectionName": "웹 사이트 사용 가능한 언어",
         "ChangeAlert": "전체 언어 변경"
     }
 }

@@ -1,294 +1,324 @@
 {
-  "TopBar": {
-    "Home": "Home Page",
-    "Feature": "Feature",
-    "Documents": "Documents",
-    "ReleaseNotes": "ReleaseNotes",
-    "Downloads": "Free Trial",
-    "Buy": "Buy",
-    "Roadmap": "RoadMap",
-    "ReportIssue": "Report Issue",
-    "Languages": "Language"
-  },
-  "Footer": {
-  },
-  "HomePage": {
-    "ProjectTagline": "Very useful App. Suitable for Windows, Linux, MacOSX operating system.",
-    "BtnDownload": "Free Trial",
-    "BtnBuy": "Purchase",
-    "Screens": [
-      "{{images/screens/common/c1.jpg}}",
-      "{{images/screens/common/c2.jpg}}",
-      "{{images/screens/common/c3.jpg}}",
-      "{{images/screens/common/c4.jpg}}",
-      "{{images/screens/common/c5.jpg}}",
-      "{{images/screens/common/c6.jpg}}"
-    ],
-    "Features": {
-      "SectionName": "Main Features",
-      "list": [
-        "Convert between JSON, XML, CSV, PLIST, INI, .properties(java) and YML (YAML) , from one format to another.",
-        "Support Batch conversion.",
-        "Support conversion custom options.",
-        "Support complex content file format",
-        "Multi-language support (Translated by DataStorm)."
-      ]
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Documents": "File",
+        "ReleaseNotes": "Release Notes",
+        "Downloads": "Free Trial",
+        "Buy": "buy",
+        "Roadmap": "Product line",
+        "ReportIssue": "problem",
+        "Languages": "Language"
     },
-    "UserReviews": {
-      "SectionName": "Wonderful things people are saying about it",
-      "list": [
-        {
-          "reviewContent": "DataStorm is stunning. Simple. Clean. Perfect. Well done.",
-          "userName": "evanw ",
-          "professional": "Technology Evangelist"
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Data conversion between various formats, support for Windows, Linux and MacOSX operating systems.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "purchase",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}",
+            "{{images/screens/common/c4.jpg}}",
+            "{{images/screens/common/c5.jpg}}",
+            "{{images/screens/common/c6.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Product main features",
+            "list": [
+                "Support for JSON, conversion XML, CSV, PLIST, INI, the .properties and Yang Ming Marine Transport (YAML) file data.",
+                "Support batch conversion",
+                "Support customize conversion parameters",
+                "Support for complex data file handling, especially converting CSV files into nested JSON",
+                "Support converting to CSV, CSV fields set sorting and delimiter settings",
+                "Multi-language support (using TryToTranslate tool to translate)."
+            ]
         },
-        {
-          "reviewContent": "DataStorm is what I do pretty much all of my writing in. It's a great little app.",
-          "userName": "Peter Bright ",
-          "professional": "Writer at Ars Technica"
-        },
-        {
-          "reviewContent": "If you have any interest in data conversion, DataStorm is definitely worth a download.",
-          "userName": "LifeHacker ",
-          "professional": "Web Developer and Designer"
-        },
-        {
-          "reviewContent": "I really like DataStorm, has brought much convenience for my work.",
-          "userName": "jeruss ",
-          "professional": "PHP Framework Developer"
+        "UserReviews": {
+            "SectionName": "Take a look at what we are saying",
+            "list": [
+                {
+                    "reviewContent": "DataStorm is great. Simple, clean, perfect. Nicely done.",
+                    "userName": "evanw",
+                    "professional": "Database Administrator"
+                },
+                {
+                    "reviewContent": "DataStorm is what I do almost all my tools, this is a great little application.",
+                    "userName": "Peter Bright",
+                    "professional": "Test Engineer"
+                },
+                {
+                    "reviewContent": "If you need to do data conversion, DataStorm is definitely worth the download.",
+                    "userName": "Lifehacker's",
+                    "professional": "Web developers and designers"
+                },
+                {
+                    "reviewContent": "I really like DataStorm, gave me a lot of work to bring easy.",
+                    "userName": "jeruss",
+                    "professional": "PHP framework development"
+                }
+            ]
         }
-      ]
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+            {
+                "hrefID": "{{it2csv_separator}}",
+                "section": "Output CSV - set separators",
+                "videos": [
+                    {
+                        "description": "CSV output files, CSV delimited set method (default: '').",
+                        "url": "videos / docs / it2csv_separator.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_sortFields}}",
+                "section": "Output CSV - to set the sort field",
+                "videos": [
+                    {
+                        "description": "CSV file output, set the CSV fields to sort a simple way.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
+                    }
+                ]
+            },
+            {
+                "hrefID": "{{it2csv_useComplexJSONEngine}}",
+                "section": "Output CSV - setting engines use complex objects",
+                "videos": [
+                    {
+                        "description": "CSV file output, set the engine to handle complex objects using complex input files. Default: Open.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
+                    }
+                ]
+            }
+        ]
+    },
+    "ReleaseNotePage": {
+        "labelVersion": "version",
+        "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{4.20}}",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine menu event detection bug.}}"
+                    },
+                    {
+                        "platform": "{{Linux,Windows}}",
+                        "content": "{{[Bug] Fix open save dialog adding extendsion to filename when it shouldn't}}"
+                    },
+                    {
+                        "platform": "{{Linux,Windows}}",
+                        "content": "{{[Bug] Fix bad typing performance..}}"
+                    }
+                ]
+            },
+            {
+                "version": "4.19",
+                "list": [
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task contions is '&&' run error.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] Open the most recently used documents that use dock appliction icon, not normal to open}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Bug] NativeEngine process_task must run success, application can't launch.}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for complex object format(all support file format)}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for custom to csv}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Feature] (Transformation engine) Support for .ini format file}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Update] (Transformation engine) i18n update}}"
+                    },
+                    {
+                        "platform": "{{MacOSX}}",
+                        "content": "{{[Performance] (Transformation engine) use file stream aysnc.}}"
+                    },
+                    {
+                        "platform": "{{Windows}}",
+                        "content": "First release"
+                    },
+                    {
+                        "platform": "{{Linux}}",
+                        "content": "First release"
+                    }
+                ]
+            }
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "version",
+        "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{4.20}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.20-win32-x86-setup.exe}}",
+                        "size": "{{54.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6hpaqedybajl/DataStorm-v4.20-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.20-win32-x64-setup.exe}}",
+                        "size": "{{63.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5gj6ce7iiklp/DataStorm-v4.20-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.20-darwin-x64.zip}}",
+                        "size": "{{16.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5mg5nvuh3a81/DataStorm-v4.20.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.20-linux-ia32-install.tar.gz}}",
+                        "size": "{{53.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/11clewpzle0z/DataStorm-v4.20-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.20-linux-x64-install.tar.gz}}",
+                        "size": "{{54.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/3hyq8zui5s6b/DataStorm-v4.20-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
+            {
+                "version": "{{4.19}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2cy636dpxqbp/DataStorm-v4.19-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
+                        "size": "{{67.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/601ct631n9zl/DataStorm-v4.19-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
+                        "size": "{{16.8MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5yela90xzzjl/DataStorm-v4.19.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
+                        "size": "{{56.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/417plpunvb8z/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
+                        "size": "{{56.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/b6s0exrgmdl/DataStorm-v4.19-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Method of buying",
+        "list": [
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
+            },
+            {
+                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/mas.png}}",
+                "price": "{{$19.99}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/buy.png}}",
+                "price": "{{$15.99}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Website Available Languages",
+        "ChangeAlert": "Complete switch language"
     }
-  },
-  "FeaturePage": {
-  },
-  "DocumentsPage": {
-    "list": [
-      {
-        "hrefID": "{{it2csv_separator}}",
-        "section": "ToCSV - Setting separator",
-        "videos": [
-          {
-            "description": "Output csv file, setting the separator. (default: ',')",
-            "url": "{{videos/docs/it2csv_separator.mp4}}"
-          }
-        ]
-      },
-      {
-        "hrefID": "{{it2csv_sortFields}}",
-        "section": "ToCSV - Setting csv sort fields",
-        "videos": [
-          {
-            "description": "Output csv file, setting sort field.",
-            "url": "{{videos/docs/it2csv_sortFields.mp4}}"
-          }
-        ]
-      },
-      {
-        "hrefID": "{{it2csv_useComplexJSONEngine}}",
-        "section": "ToCSV - Use complex object engine",
-        "videos": [
-          {
-            "description": "Output csv file, handle the complex file format.",
-            "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
-          }
-        ]
-      }
-    ]
-  },
-  "ReleaseNotePage": {
-    "labelVersion": "Version Number ",
-    "list": [
-      {
-        "version": "{{4.20}}",
-        "list": [
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Bug] NativeEngine menu event detection bug.}}"
-          },
-          {
-            "platform": "{{Linux,Windows}}",
-            "content": "{{[Bug] Fix open save dialog adding extendsion to filename when it shouldn't}}"
-          },
-          {
-            "platform": "{{Linux,Windows}}",
-            "content": "{{[Bug] Fix bad typing performance..}}"
-          }
-        ]
-      },
-      {
-        "version": "{{4.19}}",
-        "list": [
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Bug] NativeEngine process_task contions is '&&' run error.}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Bug] Open the most recently used documents that use dock appliction icon, not normal to open}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Bug] NativeEngine process_task must run success, application can't launch.}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Feature] (Transformation engine) Support for complex object format(all support file format)}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Feature] (Transformation engine) Support for custom to csv}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Feature] (Transformation engine) Support for .ini format file}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Update] (Transformation engine) i18n update}}"
-          },
-          {
-            "platform": "{{MacOSX}}",
-            "content": "{{[Performance] (Transformation engine) use file stream aysnc.}}"
-          },
-          {
-            "platform": "{{Windows}}",
-            "content": "First released."
-          },
-          {
-            "platform": "{{Linux}}",
-            "content": "First released."
-          }
-        ]
-      }
-    ]
-  },
-  "VersionPage": {
-    "labelVersion": "Version Number",
-    "list": [
-      {
-        "version": "{{4.20}}",
-        "zipList": [
-          {
-            "osUrl": "{{images/download/win32.png}}",
-            "name": "{{DataStorm-v4.20-win32-x86-setup.exe}}",
-            "size": "{{54.1MB}}",
-            "downURL": "{{http://www.filefactory.com/file/6hpaqedybajl/DataStorm-v4.20-win32-x86-setup.exe}}"
-          },
-          {
-            "osUrl": "{{images/download/win32.png}}",
-            "name": "{{DataStorm-v4.20-win32-x64-setup.exe}}",
-            "size": "{{63.9.4MB}}",
-            "downURL": "{{http://www.filefactory.com/file/5gj6ce7iiklp/DataStorm-v4.20-win32-x64-setup.exe}}"
-          },
-          {
-            "osUrl": "{{images/download/osx.png}}",
-            "name": "{{DataStorm-v4.20-darwin-x64.zip}}",
-            "size": "{{16.1MB}}",
-            "downURL": "{{http://www.filefactory.com/file/5mg5nvuh3a81/DataStorm-v4.20.0-darwin-x64.zip}}"
-          },
-          {
-            "osUrl": "{{images/download/linux.png}}",
-            "name": "{{DataStorm-v4.20-linux-ia32-install.tar.gz}}",
-            "size": "{{53.7MB}}",
-            "downURL": "{{http://www.filefactory.com/file/11clewpzle0z/DataStorm-v4.20-linux-ia32-install.tar.gz}}"
-          },
-          {
-            "osUrl": "{{images/download/linux.png}}",
-            "name": "{{DataStorm-v4.20-linux-x64-install.tar.gz}}",
-            "size": "{{54.2MB}}",
-            "downURL": "{{http://www.filefactory.com/file/3hyq8zui5s6b/DataStorm-v4.20-linux-x64-install.tar.gz}}"
-          }
-        ]
-      },
-      {
-        "version": "{{4.19}}",
-        "zipList": [
-          {
-            "osUrl": "{{images/download/win32.png}}",
-            "name": "{{DataStorm-v4.19-win32-x86-setup.exe}}",
-            "size": "{{57.1MB}}",
-            "downURL": "{{http://www.filefactory.com/file/2cy636dpxqbp/DataStorm-v4.19-win32-x86-setup.exe}}"
-          },
-          {
-            "osUrl": "{{images/download/win32.png}}",
-            "name": "{{DataStorm-v4.19-win32-x64-setup.exe}}",
-            "size": "{{67.4MB}}",
-            "downURL": "{{http://www.filefactory.com/file/601ct631n9zl/DataStorm-v4.19-win32-x64-setup.exe}}"
-          },
-          {
-            "osUrl": "{{images/download/osx.png}}",
-            "name": "{{DataStorm-v4.19-darwin-x64.zip}}",
-            "size": "{{16.8MB}}",
-            "downURL": "{{http://www.filefactory.com/file/5yela90xzzjl/DataStorm-v4.19.0-darwin-x64.zip}}"
-          },
-          {
-            "osUrl": "{{images/download/linux.png}}",
-            "name": "{{DataStorm-v4.19-linux-ia32-install.tar.gz}}",
-            "size": "{{56.2MB}}",
-            "downURL": "{{http://www.filefactory.com/file/417plpunvb8z/DataStorm-v4.19-linux-ia32-install.tar.gz}}"
-          },
-          {
-            "osUrl": "{{images/download/linux.png}}",
-            "name": "{{DataStorm-v4.19-linux-x64-install.tar.gz}}",
-            "size": "{{56.7MB}}",
-            "downURL": "{{http://www.filefactory.com/file/b6s0exrgmdl/DataStorm-v4.19-linux-x64-install.tar.gz}}"
-          }
-        ]
-      }
-    ]
-  },
-  "BuyPage": {
-    "SectionName": "Buy Way",
-    "list": [
-      {
-        "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-        "logo": "{{images/buy/taobao.png}}",
-        "price": "{{99 RMB}}",
-        "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-      },
-      {
-        "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-        "logo": "{{images/buy/buy.png}}",
-        "price": "{{$15.99}}",
-        "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-      },
-      {
-        "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-        "logo": "{{images/buy/taobao.png}}",
-        "price": "{{99 RMB}}",
-        "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-      },
-      {
-        "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-        "logo": "{{images/buy/buy.png}}",
-        "price": "{{$15.99}}",
-        "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
-      },
-      {
-        "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
-        "logo": "{{images/buy/mas.png}}",
-        "price": "{{$19.99}}",
-        "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
-      },
-      {
-        "name": "{{DataStorm for linux}}",
-        "logo": "{{images/buy/taobao.png}}",
-        "price": "{{99 RMB}}",
-        "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-      },
-      {
-        "name": "{{DataStorm for linux}}",
-        "logo": "{{images/buy/buy.png}}",
-        "price": "{{$15.99}}",
-        "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
-      }
-    ]
-  },
-  "RoadMapPage": {
-  },
-  "LanguagesPage": {
-    "SectionName": "Available Languages",
-    "ChangeAlert": "Complete switch language"
-  }
 }

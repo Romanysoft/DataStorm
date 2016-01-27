@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "ഹോം പേജ്",
-        "Feature": "ഫീച്ചർ",
-        "Documents": "പ്രമാണങ്ങൾ",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "ഹോം",
+        "Feature": "സവിശേഷതകൾ",
+        "Documents": "പ്രമാണം",
+        "ReleaseNotes": "പ്രകാശനക്കുറിപ്പുകൾ",
         "Downloads": "സൗജന്യ ട്രയൽ",
-        "Buy": "വാങ്ങുക",
-        "Roadmap": "മി",
-        "ReportIssue": "പ്രശ്നം റിപ്പോർട്ട്",
+        "Buy": "വാങ്ങൽ",
+        "Roadmap": "ഉൽപ്പന്ന ലൈൻ",
+        "ReportIssue": "പ്രശ്നം",
         "Languages": "ഭാഷ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "വളരെ ഉപകാരപ്രദമായ അപ്ലിക്കേഷൻ. വിൻഡോസ്, ലിനക്സ്, MacOSX ഓപ്പറേറ്റിങ് സിസ്റ്റം അനുയോജ്യം.",
+        "ProjectTagline": "വിവിധ ഫോർമാറ്റുകൾ, വിൻഡോസ്, ലിനക്സ്, MacOSX ഓപ്പറേറ്റിങ് സിസ്റ്റങ്ങൾ വേണ്ടി പിന്തുണ തമ്മിലുള്ള ഡാറ്റാ പരിവർത്തന.",
         "BtnDownload": "സൗജന്യ ട്രയൽ",
         "BtnBuy": "വാങ്ങൽ",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "പ്രധാന സവിശേഷതകൾ",
+            "SectionName": "ഉൽപ്പന്ന പ്രധാന സവിശേഷതകൾ",
             "list": [
-                "ഒന്നു ഫോർമാറ്റിൽ മറ്റൊന്നായി ജെഎസ്ഒഎൻ, എക്സ്എംഎൽ, CSV, PLIST, എൻ, ആര്സ് (ജാവാ) തമ്മിലുള്ള YML (അധികവിവരങ്ങൾ) മതമായി.",
-                "പിന്തുണ ബാച്ച് പരിവർത്തന.",
-                "പരിവർത്തന ഇച്ഛാനുസൃത ഓപ്ഷനുകൾ പിന്തുണയ്ക്കുക.",
-                "സങ്കീർണ്ണമായ ഉള്ളടക്കം ഫയൽ ഫോർമാറ്റ് പിന്തുണ",
-                "(DataStorm വിവർത്തനം) മൾട്ടി-ഭാഷാ പിന്തുണ."
+                "ജെഎസ്ഒഎൻ, പരിവർത്തന എക്സ്എംഎൽ, CSV, PLIST, എൻ, ആര്സ് യാങ് മിങ് മറൈൻ ട്രാൻസ്പോർട്ട് (അധികവിവരങ്ങൾ) ഫയൽ ഡാറ്റ പിന്തുണ.",
+                "പിന്തുണ ബാച്ച് പരിവർത്തന",
+                "പിന്തുണ കസ്റ്റമൈസ് പരിവർത്തന പരാമീറ്ററുകൾ",
+                "പ്രത്യേകിച്ച് നെസ്റ്റ് ജെഎസ്ഒഎൻ കടന്നു CSV ഫയലുകൾ പരിവർത്തനം സങ്കീർണ്ണമായ വിവരങ്ങൾ ഫയൽ കൈകാര്യം ചെയ്യുന്നതിനുളള പിന്തുണ,",
+                "CSV- ലേക്ക് പരിവർത്തനം പിന്തുണ, CSV നിലങ്ങളും സോർട്ടിങ് സജ്ജമാക്കാനും ഡിലിമിറ്റർ ക്രമീകരണങ്ങൾ",
+                "(പരിഭാഷപ്പെടുത്താം TryToTranslate ടൂൾ ഉപയോഗിച്ച്) മൾട്ടി-ഭാഷാ പിന്തുണ."
             ]
         },
         "UserReviews": {
-            "SectionName": "അത്ഭുതമായി ആളുകൾ അതിനെ കുറിച്ച് പറയുന്നതെന്ന്",
+            "SectionName": "ഞങ്ങൾ എന്താണ് പറയുന്നതെന്ന് നോക്കുക",
             "list": [
                 {
-                    "reviewContent": "DataStorm കൈകളിലെത്തി. സിമ്പിൾ. ക്ലീൻ. സമഗ്രം. നന്നായി.",
+                    "reviewContent": "DataStorm വലിയ ആണ്. , ലളിതമായ വൃത്തിയുള്ള, തികഞ്ഞ. ഫലവുമുണ്ടാകുകയുമില്ല ചെയ്തതു.",
                     "userName": "evanw",
-                    "professional": "ടെക്നോളജി സുവിശേഷകനായ"
+                    "professional": "ഡാറ്റാബേസിൽ അഡ്മിനിസ്ട്രേറ്റർ"
                 },
                 {
-                    "reviewContent": "DataStorm ഞാൻ പ്രെറ്റി വളരെ എല്ലാ എന്റെ എഴുത്തിന്റെ എന്തു. അത് ഒരു വലിയ ചെറിയ അപ്ലിക്കേഷൻ തുടർന്ന്.",
+                    "reviewContent": "DataStorm ഞാൻ മിക്കവാറും എല്ലാ എന്റെ ഉപകരണങ്ങൾ എന്തു ഇത് ഒരു വലിയ ചെറിയ ആപ്ലിക്കേഷൻ ആണ്.",
                     "userName": "പീറ്റർ ബ്രൈറ്റ്",
-                    "professional": "ആഴ്സ് ടെക്നിക്കയിലെ എഴുത്തുകാരന്റെ"
+                    "professional": "ടെസ്റ്റ് എഞ്ചിനീയർ"
                 },
                 {
-                    "reviewContent": "നിങ്ങൾ ഡാറ്റ പരിവർത്തനത്തിന് യാതൊരു താത്പര്യവും ഉണ്ടെങ്കിൽ, DataStorm തീർച്ചയായും ഒരു ഡൗൺലോഡ് രൂപയുടെ.",
-                    "userName": "LifeHacker",
-                    "professional": "വെബ് ഡെവലപ്പർ ആൻഡ് ഡിസൈനർ"
+                    "reviewContent": "ഡാറ്റ പരിവർത്തന ചെയ്യാൻ വേണമെങ്കിൽ, DataStorm തീർച്ചയായും ഡൗൺലോഡ് രൂപയുടെ.",
+                    "userName": "Lifehacker ന്റെ",
+                    "professional": "വെബ് ഡെവലപ്പർമാർ രൂപകൽപ്പകരും"
                 },
                 {
-                    "reviewContent": "ഞാൻ ശരിക്കും DataStorm പോലെ, എന്റെ പ്രവൃത്തി വളരെ സൗകര്യത്തിനായി ഇറക്കിയിരിക്കുകയാണ്.",
+                    "reviewContent": "ഞാൻ ശരിക്കും DataStorm പോലുള്ള, എളുപ്പമുള്ള കൊണ്ടുവരുവാൻ എന്നോടു പണികളും കൊടുത്തു.",
                     "userName": "jeruss",
-                    "professional": "പി.എച്ച്.പി ഫ്രെയിംവർക്ക് ഡെവലപ്പർ"
+                    "professional": "പി.എച്ച്.പി ഫ്രെയിംവർക്ക് വികസനം"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - സജ്ജീകരിക്കുന്നു സെപ്പറേറ്റർ",
+                "section": "ഔട്ട്പുട്ട് CSV - സെറ്റ് വിഭാജികൾ",
                 "videos": [
                     {
-                        "description": "ഔട്ട്പുട്ട് CSV ഫയൽ, സെപ്പറേറ്റർ ക്രമീകരിക്കുന്നതിൽ. (സ്വതവേ: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV ഔട്ട്പുട്ട് ഫയലുകൾ, CSV നിർത്തി രീതി (സ്വതവേ: '') വേർതിരിച്ച.",
+                        "url": "വീഡിയോകൾ / ഡോക്സ് / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - സജ്ജീകരിക്കുന്നു csv അടുക്കുക നിലങ്ങളും",
+                "section": "ഔട്ട്പുട്ട് CSV - അടുക്കുക ഫീൽഡ് സജ്ജീകരിക്കാൻ",
                 "videos": [
                     {
-                        "description": "ഔട്ട്പുട്ട് CSV ഫയൽ, സോർട്ട് ഫീൽഡ് ക്രമീകരിക്കുന്നു.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV ഫയൽ ഔട്ട്പുട്ട്, ഒരു ലളിതമായ വഴി അടുക്കുന്നതിന് CSV നിലങ്ങളും നിർത്തി.",
+                        "url": "വീഡിയോകൾ / ഡോക്സ് / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - ഉപയോഗിക്കുക സങ്കീർണമായ വസ്തു എഞ്ചിൻ",
+                "section": "ഔട്ട്പുട്ട് CSV - setting എഞ്ചിനുകൾ സങ്കീർണ്ണ വസ്തുക്കളായ ഉപയോഗിക്കാൻ",
                 "videos": [
                     {
-                        "description": "ഔട്ട്പുട്ട് CSV ഫയൽ, സങ്കീർണ്ണമായ ഫയൽ ഫോർമാറ്റ് കൈകാര്യം.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV ഫയൽ ഔട്ട്പുട്ട്, സങ്കീർണ്ണമായ ഇൻപുട്ട് ഫയലുകൾ ഉപയോഗിച്ച് സങ്കീർണ്ണമായ വസ്തുക്കളായ കൈകാര്യം ചെയ്യാൻ എഞ്ചിൻ സജ്ജീകരിക്കുക. സ്വതേ: തുറക്കുക.",
+                        "url": "വീഡിയോകൾ / ഡോക്സ് / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "പതിപ്പ് നമ്പർ",
+        "labelVersion": "റിലീസ്",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "ആദ്യം പുറത്തിറക്കിയ."
+                        "content": "ആദ്യം റിലീസ്"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "ആദ്യം പുറത്തിറക്കിയ."
+                        "content": "ആദ്യം റിലീസ്"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "പതിപ്പ് നമ്പർ",
+        "labelVersion": "റിലീസ്",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "വേ വാങ്ങുക",
+        "SectionName": "എങ്ങനെ വാങ്ങാൻ",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ലഭ്യമായ ഭാഷകൾ",
+        "SectionName": "വെബ്സൈറ്റ് ലഭ്യമായ ഭാഷകൾ",
         "ChangeAlert": "പൂർത്തിയാക്കുക സ്വിച്ച് ഭാഷാ"
     }
 }

@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Главная страница",
-        "Feature": "Особенность",
-        "Documents": "Документы",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Домой",
+        "Feature": "Черты",
+        "Documents": "Файл",
+        "ReleaseNotes": "Примечания к выпуску",
         "Downloads": "Бесплатная пробная версия",
-        "Buy": "купить",
-        "Roadmap": "Дорожная карта",
-        "ReportIssue": "Сообщить выпуск",
+        "Buy": "Покупка",
+        "Roadmap": "Линия продуктов",
+        "ReportIssue": "Вопрос",
         "Languages": "Язык"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Очень полезное приложение. Подходит для операционной системы Windows, Linux, MacOSX.",
+        "ProjectTagline": "Преобразование данных между различными форматами, поддержка для операционных систем Windows, Linux и MacOSX.",
         "BtnDownload": "Бесплатная пробная версия",
         "BtnBuy": "Покупка",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Основные характеристики",
+            "SectionName": "Основные особенности продукта",
             "list": [
-                "Преобразование между JSON, XML, CSV, INI, PLIST, .properties (Java) и YML (YAML), из одного формата в другой.",
-                "Поддержка пакетного преобразования.",
-                "Поддержка преобразования пользовательские параметры.",
-                "Поддержка формата файлов комплекс Содержание",
-                "Поддержка нескольких языков (перевод DataStorm)."
+                "Поддержка JSON, XML преобразования, CSV, INI, PLIST, в .properties и Yang Ming Marine Transport данных (YAML) файлов.",
+                "Поддержка пакетного преобразования",
+                "Поддержка параметров преобразования Настройка",
+                "Поддержка для комплексной обработки файлов данных, особенно преобразования CSV-файлов в формате JSON вложенного",
+                "Поддержка преобразования в CSV, CSV поля сортировки набора и настройки разделитель",
+                "Поддержка нескольких языков (с помощью TryToTranslate инструмент, чтобы перевести)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Замечательные вещи, которые люди говорят о ней",
+            "SectionName": "Взгляните на то, что мы говорим,",
             "list": [
                 {
-                    "reviewContent": "DataStorm является ошеломляющим. Просто. Чистый. Отлично. Отлично сработано.",
+                    "reviewContent": "DataStorm велик. Простые, чистые, совершенным. Красиво сделано.",
                     "userName": "evanw",
-                    "professional": "Технология Евангелист"
+                    "professional": "Администратор базы данных"
                 },
                 {
-                    "reviewContent": "DataStorm, что я делаю почти все из моего письма в. Это отличный небольшое приложение.",
+                    "reviewContent": "DataStorm, что я делаю почти все мои инструменты, это большая небольшое приложение.",
                     "userName": "Питер Яркий",
-                    "professional": "Писатель в Ars Technica"
+                    "professional": "Инженер-испытатель"
                 },
                 {
-                    "reviewContent": "Если у вас есть интерес в преобразования данных, DataStorm, безусловно, стоит скачать.",
-                    "userName": "LifeHacker",
-                    "professional": "Веб-разработчик и дизайнер"
+                    "reviewContent": "Если вам нужно сделать преобразование данных, DataStorm, безусловно, стоит скачать.",
+                    "userName": "Lifehacker-х",
+                    "professional": "Веб-разработчики и дизайнеры"
                 },
                 {
-                    "reviewContent": "Мне очень нравится DataStorm, принес много удобство для моей работы.",
+                    "reviewContent": "Мне очень нравится DataStorm, дал мне много работы, чтобы принести легко.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Разработчик"
+                    "professional": "PHP рамки развития"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Окружение сепаратор",
+                "section": "Выход CSV - набор сепараторы",
                 "videos": [
                     {
-                        "description": "Выход CSV файл, установив разделитель. (по умолчанию: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "Выходные файлы CSV, CSV запятыми набор метод (по умолчанию: '').",
+                        "url": "видео / документы / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Установка CSV поля сортировки",
+                "section": "Выход CSV - установить поле сортировки",
                 "videos": [
                     {
-                        "description": "Выход CSV файл, установив сортировки поле.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV файл вывода, установите поля CSV для сортировки простой способ.",
+                        "url": "видео / документы / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Использование сложный объект двигателя",
+                "section": "Выход CSV - установление системы используют сложные объекты",
                 "videos": [
                     {
-                        "description": "Выходной файл CSV, обрабатывать сложный формат файла.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV файл вывода, установите двигатель для обработки сложных объектов с использованием сложных входных файлов. По умолчанию: Открыть.",
+                        "url": "видео / документы / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Номер версии",
+        "labelVersion": "Релиз",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Первый релиз."
+                        "content": "Первый релиз"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Первый релиз."
+                        "content": "Первый релиз"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Номер версии",
+        "labelVersion": "Релиз",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Купить Путь",
+        "SectionName": "Как купить",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Доступные Языки",
+        "SectionName": "Сайт Доступные Языки",
         "ChangeAlert": "Полный переключить язык"
     }
 }

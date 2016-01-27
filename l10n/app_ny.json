@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Home Page",
+        "Home": "Home",
         "Feature": "Mbali",
-        "Documents": "Zikalata",
-        "ReleaseNotes": "ReleaseNotes",
+        "Documents": "Wapamwamba",
+        "ReleaseNotes": "Kumasulidwa Mfundo",
         "Downloads": "Free Mlandu",
-        "Buy": "Kugula",
-        "Roadmap": "RoadMap",
-        "ReportIssue": "Nkhani Report",
+        "Buy": "Purchase",
+        "Roadmap": "Mankhwala mzere",
+        "ReportIssue": "Nkhani",
         "Languages": "Language"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Kwambiri App. Oyenera Mawindo, Linux, MacOSX ntchito bwinobwino.",
+        "ProjectTagline": "Data kutembenuka pakati m'njira zosiyanasiyana, kuthandiza Mawindo, Linux ndi MacOSX ntchito kachitidwe.",
         "BtnDownload": "Free Mlandu",
         "BtnBuy": "Purchase",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Main Mbali",
+            "SectionName": "Mankhwala zofunika",
             "list": [
-                "Atembenuke pakati JSON, XML, CSV, PLIST, INI, .properties (Java) ndi YML (YAML), kuchokera mtundu wina.",
-                "Support mtanda kutembenuka.",
-                "Support kutembenuka mwambo options.",
-                "Support zovuta okhutira wapamwamba mtundu",
-                "Mipikisano chinenero thandizo (Kumasulira ndi DataStorm)."
+                "Support kwa JSON, kutembenuka XML, CSV, PLIST, INI, ndi .properties ndi Yang Ming sitima Transport (YAML) wapamwamba deta.",
+                "Support mtanda kutembenuka",
+                "Support makonda kutembenuka magawo",
+                "Support kwa zovuta deta wapamwamba akuchitira, makamaka akatembenuka CSV owona mu Mathithiŵa JSON",
+                "Support akatembenuka kuti CSV, CSV minda anapereka kusanja ndi delimiter zoikamo",
+                "Mipikisano chinenero thandizo (ntchito TryToTranslate chida kumasulira)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Zinthu zodabwitsa anthu akunena za izo",
+            "SectionName": "Tione zimene tikulankhula",
             "list": [
                 {
-                    "reviewContent": "DataStorm ndi zidzasintha. Yosavuta. Oyera. Changwiro. Mwachita bwino.",
+                    "reviewContent": "DataStorm ndi wamkulu. Zambiri, woyera, wangwiro. Mwabwino anachita.",
                     "userName": "evanw",
-                    "professional": "Technology Mlaliki"
+                    "professional": "Nawonso achichepere Woyang'anira"
                 },
                 {
-                    "reviewContent": "DataStorm ndi zimene ndimachita wokongola kwambiri anga onse kalatayo. Ndichopatsa pang'ono app.",
+                    "reviewContent": "DataStorm ndi zimene ndimachita pafupifupi zida zanga, izi ndi zopambana wamng'ono ntchito.",
                     "userName": "Peter Bright",
-                    "professional": "Wolemba pa Ars Technica"
+                    "professional": "Mayeso akatswiri"
                 },
                 {
-                    "reviewContent": "Ngati muli ndi chidwi deta kutembenuka, DataStorm ndithudi wokwanira download.",
-                    "userName": "LifeHacker",
-                    "professional": "Web Wolemba Mapulogalamu ndi Mlengi"
+                    "reviewContent": "Ngati mukufuna kuchita deta kutembenuka, DataStorm ndithudi ofunika download.",
+                    "userName": "Lifehacker a",
+                    "professional": "Web Madivelopa ndi okonza"
                 },
                 {
-                    "reviewContent": "Ndimalikonda DataStorm, wabweretsa zambiri mayiko kwa ntchito yanga.",
+                    "reviewContent": "Ndimalikonda DataStorm, anandipatsa ntchito yambiri kubweretsa zovuta.",
                     "userName": "jeruss",
-                    "professional": "Php M'chilamulo Wolemba Mapulogalamu"
+                    "professional": "Php chimango chitukuko"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - kukhazikitsa olekanitsa",
+                "section": "Linanena bungwe CSV - amaika separators",
                 "videos": [
                     {
-                        "description": "Linanena bungwe CSV wapamwamba, atakhala olekanitsa. (kusakhulupirika: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV linanena bungwe owona, CSV delimited anapereka njira (kusakhulupirika: '').",
+                        "url": "mavidiyo / madotolo / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Kukhazikitsa CSV mtundu minda",
+                "section": "Linanena bungwe CSV - kukhazikitsa mtundu kumunda",
                 "videos": [
                     {
-                        "description": "Linanena bungwe CSV wapamwamba, atakhala mtundu kumunda.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV wapamwamba linanena bungwe, anapereka CSV minda kuthetsa yosavuta kumva.",
+                        "url": "mavidiyo / madotolo / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Gwiritsani chodabwitsa injini",
+                "section": "Linanena bungwe CSV - kukhazikitsa injini ntchito zovuta zinthu",
                 "videos": [
                     {
-                        "description": "Linanena bungwe CSV wapamwamba, kusamalira zovuta wapamwamba mtundu.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV wapamwamba linanena bungwe, anapereka injini kusamalira zinthu zovuta ntchito zovuta athandizira owona. Kusakhulupirika: Open.",
+                        "url": "mavidiyo / madotolo / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Kumasulidwa",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4,19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Choyamba anamasulidwa."
+                        "content": "Choyamba kumasulidwa"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Choyamba anamasulidwa."
+                        "content": "Choyamba kumasulidwa"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Kumasulidwa",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Buy Way",
+        "SectionName": "Kodi Gulani",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Likupezeka Zinenero",
+        "SectionName": "Website Mukhozanso Zinenero",
         "ChangeAlert": "Complete lophimba chinenero"
     }
 }

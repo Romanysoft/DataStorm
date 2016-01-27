@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Mājas lapa",
-        "Feature": "Iezīme",
-        "Documents": "Dokumenti",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Bezmaksas izmēģinājuma versija",
-        "Buy": "Nopirkt",
-        "Roadmap": "Plānu",
-        "ReportIssue": "Ziņojums Issue",
+        "Home": "Uz mājām",
+        "Feature": "Features",
+        "Documents": "Fails",
+        "ReleaseNotes": "Laidienu",
+        "Downloads": "Free Trial",
+        "Buy": "Pirkuma",
+        "Roadmap": "Produktu līnija",
+        "ReportIssue": "Issue",
         "Languages": "Valoda"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Ļoti noderīga App. Piemērots Windows, Linux, MacOSX operētājsistēmas.",
-        "BtnDownload": "Bezmaksas izmēģinājuma versija",
+        "ProjectTagline": "Datu konversija starp dažādiem formātiem, atbalsts Windows, Linux un MacOSX operētājsistēmām.",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Pirkuma",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Galvenās iezīmes",
+            "SectionName": "Produkta galvenās iezīmes",
             "list": [
-                "Konvertēt starp JSON, XML, CSV, plist, INI, .properties (Java) un YML (YAML), no viena formāta uz citu.",
-                "Atbalsta partijas pārveidošanu.",
-                "Atbalsta konversijas pasūtījuma iespējas.",
-                "Atbalsts komplekss saturs faila formāts",
-                "Multi-valodu atbalsts (Tulkoja DataStorm)."
+                "Atbalsts JSON, konversijas XML, CSV, plist, INI, kas .properties un Yang Ming jūras transportu (YAML) faila datus.",
+                "Atbalsta partijas pārveidošanu",
+                "Atbalsta pielāgot konversijas parametri",
+                "Atbalsts sarežģītu datu failu apstrādi, jo īpaši pārveidojot CSV failus ligzdotu JSON",
+                "Atbalsts konvertējot uz CSV, CSV jomas, kas šķirošanas un norobežotājs iestatījumi",
+                "Multi-valodu atbalsts (izmantojot TryToTranslate rīku, lai tulkot)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Brīnišķīgas lietas cilvēki saka par to",
+            "SectionName": "Veikt apskatīt to, ko mēs sakām",
             "list": [
                 {
-                    "reviewContent": "DataStorm ir apdullināšanas. Simple. Tīrs. Perfect. Labi padarīts.",
+                    "reviewContent": "DataStorm ir liels. Vienkāršs, tīrs, perfekts. Labi darīts.",
                     "userName": "evanw",
-                    "professional": "Tehnoloģija evaņģēlists"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm ir tas, ko es daru diezgan daudz visu manu rakstiski. Tā ir lieliska maz app.",
+                    "reviewContent": "DataStorm ir tas, ko es daru gandrīz visas manas instrumentus, tas ir ļoti maz pieteikumu.",
                     "userName": "Peter Bright",
-                    "professional": "Rakstnieks Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Ja Jums ir interese par datu pārveidošanu, DataStorm noteikti ir vērts lejuplādēt.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer un Designer"
+                    "reviewContent": "Ja jums ir nepieciešams darīt datu konversija, DataStorm noteikti ir vērts lejuplādēt.",
+                    "userName": "Lifehacker s",
+                    "professional": "Web izstrādātājiem un dizaineriem"
                 },
                 {
-                    "reviewContent": "Man tiešām patīk DataStorm, ir devusi daudz ērtības par manu darbu.",
+                    "reviewContent": "Man tiešām patīk DataStorm, deva man daudz darba, lai viegli.",
                     "userName": "jeruss",
-                    "professional": "PHP pamatprogramma Developer"
+                    "professional": "PHP sistēmu attīstība"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Setting separators",
+                "section": "Output CSV - komplekts separatori",
                 "videos": [
                     {
-                        "description": "Output csv failu, nosakot atdalītāju. (default: '')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV izejas failus, CSV atdalīts noteikt metodi (noklusējuma: '').",
+                        "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - csv Šķirot lauki iestatīšana",
+                "section": "Izeja CSV - lai uzstādītu kārtošanas lauks",
                 "videos": [
                     {
-                        "description": "Output csv failu, nosakot kārtošanas jomā.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV faila izvades, kas CSV laukus kārtot vienkāršā veidā.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Izmantojiet sarežģīts objekts dzinējs",
+                "section": "Output CSV - režīmu motoriem izmantot sarežģītas objektus",
                 "videos": [
                     {
-                        "description": "Output csv failu, rokturis sarežģīto faila formātu.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV faila izvades, kas motoru rīkoties sarežģītās objektus, izmantojot sarežģītu ievades failiem. Default: Open.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Versijas numurs",
+        "labelVersion": "Atbrīvošana",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Pirmais atbrīvots."
+                        "content": "Pirmizrādi"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Pirmais atbrīvots."
+                        "content": "Pirmizrādi"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Versijas numurs",
+        "labelVersion": "Atbrīvošana",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Nopirkt Way",
+        "SectionName": "Kā nopirkt",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Pieejamās valodas",
+        "SectionName": "Website Pieejamās valodas",
         "ChangeAlert": "Pilnīga pāreja valoda"
     }
 }

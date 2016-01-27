@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Əsas səhifə",
-        "Feature": "Xüsusiyyət",
-        "Documents": "Sənədlər",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Ödənişsiz sınaq",
-        "Buy": "Almaq",
-        "Roadmap": "Yol",
-        "ReportIssue": "Xəbər Sayı",
+        "Home": "Ev",
+        "Feature": "Features",
+        "Documents": "Fayl",
+        "ReleaseNotes": "Release Qeydlər",
+        "Downloads": "Free Trial",
+        "Buy": "Alış",
+        "Roadmap": "Product line",
+        "ReportIssue": "Buraxılış",
         "Languages": "Dil"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Çox faydalı Proq. Windows, Linux, MacOSX əməliyyat sistemi üçün uygundur.",
-        "BtnDownload": "Ödənişsiz sınaq",
+        "ProjectTagline": "Müxtəlif formatları arasında data dönüşüm, Windows, Linux və MacOSX əməliyyat sistemi üçün dəstək.",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Alış",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Əsas Xüsusiyyətlər",
+            "SectionName": "Product əsas xüsusiyyətləri",
             "list": [
-                "Bir format başqa, JSON, XML, CSV, plist, ını, Xassələri (java) və İML (YAML) arasında Convert.",
-                "Support Batch dönüşüm.",
-                "Support dönüşüm xüsusi variantları.",
-                "Support kompleks content fayl format",
-                "(DataStorm Tərcüməçi) Multi-dil dəstəyi."
+                "JSON, dönüşüm XML, CSV, plist, ını, xassələri və Yang Ming Marine Nəqliyyat (YAML) fayl məlumat üçün dəstək.",
+                "Support batch dönüşüm",
+                "Support customize dönüşüm parametrləri",
+                "Xüsusilə nested JSON daxil CSV faylları konvertasiya kompleks data file user üçün Support",
+                "Support, CSV konvertasiya CSV sahələri çeşidlənməsi və sınırlayıcı ayarlarını",
+                "Multi-dil dəstəyi (tərcümə TryToTranslate aracı istifadə edərək)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Insanlar haqqında söyləyərək gözəl şeylər",
+            "SectionName": "Biz söyləyərək nə bir göz atın",
             "list": [
                 {
-                    "reviewContent": "DataStorm çarpıcı edir. Simple. Clean. Mükəmməldir. Maşallah.",
+                    "reviewContent": "DataStorm böyükdür. Mükəmməl, təmiz, sadə. Gözəl işlər.",
                     "userName": "evanw",
-                    "professional": "Technology Evangelist"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm Mən olduqca çox bütün mənim yazı nə edir. Bu, böyük kiçik app edir.",
+                    "reviewContent": "DataStorm, bu, böyük kiçik proqram nə demək olar ki, bütün alətlər yoxdur.",
                     "userName": "Peter Bright",
-                    "professional": "Ars Technica yazıçı"
+                    "professional": "Test Mühəndis"
                 },
                 {
-                    "reviewContent": "Siz data dönüşüm hər hansı bir maraq varsa, DataStorm mütləq bir download dəyər.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer və Designer"
+                    "reviewContent": "Siz data dönüşüm etmək lazımdır, DataStorm mütləq download dəyər.",
+                    "userName": "Lifehacker nin",
+                    "professional": "Web developers və dizaynerlər"
                 },
                 {
-                    "reviewContent": "Mən, həqiqətən, DataStorm kimi, iş üçün çox rahat gətirdi.",
+                    "reviewContent": "Mən, həqiqətən, DataStorm kimi, asan gətirmək üçün mənə iş bir çox verdi.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP çərçivəsində inkişaf"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Setting separator",
+                "section": "Çıxış CSV - set ayırıcılar",
                 "videos": [
                     {
-                        "description": "Çıxış csv faylı separator yaradılması. (Default: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV çıxış faylları, CSV metodu müəyyən ayrılmış (default: '').",
+                        "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - csv sort sahələri qurulması",
+                "section": "Çıxış CSV - sort sahəsində qurmaq üçün",
                 "videos": [
                     {
-                        "description": "Çıxış csv faylı sort sahəsində qəbulu.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV faylı çıxış sadə bir yol düzmək üçün CSV sahələri müəyyən.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - İstifadə kompleks obyekt mühərrik",
+                "section": "Çıxış CSV - qəbulu mühərrikləri kompleks obyektlərin istifadə",
                 "videos": [
                     {
-                        "description": "Çıxış csv faylı kompleks fayl formatı idarə.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV faylı çıxış kompleks giriş faylları istifadə kompleks obyektlərin idarə etmək üçün mühərrik seçin. Default: Open.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version sayı",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Ilk azad."
+                        "content": "Ilk azad"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Ilk azad."
+                        "content": "Ilk azad"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version sayı",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Almaq Way",
+        "SectionName": "Almaq üçün necə",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Mövcud Dillər",
+        "SectionName": "Veb Mövcud Dillər",
         "ChangeAlert": "Tam keçid dil"
     }
 }

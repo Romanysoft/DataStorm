@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Ẹya-",
-        "Documents": "Iwe aṣẹ",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Home",
+        "Feature": "Awọn ẹya ara ẹrọ",
+        "Documents": "Faili",
+        "ReleaseNotes": "Tu Notes",
         "Downloads": "Free Iwadii",
         "Buy": "Ra",
-        "Roadmap": "Roadmap",
-        "ReportIssue": "Iroyin oro",
+        "Roadmap": "Ọja ila",
+        "ReportIssue": "Oro",
         "Languages": "Language"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Gan wulo App. Dara fun awọn Windows, Lainos, MacOSX ẹrọ.",
+        "ProjectTagline": "Data iyipada laarin awọn orisirisi ọna kika, support fun Windows, Lainos ati MacOSX awọn ọna šiše.",
         "BtnDownload": "Free Iwadii",
         "BtnBuy": "Ra",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Main Awọn ẹya ara ẹrọ",
+            "SectionName": "Ọja akọkọ awọn ẹya ara ẹrọ",
             "list": [
-                "Iyipada laarin JSON, XML, CSV, PLIST, yi, .properties (Java) ati YML (YAML), lati kika si miiran.",
-                "Support ipele iyipada.",
-                "Support iyipada aṣa awọn aṣayan.",
-                "Support eka akoonu faili kika",
-                "Olona-ede support (Translated nipa DataStorm)."
+                "Support fun JSON, iyipada XML, CSV, PLIST, yi, awọn .properties ati Yang Ming Marine Transport (YAML) faili data.",
+                "Support ipele iyipada",
+                "Support Ṣe iyipada sile",
+                "Support fun eka data faili mu, paapa jijere CSV awọn faili sinu iteeye JSON",
+                "Support jijere si CSV, CSV aaye ṣeto ayokuro ati delimiter eto",
+                "Olona-ede support (lilo TryToTranslate ọpa lati pese)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Iyanu ohun awon eniyan wa ni wipe nipa o",
+            "SectionName": "Ya a wo ni ohun ti a ti wa ni wipe",
             "list": [
                 {
-                    "reviewContent": "DataStorm jẹ yanilenu. Simple. Mọ. Pipe. Daradara ṣe.",
+                    "reviewContent": "DataStorm jẹ nla. Simple, o mọ, pipe. Dara julọ ṣe.",
                     "userName": "evanw",
-                    "professional": "Technology Ajihinrere"
+                    "professional": "Database IT"
                 },
                 {
-                    "reviewContent": "DataStorm ni ohun ti mo ti ṣe lẹwa Elo gbogbo awọn ti mi kikọ ni. O ni a nla kekere app.",
+                    "reviewContent": "DataStorm ni ohun ti mo ti ṣe fere gbogbo mi irinṣẹ, yi ni a nla kekere elo.",
                     "userName": "Peter Bright",
-                    "professional": "Writer ni Ars Technica"
+                    "professional": "Igbeyewo ẹlẹrọ"
                 },
                 {
-                    "reviewContent": "Ti o ba ni eyikeyi anfani ni data iyipada, DataStorm jẹ pato tọ a download.",
-                    "userName": "Lifehacker",
-                    "professional": "Iwe ayelujara Olùgbéejáde ati Designer"
+                    "reviewContent": "Ti o ba nilo lati se iyipada data, DataStorm jẹ pato tọ awọn download.",
+                    "userName": "Lifehacker ká",
+                    "professional": "Ayelujara Awon Difelopa ati apẹẹrẹ"
                 },
                 {
-                    "reviewContent": "Mo gan bi DataStorm, ti mu Elo wewewe fun iṣẹ mi.",
+                    "reviewContent": "Mo gan bi DataStorm, fun mi a pupo ti ise lati mu rorun.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP ilana idagbasoke"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Setting separator",
+                "section": "O wu CSV - ṣeto separators",
                 "videos": [
                     {
-                        "description": "O wu CSV faili, eto awọn separator. (Aiyipada: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV o wu awọn faili, CSV delimited ṣeto ọna (aiyipada: '').",
+                        "url": "awọn fidio / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Eto CSV too aaye",
+                "section": "O wu CSV - lati ṣeto awọn aaye too",
                 "videos": [
                     {
-                        "description": "O wu CSV faili, eto too oko.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV faili o wu, ṣeto awọn CSV aaye lati to a ọna ti o rọrun.",
+                        "url": "awọn fidio / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Lo eka ohun engine",
+                "section": "O wu CSV - eto enjini lo eka ohun",
                 "videos": [
                     {
-                        "description": "O wu CSV faili, mu awọn eka faili kika.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV faili o wu, ṣeto awọn engine lati mu awọn eka ohun lilo eka input awọn faili. Aiyipada: Open.",
+                        "url": "awọn fidio / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Tu",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4,19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "First tu."
+                        "content": "First Tu"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "First tu."
+                        "content": "First Tu"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Tu",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Buy Way",
+        "SectionName": "Bawo ni Lati Ra",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Awọn ede wa",
+        "SectionName": "Wẹẹbù Wa ede",
         "ChangeAlert": "Pari yipada ede"
     }
 }

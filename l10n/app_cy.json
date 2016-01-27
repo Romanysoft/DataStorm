@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Tudalen Gartref",
-        "Feature": "Nodwedd",
-        "Documents": "Dogfennau",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Cartref",
+        "Feature": "Nodweddion",
+        "Documents": "Ffeil",
+        "ReleaseNotes": "Nodiadau Rhyddhau",
         "Downloads": "Treial am ddim",
         "Buy": "Prynu",
-        "Roadmap": "Map Ffyrdd",
-        "ReportIssue": "Adroddiad Mater",
+        "Roadmap": "Llinell Cynnyrch",
+        "ReportIssue": "Rhifyn",
         "Languages": "Iaith"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "App Defnyddiol iawn. Addas ar gyfer system weithredu Windows, Linux, MacOSX.",
+        "ProjectTagline": "Trosi data rhwng gwahanol fformatau, cymorth ar gyfer Windows, Linux a MacOSX systemau gweithredu.",
         "BtnDownload": "Treial am ddim",
         "BtnBuy": "Prynu",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Prif Nodweddion",
+            "SectionName": "Cynnyrch prif nodweddion",
             "list": [
-                "Trosi rhwng JSON, XML, CSV, PLIST, INI, .properties (java) a Yml (YAML), o un ffurf i un arall.",
-                "Trosi Swp Cymorth.",
-                "Cefnogi dewisiadau arferiad trosi.",
-                "Cymorth cynnwys cymhleth fformat ffeil",
-                "Cefnogaeth aml-iaith (Cyfieithwyd gan DataStorm)."
+                "Cymorth ar gyfer JSON, XML trosi, CSV, PLIST, INI, mae'r .properties a Yang Ming Cludiant Morol data (YAML) ffeil.",
+                "Cymorth trosi swp",
+                "Cymorth paramedrau trosi addasu",
+                "Cymorth ar gyfer gymhleth trin ffeil ddata, yn enwedig trosi ffeiliau CSV i mewn i JSON nythu",
+                "Cymorth trosi i CSV, caeau CSV yn gosod didoli a lleoliadau amffinydd",
+                "Cefnogaeth aml-iaith (gan ddefnyddio offeryn TryToTranslate i gyfieithu)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Pethau rhyfeddol mae pobl yn ei ddweud am y peth",
+            "SectionName": "Cymerwch olwg ar yr hyn yr ydym yn ei ddweud",
             "list": [
                 {
-                    "reviewContent": "DataStorm yn drawiadol. Syml. Glân. Perffaith. Da iawn.",
+                    "reviewContent": "DataStorm yn wych. Syml, yn lân, yn berffaith. Gwneud 'n glws.",
                     "userName": "evanw",
-                    "professional": "Technoleg Efengylwr"
+                    "professional": "Gweinyddwr Cronfa Ddata"
                 },
                 {
-                    "reviewContent": "DataStorm yw'r hyn yr wyf yn ei wneud 'n bert lawer pob un fy ysgrifennu i mewn. Mae'n ychydig o app gwych.",
+                    "reviewContent": "DataStorm yw'r hyn yr wyf yn ei wneud bron pob fy offer cais bach mawr, a yw hyn.",
                     "userName": "Peter Bright",
-                    "professional": "Writer yn Ars Technica"
+                    "professional": "Peiriannydd Prawf"
                 },
                 {
-                    "reviewContent": "Os oes gennych unrhyw ddiddordeb yn trosi data, yn DataStorm bendant yn werth lawrlwytho.",
-                    "userName": "Lifehacker",
-                    "professional": "Datblygwr Gwe a Dylunydd"
+                    "reviewContent": "Os oes angen i wneud trosi data, yn DataStorm sicr yn werth y llwytho i lawr.",
+                    "userName": "Lifehacker yn",
+                    "professional": "Datblygwyr gwe a dylunwyr"
                 },
                 {
-                    "reviewContent": "Dwi'n hoff iawn o DataStorm, wedi dod â llawer o cyfleustra ar gyfer fy ngwaith.",
+                    "reviewContent": "Dwi'n hoff iawn o DataStorm, cefais lawer o waith i ddod yn hawdd.",
                     "userName": "jeruss",
-                    "professional": "Datblygwr PHP Fframwaith"
+                    "professional": "Datblygu fframwaith PHP"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - gwahanydd Gosod",
+                "section": "Allbwn CSV - gwahanyddion set",
                 "videos": [
                     {
-                        "description": "Allbwn ffeil csv, gan osod y gwahanydd. (Diofyn: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "Ffeiliau allbwn CSV, CSV amffinio dull a (diofyn: '').",
+                        "url": "fideos / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Gosod caeau didoli csv",
+                "section": "Allbwn CSV - i osod y cae math",
                 "videos": [
                     {
-                        "description": "Allbwn ffeil csv, gan osod maes fath.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "Allbwn ffeil CSV, yn gosod y caeau CSV i ddidoli ffordd syml.",
+                        "url": "fideos / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Defnyddiwch beiriant gwrthrych cymhleth",
+                "section": "Allbwn CSV - gosod peiriannau yn defnyddio gwrthrychau cymhleth",
                 "videos": [
                     {
-                        "description": "Ffeil csv allbwn, yn trin y fformat ffeil cymhleth.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "Allbwn ffeil CSV, yn gosod y peiriant i drin gwrthrychau cymhleth gan ddefnyddio ffeiliau mewnbwn cymhleth. Default: Agored.",
+                        "url": "fideos / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Rhif Fersiwn",
+        "labelVersion": "Rhyddhau",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "A gyhoeddwyd gyntaf."
+                        "content": "Datganiad cyntaf"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "A gyhoeddwyd gyntaf."
+                        "content": "Datganiad cyntaf"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Rhif Fersiwn",
+        "labelVersion": "Rhyddhau",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Prynu Way",
+        "SectionName": "Sut I brynu",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Ieithoedd sydd ar gael",
+        "SectionName": "Gwefan Ieithoedd sydd ar gael",
         "ChangeAlert": "Cwblhau iaith switsh"
     }
 }

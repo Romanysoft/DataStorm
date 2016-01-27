@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Home Page",
+        "Home": "Home",
         "Feature": "Endri-javatra",
-        "Documents": "Documents",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Andrana maimaim-poana",
-        "Buy": "Buy",
-        "Roadmap": "Tondrozotra",
-        "ReportIssue": "Report Laharana",
+        "Documents": "Rakitra",
+        "ReleaseNotes": "Release Notes",
+        "Downloads": "Free Fitsarana",
+        "Buy": "Purchase",
+        "Roadmap": "Product tsipika",
+        "ReportIssue": "Laharana",
         "Languages": "Language"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Tena mahasoa App. Mety ho Windows, Linux, MacOSX rafitra fandidiana.",
-        "BtnDownload": "Andrana maimaim-poana",
+        "ProjectTagline": "Data fiovam-po eo amin'ny endrika isan-karazany, fanohanana ho an'ny Windows, Linux sy MacOSX miasa rafitra.",
+        "BtnDownload": "Free Fitsarana",
         "BtnBuy": "Purchase",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Main Features",
+            "SectionName": "Vokatra tena endri-javatra",
             "list": [
-                "Niova fo eo JSON, XML, CSV, PLIST, Ini, .properties (Java) sy YML (YAML), amin'ny endrika iray hafa.",
-                "Support batch fiovam-po.",
-                "Support fiovam-po safidy fomba amam-panao.",
-                "Fanohanana sarotra votoaty rakitra endrika",
-                "Multi-teny fanohanana (Nandika DataStorm)."
+                "Fanohanana ny JSON, fiovam-po XML, CSV, PLIST, Ini, ny .properties sy Yang Ming Marina Fitaterana (YAML) rakitra tahirin-kevitra.",
+                "Support batch fiovam-po",
+                "Support Powered fiovam-po masontsivana",
+                "Fanohanana ny fikirakirana rakitra tahirin-kevitra sarotra, indrindra fa mamelombelona CSV raki-daza ho nested JSON",
+                "Fanohanana niovany ho CSV, CSV saha Set fanasokajiana sy ny delimiter toe-javatra",
+                "Multi-teny fanohanana (mampiasa fitaovana TryToTranslate handika)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Zava-mahagaga hoe ny olona momba azy io",
+            "SectionName": "Topazo maso ny zavatra isika hoe:",
             "list": [
                 {
-                    "reviewContent": "DataStorm dia manaitra. Simple. Madio. Tonga lafatra. Vita tsara.",
+                    "reviewContent": "DataStorm no lehibe. Tsotra, madio, tonga lafatra. Tsara anefa izany.",
                     "userName": "evanw",
-                    "professional": "Technology Evangelist"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm no ataoko tsara tarehy be ny soratra rehetra tao. Tena kely be fampiharana.",
+                    "reviewContent": "DataStorm no saika ataoko ny fitaovana rehetra, izany no lehibe fampiharana kely.",
                     "userName": "Peter Bright",
-                    "professional": "Mpanoratra ao amin'ny Ars Technica"
+                    "professional": "Test injeniera"
                 },
                 {
-                    "reviewContent": "Raha misy liana amin'ny angon-drakitra fiovam-po, DataStorm dia tena mendrika ny Download.",
-                    "userName": "LifeHacker",
-                    "professional": "Web Developer sy ny Mpamorona"
+                    "reviewContent": "Raha toa ka mila manao angon-drakitra fiovam-po, DataStorm dia tena mendrika ny Download.",
+                    "userName": "Lifehacker ny",
+                    "professional": "Web mpandraharaha sy ny endrika"
                 },
                 {
-                    "reviewContent": "Tena toy ny DataStorm, dia nitondra be tsy hanahirana ho an'ny asa.",
+                    "reviewContent": "Tena toy ny DataStorm, nanome ahy be dia be ny asa mba hitondra mora.",
                     "userName": "jeruss",
-                    "professional": "Framework PHP Developer"
+                    "professional": "PHP rafitra fampandrosoana"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Setting Separator",
+                "section": "Output CSV - napetraka separators",
                 "videos": [
                     {
-                        "description": "Output csv rakitra, ny fametrahana ny Separator. (Toerana misy anao: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV Output antontan-taratasy, CSV delimited nametraka fomba (toerana misy anao: '').",
+                        "url": "lahatsary / Docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Ny fametrahana karazana csv saha",
+                "section": "Output CSV - mba hametraka an-tsaha ny karazana",
                 "videos": [
                     {
-                        "description": "Output csv rakitra, mametraka karazana an-tsaha.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV rakitra Output, nametraka ny CSV tsaha mba manatsara fomba tsotra.",
+                        "url": "lahatsary / Docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Ampiasao sarotra zavatra maotera",
+                "section": "Output CSV - mametraka fitaovana mampiasa zavatra sarotra",
                 "videos": [
                     {
-                        "description": "Output csv rakitra, mitana ny sarotra endrika rakitra.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV rakitra Output, nametraka ny maotera mba hiatrehana zavatra sarotra mampiasa sarotra fahan'ny raki-daza. Toerana misy anao: Open.",
+                        "url": "lahatsary / Docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4,19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Navoaka voalohany."
+                        "content": "Voalohany famotsorana"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Navoaka voalohany."
+                        "content": "Voalohany famotsorana"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Buy Way",
+        "SectionName": "Ahoana no To Buy",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Available Languages",
+        "SectionName": "Website Available Languages",
         "ChangeAlert": "Complete jiro teny"
     }
 }

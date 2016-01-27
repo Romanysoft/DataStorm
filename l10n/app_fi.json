@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Kotisivu",
-        "Feature": "Ominaisuus",
-        "Documents": "Asiakirjat",
+        "Home": "Koti",
+        "Feature": "Piirteet",
+        "Documents": "Tiedosto",
         "ReleaseNotes": "Julkaisutiedot",
-        "Downloads": "Ilmainen kokeilu",
-        "Buy": "Ostaa",
-        "Roadmap": "Roadmap",
-        "ReportIssue": "Ilmoita ongelmasta",
+        "Downloads": "Free Trial",
+        "Buy": "Osto",
+        "Roadmap": "Tuotesarja",
+        "ReportIssue": "Kysymys",
         "Languages": "Kieli"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Erittäin hyödyllinen App. Sopii Windows, Linux, MacOSX käyttöjärjestelmä.",
-        "BtnDownload": "Ilmainen kokeilu",
-        "BtnBuy": "Ostaa",
+        "ProjectTagline": "Tietojen muuntaminen eri muodoissa, tuki Windows, Linux ja MacOSX käyttöjärjestelmissä.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Osto",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Pääpiirteet",
+            "SectionName": "Tuotteen tärkeimmät ominaisuudet",
             "list": [
-                "Muuntaa JSON, XML, CSV, plist, INI, .properties (java) ja YML (YAML), yhdestä muodosta toiseen.",
-                "Tuki Erä muuntaminen.",
-                "Tuki muuntaminen mukautettuja vaihtoehtoja.",
-                "Tuki monimutkaisia ​​sisältöä tiedostomuoto",
-                "Monikielinen tuki (Kääntäjä DataStorm)."
+                "Tuki JSON, muuntaminen XML, CSV, plist, INI, .properties ja Yang Ming Marine Liikenne (YAML) tiedoston tiedot.",
+                "Tuki erän muuntaminen",
+                "Tuki muokata muunnosparametrit",
+                "Tuki monimutkaisia ​​tietoja tiedostojen käsittelyä, varsinkin muuntaa CSV-tiedostoja sisäkkäisiä JSON",
+                "Tuki muuntaa CSV, CSV kentät lajittelutavat ja erotin asetukset",
+                "Monikielinen tuki (käyttäen TryToTranslate työkalu kääntää)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Ihania asioita ihmiset sanovat siitä",
+            "SectionName": "Katsomaan, mitä me sanomme",
             "list": [
                 {
-                    "reviewContent": "DataStorm on upea. Yksinkertainen. Puhdas. Täydellinen. Hyvin tehty.",
+                    "reviewContent": "DataStorm on suuri. Yksinkertainen, puhdas, täydellinen. Hienosti tehty.",
                     "userName": "evanw",
-                    "professional": "Teknologia Evankelista"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm on mitä teen aika paljon kaikki minun kirjallisesti. Se on erittäin pieni app.",
+                    "reviewContent": "DataStorm on mitä teen lähes kaikki minun työkaluja, tämä on erittäin pieni sovellus.",
                     "userName": "Peter Kirkas",
-                    "professional": "Kirjailija Ars Technica"
+                    "professional": "Testaaja"
                 },
                 {
-                    "reviewContent": "Jos sinulla on kiinnostusta tietojen muuntaminen, DataStorm on ehdottomasti kannattaa ladata.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer ja suunnittelija"
+                    "reviewContent": "Jos sinun täytyy tehdä tietojen muuntaminen, DataStorm on ehdottomasti kannattaa ladata.",
+                    "userName": "Lifehacker n",
+                    "professional": "Web-kehittäjät ja suunnittelijat"
                 },
                 {
-                    "reviewContent": "Pidän todella DataStorm, on tuonut paljon mukavuutta työssäni.",
+                    "reviewContent": "Pidän todella DataStorm, antoi minulle paljon työtä tuoda helposti.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP puitteet kehitys"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Asetus erotin",
+                "section": "Output CSV - set erottimet",
                 "videos": [
                     {
-                        "description": "Output csv tiedosto, jossa erotin. (Oletus: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV Tulostiedostot, CSV rajattu asettaa menetelmä (oletus: '').",
+                        "url": "Videot / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Asetus csv lajittelukentät",
+                "section": "Lähtö CSV - asettaa lajitella kenttä",
                 "videos": [
                     {
-                        "description": "Output csv tiedosto, jossa lajitella kenttä.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV-tiedoston ulostulo, asettaa CSV kentät lajitella yksinkertaisella tavalla.",
+                        "url": "Videot / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Käytä monimutkainen esine moottori",
+                "section": "Output CSV - asetus moottorit käyttävät monimutkaisia ​​objekteja",
                 "videos": [
                     {
-                        "description": "Output csv tiedosto, käsitellä monimutkaisia ​​tiedostomuotoa.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV-tiedoston ulostulo, asettaa moottorin käsitellä monimutkaisia ​​objekteja monimutkainen panos tiedostoja. Oletus: Avoin.",
+                        "url": "Videot / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Versionumero",
+        "labelVersion": "Julkaisu",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Ensimmäinen julkaistiin."
+                        "content": "Ensimmäinen julkaisu"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Ensimmäinen julkaistiin."
+                        "content": "Ensimmäinen julkaisu"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Versionumero",
+        "labelVersion": "Julkaisu",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Osta Way",
+        "SectionName": "Miten ostan",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Available Languages",
+        "SectionName": "Verkkosivusto Available Languages",
         "ChangeAlert": "Täydellinen vaihda kieltä"
     }
 }

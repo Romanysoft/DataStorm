@@ -1,19 +1,19 @@
 {
     "TopBar": {
         "Home": "Нүүр хуудас",
-        "Feature": "Сэдэвт",
-        "Documents": "Баримт бичиг",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Үнэгүй туршилт",
-        "Buy": "Одоо худалдаж авах",
-        "Roadmap": "Замын зураг",
-        "ReportIssue": "Тайлан гаргах",
+        "Feature": "Онцлог",
+        "Documents": "Файлын",
+        "ReleaseNotes": "Хувилбарын тэмдэглэл",
+        "Downloads": "Чөлөөт Шүүхийн",
+        "Buy": "Худалдан авах",
+        "Roadmap": "Бүтээгдэхүүний шугам",
+        "ReportIssue": "Асуудал",
         "Languages": "Хэл"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Маш ашигтай App. Windows, Linux, MacOSX үйлдлийн системийн тохиромжтой.",
-        "BtnDownload": "Үнэгүй туршилт",
+        "ProjectTagline": "Төрөл бүрийн хэлбэрүүдийг хооронд өгөгдөл хувиргах, Windows, Linux болон MacOSX үйлдлийн системүүдэд зориулж дэмжлэг үзүүлэх.",
+        "BtnDownload": "Чөлөөт Шүүхийн",
         "BtnBuy": "Худалдан авах",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Гол онцлог",
+            "SectionName": "Бүтээгдэхүүний гол онцлог",
             "list": [
-                "Нэг хэлбэрээр нөгөө рүү, JSON, XML, CSV, PLIST, INI, .properties (Java) болон YML (YAML) хооронд хөрвүүлэх.",
-                "Дэмжлэг Багц хувиргах.",
-                "Дэмжлэг хувиргах өөрчлөн сонголт.",
-                "Дэмжих цогц агуулга файлын формат",
-                "(DataStorm орчуулсан) Олон хэлний дэмжлэг."
+                "JSON, хувиргах XML, CSV, PLIST, INI, .properties болон Ян Мин далайн тээвэр (YAML) файлын өгөгдлийн дэмжлэг үзүүлэх.",
+                "Дэмжих багц хувиргах",
+                "Дэмжлэг захиалгаар хувиргах үзүүлэлтүүд",
+                "Ялангуяа түүвэрлэсэн JSON руу CSV файлуудыг хувиргах цогц өгөгдлийн файл боловсруулах, дэмжлэг үзүүлэх",
+                "Дэмжлэг, CSV шилжүүлэх CSV талбарууд нь ялгах, зааглагч тохиргоо тогтоосон",
+                "Олон хэлний дэмжлэг (орчуулах TryToTranslate хэрэгсэл ашиглан)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Хүмүүс энэ тухай хэлж байгаа Гайхамшигт зүйл",
+            "SectionName": "Бидний хэлж байгаа зүйл нь харцгаая",
             "list": [
                 {
-                    "reviewContent": "DataStorm гайхалтай юм. Энгийн. Цэвэр. Төгс. Сайн хийлээ.",
+                    "reviewContent": "DataStorm их байна. Төгс, цэвэр, энгийн. Сайхан хийдэг.",
                     "userName": "evanw",
-                    "professional": "Технологийн Evangelist"
+                    "professional": "Өгөгдлийн сангийн Администратор"
                 },
                 {
-                    "reviewContent": "DataStorm би нэлээн их л миний бичиж байх юу байна. Энэ бол маш жижигхэн програм юм.",
+                    "reviewContent": "DataStorm, энэ нь их бага хэрэглэх нь юу би бараг бүхий л арга хэрэгслийг хийх юм.",
                     "userName": "Петр Bright",
-                    "professional": "Ars Technica дээр Writer"
+                    "professional": "Туршилтын инженер"
                 },
                 {
-                    "reviewContent": "Та өгөгдлийг хувиргах ямар нэгэн ашиг сонирхол байгаа бол, DataStorm мэдээж татаж авах нь зүйтэй юм.",
-                    "userName": "LifeHacker",
-                    "professional": "Web Developer ба зохион бүтээгч"
+                    "reviewContent": "Та өгөгдлийг хувиргалтыг хийх хэрэгтэй бол DataStorm нь мэдээж татаж авах нь зүйтэй юм.",
+                    "userName": "Lifehacker-ийн",
+                    "professional": "Вэб хөгжүүлэгчид болон дизайнерууд"
                 },
                 {
-                    "reviewContent": "Би үнэхээр DataStorm шиг миний ажилд маш их тав тухтай авчирсан.",
+                    "reviewContent": "Би үнэхээр DataStorm шиг хялбар авчрахын тулд надад ажил их байсан.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP тогтолцоо хөгжил"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - тохируулах нь тусгаарлагч",
+                "section": "Гаралт CSV - багц ялгагч",
                 "videos": [
                     {
-                        "description": "Үр дүн CSV файл тусгаарлагч тогтоох. (анхдагч утга нь: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV гаралт файлууд, CSV аргыг тогтоосон хязгаарлах (анхдагч: '').",
+                        "url": "видео / Docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - CSV төрөл талбаруудыг тохируулах нь",
+                "section": "Гаралт CSV - Төрөл талбарыг тогтоох",
                 "videos": [
                     {
-                        "description": "Үр дүн CSV файл төрлийн талбарыг тогтоох.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV файл гаралт, хялбар арга замыг нь ангилахын тулд CSV талбайг тогтоосон.",
+                        "url": "видео / Docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - ашиглах цогцолбор обьект хөдөлгүүр",
+                "section": "Гаралт CSV - хэвшмэл хөдөлгүүр нь нарийн төвөгтэй объект ашиглах",
                 "videos": [
                     {
-                        "description": "Үр дүн CSV файл төвөгтэй файлын хэлбэршилтийг ажиллах.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV файл гарц, нарийн оролтын файл ашиглан нарийн төвөгтэй объект ажиллах хөдөлгүүрийг тогтоосон. Стандарт: Нээлттэй.",
+                        "url": "видео / Docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Хувилбар тоо",
+        "labelVersion": "Хувилбарын",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Эхний гаргасан."
+                        "content": "Эхний хувилбар"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Эхний гаргасан."
+                        "content": "Эхний хувилбар"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Хувилбар тоо",
+        "labelVersion": "Хувилбарын",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Одоо худалдаж авах арга зам",
+        "SectionName": "Одоо худалдаж авах хэрэгтэй вэ",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Боломжит хэл",
+        "SectionName": "Вэб сайт Боломжит хэл",
         "ChangeAlert": "Иж бүрэн шилжиж хэл"
     }
 }

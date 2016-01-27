@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Почетна страница",
-        "Feature": "Одлика",
-        "Documents": "Документи",
-        "ReleaseNotes": "РелеасеНотес",
-        "Downloads": "Besplatna reklama",
-        "Buy": "Купити",
-        "Roadmap": "РоадМап",
-        "ReportIssue": "Извештај бр",
+        "Home": "Кући",
+        "Feature": "Карактеристике",
+        "Documents": "Фајл",
+        "ReleaseNotes": "Белешке о издању",
+        "Downloads": "Пробна верзија",
+        "Buy": "Куповина",
+        "Roadmap": "Производна линија",
+        "ReportIssue": "Издање",
         "Languages": "Језик"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Веома корисно апликација. Погодан за Виндовс, Линук, МацОСКС оперативном систему.",
-        "BtnDownload": "Besplatna reklama",
+        "ProjectTagline": "Конверзија података између различитих формата, подршка за Виндовс, Линук и Мац ОС Кс оперативне системе.",
+        "BtnDownload": "Пробна верзија",
         "BtnBuy": "Куповина",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Glavne karakteristike",
+            "SectionName": "Продуцт главне карактеристике",
             "list": [
-                "Претвори између ЈСОН, КСМЛ, ЦСВ, плист, ИНИ, .пропертиес (јава) и ИМЛ (ЈУМП), из једног формата у други.",
-                "Подршка Батцх конверзија.",
-                "Подршка цустом конверзија опције.",
-                "Подршка комплекс садржај филе формат",
-                "Подршка за више језика (Превео ДатаСторм)."
+                "Подршка за ЈСОН, конверзије КСМЛ, ЦСВ, плист, ИНИ, на .пропертиес и Ианг Минг поморски транспорт података (ЈУМП) датотека.",
+                "Подршка серија претворбе",
+                "Подршка параметри прилагодити конверзију",
+                "Подршка за комплексне руковање датотеке података, нарочито претвара ЦСВ датотеке у отишли ​​ЈСОН",
+                "Подршка претворити у ЦСВ, ЦСВ поља сет сортирање и подешавања граничник",
+                "Подршка за више језика (помоћу функције ТриТоТранслате превести)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Дивне ствари људи говоре о томе",
+            "SectionName": "Погледајте шта смо се говори",
             "list": [
                 {
-                    "reviewContent": "ДатаСторм је запањујућа. Једноставно. Очистите. Savršen. Bravo.",
+                    "reviewContent": "ДатаСторм је супер. Једноставно, чиста, савршена. Лепо урађено.",
                     "userName": "еванв",
-                    "professional": "Технологија Евангелистичка"
+                    "professional": "Датабасе Администратор"
                 },
                 {
-                    "reviewContent": "ДатаСторм је оно што сам прилично учинити много све моје писање у То је велика мала апликација..",
+                    "reviewContent": "ДатаСторм је оно што ја радим скоро све своје алатке, ово је сјајна мала апликација.",
                     "userName": "Петар Светли",
-                    "professional": "Писац у Арс Тецхница"
+                    "professional": "Тест Енгинеер"
                 },
                 {
-                    "reviewContent": "Ако имате било какав интерес у конверзије података, ДатаСторм је дефинитивно вреди преузимање.",
-                    "userName": "ЛифеХацкер",
-                    "professional": "Веб Девелопер и дизајнер"
+                    "reviewContent": "Ако је потребно да урадите конверзију података, ДатаСторм је дефинитивно вреди преузимање.",
+                    "userName": "Компјутер је",
+                    "professional": "Веб програмери и дизајнери"
                 },
                 {
-                    "reviewContent": "Стварно ми се свиђа ДатаСторм, донела је много погодност за мој рад.",
+                    "reviewContent": "Стварно ми се свиђа ДатаСторм, дао ми је много рада да би лако.",
                     "userName": "јерусс",
-                    "professional": "ПХП програмер оквир"
+                    "professional": "ПХП-развојни оквир"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ТоЦСВ - Постављање сепаратора",
+                "section": "Излаз ЦСВ - сет сепаратори",
                 "videos": [
                     {
-                        "description": "Излаз ЦСВ филе, постављање сепаратора. (Дефаулт: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "ЦСВ излазне датотеке, ЦСВ делимитед сет метод (дефаулт: '').",
+                        "url": "Видео / доцс / ит2цсв_сепаратор.мп4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ТоЦСВ - Постављање ЦСВ сортирања поља",
+                "section": "Излаз ЦСВ - да поставите сорт поље",
                 "videos": [
                     {
-                        "description": "Излаз ЦСВ филе, постављање сорт поље.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "ЦСВ датотека излаз, подесите ЦСВ поља за сортирање једноставан начин.",
+                        "url": "Видео / доцс / ит2цсв_сортФиелдс.мп4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ТоЦСВ - Користите комплекс објекат мотор",
+                "section": "Излаз ЦСВ - постављање мотори користе сложене предмете",
                 "videos": [
                     {
-                        "description": "Излаз ЦСВ филе, држите сложену формат.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "ЦСВ датотека излаз, подесите мотор да се бави сложене предмете користећи сложене улазних датотека. Уобичајено Опен.",
+                        "url": "Видео / доцс / ит2цсв_усеЦомплекЈСОНЕнгине.мп4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Верзија Број",
+        "labelVersion": "Пуштање",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Први објављен."
+                        "content": "Прво издање"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Први објављен."
+                        "content": "Прво издање"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Верзија Број",
+        "labelVersion": "Пуштање",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Купи Пут",
+        "SectionName": "Како купити",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Доступни језици",
+        "SectionName": "Сајт Аваилабле Лангуагес",
         "ChangeAlert": "Комплетна прекидач језика"
     }
 }

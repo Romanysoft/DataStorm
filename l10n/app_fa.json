@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "صفحه اصلی وب سایت",
-        "Feature": "خصوصیات",
-        "Documents": "اسناد",
-        "ReleaseNotes": "به ReleaseNotes",
-        "Downloads": "امتحان رایگان",
+        "Home": "صفحه اصلی",
+        "Feature": "ویژگی های",
+        "Documents": "فایل",
+        "ReleaseNotes": "یادداشتهای انتشار",
+        "Downloads": "آزمایش رایگان",
         "Buy": "خرید",
-        "Roadmap": "نقشه راه",
-        "ReportIssue": "گزارش شماره",
+        "Roadmap": "خط تولید",
+        "ReportIssue": "موضوع",
         "Languages": "زبان"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "نرم افزار بسیار مفید است. مناسب برای سیستم عامل ویندوز، لینوکس، MacOSX برای.",
-        "BtnDownload": "امتحان رایگان",
+        "ProjectTagline": "تبدیل داده ها بین فرمت های مختلف، پشتیبانی از ویندوز، لینوکس و MacOSX سیستم عامل.",
+        "BtnDownload": "آزمایش رایگان",
         "BtnBuy": "خرید",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ویژگی های اصلی",
+            "SectionName": "ویژگی های اصلی محصولات",
             "list": [
-                "تبدیل بین JSON، XML، CSV، به plist، INI، .properties (جاوا) و YML (YAML)، از یک فرمت به دیگری.",
-                "پشتیبانی از تبدیل دسته.",
-                "پشتیبانی از گزینه های سفارشی تبدیل.",
-                "پشتیبانی محتوای پیچیده فرمت فایل",
-                "پشتیبانی از چند زبان (ترجمه شده توسط DataStorm)."
+                "پشتیبانی از JSON، تبدیل XML، CSV، به plist، INI، در .properties و یانگ مینگ دریایی حمل و نقل داده ها (YAML) فایل.",
+                "پشتیبانی از تبدیل دسته",
+                "پارامترهای پشتیبانی از تبدیل سفارشی",
+                "پشتیبانی از پیچیده دست زدن به فایل داده ها، به ویژه تبدیل فایل های CSV به تو در تو JSON",
+                "پشتیبانی از تبدیل به CSV، زمینه CSV مجموعه مرتب سازی و تنظیمات ذخیره",
+                "پشتیبانی از چند زبان (با استفاده از ابزار TryToTranslate برای ترجمه)."
             ]
         },
         "UserReviews": {
-            "SectionName": "همه چیز فوق العاده که مردم می گویند در مورد آن",
+            "SectionName": "نگاهی به آنچه ما می گویند",
             "list": [
                 {
-                    "reviewContent": "DataStorm خیره کننده است. ساده است. پاک. کامل. خوبی انجام می شود.",
+                    "reviewContent": "DataStorm بزرگ است. ساده، تمیز، کامل است. سادگی انجام می شود.",
                     "userName": "evanw",
-                    "professional": "فناوری مبلغ"
+                    "professional": "بانک اطلاعات مدیر"
                 },
                 {
-                    "reviewContent": "DataStorm است آنچه که من انجام تقریبا همه از نوشتن من در آن یک برنامه کمی بزرگ است.",
+                    "reviewContent": "DataStorm چیزی است که من تقریبا تمام ابزار من، این نرم افزار کمی بزرگ است.",
                     "userName": "پیتر روشن",
-                    "professional": "نویسنده در سایت Ars Technica"
+                    "professional": "تست مهندس"
                 },
                 {
-                    "reviewContent": "اگر شما هر گونه علاقه در تبدیل داده ها، DataStorm است که قطعا ارزش دانلود.",
-                    "userName": "سایت LifeHacker",
-                    "professional": "توسعه دهنده وب و طراح"
+                    "reviewContent": "اگر شما نیاز به انجام تبدیل داده ها، DataStorm است که قطعا ارزش دانلود.",
+                    "userName": "در سایت LifeHacker",
+                    "professional": "طراحی و توسعه وب"
                 },
                 {
-                    "reviewContent": "من واقعا دوست دارم DataStorm، راحتی بسیار برای کار من به ارمغان آورده است.",
+                    "reviewContent": "من واقعا دوست دارم DataStorm، به من مقدار زیادی از کار را به آسان است.",
                     "userName": "jeruss",
-                    "professional": "توسعه چارچوب PHP"
+                    "professional": "پی اچ پی توسعه چارچوب"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - جدا تنظیم",
+                "section": "خروجی CSV - مجموعه ای جدا",
                 "videos": [
                     {
-                        "description": "خروجی فایل CSV، تنظیم جدا. (به طور پیش فرض: '،')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "فایل های خروجی CSV، CSV روش تنظیم محدود (به طور پیش فرض: '').",
+                        "url": "فیلم / اسناد / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - تنظیم زمینه مرتب سازی بر CSV",
+                "section": "خروجی CSV - برای تنظیم زمینه مرتب کردن بر اساس",
                 "videos": [
                     {
-                        "description": "خروجی فایل CSV، تنظیم درست مرتب سازی بر.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "خروجی فایل CSV، مجموعه ای زمینه CSV برای مرتب کردن یک راه ساده.",
+                        "url": "فیلم / اسناد / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - استفاده از موتور شی پیچیده",
+                "section": "خروجی CSV - تنظیم موتور استفاده از اشیاء پیچیده",
                 "videos": [
                     {
-                        "description": "خروجی فایل CSV، رسیدگی به فرمت فایل های پیچیده است.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "خروجی فایل CSV، تنظیم موتور که مسئولیت رسیدگی به اشیاء پیچیده با استفاده از فایل های ورودی پیچیده است. به طور پیش فرض: باز کردن.",
+                        "url": "فیلم / اسناد / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "شماره نسخه",
+        "labelVersion": "انتشار",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "برای اولین بار منتشر شد."
+                        "content": "انتشار اولین"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "برای اولین بار منتشر شد."
+                        "content": "انتشار اولین"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "شماره نسخه",
+        "labelVersion": "انتشار",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "خرید راه",
+        "SectionName": "چگونه به خرید",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "زبان های موجود",
+        "SectionName": "وب سایت زبان های موجود",
         "ChangeAlert": "زبان سوئیچ کامل"
     }
 }

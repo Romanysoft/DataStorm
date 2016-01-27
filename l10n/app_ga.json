@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Leathanach Baile",
-        "Feature": "Gné",
-        "Documents": "Doiciméid",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Triail shaor",
-        "Buy": "A cheannach",
-        "Roadmap": "Treochlár",
-        "ReportIssue": "Tuairisc Eisiúint",
+        "Home": "Baile",
+        "Feature": "Gnéithe",
+        "Documents": "Comhad",
+        "ReleaseNotes": "Nótaí Eisiúna",
+        "Downloads": "Triail Saor in Aisce",
+        "Buy": "Ceannach",
+        "Roadmap": "Táirge líne",
+        "ReportIssue": "Eisiúint",
         "Languages": "Teanga"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "App An-úsáideach. Oiriúnach do chóras oibriúcháin Windows, Linux, MacOSX.",
-        "BtnDownload": "Triail shaor",
+        "ProjectTagline": "Comhshó sonraí idir bhformáidí éagsúla, tacaíocht a thabhairt do Windows, Linux agus córais oibriúcháin MacOSX.",
+        "BtnDownload": "Triail Saor in Aisce",
         "BtnBuy": "Ceannach",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Gnéithe Príomh",
+            "SectionName": "Príomhghnéithe Táirge",
             "list": [
-                "Tiontaigh idir JSON, XML, CSV, plist, INI, .properties (java) agus YML (YAML), ó fhormáid amháin go ceann eile.",
-                "Comhshó Baisc Tacaíochta.",
-                "Tacaíocht roghanna saincheaptha a chomhshó.",
-                "Tacaíocht formáid comhaid ábhar casta",
-                "Tacaíocht il-teanga (Aistrithe ag DataStorm)."
+                "Tacaíocht do JSON, XML a chomhshó, CSV, plist, INI, na .properties agus Yang Ming Iompar Muirí sonraí (YAML) comhaid.",
+                "Comhshó bhaisc Tacaíocht",
+                "Tacaíocht paraiméadair comhshó shaincheapadh",
+                "Tacaíocht do casta láimhseáil comhad sonraí, go háirithe athrú comhaid CSV isteach neadaithe JSON",
+                "Tacaíocht athrú go CSV, páirceanna CSV leagtha sórtáil agus suímh teormharcóir",
+                "Tacaíocht il-teanga (ag baint úsáide as an uirlis TryToTranslate a aistriú)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Rudaí iontacha daoine ag rá faoi",
+            "SectionName": "Chur le breathnú ar cad tá muid ag rá",
             "list": [
                 {
-                    "reviewContent": "Is DataStorm iontach seo. Simplí. Glan. Foirfe. An-mhaith.",
+                    "reviewContent": "Is DataStorm mór. Simplí, glan, foirfe. Nicely déanta.",
                     "userName": "evanw",
-                    "professional": "Teicneolaíocht Evangelist"
+                    "professional": "Riarthóir Bunachar Sonraí"
                 },
                 {
-                    "reviewContent": "Is DataStorm cad is féidir liom go leor i bhfad gach ceann de mo scríbhneoireachta i. Tá sé ina app iontach beag.",
+                    "reviewContent": "Is DataStorm cad is féidir liom beagnach gach mo uirlisí, tá sé seo le hiarratas beag mór.",
                     "userName": "Peter Bright",
-                    "professional": "Writer ag Ars Technica"
+                    "professional": "Innealtóir tástála"
                 },
                 {
-                    "reviewContent": "Má tá aon leas i comhshó sonraí tú, is DataStorm cinnte fiú a íoslódáil.",
-                    "userName": "Lifehacker",
-                    "professional": "Forbróir Gréasáin agus Dearthóir"
+                    "reviewContent": "Más gá duit a dhéanamh sonraí a chomhshó, is DataStorm cinnte fiú an íoslódáil.",
+                    "userName": "Lifehacker ar",
+                    "professional": "Forbróirí gréasáin agus dearthóirí"
                 },
                 {
-                    "reviewContent": "I really like DataStorm, thug áise i bhfad do mo chuid oibre.",
+                    "reviewContent": "I really like DataStorm, thug dom a lán oibre a thabhairt go héasca.",
                     "userName": "jeruss",
-                    "professional": "Creat PHP Developer"
+                    "professional": "Forbairt réime PHP"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - separator Suíomh",
+                "section": "Aschur CSV - deighilteoirí leagtha",
                 "videos": [
                     {
-                        "description": "Aschur comhad CSV, a shocraíonn an deighilteoir. (réamhshocrú: \",\")",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "Comhaid CSV aschur, teormharcáilte CSV leagtha modh (réamhshocrú: '').",
+                        "url": "Físeáin / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Socrú réimsí csv saghas",
+                "section": "Aschur CSV - a shocrú ar an réimse saghas",
                 "videos": [
                     {
-                        "description": "Aschur comhad CSV, ag leagan réimse saghas.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "Aschur comhad CSV, a leagtar na réimsí CSV a shórtáil ar bhealach simplí.",
+                        "url": "Físeáin / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Bain úsáid as inneall réad casta",
+                "section": "Aschur CSV - innill a leagan síos úsáid rudaí casta",
                 "videos": [
                     {
-                        "description": "Aschur comhad CSV, déileáil leis an fhormáid comhaid casta.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "Aschur comhad CSV, a leagtar an t-inneall a láimhseáil rudaí casta ag baint úsáide as comhaid ionchur casta. Réamhshocrú: Oscailte.",
+                        "url": "Físeáin / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Leagan Uimhir",
+        "labelVersion": "Scaoileadh",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "An Chéad scaoileadh."
+                        "content": "An chéad scaoileadh"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "An Chéad scaoileadh."
+                        "content": "An chéad scaoileadh"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Leagan Uimhir",
+        "labelVersion": "Scaoileadh",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Ceannaigh Way",
+        "SectionName": "Conas a Ceannaigh",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Teangacha ar Fáil",
+        "SectionName": "Láithreán Teangacha ar Fáil",
         "ChangeAlert": "Lasc Comhlánaigh teanga"
     }
 }

@@ -1,19 +1,19 @@
 {
     "TopBar": {
         "Home": "ಮುಖಪುಟ",
-        "Feature": "ವೈಶಿಷ್ಟ್ಯ",
-        "Documents": "ಡಾಕ್ಯುಮೆಂಟ್ಸ್",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "ಉಚಿತ ಪ್ರಯೋಗ",
+        "Feature": "ವೈಶಿಷ್ಟ್ಯಗಳು",
+        "Documents": "ಫೈಲ್",
+        "ReleaseNotes": "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು",
+        "Downloads": "ಉಚಿತ ಟ್ರಯಲ್",
         "Buy": "ಖರೀದಿ",
-        "Roadmap": "ಮಾರ್ಗಸೂಚಿ",
-        "ReportIssue": "ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ",
+        "Roadmap": "ಉತ್ಪನ್ನ",
+        "ReportIssue": "ಸಂಚಿಕೆ",
         "Languages": "ಭಾಷಾ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "ಉಪಯುಕ್ತ ಅಪ್ಲಿಕೇಶನ್. ವಿಂಡೋಸ್, ಲಿನಕ್ಸ್, MacOSX ಕಾರ್ಯ ವ್ಯವಸ್ಥೆಯನ್ನು ಸೂಕ್ತವಾದ.",
-        "BtnDownload": "ಉಚಿತ ಪ್ರಯೋಗ",
+        "ProjectTagline": "ವಿವಿಧ ಸ್ವರೂಪಗಳಲ್ಲಿ ನಡುವೆ ಮಾಹಿತಿ ಪರಿವರ್ತನೆ, ವಿಂಡೋಸ್, ಲಿನಕ್ಸ್ ಮತ್ತು MacOSX ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ಗಳ ಬೆಂಬಲ.",
+        "BtnDownload": "ಉಚಿತ ಟ್ರಯಲ್",
         "BtnBuy": "ಖರೀದಿ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ಮುಖ್ಯ ಲಕ್ಷಣಗಳು",
+            "SectionName": "ಉತ್ಪನ್ನ ಮುಖ್ಯ ಲಕ್ಷಣಗಳು",
             "list": [
-                "ಒಂದು ರೂಪದಲ್ಲಿ ಇನ್ನೊಂದಕ್ಕೆ, JSON, ಮದುವೆ, CSV, plist, ಐಎನ್ಐ, .properties (ಜಾವಾ) ಮತ್ತು YML (YAML) ನಡುವೆ ಪರಿವರ್ತಿಸಿ.",
-                "ಬೆಂಬಲ ಬ್ಯಾಚ್ ಪರಿವರ್ತನೆ.",
-                "ಬೆಂಬಲ ಪರಿವರ್ತನೆ ಕಸ್ಟಮ್ ಆಯ್ಕೆಗಳನ್ನು.",
-                "ಬೆಂಬಲ ಸಂಕೀರ್ಣ ವಿಷಯವನ್ನು ಫೈಲ್ ಫಾರ್ಮ್ಯಾಟ್",
-                "(DataStorm ಅನುವಾದ) ಬಹು ಭಾಷಾ ಬೆಂಬಲ."
+                "JSON, ಪರಿವರ್ತನೆ ಮದುವೆ, CSV, plist, ಐಎನ್ಐ, .properties ಮತ್ತು ಯಾಂಗ್ ಮಿಂಗ್ ಅಲ್ಲಿನ ಮರೀನ್ ಟ್ರಾನ್ಸ್ಪೋರ್ಟ್ (YAML) ಕಡತ ಡೇಟಾ ಬೆಂಬಲ.",
+                "ಬೆಂಬಲ ಬ್ಯಾಚ್ ಪರಿವರ್ತನೆ",
+                "ಬೆಂಬಲ ಕಸ್ಟಮೈಸ್ ಪರಿವರ್ತನೆ ನಿಯತಾಂಕಗಳನ್ನು",
+                "ವಿಶೇಷವಾಗಿ ಅಡಕಿಸಿದ JSON, CSV ಫೈಲ್ಗಳನ್ನು ಪರಿವರ್ತಿಸುವ ಸಂಕೀರ್ಣ ಅಕ್ಷಾಂಶ ಕಡತ ನಿರ್ವಹಣೆ, ಬೆಂಬಲ",
+                "ಬೆಂಬಲ, CSV ಪರಿವರ್ತಿಸುವ CSV ಜಾಗ ವಿಂಗಡಿಸುವ ಮತ್ತು ಡಿಲಿಮಿಟರ್ ಸೆಟ್ಟಿಂಗ್ಗಳನ್ನು ಹೊಂದಿಸಿ",
+                "ಬಹು ಭಾಷಾ ಬೆಂಬಲ (ಭಾಷಾಂತರಿಸಲು TryToTranslate ಉಪಕರಣವನ್ನು ಬಳಸಿಕೊಂಡು)."
             ]
         },
         "UserReviews": {
-            "SectionName": "ಜನರು ಅದರ ಬಗ್ಗೆ ಹೇಳುತ್ತಿದ್ದಾರೆ ಅದ್ಭುತ ವಿಷಯಗಳನ್ನು",
+            "SectionName": "ನಾವು ಹೇಳುತ್ತಿದ್ದಾರೆ ಎಂಬುದನ್ನು ನೋಡೋಣ",
             "list": [
                 {
-                    "reviewContent": "DataStorm ಸ್ತಬ್ಧಗೊಳಿಸುವಂತಿದೆ. ಸರಳ. ಕ್ಲೀನ್. ಪರ್ಫೆಕ್ಟ್. ಅಭಿನಂದನೆಗಳು.",
+                    "reviewContent": "DataStorm ಅದ್ಭುತವಾಗಿದೆ. ಪರಿಪೂರ್ಣ, ಶುದ್ಧ, ಸರಳ. ಚೆನ್ನಾಗಿ ಮಾಡಲಾಗುತ್ತದೆ.",
                     "userName": "evanw",
-                    "professional": "ತಂತ್ರಜ್ಞಾನ ಸುವಾರ್ತಾಬೋಧಕ"
+                    "professional": "ಡೇಟಾಬೇಸ್ ನಿರ್ವಾಹಕ"
                 },
                 {
-                    "reviewContent": "DataStorm ನಾನು ಅತ್ಯಧಿಕವಾಗಿ ಎಲ್ಲಾ ನನ್ನ ಬರವಣಿಗೆಯ ಏನು ಆಗಿದೆ. ಇದು ದೊಡ್ಡ ಕಡಿಮೆ ಅಪ್ಲಿಕೇಶನ್.",
+                    "reviewContent": "DataStorm, ಈ ದೊಡ್ಡ ಕಡಿಮೆ ಮಾಡುವುದಾಗಿದೆ ನಾನು ಎಲ್ಲಾ ನನ್ನ ಉಪಕರಣಗಳು ಹಾಗೆ.",
                     "userName": "ಪೀಟರ್ ಬ್ರೈಟ್",
-                    "professional": "ಆರ್ಸ್ ಟೆಕ್ನಿಕಾ ರೈಟರ್"
+                    "professional": "ಟೆಸ್ಟ್ ಇಂಜಿನಿಯರ್"
                 },
                 {
-                    "reviewContent": "ನೀವು ಡೇಟಾವನ್ನು ಪರಿವರ್ತನೆ ಯಾವುದೇ ಆಸಕ್ತಿ ಹೊಂದಿದ್ದರೆ, DataStorm ಖಂಡಿತವಾಗಿಯೂ ಡೌನ್ಲೋಡ್ ಯೋಗ್ಯವಾಗಿದೆ.",
-                    "userName": "Lifehacker",
-                    "professional": "ವೆಬ್ ಡೆವಲಪರ್ ಮತ್ತು ಡಿಸೈನರ್"
+                    "reviewContent": "ನೀವು ಡೇಟಾವನ್ನು ಪರಿವರ್ತನೆ ಮಾಡಬೇಕಾದ್ದು ವೇಳೆ, DataStorm ಖಂಡಿತವಾಗಿಯೂ ಡೌನ್ಲೋಡ್ ಯೋಗ್ಯವಾಗಿದೆ.",
+                    "userName": "Lifehacker ನ",
+                    "professional": "ವೆಬ್ ಅಭಿವರ್ಧಕರು ಮತ್ತು ವಿನ್ಯಾಸಕಾರರು"
                 },
                 {
-                    "reviewContent": "ನಾನು DataStorm, ನನ್ನ ಕೆಲಸಕ್ಕೆ ಹೆಚ್ಚು ಅನುಕೂಲಕ್ಕಾಗಿ ತಂದಿದೆ.",
+                    "reviewContent": "ನಾನು DataStorm ನಂತಹ ಸುಲಭ ತರಲು ನನಗೆ ಕೆಲಸ ಬಹಳಷ್ಟು ನೀಡಿದರು.",
                     "userName": "jeruss",
-                    "professional": "ಚೌಕಟ್ಟು ಡೆವಲಪರ್"
+                    "professional": "ಚೌಕಟ್ಟು ಅಭಿವೃದ್ಧಿ"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - ಸೆಟ್ಟಿಂಗ್ ವಿಭಜಕವನ್ನೂ",
+                "section": "ಔಟ್ಪುಟ್ CSV - ಸೆಟ್ ವಿಭಜಕಗಳು",
                 "videos": [
                     {
-                        "description": "ಔಟ್ಪುಟ್ CSV ಕಡತ, ವಿಭಜಕವನ್ನೂ ಸ್ಥಾಪನೆಗೆ. (ಡೀಫಾಲ್ಟ್: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV ಔಟ್ಪುಟ್ ಕಡತಗಳನ್ನು, CSV ವಿಧಾನ ಸೆಟ್ ಲಿಮಿಟೆಡ್ (ಡೀಫಾಲ್ಟ್: '').",
+                        "url": "ವೀಡಿಯೊಗಳನ್ನು / ಡಾಕ್ಸ್ / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - CSV ರೀತಿಯ ಜಾಗ ಹೊಂದಿಸಲಾಗುತ್ತಿದೆ",
+                "section": "ಔಟ್ಪುಟ್ CSV - ರೀತಿಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಹೊಂದಿಸಲು",
                 "videos": [
                     {
-                        "description": "ಔಟ್ಪುಟ್ CSV ಕಡತ ರೀತಿಯ ಫೀಲ್ಡ್ ಸಂಯೋಜನೆಯನ್ನು.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV ಫೈಲ್ ಔಟ್ಪುಟ್, ಸರಳ ರೀತಿಯಲ್ಲಿ ವಿಂಗಡಿಸಲು CSV ಜಾಗ ಹೊಂದಿಸಲು.",
+                        "url": "ವೀಡಿಯೊಗಳನ್ನು / ಡಾಕ್ಸ್ / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - ಬಳಸಿ ಸಂಕೀರ್ಣ ವಸ್ತು ಎಂಜಿನ್",
+                "section": "ಔಟ್ಪುಟ್ CSV - ಸ್ಥಾಪನೆಗೆ ಎಂಜಿನ್ ಸಂಕೀರ್ಣ ವಸ್ತುಗಳನ್ನು ಬಳಸಲು",
                 "videos": [
                     {
-                        "description": "ಔಟ್ಪುಟ್ CSV ಕಡತ, ಸಂಕೀರ್ಣ ಕಡತ ಸ್ವರೂಪದ ನಿರ್ವಹಿಸಲು.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV ಫೈಲ್ ಔಟ್ಪುಟ್, ಸಂಕೀರ್ಣ ಇನ್ಪುಟ್ ಕಡತಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಸಂಕೀರ್ಣ ವಸ್ತುಗಳನ್ನು ನಿರ್ವಹಿಸಲು ಎಂಜಿನ್ ಸೆಟ್. ಡೀಫಾಲ್ಟ್: ಓಪನ್.",
+                        "url": "ವೀಡಿಯೊಗಳನ್ನು / ಡಾಕ್ಸ್ / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ಆವೃತ್ತಿ ಸಂಖ್ಯೆ",
+        "labelVersion": "ಬಿಡುಗಡೆ",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "ಮೊದಲ ಬಿಡುಗಡೆ."
+                        "content": "ಮೊದಲ ಬಿಡುಗಡೆ"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "ಮೊದಲ ಬಿಡುಗಡೆ."
+                        "content": "ಮೊದಲ ಬಿಡುಗಡೆ"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "ಆವೃತ್ತಿ ಸಂಖ್ಯೆ",
+        "labelVersion": "ಬಿಡುಗಡೆ",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "ಖರೀದಿ ವೇ",
+        "SectionName": "ಖರೀದಿ ಮಾಡಲು ಹೇಗೆ",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ಲಭ್ಯವಿರುವ ಭಾಷೆಗಳು",
+        "SectionName": "ವೆಬ್ಸೈಟ್ ಲಭ್ಯವಿರುವ ಭಾಷೆಗಳು",
         "ChangeAlert": "ಕಂಪ್ಲೀಟ್ ಸ್ವಿಚ್ ಭಾಷೆ"
     }
 }

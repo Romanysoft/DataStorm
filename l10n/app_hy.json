@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Առանձնահատկություն",
-        "Documents": "Documents",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Տուն",
+        "Feature": "Նկարագրություն",
+        "Documents": "Ֆայլ",
+        "ReleaseNotes": "ՕՆԼԱՅՆ Notes",
         "Downloads": "Free Trial",
-        "Buy": "Գնել",
-        "Roadmap": "Ճանապարհային քարտեզի",
-        "ReportIssue": "Report Issue",
+        "Buy": "Գնում",
+        "Roadmap": "Ապրանք գիծը",
+        "ReportIssue": "Թողարկում",
         "Languages": "Լեզու"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Շատ օգտակար է App. Հարմար է Windows, Linux, MacOSX օպերացիոն համակարգի.",
+        "ProjectTagline": "Data դարձի միջեւ տարբեր ձեւաչափերով, աջակցությունը Windows, Linux եւ MacOSX օպերացիոն համակարգերի.",
         "BtnDownload": "Free Trial",
         "BtnBuy": "Գնում",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Հիմնական Նկարագրություն",
+            "SectionName": "Product հիմնական հատկանիշները",
             "list": [
-                "Փոխարկել միջեւ JSON, XML, CSV, plist, INI, .Փրոփըրթիզ (Java) եւ YML (YAML) մեկ ձեւաչափ մյուսը.",
-                "Աջակցության խմբաքանակի դարձի.",
-                "Աջակցություն դարձի մաքսային ընտրանքներ.",
-                "Support համալիրը բովանդակությունը ֆայլի ֆորմատ",
-                "Բազմալեզու աջակցություն (Թարգմանված է DataStorm)."
+                "Աջակցություն JSON, դարձի գալու XML, CSV, plist, INI, որ .Փրոփըրթիզ եւ Յան Ming Մարինե տրանսպորտի (YAML) ֆայլի տվյալները.",
+                "Աջակցության խմբաքանակի դարձի",
+                "Աջակցություն Customize փոխարկման պարամետրերի",
+                "Աջակցություն բարդ տվյալների ֆայլ գործածելիս, հատկապես փոխակերպելու CSV ֆայլեր մեջ nested JSON",
+                "Աջակցություն վերծանել CSV, CSV դաշտերը տեսակավորման եւ սահմանազատիչ պարամետրեր",
+                "Բազմալեզու աջակցություն (օգտագործելով TryToTranslate գործիք թարգմանել)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Հրաշալի բաներ, մարդիկ ասում են, դրա մասին",
+            "SectionName": "Take a look, թե ինչ ենք ասում,",
             "list": [
                 {
-                    "reviewContent": "DataStorm ցնցող. Simple. Մաքուր. Perfect. Լավ է արված:",
+                    "reviewContent": "DataStorm մեծ է. Պարզ, մաքուր, կատարյալ. Իսկը արել.",
                     "userName": "evanw",
-                    "professional": "Մեխանիկա Ավետարանիչ"
+                    "professional": "Նյութերի բազա Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm այն է, ինչ ես անում, շատ բոլորը իմ գրավոր: Դա մի քիչ մեծ ծրագիրը:",
+                    "reviewContent": "DataStorm այն է, ինչ ես անում, գրեթե բոլոր իմ գործիքներ, սա մի քիչ մեծ դիմումը.",
                     "userName": "Peter Bright",
-                    "professional": "Գրող, ժամը Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Եթե ​​դուք ունեք որեւէ հետաքրքրություն տվյալների դարձի, DataStorm հաստատ արժե մի ստանալ.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer եւ Designer"
+                    "reviewContent": "Եթե ​​դուք պետք է անել տվյալների դարձի, DataStorm հաստատ արժե ստանալ.",
+                    "userName": "Lifehacker ի",
+                    "professional": "Վեբ ծրագրավորողներ եւ դիզայներներ"
                 },
                 {
-                    "reviewContent": "Ես, իրոք, նման DataStorm, բերեց շատ հարմարության համար իմ աշխատանքում.",
+                    "reviewContent": "Ես, իրոք, նման DataStorm, ինձ շատ աշխատանք բերել հեշտ.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP շրջանակը զարգացման"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Setting տարանջատիչ",
+                "section": "Արդյունք CSV սահմանված separators",
                 "videos": [
                     {
-                        "description": "Արդյունք CSV ֆայլը, ընդլայնված է իրարից. (Նախնական ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV ելքային ֆայլերը, CSV delimited սահմանված մեթոդը (դեֆոլտ: ''):",
+                        "url": "Videos / ՎԵՐԼՈՒԾԱԿԱՆՆԵՐ / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Setting CSV Դասավորել ոլորտների",
+                "section": "Արդյունք CSV - նախադրելու տեսակ դաշտը",
                 "videos": [
                     {
-                        "description": "Արդյունք CSV ֆայլը, ընդլայնված տեսակ դաշտ.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV ֆայլը արտադրանքը, սահմանել CSV դաշտերը տեսակավորելու մի պարզ ճանապարհ.",
+                        "url": "Videos / ՎԵՐԼՈՒԾԱԿԱՆՆԵՐ / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Օգտագործեք համալիրը օբյեկտ շարժիչը",
+                "section": "Արդյունք CSV - ընդլայնված շարժիչներ օգտագործում բարդ օբյեկտները",
                 "videos": [
                     {
-                        "description": "Արդյունք CSV ֆայլը, կարգավորել բարդ ֆայլի ֆորմատ.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV ֆայլը արտադրանքը, սահմանել շարժիչը կարգավորել բարդ օբյեկտների օգտագործելով բարդ մուտքագրման ֆայլեր. Default: Open.",
+                        "url": "Videos / ՎԵՐԼՈՒԾԱԿԱՆՆԵՐ / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Ծանոթություններ Միավորների",
+        "labelVersion": "Ազատում",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Առաջին ազատ է արձակվել."
+                        "content": "Առաջին արձակել"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Առաջին ազատ է արձակվել."
+                        "content": "Առաջին արձակել"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Ծանոթություններ Միավորների",
+        "labelVersion": "Ազատում",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Գնել Way",
+        "SectionName": "Ինչպես Գնել",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Հասանելի Լեզուներ",
+        "SectionName": "Կայքում հասանելի Լեզուներ",
         "ChangeAlert": "Complete անջատիչ լեզուն"
     }
 }

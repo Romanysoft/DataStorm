@@ -3,16 +3,16 @@
         "Home": "ຫນ້າ​ທໍາ​ອິດ",
         "Feature": "ຄຸນ​ນະ​ສົມ​ບັດ",
         "Documents": "ເອ​ກະ​ສານ",
-        "ReleaseNotes": "releasenotes",
+        "ReleaseNotes": "ບັນ​ທຶກ​ປະ​ຈໍາ",
         "Downloads": "ການ​ທົດ​ລອງ​ຟຣີ",
         "Buy": "ຊື້",
-        "Roadmap": "RoadMap",
-        "ReportIssue": "ສະ​ບັບ Report",
+        "Roadmap": "ອອນ​ໄລ​ນ​໌​ຜະ​ລິດ​ຕະ​ພັນ",
+        "ReportIssue": "ບັນ​ຫາ",
         "Languages": "ພາ​ສາ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "ເປັນ​ປະ​ໂຫຍດ​ຫຼາຍ App​. ເຫມາະ​ສົມ​ສໍາ​ລັບ​ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ Windows​, Linux​, MacOSX​.",
+        "ProjectTagline": "ການ​ປ່ຽນ​ແປງ​ຂໍ້​ມູນ​ທີ່​ລະ​ຫວ່າງ​ຮູບ​ແບບ​ການ​ຕ່າງໆ​, ສະ​ຫນັບ​ສະ​ຫນູນ​ສໍາ​ລັບ Windows​, Linux ແລະ MacOSX ລະ​ບົບ​ປະ​ຕິ​ບັດ​ການ​.",
         "BtnDownload": "ການ​ທົດ​ລອງ​ຟຣີ",
         "BtnBuy": "ຊື້",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ຄຸນ​ນະ​ສົມ​ບັດ​ຕົ້ນ​ຕໍ",
+            "SectionName": "ຜະ​ລິດ​ຕະ​ພັນ​ຄຸນ​ນະ​ສົມ​ບັດ​ຕົ້ນ​ຕໍ",
             "list": [
-                "ແປງ​ລະ​ຫວ່າງ JSON​, XML​, CSV​, plist​, INI​, .properties (java​) ແລະ YML (YAML​)​, ​​ຈາກ​ຮູບ​ແບບ​ຫນຶ່ງ​ກັບ​ຄົນ​ອື່ນ​.",
-                "ການ​ແປງ​ຊຸດ​ສະ​ຫນັບ​ສະ​ຫນູນ​.",
-                "ສະ​ຫນັບ​ສະ​ຫນູນ​ທາງ​ເລືອກ custom ການ​ປ່ຽນ​ແປງ​.",
-                "ສະ​ຫນັບ​ສະ​ຫນູນ​ຮູບ​ແບບ​ໄຟລ​໌​ສະ​ລັບ​ສັບ​ຊ້ອນ​ເນື້ອ​ໃນ",
-                "ສະ​ຫນັບ​ສະ​ຫນູນ​ຫຼາຍ​ພາ​ສາ (ແປ​ໂດຍ DataStorm​)​."
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ສໍາ​ລັບ​ການ JSON​, XML ການ​ປ່ຽນ​ແປງ​, CSV​, plist​, INI​, .properties ແລະ Yang Ming ທະ​ເລ​ການ​ຂົນ​ສົ່ງ​ຂໍ້​ມູນ (YAML​) ເອ​ກະ​ສານ​.",
+                "ການ​ແປງ​ຊຸດ​ສະ​ຫນັບ​ສະ​ຫນູນ",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ຕົວ​ກໍາ​ນົດ​ການ​ປ່ຽນ​ແປງ​ການ​ລູກ​ຄ້າ",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ສໍາ​ລັບ​ການ​ສະ​ລັບ​ສັບ​ຊ້ອນ​ການ​ຈັດ​ການ​ໄຟລ​໌​ຂໍ້​ມູນ​, ໂດຍ​ສະ​ເພາະ​ແມ່ນ​ເປັນ​ໄຟລ​໌ CSV ເຂົ້າ​ໄປ​ໃນ​ຮັງ JSON",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ການ​ເປັນ​ກັບ CSV​, ທົ່ງ​ນາ​ທີ່​ກໍາ​ນົດ​ໄວ້ CSV ການ​ຄັດ​ເລືອກ​ແລະ​ການ​ຕັ້ງ​ຄ່າ delimiter",
+                "ສະ​ຫນັບ​ສະ​ຫນູນ​ຫຼາຍ​ພາ​ສາ (ການ​ນໍາ​ໃຊ້​ເຄື່ອງ​ມື TryToTranslate ການ​ແປ​ພາ​ສາ​)​."
             ]
         },
         "UserReviews": {
-            "SectionName": "ສິ່ງ​ທີ່​ປະ​ເສີດ​ປະ​ຊາ​ຊົນ​ເວົ້າ​ກ່ຽວ​ກັບ​ມັນ",
+            "SectionName": "ທ່ານ​ໄດ້​ເບິ່ງ​ຢູ່​ເປັນ​ສິ່ງ​ທີ່​ພວກ​ເຮົາ​ກໍາ​ລັງ​ເວົ້າ",
             "list": [
                 {
-                    "reviewContent": "DataStorm ແມ່ນ stunning​. ງ່າຍ​ດາຍ​. ທໍາ​ຄວາມ​ສະ​ອາດ​. ທີ່​ດີ​ເລີດ​. ເຮັດ​ໄດ້​ດີ​.",
+                    "reviewContent": "DataStorm ເປັນ​ທີ່​ຍິ່ງ​ໃຫຍ່​. Simple​, ຄວາມ​ສະ​ອາດ​, ທີ່​ສົມ​ບູນ​ແບບ​. ເຮັດ​ງາມ​.",
                     "userName": "evanw",
-                    "professional": "ເຕັກ​ໂນ​ໂລ​ຊີ Evangelist"
+                    "professional": "Administrator ຖານ​ຂໍ້​ມູນ"
                 },
                 {
-                    "reviewContent": "DataStorm ແມ່ນ​ສິ່ງ​ທີ່​ຂ້າ​ພະ​ເຈົ້າ​ເຮັດ pretty ຫຼາຍ​ທັງ​ຫມົດ​ຂອງ​ລາຍ​ລັກ​ອັກ​ສອນ​ຂ້າ​ພະ​ເຈົ້າ​ໃນ​. ມັນ​ເປັນ app ທີ່​ຍິ່ງ​ໃຫຍ່​ພຽງ​ເລັກ​ນ້ອຍ​.",
+                    "reviewContent": "DataStorm ແມ່ນ​ສິ່ງ​ທີ່​ຂ້າ​ພະ​ເຈົ້າ​ເຮັດ​ໄດ້​ເກືອບ​ທັງ​ຫມົດ​ເຄື່ອງ​ມື​ຂອງ​ຂ້າ​ພະ​ເຈົ້າ​, ນີ້​ແມ່ນ​ເປັນ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ທີ່​ຍິ່ງ​ໃຫຍ່​ພຽງ​ເລັກ​ນ້ອຍ​.",
                     "userName": "Peter ສົດ​ໃສ",
-                    "professional": "Writer ຢູ່ Ars Technica"
+                    "professional": "ວິ​ສະ​ວະ​ກອນ​ການ​ທົດ​ສອບ"
                 },
                 {
-                    "reviewContent": "ຖ້າ​ຫາກ​ທ່ານ​ມີ​ຄວາມ​ສົນ​ໃຈ​ໃນ​ການ​ປ່ຽນ​ແປງ​ຂໍ້​ມູນ​ໃດໆ​, DataStorm ແມ່ນ​ຕົກ​ເປັນ​ມູນ​ຄ່າ​ການ​ດາວ​ໂຫຼດ​.",
-                    "userName": "LifeHacker",
-                    "professional": "ຜູ້​ພັດ​ທະ​ນາ​ເວັບ​ໄຊ​ແລະ​ການ​ອອກ​ແບບ"
+                    "reviewContent": "ຖ້າ​ຫາກ​ວ່າ​ທ່ານ​ຕ້ອງ​ການ​ຈະ​ເຮັດ​ການ​ປ່ຽນ​ແປງ​ຂໍ້​ມູນ​, DataStorm ແມ່ນ​ຕົກ​ເປັນ​ມູນ​ຄ່າ​ການ​ດາວ​ໂຫຼດ​.",
+                    "userName": "Lifehacker ຂອງ",
+                    "professional": "ການ​ພັດ​ທະ​ນາ​ເວັບ​ໄຊ​ຕ​໌​ແລະ​ການ​ອອກ​ແບບ"
                 },
                 {
-                    "reviewContent": "ຂ້າ​ພະ​ເຈົ້າ​ກໍ່​ຄື DataStorm​, ໄດ້​ນໍາ​ເອົາ​ຄວາມ​ສະ​ດວກ​ຫຼາຍ​ສໍາ​ລັບ​ການ​ເຮັດ​ວຽກ​ຂ້າ​ພະ​ເຈົ້າ​.",
+                    "reviewContent": "ຂ້າ​ພະ​ເຈົ້າ​ກໍ່​ຄື DataStorm​, ໃຫ້​ຂ້າ​ພະ​ເຈົ້າ​ຢ່າງ​ຫຼວງ​ຫຼາຍ​ຂອງ​ການ​ເຮັດ​ວຽກ​ທີ່​ຈະ​ເຮັດ​ໃຫ້​ງ່າຍ​.",
                     "userName": "jeruss",
-                    "professional": "ພັດ​ທະ​ນາ PHP Framework"
+                    "professional": "ການ​ພັດ​ທະ​ນາ​ໂຄງ​ຮ່າງ​ການ PHP"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - ແຍກ​ການ​ກໍາ​ນົດ​ຄ່າ",
+                "section": "ຜົນ​ຜະ​ລິດ CSV - ແຍກ​ທີ່​ກໍາ​ນົດ​ໄວ້",
                 "videos": [
                     {
-                        "description": "ຜົນ​ຜະ​ລິດ​ໄຟລ​໌ csv​, ການ​ສ້າງ​ຕັ້ງ​ແຍກ​ໄດ້​. (default​: ',​'​​​)",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV ໄຟລ​໌​ຜົນ​ຜະ​ລິດ​, CSV ຄັ່ນ​ຕັ້ງ​ວິ​ທີ​ການ (default​: ''​)​.",
+                        "url": "ວິ​ດີ​ໂອ / ເອ​ກະ​ສານ / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - ການ​ຈັດ​ຕັ້ງ​ນາ csv ການ​ຈັດ​ລຽງ",
+                "section": "ຜົນ​ຜະ​ລິດ CSV - ເພື່ອ​ກໍາ​ນົດ​ພາກ​ສະ​ຫນາມ​ການ​ຈັດ​ລຽງ",
                 "videos": [
                     {
-                        "description": "ຜົນ​ຜະ​ລິດ​ໄຟລ​໌ csv​, ການ​ສ້າງ​ຕັ້ງ​ພາກ​ສະ​ຫນາມ​ທ​.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "ຜົນ​ຜະ​ລິດ​ໄຟລ​໌ CSV​, ກໍາ​ນົດ​ທົ່ງ​ນາ CSV ເພື່ອ​ຄັດ​ວິ​ທີ​ການ​ທີ່​ງ່າຍ​ດາຍ​.",
+                        "url": "ວິ​ດີ​ໂອ / ເອ​ກະ​ສານ / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - ການ​ນໍາ​ໃຊ້​ເຄື່ອງ​ຈັກ​ໃນ​ການ​ສະ​ລັບ​ສັບ​ຊ້ອນ​ວັດ​ຖຸ",
+                "section": "ຜົນ​ຜະ​ລິດ CSV - ເຄື່ອງ​ມື​ການ​ຕັ້ງ​ຄ່າ​ການ​ນໍາ​ໃຊ້​ວັດ​ຖຸ​ທີ່​ສະ​ລັບ​ສັບ​ຊ້ອນ",
                 "videos": [
                     {
-                        "description": "ໄຟລ​໌ csv ຜົນ​ຜະ​ລິດ​, ຈັດ​ຮູບ​ແບບ​ໄຟລ​໌​ສະ​ລັບ​ສັບ​ຊ້ອນ​.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "ຜົນ​ຜະ​ລິດ​ໄຟລ​໌ CSV​, ກໍາ​ນົດ​ເຄື່ອງ​ມື​ໃນ​ການ​ຈັດ​ການ​ສະ​ລັບ​ສັບ​ຊ້ອນ​ວັດ​ຖຸ​ການ​ນໍາ​ໃຊ້​ໄຟລ​໌​ປະ​ກອບ​ສະ​ລັບ​ສັບ​ຊ້ອນ​ໄດ້​. ມາດ​ຕະ​ຖານ​: ເປີດ​.",
+                        "url": "ວິ​ດີ​ໂອ / ເອ​ກະ​ສານ / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ຈໍາ​ນວນ Version",
+        "labelVersion": "ການ​ປ່ອຍ",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "ປ່ອຍ​ອອກ​ມາ​ເມື່ອ​ຄັ້ງ​ທໍາ​ອິດ​."
+                        "content": "ການ​ປ່ອຍ​ທໍາ​ອິດ"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "ປ່ອຍ​ອອກ​ມາ​ເມື່ອ​ຄັ້ງ​ທໍາ​ອິດ​."
+                        "content": "ການ​ປ່ອຍ​ທໍາ​ອິດ"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "ຈໍາ​ນວນ Version",
+        "labelVersion": "ການ​ປ່ອຍ",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "ຊື້ Way",
+        "SectionName": "ວິ​ທີ​ການ​ຊື້",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ພາ​ສາ​ທີ່​ມີ",
+        "SectionName": "ພາ​ສາ​ທີ່​ມີ​ເວັບ​ໄຊ​ທ​໌",
         "ChangeAlert": "ພາ​ສາ​ທີ່​ສົມ​ບູນ​ສະ​ຫຼັບ"
     }
 }

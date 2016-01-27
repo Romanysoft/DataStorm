@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Ezaugarri",
-        "Documents": "Dokumentuak",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Hasiera",
+        "Feature": "Ezaugarriak",
+        "Documents": "Fitxategia",
+        "ReleaseNotes": "Bertsio-oharrak",
         "Downloads": "Free Trial",
-        "Buy": "Erosi",
-        "Roadmap": "Ibilbide Orria",
-        "ReportIssue": "Txostena",
+        "Buy": "Erosteko",
+        "Roadmap": "Produktu linea",
+        "ReportIssue": "Alea",
         "Languages": "Hizkuntza"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Aplikazioa oso erabilgarria. Windows, Linux, MacOSX sistema eragilearekin bateragarriak.",
+        "ProjectTagline": "Hainbat formatu arteko datu bihurtzeko, Windows, Linux eta MacOSX sistema eragilea laguntza.",
         "BtnDownload": "Free Trial",
         "BtnBuy": "Erosteko",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Ezaugarri nagusiak",
+            "SectionName": "Produktuen ezaugarri nagusiak",
             "list": [
-                "JSON, XML, CSV, plist, INE, .properties (Java) eta YML (YAML) arteko bihurtzeko, formatu batetik bestera.",
-                "Euskarria Batch bihurtze.",
-                "Euskarria aukera bihurtze pertsonalizatuak.",
-                "Euskarria eduki konplexuak fitxategi formatua",
-                "Hizkuntza anitzeko laguntza (DataStorm Itzulpena)."
+                "JSON, bihurtze XML, CSV, plist, INE, .properties eta Yang Ming Itsas Garraioko (YAML) fitxategia datuak euskarri.",
+                "Euskarria batch bihurtze",
+                "Euskarria pertsonalizatu bihurtze parametro",
+                "Datu fitxategi manipulazioa konplexua, batez bihurtzeko CSV fitxategiak nested JSON sartu euskarria",
+                "Euskarria CSV bihurtzeko, CSV eremuak ezarri ordenatzeko eta mugatzailea ezarpenak",
+                "Hizkuntza anitzeko laguntza (TryToTranslate tresna erabiliz itzultzeko)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Wonderful gauza jendea buruz esaten",
+            "SectionName": "Hartu begirada bat esaten ari gara",
             "list": [
                 {
-                    "reviewContent": "DataStorm harrigarria da. Simple. Clean. Perfect. Ongi egina.",
+                    "reviewContent": "DataStorm handia da. Simple, garbi, ezin hobea. Nicely egin.",
                     "userName": "evanw",
-                    "professional": "Teknologia Ebanjelaria"
+                    "professional": "Kudeatzaile"
                 },
                 {
-                    "reviewContent": "DataStorm da zer polita egin nuen askoz guztietan nire idaztearen. Apur bat aplikazio handia da.",
+                    "reviewContent": "DataStorm da zer egiten dudan ia guztia erremintak, hau gutxi aplikazio handi bat da.",
                     "userName": "Peter Bright",
-                    "professional": "Ars Technica idazlea"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Datu bihurtzeko interesa baduzu, DataStorm da behin betiko deskarga bat merezi.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer eta festa"
+                    "reviewContent": "Datu bihurtzeko egin behar baduzu, DataStorm da behin betiko download merezi.",
+                    "userName": "Lifehacker en",
+                    "professional": "Web diseinatzaile eta"
                 },
                 {
-                    "reviewContent": "Benetan DataStorm bezala, askoz Erosoago ekarri du nire lana da.",
+                    "reviewContent": "DataStorm bezala benetan I, lan asko eman zidan erraza ekartzea.",
                     "userName": "jeruss",
-                    "professional": "PHP Esparru garatzailea"
+                    "professional": "PHP framework garapena"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Entorno banatzailea",
+                "section": "Irteerako CSV - multzo banatzaile",
                 "videos": [
                     {
-                        "description": "Irteerako csv fitxategia, banatzeko ezarriz. (Lehenetsia: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV irteera fitxategiak, CSV ezarri komak mugatzen metodoa (lehenetsia: '').",
+                        "url": "bideoak / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - csv moduko eremuak Entorno",
+                "section": "Irteerako CSV - sailkatu eremu ezartzeko",
                 "videos": [
                     {
-                        "description": "Irteerako csv fitxategia, ordenatu eremua.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV fitxategia irteera, ezarri CSV eremuak modu erraz bat ordenatzeko.",
+                        "url": "bideoak / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Erabili objektu motorra konplexua",
+                "section": "Irteerako CSV - ezarriz motorren objektu konplexuak erabili",
                 "videos": [
                     {
-                        "description": "Irteerako csv fitxategia, kudeatzeko fitxategi-formatua konplexua.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV fitxategia irteera, motorra objektu konplexuak kudeatzeko sarrera agiri konplexuak erabiliz aldatu. Default: Open.",
+                        "url": "bideoak / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Bertsio zenbakia",
+        "labelVersion": "Oharra",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Lehenengoa kaleratu."
+                        "content": "Lehen oharra"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Lehenengoa kaleratu."
+                        "content": "Lehen oharra"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Bertsio zenbakia",
+        "labelVersion": "Oharra",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Erosi Way",
+        "SectionName": "Nola erosi",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Dauden hizkuntzak",
+        "SectionName": "Web hizkuntzak",
         "ChangeAlert": "Hizkuntza aldatu osoa"
     }
 }

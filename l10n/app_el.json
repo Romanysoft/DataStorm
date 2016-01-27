@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Αρχική Σελίδα",
-        "Feature": "Χαρακτηριστικό",
-        "Documents": "Έγγραφα",
+        "Home": "Αρχική",
+        "Feature": "Χαρακτηριστικά",
+        "Documents": "Αρχείο",
         "ReleaseNotes": "Σημειώσεις έκδοσης",
         "Downloads": "Δωρεάν δοκιμή",
         "Buy": "Αγορά",
-        "Roadmap": "Οδικός χάρτης",
-        "ReportIssue": "Τεύχος",
+        "Roadmap": "Η γραμμή παραγωγής",
+        "ReportIssue": "Ζήτημα",
         "Languages": "Γλώσσα"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Πολύ χρήσιμο App. Κατάλληλο για το λειτουργικό σύστημα Windows, Linux, MacOSX.",
+        "ProjectTagline": "Μετατροπή των δεδομένων μεταξύ των διαφόρων μορφών, υποστήριξη για τα λειτουργικά συστήματα Windows, Linux και MacOSX.",
         "BtnDownload": "Δωρεάν δοκιμή",
         "BtnBuy": "Αγορά",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Κύρια χαρακτηριστικά",
+            "SectionName": "Τα κύρια χαρακτηριστικά του προϊόντος",
             "list": [
-                "Μετατροπή μεταξύ JSON, XML, CSV, plist, INI, .properties (java) και YML (YAML), από τη μία μορφή στην άλλη.",
-                "Υποστήριξη Batch μετατροπή.",
-                "Υποστήριξη έθιμο μετατροπή επιλογές.",
-                "Υποστήριξη μορφή αρχείου σύνθετο περιεχόμενο",
-                "Υποστήριξη σε πολλές γλώσσες (Μεταφράστηκε από DataStorm)."
+                "Υποστήριξη για το JSON, XML μετατροπή, CSV, plist, ΙΝΙ, τα .properties και Yang Ming Marine Transport δεδομένων (YAML) αρχείο.",
+                "Υποστήριξη μετατροπής παρτίδα",
+                "Υποστήριξη παράμετροι μετατροπής προσαρμόσετε",
+                "Υποστήριξη για το χειρισμό πολύπλοκων αρχείων δεδομένων, ιδίως τη μετατροπή των αρχείων CSV σε φωλιασμένη μορφή JSON",
+                "Υποστήριξη μετατροπή σε CSV, CSV πεδία που έχει τη διαλογή και ρυθμίσεις οριοθέτησης",
+                "Υποστήριξη πολλών γλωσσών (χρησιμοποιώντας το εργαλείο TryToTranslate να μεταφράσει)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Υπέροχα πράγματα λέει ο κόσμος γι 'αυτό",
+            "SectionName": "Ρίξτε μια ματιά σε αυτό που λέμε",
             "list": [
                 {
-                    "reviewContent": "DataStorm είναι εκπληκτική. Απλός. Καθαρός. Τέλειος. Μπράβο.",
+                    "reviewContent": "DataStorm είναι μεγάλη. Απλό, καθαρό, τέλεια. Όμορφα γίνει.",
                     "userName": "evanw",
-                    "professional": "Τεχνολογία Ευαγγελιστής"
+                    "professional": "Διαχειριστής Βάσεων Δεδομένων"
                 },
                 {
-                    "reviewContent": "DataStorm είναι αυτό που κάνω λίγο πολύ όλα τα γραπτά μου σε. Είναι ένα μεγάλο μικρό app.",
+                    "reviewContent": "DataStorm είναι αυτό που κάνω σχεδόν όλα τα εργαλεία μου, αυτό είναι μια μεγάλη μικρή εφαρμογή.",
                     "userName": "Peter Bright",
-                    "professional": "Συγγραφέας σε Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Αν έχετε οποιοδήποτε ενδιαφέρον για την μετατροπή των δεδομένων, DataStorm είναι σίγουρα αξίζει μια λήψη.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer και σχεδιαστής"
+                    "reviewContent": "Αν χρειαστεί να κάνετε τη μετατροπή των δεδομένων, DataStorm είναι σίγουρα αξίζει να το κατεβάσετε.",
+                    "userName": "Lifehacker του",
+                    "professional": "Προγραμματιστές και σχεδιαστές του Παγκόσμιου Ιστού"
                 },
                 {
-                    "reviewContent": "Μου αρέσει πολύ DataStorm, έφερε πολύ ευκολία για τη δουλειά μου.",
+                    "reviewContent": "Μου αρέσει πολύ DataStorm, μου έδωσε πολλή δουλειά για να φέρει εύκολη.",
                     "userName": "jeruss",
-                    "professional": "Προγραμματιστής PHP-πλαίσιο"
+                    "professional": "PHP ανάπτυξη πλαισίου"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - διαχωριστή Περιβάλλον",
+                "section": "Έξοδος CSV - σύνολο διαχωριστές",
                 "videos": [
                     {
-                        "description": "Έξοδος αρχείο CSV, τον καθορισμό του διαχωριστή. (αθέτηση: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV αρχεία εξόδου, CSV οριοθετημένο που μεθόδου (προεπιλογή: '').",
+                        "url": "βίντεο / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Ρύθμιση πεδία CSV είδος",
+                "section": "Έξοδος CSV - για να ρυθμίσετε το πεδίο ταξινόμησης",
                 "videos": [
                     {
-                        "description": "Έξοδος αρχείο CSV, θέτοντας το πεδίο Ταξινόμηση.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV αρχείο εξόδου, ρυθμίστε τα Πεδία CSV για να ταξινομήσετε ένα απλό τρόπο.",
+                        "url": "βίντεο / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Χρήση συγκρότημα κινητήρα αντικειμένου",
+                "section": "Έξοδος CSV - ρύθμιση κινητήρες χρησιμοποιούν πολύπλοκα αντικείμενα",
                 "videos": [
                     {
-                        "description": "Έξοδος αρχείο CSV, να χειριστεί τη μορφή αρχείου συγκρότημα.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV αρχείο εξόδου, ρυθμίστε τη μηχανή για να χειριστεί πολύπλοκα αντικείμενα που χρησιμοποιούν πολύπλοκα αρχεία εισόδου. Προεπιλογή: Ανοικτή.",
+                        "url": "βίντεο / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Αριθμός έκδοσης",
+        "labelVersion": "Απελευθέρωση",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Κυκλοφόρησε για πρώτη φορά."
+                        "content": "Πρώτη έκδοση"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Κυκλοφόρησε για πρώτη φορά."
+                        "content": "Πρώτη έκδοση"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Αριθμός έκδοσης",
+        "labelVersion": "Απελευθέρωση",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Αγορά Way",
+        "SectionName": "Πώς να αγοράσετε",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Διαθέσιμες γλώσσες",
+        "SectionName": "Ιστοσελίδα Διαθέσιμες γλώσσες",
         "ChangeAlert": "Πλήρης αλλαγή γλώσσας"
     }
 }

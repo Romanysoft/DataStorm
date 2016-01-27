@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Feature",
-        "Documents": "Dokumén",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Imah",
+        "Feature": "Fitur",
+        "Documents": "File",
+        "ReleaseNotes": "Release Notes",
         "Downloads": "Sidang Free",
         "Buy": "Meuli",
-        "Roadmap": "RoadMap",
-        "ReportIssue": "Laporan Ngaluarkeun",
+        "Roadmap": "Lini produk",
+        "ReportIssue": "Masalah",
         "Languages": "Basa"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "App mangpaat pisan. Cocog jeung sistem operasi Windows, Linux, MacOSX.",
+        "ProjectTagline": "Ngarobah data antara rupa format, pangrojong pikeun sistim operasi Windows, Linux jeung MacOSX.",
         "BtnDownload": "Sidang Free",
         "BtnBuy": "Meuli",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Ciri utama",
+            "SectionName": "Produk fitur utama",
             "list": [
-                "Ngarobah antara JSON, XML, CSV, PLIST, INI, .properties (jawa) jeung YML (YAML), ti hiji format ka nu lian.",
-                "Rojongan ngarobah angkatan.",
-                "Rojongan pilihan ngarobah adat.",
-                "Rojongan eusi kompléks format file",
-                "Support multi-basa (Godi Suwarna DataStorm)."
+                "Pangrojong pikeun JSON, artos XML, CSV, PLIST, INI, nu .properties jeung Yang Ming Marine Transport data (YAML) file.",
+                "Rojongan ngarobah angkatan",
+                "Rojongan parameter ngarobah ngaluyukeun",
+                "Pangrojong pikeun kompléks penanganan data file, utamana ngarobah payil CSV kana nested JSON",
+                "Rojongan ngarobah ka CSV, widang CSV susunan asihan sareng setelan delimiter",
+                "Support multi-basa (make alat TryToTranslate narjamahkeun)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Hal éndah urang nyebutkeun ngeunaan eta",
+            "SectionName": "Nyokot katingal di naon anu urang nyebutkeun",
             "list": [
                 {
-                    "reviewContent": "DataStorm nyaéta stunning. Basajan. Beresih. Sampurna. Saé.",
+                    "reviewContent": "DataStorm nu agung. Basajan, bersih, sampurna. Nicely dipigawé.",
                     "userName": "evanw",
-                    "professional": "Technology Evangelist"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm nyaéta naon atuh lumayan loba sakabéh tulisan mah. Ieu aplikasi saeutik gede.",
+                    "reviewContent": "DataStorm nyaéta naon atuh ampir kabéh pakakas mah, ieu aplikasi saeutik gede.",
                     "userName": "Peter caang",
-                    "professional": "Panulis di Ars Technica"
+                    "professional": "Test Insinyur"
                 },
                 {
-                    "reviewContent": "Mun anjeun mibanda suku ngarobah data, DataStorm pasti patut download a.",
-                    "userName": "LifeHacker",
-                    "professional": "Web pamekar jeung desainer"
+                    "reviewContent": "Lamun kudu ngalakonan ngarobah data, DataStorm pasti patut undeuran.",
+                    "userName": "Lifehacker sacara",
+                    "professional": "Pamekar Web jeung désainer"
                 },
                 {
-                    "reviewContent": "Nyaan kawas DataStorm, geus dibawa loba genah pikeun karya mah.",
+                    "reviewContent": "Nyaan kawas DataStorm, méré kuring loba karya mawa gampang.",
                     "userName": "jeruss",
-                    "professional": "PHP kerangka pamekar"
+                    "professional": "Tumuwuhna kerangka PHP"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Setting SEPARATOR",
+                "section": "Kaluaran CSV - set separators",
                 "videos": [
                     {
-                        "description": "Kaluaran file CSV, netepkeun SEPARATOR nu. (default: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV payil output, CSV delimited metoda diatur (default: '').",
+                        "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Nyetel widang CSV nurun",
+                "section": "Kaluaran CSV - pikeun ngeset widang nurun",
                 "videos": [
                     {
-                        "description": "Kaluaran file CSV, netepkeun nurun widang.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "Output file CSV, pakakas widang CSV nyortir cara basajan.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Pamakéan engine obyék kompléks",
+                "section": "Kaluaran CSV - setelan mesin make objék kompléks",
                 "videos": [
                     {
-                        "description": "Kaluaran file CSV, nanganan format file kompléks.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "Output file CSV, pakakas mesin pikeun nanganan objék kompléks make payil input kompléks. Dituna: Open.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Vérsi Number",
+        "labelVersion": "Ngabebaskeun",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4,19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Kahiji dileupaskeun."
+                        "content": "Release kahiji"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Kahiji dileupaskeun."
+                        "content": "Release kahiji"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Vérsi Number",
+        "labelVersion": "Ngabebaskeun",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Toko Kacamata Jalan",
+        "SectionName": "Urang Beuli",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Sadia Basa",
+        "SectionName": "Website Sadia Basa",
         "ChangeAlert": "Lengkep switch basa"
     }
 }

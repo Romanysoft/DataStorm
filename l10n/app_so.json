@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Feature",
-        "Documents": "Waraaqaha",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Home",
+        "Feature": "Features",
+        "Documents": "File",
+        "ReleaseNotes": "Release Notes",
         "Downloads": "Trial Free",
         "Buy": "Iibso",
-        "Roadmap": "Roadmap-",
-        "ReportIssue": "Warbixinta Issue",
+        "Roadmap": "Line Product",
+        "ReportIssue": "Issue",
         "Languages": "Language"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Aad u faa'iido badan App. Habboon ee loogu talagalay nidaamka qalliinka Windows, Linux, MacOSX.",
+        "ProjectTagline": "Diinta Data dhexeeya qaabab kala duwan, oo taageero u Windows, Linux iyo MacOSX ka hawlgala nidaamyada.",
         "BtnDownload": "Trial Free",
         "BtnBuy": "Iibso",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Features Main",
+            "SectionName": "Product qaababka ugu muhiimsan",
             "list": [
-                "Beddelaan dhexeeya JSON, XML, CSV, PLIST, INI, .properties (Java) iyo YML (YAML), mid ka mid ah qaabka ay u kale.",
-                "Diinta Dufcaddii Support.",
-                "Taageerada fursadaha caadadii diinta.",
-                "Taageerada qaab file content adag",
-                "Taageero af-Multi (turjumay by DataStorm)."
+                "Taageerada JSON, XML diinta, CSV, PLIST, INI, .properties iyo Yang Ming Gaadiidka Badda xogta (YAML) file.",
+                "Diinta Dufcaddii Support",
+                "Taageerada-beegyada uu diinta ka Habee",
+                "Taageerada adag file xogta maaraynta, gaar ahaan diinta files CSV galay nested JSON",
+                "Taageerada diinta CSV, beeraha CSV dhigo kala sooca iyo goobaha delimiter",
+                "Taageero af-Multi (iyadoo la isticmaalayo qalab TryToTranslate inuu turjumo)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Waxyaalo yaab badan oo qof ayaa leh oo ku saabsan",
+            "SectionName": "Eeg waxa la yidhi",
             "list": [
                 {
-                    "reviewContent": "DataStorm waa cajiib. Simple. Nadiifi. Eebaha. Si wanaagsan baad yeeshay.",
+                    "reviewContent": "DataStorm waa ku weyn yahay. Simple, nadiif ah, kaamil ah. Xunna sameeyo.",
                     "userName": "evanw",
-                    "professional": "Technology Evangelist"
+                    "professional": "Maamulaha Database"
                 },
                 {
-                    "reviewContent": "DataStorm waa waxa aan soo jiidasho leh ayaa aad u dhan oo aan qoraal. Waa a app yar weyn.",
+                    "reviewContent": "DataStorm waa waxa aan sameeyo ku dhowaad dhammaan qalabka aan, taasi waa codsi weyn yar.",
                     "userName": "Peter Bright",
-                    "professional": "Writer ee ARS Technica"
+                    "professional": "Engineer Test"
                 },
                 {
-                    "reviewContent": "Haddii aad qabto wax xiiso ah in diinta xogta, DataStorm xaqiiqo ah oo qiimihiisu yahay download a.",
-                    "userName": "LifeHacker",
-                    "professional": "Developer Web iyo Designer"
+                    "reviewContent": "Haddii aad u baahan tahay in la sameeyo qaab beddelidda, xogta, DataStorm xaqiiqo ah oo qiimihiisu yahay download ah.",
+                    "userName": "Lifehacker ee",
+                    "professional": "Horumarinta Web iyo samaynta"
                 },
                 {
-                    "reviewContent": "Waan jeclahay DataStorm, ayaa keenay badan raaxadeeda waxa aan u shaqo.",
+                    "reviewContent": "Waan jeclahay DataStorm, i siiyey shaqo badan ay u soo fudud.",
                     "userName": "jeruss",
-                    "professional": "Developer PHP Framework"
+                    "professional": "Horumarinta qaab-dhismeedka PHP"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - separator Goobta",
+                "section": "Output CSV - separators set",
                 "videos": [
                     {
-                        "description": "Output file CSV, dejinta separator ah. (Default: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV saarka files, CSV xuduuddiisa dhigay habka (default: '').",
+                        "url": "videos / DoCS / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Dejinta beeraha CSV sort",
+                "section": "Output CSV - in beertii nooca",
                 "videos": [
                     {
-                        "description": "Output file CSV, dejinta beerta sort.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV file wax soo saarka, Beerihii CSV qarka u saaran inay kala soocaan hab fudud.",
+                        "url": "videos / DoCS / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Isticmaal engine wax adag",
+                "section": "Output CSV - dejinta matoorada isticmaalaan waxyaabaha adag",
                 "videos": [
                     {
-                        "description": "File CSV Output, xamili qaabka file adag.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV file wax soo saarka, engine dhigay in ay la tacaalaan shay adag oo la isticmaalayo la gelin files dhismaha. Default: Open.",
+                        "url": "videos / DoCS / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Marka hore sii daayay."
+                        "content": "Sii daayo First"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Marka hore sii daayay."
+                        "content": "Sii daayo First"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Buy Jidka",
+        "SectionName": "Sida loo iibso",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Available Languages",
+        "SectionName": "Website Languages ​​Available",
         "ChangeAlert": "Buuxi afka ku biiro"
     }
 }

@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "මුල් පිටුව",
-        "Feature": "විශේෂාංගය",
-        "Documents": "ලිපි ලේඛන",
-        "ReleaseNotes": "ReleaseNotes",
+        "Feature": "විශේෂාංග",
+        "Documents": "ගොනුව",
+        "ReleaseNotes": "මුදා හැරීමේ සටහන්",
         "Downloads": "නිදහස් ට්රයල්",
-        "Buy": "මිලට ගන්න",
-        "Roadmap": "මාර්ග සිතියමක්",
-        "ReportIssue": "වාර්තාව නිකුත් කිරීම",
+        "Buy": "මිලදී ගැනීම",
+        "Roadmap": "නිෂ්පාදන",
+        "ReportIssue": "නිකුත්",
         "Languages": "භාෂා"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "ඉතා ප්රයෝජනවත් යෙදුම. වින්ඩෝස්, ලිනක්ස්, MacOSX මෙහෙයුම් පද්ධතිය සඳහා සුදුසු.",
+        "ProjectTagline": "විවිධ හැඩතල, වින්ඩෝස්, ලිනක්ස් සහ MacOSX මෙහෙයුම් පද්ධති සඳහා සහයෝගය අතර දත්ත පරිවර්තනය.",
         "BtnDownload": "නිදහස් ට්රයල්",
-        "BtnBuy": "මිලදී",
+        "BtnBuy": "මිලදී ගැනීම",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ප්රධාන ලක්ෂණ",
+            "SectionName": "නිෂ්පාදන ප්රධාන ලක්ෂණ",
             "list": [
-                "එක් ආකෘතිය සිට තවත්, JSON, XML, CSV, PLIST, INI, .properties (ජාවා) අතර සහ YML (YAML) බවට පරිවර්තනය කරයි.",
-                "සහාය කණ්ඩායම බවට පරිවර්තනය.",
-                "පරිවර්තනය අභිරුචි විකල්ප සහයෝගය දෙන්න.",
-                "සංකීර්ණ අන්තර්ගතයට ගොනු ආකෘතිය සහාය",
-                "(DataStorm පරිවර්තනය) බහු-භාෂා පහසුකම."
+                "JSON, පරිවර්තන XML, CSV, PLIST, INI එම .properties සහ යැං මිං නාවික ප්රවාහන (YAML) ගොනු දත්ත සඳහා සහාය.",
+                "සහාය කණ්ඩායම බවට පරිවර්තනය",
+                "සහාය සකසුරුවම් පරිවර්තනය පරාමිතීන්",
+                "විශේෂයෙන් පිලිතුරු කැදැලි ආකාරයෙන් සංදර්ශනය කරන්න JSON බවට CSV ගොනු පරිවර්තනය සංකීර්ණ දත්ත ගොනු හැසිරවීමේ සඳහා සහාය,",
+                "CSV පරිවර්තනයේදී සහයෝගය, CSV ක්ෂේත්ර තෝරා බේරා ගැනීමේ තබා පරිසීමකය සැකසුම්",
+                "(පරිවර්තනය කිරීමට TryToTranslate මෙවලම භාවිතා කර) බහු-භාෂා පහසුකම."
             ]
         },
         "UserReviews": {
-            "SectionName": "මහලොකු දේවල් ජනතාව ඒ ගැන කියන්නේ",
+            "SectionName": "අපි කියන දේ දෙස බලන්න",
             "list": [
                 {
-                    "reviewContent": "DataStorm ඉස්තරම් වේ. සරල. පිරිසිදු. පරිපූර්ණ. හොඳට කලා.",
+                    "reviewContent": "DataStorm විශාල වේ. , සරල, පිරිසිදු පරිපූර්ණ. එමෙන්ම උෂ්ණත්වය සිදු.",
                     "userName": "evanw",
-                    "professional": "තාක්ෂණ ධර්මදූත"
+                    "professional": "දත්ත සමුදාය පරිපාලක"
                 },
                 {
-                    "reviewContent": "DataStorm මම ​​එච්චරමයි සියලු මාගේ ලියන කරන්නේ. එය මහත් ටිකක් යෙදුම වේ.",
+                    "reviewContent": "DataStorm මම ​​පාහේ මගේ සියලු මෙවලම් කරන දේ, මෙම ශ්රේෂ්ඨ ටිකක් අයදුම් යි.",
                     "userName": "පීටර් දීප්තිමත්",
-                    "professional": "ARS ටෙක්නිකා දී රයිටර්"
+                    "professional": "ටෙස්ට් ඉංජිනේරු"
                 },
                 {
-                    "reviewContent": "ඔබ දත්ත පරිවර්තනය කිසිදු උනන්දුවක් තිබේ නම්, DataStorm අනිවාර්යයෙන්ම බාගත වටී.",
-                    "userName": "LifeHacker",
-                    "professional": "වෙබ් අඩවි සංවර්ධනකරු හා නිර්මාණකරුවා"
+                    "reviewContent": "ඔබ දත්ත බවට පරිවර්තනය කරන්න අවශ්ය නම්, DataStorm අනිවාර්යයෙන්ම බාගත වටී.",
+                    "userName": "Lifehacker ගේ",
+                    "professional": "වෙබ් අඩවි සංවර්ධනය සහ සැලසුම්කරුවන්"
                 },
                 {
-                    "reviewContent": "මම ඇත්තටම DataStorm මෙන් මගේ වැඩ කටයුතු සඳහා ඊට වඩා පහසු කර තිබේ.",
+                    "reviewContent": "මම ඇත්තටම DataStorm මෙන් පහසු ගෙන ඒමට මට වැඩ ගොඩක් දුන්නා.",
                     "userName": "jeruss",
-                    "professional": ", PHP ගොඩනගන්නන්ගේ රාමුව"
+                    "professional": "PHP හි රාමුව සංවර්ධනය"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Setting වෙන්කර",
+                "section": "ප්රතිදාන CSV - කට්ටලයක් විෙභ්දක",
                 "videos": [
                     {
-                        "description": "ප්රතිදාන CSV ගොනුවක් ද වෙන්කර තැබීම. (පෙරනිමි: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV ප්රතිදානය ගොනු, CSV සකස් ක්රමය (පෙරනිමි: '') පිරිසගේ.",
+                        "url": "වීඩියෝ / Docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Setting CSV ආකාරයක ක්ෂේත්ර",
+                "section": "ප්රතිදාන CSV - වර්ග කිරීම ක්ෂේත්රයේ ඇති කිරීමට",
                 "videos": [
                     {
-                        "description": "ප්රතිදාන CSV ගොනුව, ආකාරයක ක්ෂේත්රයේ තැබීම.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV ගොනුවක් නිෂ්පාදනය, සරල ක්රමයක් නිරාකරණය කිරීමට CSV ක්ෂේත්ර කළේය.",
+                        "url": "වීඩියෝ / Docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - භාවිතය සංකීර්ණ වස්තුවක් එන්ජින්",
+                "section": "ප්රතිදාන CSV - තැබීම එන්ජින් සංකීර්ණ වස්තූන් භාවිතා",
                 "videos": [
                     {
-                        "description": "ප්රතිදාන CSV ගොනුව, සංකීර්ණ ගොනු ආකෘතිය හැසිරවීමට.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV ගොනුවක් නිෂ්පාදනය, සංකීර්ණ ආදාන ගොනු භාවිතා සංකීර්ණ වස්තූන් හැසිරවීමට එන්ජිම කළේය. පෙරනිමි: විවෘත.",
+                        "url": "වීඩියෝ / Docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "සංස්කරණය අංකය",
+        "labelVersion": "නිකුතු",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "පළමු නිදහස්."
+                        "content": "පළමු නිකුතුව"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "පළමු නිදහස්."
+                        "content": "පළමු නිකුතුව"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "සංස්කරණය අංකය",
+        "labelVersion": "නිකුතු",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "මාර්ගය මිලදී ගන්න",
+        "SectionName": "කෙසේ මිලට ගැනීම සඳහා",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ලබා ගත හැකි භාෂා",
+        "SectionName": "වෙබ් අඩවිය භාවිතයට ගත හැකි භාෂා",
         "ChangeAlert": "සම්පූර්ණ බස මාරු"
     }
 }

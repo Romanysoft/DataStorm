@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Honlap",
-        "Feature": "Funkció",
-        "Documents": "Dokumentumok",
+        "Home": "Főoldal",
+        "Feature": "Jellemzők",
+        "Documents": "Fájl",
         "ReleaseNotes": "Kiadási megjegyzések",
-        "Downloads": "Ingyenes próba",
-        "Buy": "Vétel",
-        "Roadmap": "Útiterv",
-        "ReportIssue": "Probléma jelentése",
+        "Downloads": "Ingyenesen kipróbálható",
+        "Buy": "Vásárlási",
+        "Roadmap": "Termékcsalád",
+        "ReportIssue": "Füzet",
         "Languages": "Nyelv"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Nagyon hasznos App. Alkalmas Windows, Linux, MacOSX operációs rendszer.",
-        "BtnDownload": "Ingyenes próba",
-        "BtnBuy": "Vásárlás",
+        "ProjectTagline": "Az adatok konvertálása a különböző formátumok, támogatja a Windows, Linux és MacOSX operációs rendszerek.",
+        "BtnDownload": "Ingyenesen kipróbálható",
+        "BtnBuy": "Vásárlási",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Főbb jellemzői",
+            "SectionName": "A termék főbb jellemzői",
             "list": [
-                "Convert között JSON, XML, CSV, PLIST, INI, .properties (java) és YML (YAML), az egyik formátumból a másikba.",
-                "Támogatás Batch konverzió.",
-                "Támogatás átalakítás az egyéni lehetőségek.",
-                "Támogatás komplex tartalom fájlformátum",
-                "Többnyelvű támogatás (Fordította DataStorm)."
+                "Támogatás a JSON, átalakítás XML, CSV, PLIST, INI, a .properties és Yang Ming tengeri közlekedés (YAML) fájl adatait.",
+                "Támogatás kötegelt átalakítás",
+                "Támogatás testre átalakítás paraméterei",
+                "Támogatás a komplex adatok fájlkezelés, különösen konvertáló CSV fájlokat beágyazott JSON",
+                "Támogatás konvertáló CSV, CSV mezőket szett válogatás és határolójelet beállítások",
+                "Többnyelvű támogatás (a TryToTranslate eszköz lefordítani)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Csodálatos dolgokat mondanak az emberek róla",
+            "SectionName": "Vessen egy pillantást, amit mondanak",
             "list": [
                 {
-                    "reviewContent": "DataStorm lenyűgöző. Egyszerű. Tiszta. Tökéletes. Szép munka.",
+                    "reviewContent": "DataStorm nagyszerű. Egyszerű, tiszta, tökéletes. Szép munka.",
                     "userName": "evanw",
-                    "professional": "Technológia Evangélista"
+                    "professional": "Adatbázis adminisztrátor"
                 },
                 {
-                    "reviewContent": "DataStorm az, amit csinálok elég sok minden írásomat. Ez egy remek kis alkalmazás.",
+                    "reviewContent": "DataStorm az, amit csinálok szinte minden az én eszközöket, ez egy remek kis alkalmazás.",
                     "userName": "Peter Bright",
-                    "professional": "Író az Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Ha bármilyen érdeke az adatok átalakítása, DataStorm megér egy letöltés.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer és a tervező"
+                    "reviewContent": "Ha kell tennie az adatok átalakítása, DataStorm mindenképpen megéri a letöltést.",
+                    "userName": "Lifehacker a",
+                    "professional": "A webfejlesztők, grafikusok"
                 },
                 {
-                    "reviewContent": "Nagyon szeretem DataStorm, hozott sok kényelem a munkámat.",
+                    "reviewContent": "Nagyon szeretem DataStorm, kaptam egy csomó munka, hogy könnyű.",
                     "userName": "jeruss",
-                    "professional": "PHP keretrendszer fejlesztői"
+                    "professional": "PHP keretrendszer fejlesztése"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Beállítás elválasztó",
+                "section": "Output CSV - set elválasztó",
                 "videos": [
                     {
-                        "description": "Kimeneti CSV fájlba, amelyben az elválasztó. (alapértelmezett: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV kimeneti fájlokat, CSV tagolt beállított mód (alapértelmezett: '').",
+                        "url": "Videók / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Beállítás csv rendezési mezők",
+                "section": "Output CSV - beállíthatjuk, hogy a rendezés terén",
                 "videos": [
                     {
-                        "description": "Kimeneti CSV fájlba, amelyben egyfajta területen.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV fájl kimenet, meg a CSV mezőket rendezni egy egyszerű módja.",
+                        "url": "Videók / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - A komplex objektum motor",
+                "section": "Output CSV - beállítású motorokra használja az összetett objektumok",
                 "videos": [
                     {
-                        "description": "Kimeneti CSV fájlba, kezeli a komplex fájlformátumot.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV fájl kimenet, meg a motort, hogy bonyolult tárgyak segítségével komplex bemeneti fájlokat. Alapértelmezett: Nyílt.",
+                        "url": "Videók / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Verzió száma",
+        "labelVersion": "Kioldó",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Első megjelent."
+                        "content": "Első kiadás"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Első megjelent."
+                        "content": "Első kiadás"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Verzió száma",
+        "labelVersion": "Kioldó",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Vásárlás Way",
+        "SectionName": "Hogyan vásárolhatok",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Elérhető nyelvek",
+        "SectionName": "Weboldal Elérhető nyelvek",
         "ChangeAlert": "Komplett nyelvváltás"
     }
 }

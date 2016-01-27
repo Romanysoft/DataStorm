@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "မူလစာမျက်နှာစာမျက်နှာ",
-        "Feature": "Feature ကို",
-        "Documents": "documents",
-        "ReleaseNotes": "ReleaseNotes တွင်",
+        "Home": "မူလစာမျက်နှာ",
+        "Feature": "အင်္ဂါရပ်များ",
+        "Documents": "file ကို",
+        "ReleaseNotes": "သတင်းထုတ်ပြန်ချက်မှတ်စုများ",
         "Downloads": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
-        "Buy": "ဝယ်မယ်",
-        "Roadmap": "လမ်းပြမြေပုံ",
-        "ReportIssue": "အစီရင်ခံစာစာစောင်",
+        "Buy": "ဝယ်ယူ",
+        "Roadmap": "ကုန်ထုတ်ရေးလိုင်း",
+        "ReportIssue": "ပြဿနာက",
         "Languages": "ဘာသာစကား"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "အလွန်အသုံးဝင် App ကို။ Windows, Linux MacOSX operating system အတွက်သင့်လျော်သော။",
+        "ProjectTagline": "formats အမျိုးမျိုးနဲ့ Windows, Linux နဲ့ MacOSX တဲ့ operating systems များအတွက်ထောက်ခံမှုအကြား data များကိုအဖြစ်ပြောင်းလဲခြင်း။",
         "BtnDownload": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
         "BtnBuy": "ဝယ်ယူ",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "main အင်္ဂါရပ်များ",
+            "SectionName": "ထုတ်ကုန်ပစ္စည်းကိုအဓိက features တွေ",
             "list": [
-                "တဦးတည်း format နဲ့မှအခြားဖို့, JSON, XML, CSV, PLIST, INI, .properties (java) အကြားနှင့် YML (YAML) convert ။",
-                "ပံ့ပိုးမှု Batch အဖြစ်ပြောင်းလဲခြင်း။",
-                "အဖြစ်ပြောင်းလဲခြင်းထုံးစံ options ကိုထောက်ခံခဲ့သည်။",
-                "ရှုပ်ထွေးသော content တွေကိုဖိုင်ကို format ကိုထောကျပံ့",
-                "(DataStorm အားဖြင့်သာ) multi-ဘာသာစကားထောက်ခံမှု။"
+                "JSON ပြောင်းလဲခြင်းက XML, CSV, PLIST, INI, အ .properties နှင့်ယန်မင်ရိန်းပို့ဆောင်ရေး (YAML) ဖိုင်ကိုဒေတာတွေကိုထောက်ပံ့ပေးတာဖြစ်ပါတယ်။",
+                "ပံ့ပိုးမှုအသုတ်အဖြစ်ပြောင်းလဲခြင်း",
+                "ပံ့ပိုးမှု Customize အဖြစ်ပြောင်းလဲခြင်း parameters တွေကို",
+                "အထူးသဖြင့်အသိုက် JSON သို့ CSV files တွေကို converting ရှုပ်ထွေးသောဒေတာဖိုင်ကိုကိုင်တွယ်ဖြေရှင်းဘို့ပံ့ပိုးမှု,",
+                "CSV မှ converting ပံ့ပိုးမှု, CSV လယ်ကွင်းတွေ sorting ထား. delimiter setting ကို",
+                "(ဘာသာပြန်ဆို TryToTranslate tool ကိုသုံးပြီး) multi-ဘာသာစကားထောက်ခံမှု။"
             ]
         },
         "UserReviews": {
-            "SectionName": "အံ့ဩဘွယ်အမှုအရာကလူကအကြောင်းပြောနေ",
+            "SectionName": "ကျွန်တော်ဘာပြောနေမှာကြည့်လိုက်ပါ",
             "list": [
                 {
-                    "reviewContent": "DataStorm ရင်သပ်ရှုမောဖွယ်ဖြစ်ပါသည်။ ရိုးရှင်းတဲ့။ စင်ကြယ်သော။ စုံလင်သော။ ကောင်းစွာပြီးဆုံးသည်။",
+                    "reviewContent": "DataStorm ကြီးလှ၏။ ရိုးရှင်းစင်ကြယ်သော, စုံလင်သော။ Nice ပြုသောအမှု။",
                     "userName": "evanw",
-                    "professional": "နည်းပညာကိုသာသနာပွုဆရာ"
+                    "professional": "ဒေတာဘေ့စအုပ်ချုပ်ရေးမှူး"
                 },
                 {
-                    "reviewContent": "DataStorm ငါတော်တော်များများအားလုံး၌ငါ့အရေးအသား၏အဘယ်သို့ပြုမည်အရာကိုဖြစ်ပါတယ်။ ဒါဟာအလွန်ကြီးစွာသောအနည်းငယ်သာ app ကိုဖွင့်။",
+                    "reviewContent": "DataStorm ငါနီးပါးငါ့အလိုရှိသမျှ tools တွေကိုအဘယ်သို့ပြုမည်အရာကိုဒီအကြီးအအနည်းငယ်သာပလီကေးရှင်းဖြစ်ပါသည်။",
                     "userName": "ပေတရု မှစ. တ Bright",
-                    "professional": "ARS Technica မှာစာရေးဆရာ"
+                    "professional": "test အင်ဂျင်နီယာချုပ်"
                 },
                 {
-                    "reviewContent": "သငျသညျဒေတာတွေကိုအဖြစ်ပြောင်းလဲခြင်းအတွက်မည်သည့်အကျိုးစီးပွားရှိပါက DataStorm ကျိန်းသေတစ်ဦးကို download ရကျိုးနပ်သည်။",
-                    "userName": "LifeHacker",
-                    "professional": "Web Developer များနှင့်ဒီဇိုင်နာ"
+                    "reviewContent": "သငျသညျဒေတာတွေကိုအဖြစ်ပြောင်းလဲခြင်းလုပ်ဖို့လိုလျှင်, DataStorm ကျိန်းသေမှာ download ရကျိုးနပ်သည်။",
+                    "userName": "Lifehacker ရဲ့",
+                    "professional": "Web Developer တွေနဲ့ဒီဇိုင်နာများ"
                 },
                 {
-                    "reviewContent": "ငါတကယ် DataStorm သကဲ့သို့ငါ၏အလုပျအတှကျအများကြီးအဆင်ပြေစေရန်ဆောင်ခဲ့တော်မူပြီ။",
+                    "reviewContent": "ငါတကယ် DataStorm တူ, လွယ်ကူသောရောက်စေဖို့, ငါ့ကိုအလုပ်တွေအများကြီးကိုပေး၏။",
                     "userName": "jeruss",
-                    "professional": "PHP ကို​​မူဘောင် Developer တွေ"
+                    "professional": "PHP ကို​​မူဘောင်များဖွံ့ဖြိုးတိုးတက်ရေး"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - ပြင်ဆင်ခြင်း separator",
+                "section": "output CSV - အစုံခွဲခြာ",
                 "videos": [
                     {
-                        "description": "output CSV ဖိုင်, separator ဖြစ်ကြောင်း setting ။ (က default: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV ကို output ဖိုင်များ, CSV set method ကို (default အနေနဲ့: '') delimited ။",
+                        "url": "ဗီဒီယိုများ / docs များ / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - ပြင်ဆင်ခြင်း CSV မျိုးလယ်ကွင်းများ",
+                "section": "output CSV - မျိုးကိုလယ်တင်ထားရန်",
                 "videos": [
                     {
-                        "description": "output CSV ဖိုင်မျိုးကိုလယ် setting ။",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV ဖိုင် output ကိုတစ်ဦးကရိုးရှင်းသွားရာလမ်း sort ဖို့ CSV လယ်ကွင်းတွေထားကြ၏။",
+                        "url": "ဗီဒီယိုများ / docs များ / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - ကိုအသုံးပြုခြင်းရှုပ်ထွေးသောအရာဝတ္ထုအင်ဂျင်က",
+                "section": "output CSV - setting အင်ဂျင်ရှုပ်ထွေးသောတ္ထုကိုသုံး",
                 "videos": [
                     {
-                        "description": "output CSV ဖိုင်, ရှုပ်ထွေးတဲ့ဖိုင်ကို format နဲ့ကိုင်တွယ်ရမည်။",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV ဖိုင် output ကို, ရှုပ်ထွေးသော input ကို files တွေကိုသုံးပြီးရှုပ်ထွေးသောတ္ထုကိုင်တွယ်ရန်အင်ဂျင်ထားကြ၏။ Default အနေနဲ့: ပွင့်လင်း။",
+                        "url": "ဗီဒီယိုများ / docs များ / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "version ကိုနံပါတ်",
+        "labelVersion": "သတင်းထုတ်ပြန်ချက်",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4,19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "ပထမဦးစွာထုတ်ပြန်ခဲ့သည်။"
+                        "content": "ပထမဦးစွာလွှတ်ပေးရန်"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "ပထမဦးစွာထုတ်ပြန်ခဲ့သည်။"
+                        "content": "ပထမဦးစွာလွှတ်ပေးရန်"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "version ကိုနံပါတ်",
+        "labelVersion": "သတင်းထုတ်ပြန်ချက်",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Way ကို Buy",
+        "SectionName": "မည်သို့ Buy ရန်",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ရရှိနိုင်သည့်ဘာသာစကားများကို",
+        "SectionName": "website ကရရှိနိုင်ဘာသာစကားများကို",
         "ChangeAlert": "complete switch ကိုဘာသာစကား"
     }
 }

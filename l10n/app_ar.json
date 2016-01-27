@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "الصفحة الرئيسية",
-        "Feature": "خاصية",
-        "Documents": "الوثائق",
+        "Home": "منزل",
+        "Feature": "ملامح",
+        "Documents": "ملف",
         "ReleaseNotes": "ملاحظات الإصدار",
-        "Downloads": "تجربة مجانية",
+        "Downloads": "التجربة المجانية",
         "Buy": "شراء",
-        "Roadmap": "خارطة طريق",
-        "ReportIssue": "تقرير العدد",
+        "Roadmap": "خط الانتاج",
+        "ReportIssue": "قضية",
         "Languages": "لغة"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "التطبيق مفيد جدا. مناسبة لنظام التشغيل ويندوز، لينكس، ماكوسكس.",
-        "BtnDownload": "تجربة مجانية",
+        "ProjectTagline": "تحويل البيانات بين مختلف الأشكال، ودعم أنظمة التشغيل ويندوز، لينكس وماك أوإسإكس.",
+        "BtnDownload": "التجربة المجانية",
         "BtnBuy": "شراء",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "الميزات الرئيسية",
+            "SectionName": "ميزات المنتج الرئيسية",
             "list": [
-                "تحويل بين JSON، XML، CSV، بليست، INI، .properties (جافا) وYML (YAML)، واحدة من شكل إلى آخر.",
-                "دعم تحويل دفعة.",
-                "دعم خيارات التحويل المخصصة.",
-                "شكل دعم ملف محتوى معقد",
-                "دعم متعدد اللغات (ترجمة DataStorm)."
+                "دعم JSON، وتحويل XML، CSV، بليست، INI، و.properties ويانغ مينغ النقل البحري البيانات (YAML) الملف.",
+                "دعم تحويل دفعة",
+                "دعم المعلمات تحويل تخصيص",
+                "دعم معقد التعامل مع الملف البيانات، وخاصة تحويل ملفات CSV إلى المتداخل JSON",
+                "دعم تحويل إلى CSV، CSV المجالات المحددة والفرز وضبط محدد",
+                "دعم متعدد اللغات (باستخدام أداة TryToTranslate لترجمة)."
             ]
         },
         "UserReviews": {
-            "SectionName": "الأشياء الرائعة الناس يقولون عنه",
+            "SectionName": "نلقي نظرة على ما نقوله",
             "list": [
                 {
-                    "reviewContent": "DataStorm هو مذهل. بسيط. نظيفة. في احسن الاحوال. أحسنت.",
+                    "reviewContent": "DataStorm كبيرة. بسيطة ونظيفة، والكمال. فعل جيد.",
                     "userName": "evanw",
-                    "professional": "التكنولوجيا الإنجيلي"
+                    "professional": "مسؤول قاعدة البيانات"
                 },
                 {
-                    "reviewContent": "DataStorm هو ما أقوم به جدا عن الكثير من كتابتي فيها انها التطبيق كبيرة قليلا.",
+                    "reviewContent": "DataStorm هو ما أقوم به تقريبا كل أدواتي، وهذا هو التطبيق كبيرة قليلا.",
                     "userName": "بيتر برايت",
-                    "professional": "الكاتب في آرس تكنيكا"
+                    "professional": "اختبار المهندس"
                 },
                 {
-                    "reviewContent": "إذا كان لديك أي مصلحة في تحويل البيانات، DataStorm هو بالتأكيد يستحق التحميل.",
-                    "userName": "يفهكر",
-                    "professional": "مطور ويب ومصمم"
+                    "reviewContent": "إذا كنت بحاجة إلى القيام تحويل البيانات، DataStorm هو بالتأكيد يستحق التحميل.",
+                    "userName": "ويفهكر",
+                    "professional": "مطوري ومصممي المواقع الإلكترونية"
                 },
                 {
-                    "reviewContent": "أنا حقا مثل DataStorm، فقد جلبت الكثير من الراحة لعملي.",
+                    "reviewContent": "أنا حقا مثل DataStorm، وقدم لي الكثير من العمل لتحقيق سهولة.",
                     "userName": "jeruss",
-                    "professional": "الإطار PHP المطور"
+                    "professional": "PHP تطوير الإطار"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - فاصل إعداد",
+                "section": "الإخراج CSV - مجموعة فواصل",
                 "videos": [
                     {
-                        "description": "إخراج ملف CSV، ووضع فاصل. (الافتراضي: '،')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "ملفات الإخراج CSV، CSV محدد تعيين طريقة (الافتراضي: '').",
+                        "url": "أشرطة الفيديو / مستندات / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - وضع حقول CSV النوع",
+                "section": "الإخراج CSV - لضبط مجال النوع",
                 "videos": [
                     {
-                        "description": "إخراج ملف CSV، وتحديد مجال النوع.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV إخراج ملف، مجموعة الحقول CSV لفرز طريقة بسيطة.",
+                        "url": "أشرطة الفيديو / مستندات / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - استخدام محرك كائن معقد",
+                "section": "الإخراج CSV - وضع محركات تستخدم كائنات معقدة",
                 "videos": [
                     {
-                        "description": "إخراج ملف CSV، والتعامل مع تنسيق الملف المعقد.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV إخراج ملف، تعيين محرك للتعامل مع كائنات معقدة باستخدام ملفات الإدخال المعقدة. الافتراضي: فتح.",
+                        "url": "أشرطة الفيديو / مستندات / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "رقم الإصدار",
+        "labelVersion": "إطلاق",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "صدر لأول مرة."
+                        "content": "الإصدار الأول"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "صدر لأول مرة."
+                        "content": "الإصدار الأول"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "رقم الإصدار",
+        "labelVersion": "إطلاق",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "شراء الطريق",
+        "SectionName": "كيفية الشراء",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "اللغات المتوفرة",
+        "SectionName": "الموقع متاح لغات",
         "ChangeAlert": "كاملة اللغة التبديل"
     }
 }

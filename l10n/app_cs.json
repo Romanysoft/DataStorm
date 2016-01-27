@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Domovská stránka",
-        "Feature": "Rys",
-        "Documents": "Dokumenty",
+        "Home": "Domů",
+        "Feature": "Funkce",
+        "Documents": "Soubor",
         "ReleaseNotes": "Poznámky k vydání",
         "Downloads": "Zkušební verze zdarma",
-        "Buy": "Koupit",
-        "Roadmap": "Cestovní mapa",
-        "ReportIssue": "Report Issue",
+        "Buy": "Nákup",
+        "Roadmap": "Produktová řada",
+        "ReportIssue": "Otázka",
         "Languages": "Jazyk"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Velmi užitečné App. Vhodné pro operační systém Windows, Linux, MacOSX.",
+        "ProjectTagline": "Konverze dat mezi různými formáty, podpora pro operační systémy Windows, Linux a MacOSX.",
         "BtnDownload": "Zkušební verze zdarma",
         "BtnBuy": "Nákup",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Hlavní rysy",
+            "SectionName": "Základní vlastnosti",
             "list": [
-                "Převod mezi JSON, XML, CSV, plist, INI, .properties (Java) a YML (YAML), z jednoho formátu do druhého.",
-                "Podpora dávkové konverze.",
-                "Podpora konverze vlastní volby.",
-                "Podpora komplexní obsah formát souboru",
-                "Multi-jazyková podpora (Překládal DataStorm)."
+                "Podpora pro JSON, konverze XML, CSV, plist, INI, o .properties a Yang Ming námořní dopravy dat (YAML) souborů.",
+                "Podpora dávkové konverze",
+                "Podpora parametry konverze customize",
+                "Podpora pro komplexní manipulace souboru dat, zejména konvertování CSV souborů do vnořené JSON",
+                "Podpora převodu do formátu CSV, CSV pole nastavit třídění a nastavení oddělovač",
+                "Multi-jazyková podpora (pomocí nástroje TryToTranslate přeložit)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Úžasné věci lidé říkají o něm",
+            "SectionName": "Podívejte se na to, co říkáme",
             "list": [
                 {
-                    "reviewContent": "DataStorm je ohromující. Jednoduchý. Čistý. Perfektní. Výborně.",
+                    "reviewContent": "DataStorm je skvělá. Jednoduché, čisté, dokonalé. Dobrá práce.",
                     "userName": "evanw",
-                    "professional": "Technology Evangelist"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm je to, co mám dělat skoro všechny mé psaní. Je to velký malý app.",
+                    "reviewContent": "DataStorm je to, co mám dělat, téměř všechny své nástroje, je to velký malý aplikace.",
                     "userName": "Peter Bright",
-                    "professional": "Writer na Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Pokud máte nějaké zájem o konverzi dat, DataStorm je rozhodně stojí za stažení.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer a Designer"
+                    "reviewContent": "Pokud potřebujete udělat konverze dat, DataStorm je rozhodně stojí za stažení.",
+                    "userName": "Lifehacker je",
+                    "professional": "Weboví vývojáři a návrháři"
                 },
                 {
-                    "reviewContent": "Moc se mi líbí DataStorm, přinesl mnoho pohodlí pro svou práci.",
+                    "reviewContent": "Opravdu rád DataStorm jsem, dal mi hodně práce, aby snadné.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "Framework pro vývoj PHP"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - separátor Nastavení",
+                "section": "Výstup CSV - sada odlučovače",
                 "videos": [
                     {
-                        "description": "Výstup csv soubor, nastavení separátor. (default: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "Výstupních souborů CSV, CSV oddělený nastavit metodu (výchozí: '').",
+                        "url": "Videa / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Nastavení csv třídění polí",
+                "section": "Výstup CSV - nastavení řazení pole",
                 "videos": [
                     {
-                        "description": "Výstupní soubor csv, nastavení řazení pole.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "Výstupní soubor CSV, nastavte pole CSV seřadit jednoduchým způsobem.",
+                        "url": "Videa / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Používejte komplexní objekt motoru",
+                "section": "Výstup CSV - nastavení motory používají složité objekty",
                 "videos": [
                     {
-                        "description": "Výstupní soubor csv, zvládnout složitou formát souboru.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "Výstupní soubor CSV, nastavte motor řešit složité objekty pomocí složitých vstupních souborů. Výchozí: Open.",
+                        "url": "Videa / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Číslo verze",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Nejprve povolený."
+                        "content": "První vydání"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Nejprve povolený."
+                        "content": "První vydání"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Číslo verze",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Koupit Way",
+        "SectionName": "Jak nakupovat",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Dostupné jazyky",
+        "SectionName": "Dostupné jazyky webových stránek",
         "ChangeAlert": "Kompletní Jazyk Přepínač"
     }
 }

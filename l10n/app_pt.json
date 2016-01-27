@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Página Inicial",
-        "Feature": "Característica",
-        "Documents": "Documentos",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Teste grátis",
-        "Buy": "Comprar",
-        "Roadmap": "Roteiro",
-        "ReportIssue": "Reportagem Edição",
-        "Languages": "Idioma"
+        "Home": "Casa",
+        "Feature": "Recursos",
+        "Documents": "Arquivo",
+        "ReleaseNotes": "Notas de versão",
+        "Downloads": "Free Trial",
+        "Buy": "Compra",
+        "Roadmap": "Linha de produtos",
+        "ReportIssue": "Questão",
+        "Languages": "Língua"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "App muito útil. Indicado para o sistema operacional Windows, Linux, MacOSX.",
-        "BtnDownload": "Teste grátis",
+        "ProjectTagline": "A conversão de dados entre vários formatos, suporte para sistemas operacionais Windows, Linux e MacOSX.",
+        "BtnDownload": "Free Trial",
         "BtnBuy": "Compra",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Principais características",
+            "SectionName": "Principais recursos do produto",
             "list": [
-                "Converta entre JSON, XML, CSV, PLIST, INI, .properties (java) e YML (YAML), de um formato para outro.",
-                "A conversão do grupo de apoio.",
-                "Apoio opções personalizadas de conversão.",
-                "Formato de arquivo de conteúdo complexo Suporte",
-                "Suporte multi-idioma (Traduzido por Datastorm)."
+                "O suporte para JSON, XML conversão, CSV, PLIST, INI, os .properties e Yang Ming Marine Transport dados do arquivo (YAML).",
+                "Suporte conversão de lote",
+                "Suporte parâmetros de conversão da personalização",
+                "Suporte para manuseio complexo arquivo de dados, em especial a conversão de arquivos CSV em aninhada JSON",
+                "Suporte a conversão para CSV, campos CSV set triagem e configurações delimitadores",
+                "Suporte multi-língua (utilizando a ferramenta TryToTranslate para traduzir)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Coisas maravilhosas as pessoas estão dizendo sobre ele",
+            "SectionName": "Dê uma olhada no que estamos dizendo",
             "list": [
                 {
-                    "reviewContent": "Datastorm é impressionante. Simples. Limpar. Perfeito. Bem feito.",
+                    "reviewContent": "Datastorm é grande. Simples, limpo, perfeito. Muito bem feito.",
                     "userName": "evanw",
-                    "professional": "Tecnologia Evangelista"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "Datastorm é o que eu faço tudo muito bonito da minha escrita. É um ótimo app.",
+                    "reviewContent": "Datastorm é o que eu faço quase todas as minhas ferramentas, este é um ótimo aplicativo.",
                     "userName": "Peter Brilhante",
-                    "professional": "Escritor no Ars Technica"
+                    "professional": "Engenheiro de Teste"
                 },
                 {
-                    "reviewContent": "Se você tem algum interesse em conversão de dados, Datastorm é definitivamente vale um download.",
-                    "userName": "LifeHacker",
-                    "professional": "Web Developer e Designer"
+                    "reviewContent": "Se você precisa fazer a conversão de dados, Datastorm é definitivamente vale o download.",
+                    "userName": "Lifehacker de",
+                    "professional": "Web designers e desenvolvedores"
                 },
                 {
-                    "reviewContent": "Eu realmente gosto Datastorm, trouxe muita conveniência para o meu trabalho.",
+                    "reviewContent": "Eu realmente gosto Datastorm, me deu um monte de trabalho para trazer fácil.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP desenvolvimento do enquadramento"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - separador Ambiente",
+                "section": "Saída CSV - conjunto de separadores",
                 "videos": [
                     {
-                        "description": "Saída de arquivo CSV, definindo o separador. (padrão: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "Arquivos de saída CSV, CSV delimitado método definido (padrão: '').",
+                        "url": "videos / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Definir campos CSV classificação",
+                "section": "CSV de saída - para definir o campo de classificação",
                 "videos": [
                     {
-                        "description": "Saída de arquivo CSV, estabelecendo campo de classificação.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "Saída do arquivo CSV, defina os campos CSV para classificar uma maneira simples.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Use motor objeto complexo",
+                "section": "Saída CSV - motores com regulação usar objetos complexos",
                 "videos": [
                     {
-                        "description": "Arquivo CSV de saída, lidar com o formato de arquivo complexo.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "Saída do arquivo CSV, definir o motor para lidar com objetos complexos usando arquivos de entrada complexos. Padrão: Open.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Número da versão",
+        "labelVersion": "Lançamento",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Lançado pela primeira vez."
+                        "content": "Primeira versão"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Lançado pela primeira vez."
+                        "content": "Primeira versão"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Número da versão",
+        "labelVersion": "Lançamento",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Comprar Way",
+        "SectionName": "Como comprar",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Idiomas disponíveis",
+        "SectionName": "Site Idiomas disponíveis",
         "ChangeAlert": "Completa linguagem interruptor"
     }
 }

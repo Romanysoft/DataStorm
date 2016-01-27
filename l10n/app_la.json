@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Feature",
-        "Documents": "Documenta",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Domi",
+        "Feature": "Features",
+        "Documents": "File",
+        "ReleaseNotes": "Release Notes",
         "Downloads": "Free",
-        "Buy": "Buy",
-        "Roadmap": "Roadmap",
-        "ReportIssue": "Report Issue",
+        "Buy": "Purchase",
+        "Roadmap": "Product line",
+        "ReportIssue": "Issue",
         "Languages": "Lingua"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Valde utilis App. Apta Fenestra Linux MacOSX operating ratio.",
+        "ProjectTagline": "Data colloquium varia forma, subsidium Fenestra, Linux MacOSX operating ratio.",
         "BtnDownload": "Free",
         "BtnBuy": "Purchase",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Marisque",
+            "SectionName": "Product marisque",
             "list": [
-                "Convertam inter JSON, XML, CSV, PLIST, INI, .properties (java) et yml (YAML) ab uno ad aliud format.",
-                "Support Batch conversionem.",
-                "Support conversionem consuetudinem options.",
-                "Support complexu content file format",
-                "Multi-lingua suscipio (Translated by DataStorm)."
+                "Subsidium JSON, conversionem XML, CSV, PLIST, INI, in .properties et Yang Ming Transport Marine (YAML) file data.",
+                "Support batch conversionem",
+                "Support customize conversionem parametri",
+                "Subsidium complexu data file tractatio, praesertim convertens CSV lima in nested JSON",
+                "Support convertens ad CSV, CSV agros et submittite voluptua delimiter occasus",
+                "Multi-lingua suscipio (usura TryToTranslate tool reddere fidus interpres)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Mirabilia de populo dicens",
+            "SectionName": "Vide quae dicuntur",
             "list": [
                 {
-                    "reviewContent": "DataStorm est attonitus. Simplex. Mundum. Perfect. Bene factum.",
+                    "reviewContent": "DataStorm magna. Simplex, mundus, consummatus. Nicely factum.",
                     "userName": "evanw",
-                    "professional": "Technology Evangelista"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "Quod facere haud DataStorm scribamus in omnibus. Sed parum multa app.",
+                    "reviewContent": "Quod facere plerique omnes instrumenta DataStorm hoc parum magnum elit.",
                     "userName": "Peter Bright",
-                    "professional": "Scriptor Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Si quis in rem data conversio est certus dignitas a DataStorm download.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Designer et Developer"
+                    "reviewContent": "Si vos postulo efficio data conversionis DataStorm certe tanti download.",
+                    "userName": "Lifehacker scriptor",
+                    "professional": "Web gravida tincidunt et"
                 },
                 {
-                    "reviewContent": "Lorem sicut DataStorm perduxerit quantum commodum operi meo credidi.",
+                    "reviewContent": "Lorem sicut DataStorm dedit mihi multum opus facile perducere.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP compage development"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Profecti separator",
+                "section": "Output CSV - set separators",
                 "videos": [
                     {
-                        "description": "Csv output file ponens separator. (Default: ')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV output lima, CSV terminata set modus (default: '').",
+                        "url": "videos / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Profectus csv modi agris",
+                "section": "Output CSV - ut huiusmodi agri",
                 "videos": [
                     {
-                        "description": "Csv output file sedeat ostendens sort agro.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "Output file CSV concitaverunt CSV agros exstat simpliciter.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Use complexu obiectum engine",
+                "section": "Output CSV - occasus machinis uti complexu obiecta",
                 "videos": [
                     {
-                        "description": "Csv output file contrectaveritis complexu file format.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV output file, set machinam tractare complexu obiecta usura complexu input lima. Default aperi.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Primum solvimus."
+                        "content": "Primum remissionis"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Primum solvimus."
+                        "content": "Primum remissionis"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Buy Way",
+        "SectionName": "Quam Ut Buy",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Available Languages",
+        "SectionName": "Website Available Languages",
         "ChangeAlert": "Complete switch lingua"
     }
 }

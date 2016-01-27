@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "היים Page",
-        "Feature": "שטריך",
-        "Documents": "דאָקומענץ",
-        "ReleaseNotes": "רעלעאַסענאָטעס",
+        "Home": "שטוב",
+        "Feature": "פֿעיִקייטן",
+        "Documents": "פייַל",
+        "ReleaseNotes": "ריליס נאָטעס",
         "Downloads": "פּאָטער פּראָצעס",
         "Buy": "קויפן",
-        "Roadmap": "ראָאַדמאַפּ",
-        "ReportIssue": "באריכט ישו",
+        "Roadmap": "פּראָדוקט שורה",
+        "ReportIssue": "ישו",
         "Languages": "שפּראַך"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "זייער נוצלעך אַפּ. פּאַסיק פֿאַר ווינדאָוז, לינוקס, מאַקאָסקס אָפּערייטינג סיסטעם.",
+        "ProjectTagline": "דאַטע קאַנווערזשאַן צווישן פאַרשידן פֿאָרמאַטירונגען, שטיצן פֿאַר ווינדאָוז, לינוקס און מאַקאָסקס אַפּערייטינג סיסטעמס.",
         "BtnDownload": "פּאָטער פּראָצעס",
         "BtnBuy": "קויפן",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "הויפּט פֿעיִקייטן",
+            "SectionName": "פּראָדוקט הויפּט פֿעיִקייטן",
             "list": [
-                "גער צווישן דזשסאָן, קסמל, קסוו, פּליסט, יני, .פּראָפּערטיעס (ז'אבא) און ימל (יאַמל), פון איין פֿאָרמאַט צו אנדערן.",
-                "שטיצן באַטש קאַנווערזשאַן.",
-                "סופּפּאָרט קאַנווערזשאַן מנהג אָפּציעס.",
-                "שטיצן קאָמפּלעקס צופרידן טעקע פֿאָרמאַט",
-                "מולטי-שפּראַך שטיצן (איבערגעזעצט דורך דאַטאַסטאָרם)."
+                "סופּפּאָרט פֿאַר דזשסאָן, קאַנווערזשאַן קסמל, קסוו, פּליסט, יני, די .פּראָפּערטיעס און יאַנג מינג מאַרינע טראַנספּאָרט (יאַמל) טעקע דאַטע.",
+                "שטיצן באַטש קאַנווערזשאַן",
+                "סופּפּאָרט קאַסטאַמייז קאַנווערזשאַן פּאַראַמעטערס",
+                "שטיצן פֿאַר קאָמפּלעקס דאַטע טעקע האַנדלינג, ספּעציעל קאַנווערטינג קסוו טעקעס אין נעסטעד דזשסאָן",
+                "שטיצן קאַנווערטינג צו קסוו, קסוו fields שטעלן סאָרטינג און דעלימיטער סעטטינגס",
+                "מולטי-שפּראַך שטיצן (ניצן טריטאָטראַנסלאַטע געצייַג צו זעץ)."
             ]
         },
         "UserReviews": {
-            "SectionName": "ווונדערלעך זאכן מענטשן זענען געזאגט וועגן עס",
+            "SectionName": "נעמען אַ קוק אין וואָס מיר זענען געזאגט",
             "list": [
                 {
-                    "reviewContent": "דאַטאַסטאָרם איז סטאַנינג. פּשוט. ריין. גאנץ. גוט געטאן.",
+                    "reviewContent": "דאַטאַסטאָרם איז גרויס. פּשוט, ריין, גאנץ. נייסלי געטאן.",
                     "userName": "עוואַנוו",
-                    "professional": "טעכנאָלאָגיע עוואַנגעליסט"
+                    "professional": "דאַטאַבאַסע אַדמיניסטראַטאָר"
                 },
                 {
-                    "reviewContent": "דאַטאַסטאָרם איז וואָס איך טאָן שיין פיל אַלע פון ​​מיין שרייבן אין. עס ס אַ גרויס ביסל אַפּ.",
+                    "reviewContent": "דאַטאַסטאָרם איז וואָס איך טאָן כּמעט אַלע מיין מכשירים, דאָס איז אַ גרויס ביסל אַפּלאַקיישאַן.",
                     "userName": "Peter העל",
-                    "professional": "רייטער אין Ars טעטשניקאַ"
+                    "professional": "טעסט ענגינעער"
                 },
                 {
-                    "reviewContent": "אויב איר האָבן קיין אינטערעס אין דאַטע קאַנווערזשאַן, דאַטאַסטאָרם איז באשטימט ווערט אַ אָפּלאָדירן.",
-                    "userName": "ליפעהאַקקער",
-                    "professional": "וועב דעוועלאָפּער און דיזיינער"
+                    "reviewContent": "אויב איר דאַרפֿן צו טאָן דאַטע קאַנווערזשאַן, דאַטאַסטאָרם איז באשטימט ווערט די אָפּלאָדירן.",
+                    "userName": "ליפעהאַקקער ס",
+                    "professional": "וועב דעוועלאָפּערס און דיזיינערז"
                 },
                 {
-                    "reviewContent": "איך טאַקע ווי דאַטאַסטאָרם, האט געבראכט פיל קאַנוויניאַנס פֿאַר מיין אַרבעט.",
+                    "reviewContent": "איך טאַקע ווי דאַטאַסטאָרם, געגעבן מיר אַ פּלאַץ פון אַרבעט צו ברענגען גרינג.",
                     "userName": "דזשערוסס",
-                    "professional": "PHP Framework דעוועלאָפּער"
+                    "professional": "PHP ראַם אַנטוויקלונג"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "טאָקסוו - באַשטעטיקן סעפּאַראַטאָר",
+                "section": "רעזולטאַט קסוו - שטעלן סעפּאַראַטאָרס",
                 "videos": [
                     {
-                        "description": "רעזולטאַט קסוו טעקע, באַשטעטיקן די סעפּאַראַטאָר. (ניט ויסצאָלן: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "קסוו רעזולטאַט טעקעס, קסוו דעלימיטעד שטעלן אופֿן (ניט ויסצאָלן: '').",
+                        "url": "ווידיאס / דאָקס / יט2קסוו_סעפּאַראַטאָר.מפּ4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "טאָקסוו - באַשטעטיקן קסוו סאָרט fields",
+                "section": "רעזולטאַט קסוו - צו שטעלן די סאָרט פעלד",
                 "videos": [
                     {
-                        "description": "רעזולטאַט קסוו טעקע, באַשטעטיקן סאָרט פעלד.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "קסוו טעקע רעזולטאַט, שטעלן די קסוו fields צו סאָרט אַ פּשוט וועג.",
+                        "url": "ווידיאס / דאָקס / יט2קסוו_סאָרטפיעלדס.מפּ4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "טאָקסוו - נוצן קאָמפּלעקס כייפעץ מאָטאָר",
+                "section": "רעזולטאַט קסוו - באַשטעטיקן ענדזשאַנז נוצן קאָמפּלעקס אַבדזשעקס",
                 "videos": [
                     {
-                        "description": "רעזולטאַט קסוו טעקע, שעפּן דעם קאָמפּלעקס טעקע פֿאָרמאַט.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "קסוו טעקע רעזולטאַט, שטעלן די מאָטאָר צו שעפּן קאָמפּלעקס אַבדזשעקס ניצן קאָמפּלעקס ינפּוט טעקעס. Default: עפֿן.",
+                        "url": "ווידיאס / דאָקס / יט2קסוו_וסעקאָמפּלעקסדזשסאָנענגינע.מפּ4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ווערסיע נומער",
+        "labelVersion": "באַפרייַען",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "ערשטער רעלעאַסעד."
+                        "content": "ערשטער מעלדונג"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "ערשטער רעלעאַסעד."
+                        "content": "ערשטער מעלדונג"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "ווערסיע נומער",
+        "labelVersion": "באַפרייַען",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "קויפן וועג",
+        "SectionName": "ווי צו Buy",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "בנימצא שפּראַכן",
+        "SectionName": "וועבזייַטל בנימצא שפּראַכן",
         "ChangeAlert": "גאַנץ באַשטימען שפּראַך"
     }
 }

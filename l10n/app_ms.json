@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Laman Utama",
-        "Feature": "Ciri",
-        "Documents": "Dokumen",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Cubaan percuma",
-        "Buy": "Membeli",
-        "Roadmap": "Pelan tindakan",
-        "ReportIssue": "Laporkan Isu",
+        "Home": "Laman",
+        "Feature": "Ciri-ciri",
+        "Documents": "Fail",
+        "ReleaseNotes": "Nota Keluaran",
+        "Downloads": "Percubaan Percuma",
+        "Buy": "Pembelian",
+        "Roadmap": "Barisan produk",
+        "ReportIssue": "Isu",
         "Languages": "Bahasa"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "App sangat berguna. Sesuai untuk sistem operasi Windows, Linux, MacOSX.",
-        "BtnDownload": "Cubaan percuma",
+        "ProjectTagline": "Penukaran data antara pelbagai format, sokongan untuk Windows, Linux dan MacOSX sistem operasi.",
+        "BtnDownload": "Percubaan Percuma",
         "BtnBuy": "Pembelian",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Ciri-ciri Utama",
+            "SectionName": "Ciri-ciri utama produk",
             "list": [
-                "Tukar antara JSON, XML, CSV, plist, INI, .properties (java) dan YML (YAML), dari satu format yang lain.",
-                "Penukaran kumpulan sokongan.",
-                "Sokongan pilihan penukaran adat.",
-                "Sokongan kandungan kompleks format fail",
-                "Sokongan pelbagai bahasa (Diterjemahkan oleh DataStorm)."
+                "Sokongan untuk JSON, penukaran XML, CSV, plist, INI, yang .properties dan Yang Ming Marin Pengangkutan data (YAML) fail.",
+                "Penukaran kumpulan sokongan",
+                "Sokongan parameter penukaran menyesuaikan",
+                "Sokongan untuk pengendalian fail data yang kompleks, terutamanya menukarkan fail CSV ke dalam bersarang JSON",
+                "Sokongan memeluk CSV, bidang CSV set menyusun dan tetapan pembatas",
+                "Sokongan pelbagai bahasa (menggunakan alat TryToTranslate untuk menterjemahkan)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Perkara yang indah yang orang katakan mengenainya",
+            "SectionName": "Sila lihat pada apa yang kita katakan",
             "list": [
                 {
-                    "reviewContent": "DataStorm menakjubkan. Simple. Bersih. Perfect. Bagus.",
+                    "reviewContent": "DataStorm hebat. Mudah, bersih, sempurna. Baik dilakukan.",
                     "userName": "evanw",
-                    "professional": "Teknologi Evangelist"
+                    "professional": "Pentadbir Pangkalan Data"
                 },
                 {
-                    "reviewContent": "DataStorm adalah apa yang saya lakukan cukup banyak semua penulisan saya. Ia adalah satu aplikasi kecil yang hebat.",
+                    "reviewContent": "DataStorm adalah apa yang saya melakukan hampir semua alat saya, ini adalah aplikasi kecil yang hebat.",
                     "userName": "Peter Bright",
-                    "professional": "Penulis di Ars Technica"
+                    "professional": "Jurutera Ujian"
                 },
                 {
-                    "reviewContent": "Jika anda mempunyai apa-apa kepentingan dalam penukaran data, DataStorm pasti bernilai muat turun.",
-                    "userName": "LifeHacker",
-                    "professional": "Pemaju Web Designer"
+                    "reviewContent": "Jika anda perlu membuat penukaran data, DataStorm pasti bernilai muat turun.",
+                    "userName": "Ini Lifehacker",
+                    "professional": "Pembangun laman web dan pereka"
                 },
                 {
-                    "reviewContent": "Saya benar-benar suka DataStorm, telah membawa kemudahan banyak untuk kerja-kerja saya.",
+                    "reviewContent": "Saya benar-benar suka DataStorm, memberikan saya banyak kerja untuk membawa mudah.",
                     "userName": "jeruss",
-                    "professional": "Pemaju PHP Framework"
+                    "professional": "PHP pembangunan rangka kerja"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - pemisah Menetapkan",
+                "section": "Output CSV - pemisah set",
                 "videos": [
                     {
-                        "description": "Output fail csv, menetapkan pemisah. (lalai: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "Fail output CSV, CSV dihalang menetapkan kaedah (lalai: '').",
+                        "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Menetapkan bidang semacam csv",
+                "section": "Output CSV - untuk menetapkan bidang jenis yang",
                 "videos": [
                     {
-                        "description": "Output fail csv, mengeset medan jenis.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV fail output, menetapkan bidang CSV untuk menyusun cara yang mudah.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Gunakan enjin objek yang kompleks",
+                "section": "Output CSV - enjin menetapkan menggunakan objek kompleks",
                 "videos": [
                     {
-                        "description": "Output fail csv, mengendalikan format fail yang kompleks.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV fail output, menetapkan enjin untuk benda-benda yang kompleks dengan menggunakan fail input kompleks. Lalai: Buka.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Nombor Versi",
+        "labelVersion": "Akhbar",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Pertama dikeluarkan."
+                        "content": "Keluaran pertama"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Pertama dikeluarkan."
+                        "content": "Keluaran pertama"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Nombor Versi",
+        "labelVersion": "Akhbar",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Beli Way",
+        "SectionName": "Bagaimana Nak Beli",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Bahasa yang tersedia",
+        "SectionName": "Laman Web Bahasa yang tersedia",
         "ChangeAlert": "Suis bahasa yang lengkap"
     }
 }

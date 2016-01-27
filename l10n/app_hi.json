@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "मुख पृष्ठ",
-        "Feature": "फ़ीचर",
-        "Documents": "दस्तावेज़",
+        "Home": "घर",
+        "Feature": "विशेषताएं",
+        "Documents": "फ़ाइल",
         "ReleaseNotes": "रिलीज नोट्स",
-        "Downloads": "मुफ्त आज़माइश",
-        "Buy": "खरीदें",
-        "Roadmap": "रोडमैप",
-        "ReportIssue": "रिपोर्ट जारी",
+        "Downloads": "नि: शुल्क परीक्षण",
+        "Buy": "क्रय",
+        "Roadmap": "उत्पाद लाइन",
+        "ReportIssue": "मुद्दा",
         "Languages": "भाषा"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "बहुत ही उपयोगी अनुप्रयोग। विंडोज, लिनक्स, MacOSX ऑपरेटिंग सिस्टम के लिए उपयुक्त है।",
-        "BtnDownload": "मुफ्त आज़माइश",
+        "ProjectTagline": "विभिन्न प्रारूपों के बीच डेटा रूपांतरण, विंडोज, लिनक्स और MacOSX ऑपरेटिंग सिस्टम के लिए समर्थन करते हैं।",
+        "BtnDownload": "नि: शुल्क परीक्षण",
         "BtnBuy": "क्रय",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "मुख्य विशेषताएं",
+            "SectionName": "उत्पाद मुख्य विशेषताएं",
             "list": [
-                "एक प्रारूप से दूसरे करने के लिए, JSON, एक्सएमएल, सीएसवी, plist, पहल, .properties (जावा) और YML (YAML) के बीच कन्वर्ट।",
-                "समर्थन बैच रूपांतरण।",
-                "समर्थन रूपांतरण कस्टम विकल्प।",
-                "समर्थन जटिल सामग्री फ़ाइल स्वरूप",
-                "(DataStorm द्वारा अनूदित) बहु भाषा समर्थन करते हैं।"
+                "JSON, रूपांतरण एक्सएमएल, सीएसवी, plist, पहल, .properties और यांग मिंग समुद्री परिवहन (YAML) फ़ाइल डेटा के लिए सहायता।",
+                "समर्थन बैच रूपांतरण",
+                "समर्थन अनुकूलित रूपांतरण मानकों को",
+                "विशेष रूप से नेस्टेड JSON में सीएसवी फ़ाइलों को परिवर्तित करने के लिए जटिल डेटा फ़ाइल से निपटने के लिए समर्थन",
+                "समर्थन, सीएसवी को परिवर्तित सीएसवी क्षेत्रों छंटाई और सीमांकक सेटिंग्स सेट",
+                "बहु भाषा समर्थन (अनुवाद करने के लिए TryToTranslate उपकरण का उपयोग)।"
             ]
         },
         "UserReviews": {
-            "SectionName": "लोगों को इसके बारे में कह रहे हैं अद्भुत बातें",
+            "SectionName": "हम क्या कह रहे हैं पर एक नज़र रखना",
             "list": [
                 {
-                    "reviewContent": "DataStorm आश्चर्यजनक है। सरल। साफ। बिल्कुल सही। बहुत बढ़िया।",
+                    "reviewContent": "DataStorm महान है। सही, स्वच्छ, सरल। अच्छी तरह से किया।",
                     "userName": "evanw",
-                    "professional": "प्रौद्योगिकी इंजीलवादी"
+                    "professional": "डाटाबेस प्रशासक"
                 },
                 {
-                    "reviewContent": "DataStorm मैं बहुत ज्यादा सब में मेरे लेखन का क्या करते हैं। यह एक महान छोटा अनुप्रयोग है।",
+                    "reviewContent": "DataStorm, यह एक बड़ा सा अनुप्रयोग है क्या मैं लगभग सभी अपने उपकरण करना है।",
                     "userName": "पीटर तेज",
-                    "professional": "अर्स टेक्निका में लेखक"
+                    "professional": "टेस्ट अभियंता"
                 },
                 {
-                    "reviewContent": "आप डेटा रूपांतरण में कोई रुचि नहीं है, DataStorm निश्चित रूप से एक डाउनलोड करने लायक है।",
-                    "userName": "ज़ेन",
-                    "professional": "वेब डेवलपर और डिजाइनर"
+                    "reviewContent": "आप डेटा रूपांतरण करने के लिए की जरूरत है, DataStorm निश्चित रूप से डाउनलोड करने लायक है।",
+                    "userName": "ज़ेन का",
+                    "professional": "वेब डेवलपर्स और डिजाइनरों"
                 },
                 {
-                    "reviewContent": "मैं वास्तव में DataStorm की तरह, मेरे काम के लिए ज्यादा सुविधा लाया गया है।",
+                    "reviewContent": "मैं वास्तव में DataStorm तरह से, आराम से लाने के लिए मेरे काम का एक बहुत कुछ दिया है।",
                     "userName": "jeruss",
-                    "professional": "PHP फ्रेमवर्क डेवलपर"
+                    "professional": "पीएचपी ढांचा विकास"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - स्थापना विभाजक",
+                "section": "आउटपुट सीएसवी - सेट विभाजक",
                 "videos": [
                     {
-                        "description": "आउटपुट सीएसवी फ़ाइल, विभाजक की स्थापना। (चूक: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "सीएसवी आउटपुट फाइल, सीएसवी विधि सेट सीमांकित (डिफ़ॉल्ट: '')।",
+                        "url": "वीडियो / डॉक्स / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - सीएसवी तरह खेतों की स्थापना",
+                "section": "आउटपुट सीएसवी - तरह क्षेत्र स्थापित करने के लिए",
                 "videos": [
                     {
-                        "description": "आउटपुट सीएसवी फ़ाइल है, की तरह क्षेत्र की स्थापना।",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "सीएसवी फ़ाइल उत्पादन, एक सरल तरीका से हल करने के सीएसवी क्षेत्रों की स्थापना की।",
+                        "url": "वीडियो / डॉक्स / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - उपयोग जटिल वस्तु इंजन",
+                "section": "आउटपुट सीएसवी - स्थापना के इंजन जटिल वस्तुओं का उपयोग",
                 "videos": [
                     {
-                        "description": "आउटपुट सीएसवी फ़ाइल, जटिल फ़ाइल प्रारूप को संभाल।",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "सीएसवी फ़ाइल उत्पादन, जटिल इनपुट फ़ाइलों का उपयोग कर जटिल वस्तुओं को संभालने के लिए इंजन की स्थापना की। डिफ़ॉल्ट: खुला।",
+                        "url": "वीडियो / डॉक्स / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "संस्करण संख्या",
+        "labelVersion": "रिहाई",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "पहली बार जारी की।"
+                        "content": "सबसे पहले रिलीज"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "पहली बार जारी की।"
+                        "content": "सबसे पहले रिलीज"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "संस्करण संख्या",
+        "labelVersion": "रिहाई",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "खरीदें रास्ता",
+        "SectionName": "कैसे खरीदें",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "उपलब्ध भाषा",
+        "SectionName": "वेबसाइट उपलब्ध भाषाएँ",
         "ChangeAlert": "पूरा स्विच भाषा"
     }
 }

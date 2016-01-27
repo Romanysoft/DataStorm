@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Feature",
+        "Home": "Tsev",
+        "Feature": "Nta",
         "Documents": "Cov ntaub ntawv",
-        "ReleaseNotes": "ReleaseNotes",
+        "ReleaseNotes": "Sau ntawv tso lus",
         "Downloads": "Dawb Mus sib hais",
-        "Buy": "Yuav",
-        "Roadmap": "Roadmap",
-        "ReportIssue": "Daim ntawv qhia txog qhov teeb meem",
+        "Buy": "Purchase",
+        "Roadmap": "Khoom kab",
+        "ReportIssue": "Qhov teeb meem",
         "Languages": "Lus"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Heev pab App. Haum rau lub qhov rais, Linux, MacOSX operating system.",
+        "ProjectTagline": "Cov ntaub ntawv hloov dua siab tshiab ntawm ntau yam tswv yim, kev txhawb nqa rau lub qhov rais, Linux thiab MacOSX kev khiav hauj lwm systems.",
         "BtnDownload": "Dawb Mus sib hais",
         "BtnBuy": "Purchase",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Main nta",
+            "SectionName": "Khoom tseem ceeb nta",
             "list": [
-                "Hloov ntawm JSON, XML, CSV, plist, no, .properties (java) thiab YML (YAML), los ntawm ib hom mus rau lwm lub.",
-                "Them nyiaj yug Batch hloov dua siab tshiab.",
-                "Them nyiaj yug hloov dua siab tshiab kev cai xaiv.",
-                "Them nyiaj yug txoj ntsiab lus cov hom ntaub ntawv",
-                "Multi-hom lus yug (txhais los ntawm DataStorm)."
+                "Them nyiaj yug rau JSON, hloov dua siab tshiab XML, CSV, plist, no, lub .properties thiab Yang Ming Tubrog nkoj Thauj (YAML) cov ntaub ntawv cov ntaub ntawv.",
+                "Them nyiaj yug batch hloov dua siab tshiab",
+                "Them nyiaj yug customize hloov dua siab tshiab tsis",
+                "Them nyiaj yug rau txoj ntaub ntawv cov ntaub ntawv tuav, tshwj xeeb tshaj yog hloov CSV cov ntaub ntawv mus rau hauv nested JSON",
+                "Them nyiaj yug hloov mus rau CSV, CSV teb teeb sorting thiab delimiter chaw",
+                "Multi-hom lus txhawb nqa (siv TryToTranslate tuam txhais)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Yam zoo kawg nkaus cov neeg no hais txog nws",
+            "SectionName": "Noj ib tug saib dab tsi peb muaj yog hais tias",
             "list": [
                 {
-                    "reviewContent": "DataStorm yog stunning. Tej yam yooj yim. Huv si. Zoo meej. Zoo li cas.",
+                    "reviewContent": "DataStorm yog zoo kawg thiab. Tej yam yooj yim, huv si, zoo kawg nkaus. Zoo ua li cas.",
                     "userName": "evanw",
-                    "professional": "Technology qhia Txoj Moo Zoo"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm yog li cas kuv ua zoo nkauj npaum li cas txhua yam ntawm kuv kev sau ntawv nyob rau hauv. Nws yog ib tug zoo me ntsis app.",
+                    "reviewContent": "DataStorm yog kuv ua li cas yuav luag tag nrho kuv cov cuab yeej, qhov no yog ib tug zoo me ntsis daim ntawv thov.",
                     "userName": "Peter Kaj",
-                    "professional": "Txawj sau ntawv nyob rau ntawm lub Ars Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Yog hais tias koj muaj tej kev txaus siab rau cov ntaub ntawv hloov dua siab tshiab, DataStorm yog twv yuav raug hu muaj nqis ib download.",
-                    "userName": "LifeHacker",
-                    "professional": "Web tsim tawm thiab Designer"
+                    "reviewContent": "Yog hais tias koj yuav tsum tau ua cov ntaub ntawv hloov dua siab tshiab, DataStorm yog twv yuav raug hu muaj nqis rau tus download.",
+                    "userName": "LifeHacker tus",
+                    "professional": "Web tsim thiab designers"
                 },
                 {
-                    "reviewContent": "Kuv yeej zoo li DataStorm, tau coj ntau yooj yim rau kuv ua hauj lwm.",
+                    "reviewContent": "Kuv yeej zoo li DataStorm, muab kuv ib tug ntau ntawm cov ua hauj lwm rau coj yooj yim.",
                     "userName": "jeruss",
-                    "professional": "PHP moj khaum tsim tawm"
+                    "professional": "PHP moj khaum kev loj hlob"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Chaw separator",
+                "section": "Tso zis CSV - set separators",
                 "videos": [
                     {
-                        "description": "Tso zis csv ntaub ntawv, qhov chaw kawm lub separator. (neej ntawd hais: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV tso zis ntaub ntawv, CSV delimited teem txoj kev (neej ntawd hais: '').",
+                        "url": "cov yeeb yaj duab / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Teem csv tsi teb",
+                "section": "Tso zis CSV - mus teem lub tsi teb",
                 "videos": [
                     {
-                        "description": "Tso zis csv ntaub ntawv, qhov chaw kawm tsi teb.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV cov ntaub ntawv tso zis, muab lub CSV teb rau xaiv ib tug yooj yim txoj kev.",
+                        "url": "cov yeeb yaj duab / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Siv txoj yam khoom cav",
+                "section": "Tso zis CSV - qhov chaw kawm xyaw siv txoj khoom",
                 "videos": [
                     {
-                        "description": "Tso zis csv ntaub ntawv, ko lub complex cov hom ntaub ntawv.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV cov ntaub ntawv tso zis, muab lub cav mus lis txoj khoom siv lawv txoj kev tswv yim ntaub ntawv. Default: Qhib.",
+                        "url": "cov yeeb yaj duab / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Tso",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4,19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Ua ntej tso tawm."
+                        "content": "Thawj tso tawm"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Ua ntej tso tawm."
+                        "content": "Thawj tso tawm"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version Number",
+        "labelVersion": "Tso",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Muas Txoj Kev",
+        "SectionName": "Yuav ua li cas Muas",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Qhov ntau thiab Yam Lus",
+        "SectionName": "Lub vas sab Qhov Lus",
         "ChangeAlert": "Sau kom tiav hloov lus"
     }
 }

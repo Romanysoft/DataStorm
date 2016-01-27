@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Bosh sahifa",
-        "Feature": "Xususiyat",
-        "Documents": "Hujjatlar",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "Uy",
+        "Feature": "Xususiyatlar",
+        "Documents": "Fayl",
+        "ReleaseNotes": "Release Notes",
         "Downloads": "Bepul Sinov",
-        "Buy": "Sotib olish",
-        "Roadmap": "Nima bo'ladi?",
-        "ReportIssue": "Hisobot son",
+        "Buy": "Sotib olish to'g'risida",
+        "Roadmap": "Mahsulot chiziq",
+        "ReportIssue": "Masala",
         "Languages": "Til"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Juda foydali App. Windows, Linux, MacOSX operatsion tizimi uchun javob beradi.",
+        "ProjectTagline": "Turli shakllari orasida Data o'tkazish, Windows, Linux va MacOSX operatsion tizimlari uchun qo'llab-quvvatlash.",
         "BtnDownload": "Bepul Sinov",
         "BtnBuy": "Sotib olish to'g'risida",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Asosiy xususiyatlari",
+            "SectionName": "Mahsulot asosiy xususiyatlari",
             "list": [
-                "Bir shaklda boshqasiga, JSON, XML, CSV, plist, Ini, suvoqli (java) va YML (YAML) o'rtasida aylantirish.",
-                "Support Ommaviy o'tkazish.",
-                "Qo'llab-quvvatlash aylantirish maxsus imkoniyatlari.",
-                "Support murakkab tarkib fayl formati",
-                "(DataStorm tomonidan tarjima) bir nechta til qo'llab-quvvatlash."
+                "JSON, aylantirish XML, CSV, plist, Ini, suvoqli va Yang Ming Marine Transport (YAML) fayl ma'lumotlar uchun qo'llab-quvvatlash.",
+                "Support ommaviy o'tkazish",
+                "Support moslashtiring aylantirish parametrlarni",
+                "Ayniqsa ichki JSON ichiga CSV fayllarni konvertatsiya murakkab ma'lumotlar fayli ishlash, qo'llab-quvvatlash",
+                "Qo'llab-quvvatlash, CSV aylantirish CSV bolgan saralash va Ayırıcıya sozlash",
+                "Bir nechta til qo'llab-quvvatlash (tarjima qilish TryToTranslate vositasi yordamida)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Odamlar bu haqda aytib, ajoyib narsalar",
+            "SectionName": "Biz aytayotgan narsa, bir ko'z tashlang",
             "list": [
                 {
-                    "reviewContent": "DataStorm ajoyib. Simple. Toza. Perfect. Barakalla.",
+                    "reviewContent": "DataStorm katta. Mukammal, toza, oddiy. Yaxshi amalga.",
                     "userName": "evanw",
-                    "professional": "Texnologiya Xushxabarchi"
+                    "professional": "Ma'lumotlar bazasi Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm men deyarli barcha mening yozuv nima. Bu katta kichik dastur hisoblanadi.",
+                    "reviewContent": "DataStorm, bu katta kichik dastur nima men deyarli hamma mening vositalari, albatta, bo'ladi.",
                     "userName": "Peter Bright",
-                    "professional": "Arsh Technica da Writer"
+                    "professional": "Test muhandis"
                 },
                 {
-                    "reviewContent": "Ma'lumotlarni ishlash har qanday qiziqish bo'lsa, DataStorm albatta yuklash arziydi.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer va Designer"
+                    "reviewContent": "Ma'lumotlarni ishlash qilish kerak bo'lsa, DataStorm albatta download arziydi.",
+                    "userName": "Lifehacker ning",
+                    "professional": "Veb-ishlab chiquvchilari va Dizaynerlar"
                 },
                 {
-                    "reviewContent": "Men, albatta, DataStorm kabi, mening ish uchun juda qulay keldi.",
+                    "reviewContent": "Men, albatta, DataStorm kabi, oson olib, menga ko'p ish berdi.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Tuzuvchi"
+                    "professional": "PHP framework rivojlantirish"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Sozlama separator",
+                "section": "Chiqish CSV - to'siq ayırıcılar",
                 "videos": [
                     {
-                        "description": "Chiqish CSV faylini, ajratuvchi sozlamalari. (Default: \",\")",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV chiqish fayllar, CSV usulini belgilash bilan ajratilgan (asl qiymati: '').",
+                        "url": "videos / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - CSV sort maydonlarini o'rnatish",
+                "section": "Chiqish CSV - sort maydoni o'rnatish uchun",
                 "videos": [
                     {
-                        "description": "Chiqish CSV fayl, sort maydoni sozlamalari.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV fayli chiqish, oddiy yo'l bilan tartiblashtirish uchun CSV maydonlarini o'rnating.",
+                        "url": "videos / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - foydalanish murakkab ob'ekt motor",
+                "section": "Chiqish CSV - sozlamalar motorlar murakkab ob'ektlarni ishlatish",
                 "videos": [
                     {
-                        "description": "Chiqish CSV fayli, murakkab fayl formatini band.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV fayli chiqish, murakkab kiritish fayllar yordamida murakkab moslamalarni qilish uchun qidiruvi o'rnatilgan. Default: Open.",
+                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Version soni",
+        "labelVersion": "Chiqarish",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Birinchi ozod."
+                        "content": "Birinchi relizlar"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Birinchi ozod."
+                        "content": "Birinchi relizlar"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Version soni",
+        "labelVersion": "Chiqarish",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Xarid qilish Way",
+        "SectionName": "Xarid qilish qanday",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Mavjud tillarda",
+        "SectionName": "Veb-sayt Mavjud tillarda",
         "ChangeAlert": "Complete switch til"
     }
 }

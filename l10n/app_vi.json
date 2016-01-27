@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "Trang chủ",
+        "Home": "Nhà",
         "Feature": "Tính năng",
-        "Documents": "Các tài liệu",
-        "ReleaseNotes": "ReleaseNotes",
+        "Documents": "Hồ sơ",
+        "ReleaseNotes": "Ghi chú Phát hành",
         "Downloads": "Dùng thử miễn phí",
         "Buy": "Mua",
-        "Roadmap": "Lộ trình",
-        "ReportIssue": "Báo cáo phát hành",
+        "Roadmap": "Dòng sản phẩm",
+        "ReportIssue": "Vấn đề",
         "Languages": "Ngôn ngữ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "App rất hữu ích. Thích hợp cho hệ điều hành Windows, Linux, MacOSX.",
+        "ProjectTagline": "Chuyển đổi dữ liệu giữa các định dạng khác nhau, hỗ trợ cho các hệ điều hành Windows, Linux và Mac OSX.",
         "BtnDownload": "Dùng thử miễn phí",
         "BtnBuy": "Mua",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Những đặc điểm chính",
+            "SectionName": "Các tính năng chính của sản phẩm",
             "list": [
-                "Chuyển đổi giữa JSON, XML, CSV, plist, INI, .properties (java) và YML (YAML), từ một định dạng khác.",
-                "Hỗ trợ chuyển đổi hàng loạt.",
-                "Hỗ trợ tùy chọn tùy chỉnh chuyển đổi.",
-                "Hỗ trợ định dạng tập tin nội dung phức tạp",
-                "Hỗ trợ đa ngôn ngữ (Translated by DataStorm)."
+                "Hỗ trợ cho JSON, XML chuyển đổi, CSV, plist, INI, các .properties và Yang Ming Marine Transport dữ liệu (YAML) tập tin.",
+                "Hỗ trợ chuyển đổi hàng loạt",
+                "Hỗ trợ thông số chuyển đổi tùy chỉnh",
+                "Hỗ trợ cho phức tạp xử lý tập tin dữ liệu, đặc biệt là chuyển đổi các tập tin CSV vào lồng nhau JSON",
+                "Hỗ trợ chuyển đổi để CSV, lĩnh vực CSV thiết lập phân loại và thiết lập phân cách",
+                "Hỗ trợ đa ngôn ngữ (sử dụng công cụ TryToTranslate dịch)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Những điều tuyệt vời mọi người đang nói về nó",
+            "SectionName": "Hãy nhìn vào những gì chúng ta đang nói",
             "list": [
                 {
-                    "reviewContent": "DataStorm là cảnh quan tuyệt đẹp. Đơn giản. Lau sạch. Hoàn hảo. Làm tốt.",
+                    "reviewContent": "DataStorm là tuyệt vời. Đơn giản, sạch sẽ, hoàn hảo. Thực hiện độc đáo.",
                     "userName": "evanw",
-                    "professional": "Công nghệ Evangelist"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm là những gì tôi làm được khá nhiều tất cả các bài viết của tôi. Đó là một ứng dụng nhỏ tuyệt vời.",
+                    "reviewContent": "DataStorm là những gì tôi làm hầu như tất cả các công cụ của tôi, đây là một ứng dụng nhỏ tuyệt vời.",
                     "userName": "Peter Bright",
-                    "professional": "Writer tại Ars Technica"
+                    "professional": "Kỹ sư kiểm tra"
                 },
                 {
-                    "reviewContent": "Nếu bạn có bất cứ quan tâm trong việc chuyển đổi dữ liệu, DataStorm chắc chắn là giá trị một download.",
-                    "userName": "Lifehacker",
-                    "professional": "Web Developer và Designer"
+                    "reviewContent": "Nếu bạn cần phải làm chuyển đổi dữ liệu, DataStorm chắc chắn là giá trị tải.",
+                    "userName": "Lifehacker của",
+                    "professional": "Các nhà phát triển web và thiết kế"
                 },
                 {
-                    "reviewContent": "Tôi thực sự thích DataStorm, đã mang lại nhiều tiện lợi cho công việc của tôi.",
+                    "reviewContent": "Tôi thực sự thích DataStorm, đã cho tôi rất nhiều công việc để mang lại dễ dàng.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "Phát triển khuôn khổ PHP"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Setting phân cách",
+                "section": "Output CSV - bộ dải phân cách",
                 "videos": [
                     {
-                        "description": "Output file csv, thiết lập phân cách. (mặc định: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "Tập tin đầu ra CSV, CSV phân định phương pháp đặt (mặc định: '').",
+                        "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Thiết lập các lĩnh vực csv loại",
+                "section": "Output CSV - để thiết lập các lĩnh vực loại",
                 "videos": [
                     {
-                        "description": "Output file csv, thiết lập trường sắp xếp.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "Sản lượng tập tin CSV, đặt trường CSV để sắp xếp một cách đơn giản.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Sử dụng công cụ đối tượng phức tạp",
+                "section": "Output CSV - công cụ thiết lập sử dụng các đối tượng phức tạp",
                 "videos": [
                     {
-                        "description": "Output file csv, xử lý các định dạng tập tin phức tạp.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "Sản lượng tập tin CSV, thiết lập các công cụ để xử lý các đối tượng phức tạp bằng cách sử dụng các tập tin đầu vào phức tạp. Mặc định: Open.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Phiên bản Số",
+        "labelVersion": "Phóng thích",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Đầu tiên phát hành."
+                        "content": "Phát hành đầu tiên"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Đầu tiên phát hành."
+                        "content": "Phát hành đầu tiên"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Phiên bản Số",
+        "labelVersion": "Phóng thích",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Mua Way",
+        "SectionName": "Làm thế nào để Mua",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Ngôn ngữ có sẵn",
+        "SectionName": "Trang web Sẵn Ngôn ngữ",
         "ChangeAlert": "Hoàn thành chuyển đổi ngôn ngữ"
     }
 }

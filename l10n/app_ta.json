@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "முகப்பு பக்கம்",
-        "Feature": "வசதிகள்",
-        "Documents": "ஆவணங்கள்",
-        "ReleaseNotes": "ReleaseNotes",
+        "Home": "முகப்பு",
+        "Feature": "அம்சங்கள்",
+        "Documents": "கோப்பு",
+        "ReleaseNotes": "வெளியீட்டு அறிக்கை",
         "Downloads": "இலவச சோதனை",
-        "Buy": "வாங்க",
-        "Roadmap": "திட்டத்தை",
-        "ReportIssue": "அறிக்கை வெளியீடு",
+        "Buy": "கொள்முதல்",
+        "Roadmap": "தயாரிப்பு வரி",
+        "ReportIssue": "வெளியீடு",
         "Languages": "மொழி"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "மிகவும் பயனுள்ள ஆப். விண்டோஸ், லினக்ஸ், MacOSX இயங்கு ஏற்றது.",
+        "ProjectTagline": "பல்வேறு வடிவங்கள் இடையே தரவு மாற்றம், விண்டோஸ், லினக்ஸ் மற்றும் MacOSX இயங்கு ஆதரவு.",
         "BtnDownload": "இலவச சோதனை",
         "BtnBuy": "கொள்முதல்",
         "Screens": [
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "முக்கிய அம்சங்கள்",
+            "SectionName": "தயாரிப்பு முக்கிய அம்சங்கள்",
             "list": [
-                "ஒரு வடிவம் இருந்து மற்றொரு JSON, எக்ஸ்எம்எல் CSV, pList, Ini, .properties (Java) மற்றும் yml (YAML) இடையே மாற்றம்.",
-                "ஆதரவு தொகுதி மாற்றம்,.",
-                "ஆதரவு மாற்ற விருப்ப தேர்வுகள்.",
-                "ஆதரவு சிக்கலான உள்ளடக்கத்தை கோப்பு வடிவம்",
-                "(DataStorm மொழிபெயர்க்கப்பட்டது) பல மொழி ஆதரவு."
+                "எஞ்சினியரிங், மாற்றம் எக்ஸ்எம்எல் CSV, pList, Ini, .properties மற்றும் யாங்க் மிங் கடல் போக்குவரத்து (YAML) கோப்பு தரவு ஆதரவு.",
+                "ஆதரவு தொகுதி மாற்றம்,",
+                "ஆதரவு மாற்றுங்கள் மாற்றம் அளவுருக்கள்",
+                "குறிப்பாக உள்ளமை JSON, CSV கோப்புகளை மாற்றும் சிக்கலான தரவு கோப்பு கையாளும், ஆதரவு",
+                "ஆதரவு, CSV மாற்றும், CSV துறைகள் வகைப்படுத்தல் மற்றும் எல்லை அமைப்புகளை அமைக்க",
+                "பல மொழி ஆதரவு (மொழிபெயர்க்க TryToTranslate கருவியை பயன்படுத்தி)."
             ]
         },
         "UserReviews": {
-            "SectionName": "மக்கள் அதை பற்றி என்ன சொல்கிறீர்கள் அற்புதமான விஷயங்கள்",
+            "SectionName": "நாங்கள் என்ன சொல்கிறீர்கள் என்று பாருங்கள்",
             "list": [
                 {
-                    "reviewContent": "DataStorm அதிர்ச்சி தரும் உள்ளது. எளிய. சுத்தமான. சரியான. நல்லது.",
+                    "reviewContent": "DataStorm பெரும் உள்ளது. சரியான, சுத்தமான, எளிய. நேர்த்தியாக செய்து.",
                     "userName": "evanw",
-                    "professional": "தொழில்நுட்ப நற்செய்தி"
+                    "professional": "தரவுத்தள நிர்வாகி"
                 },
                 {
-                    "reviewContent": "DataStorm நான் மிகவும் அதிகமாக அனைத்து என் எழுத்து என்ன ஆகும். அது ஒரு பெரிய சிறிய பயன்பாடு தான்.",
+                    "reviewContent": "DataStorm, இந்த ஒரு பெரிய சிறிய பயன்பாடு ஆகும் என்ன நான் கிட்டத்தட்ட அனைத்து என் கருவிகள் செய்ய உள்ளது.",
                     "userName": "பீட்டர் பிரைட்",
-                    "professional": "ஆர்ஸ் டெக்னிக்கா எழுத்தாளர்"
+                    "professional": "டெஸ்ட் பொறியாளர்"
                 },
                 {
-                    "reviewContent": "நீங்கள் தரவு மாற்ற எந்த ஆர்வமும் இல்லை என்றால், DataStorm நிச்சயமாக ஒரு பதிவிறக்க மதிப்பு.",
-                    "userName": "தளங்கள்",
-                    "professional": "வலை டெவலப்பர் மற்றும் வடிவமைப்புகள்"
+                    "reviewContent": "நீங்கள் தரவு மாற்றம் செய்ய தேவையில்லை என்றால், DataStorm நிச்சயமாக பதிவிறக்க மதிப்பு.",
+                    "userName": "தளங்கள் தான்",
+                    "professional": "வலை வடிவமைப்பாளர்கள் மற்றும் வடிவமைப்பாளர்கள்"
                 },
                 {
-                    "reviewContent": "நான் உண்மையில் DataStorm போல, என் பணிக்காக பெரும் வசதிக்காக கொண்டு.",
+                    "reviewContent": "நான் உண்மையில் DataStorm போன்ற, எளிதாக கொண்டு என்னை நிறைய வேலை கொடுத்தார்.",
                     "userName": "jeruss",
-                    "professional": "PHP கட்டமைப்பு படைப்பாளி"
+                    "professional": "PHP கட்டமைப்பு வளர்ச்சி"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - அமைக்கிறது பிரிப்பான்",
+                "section": "வெளியீடு, CSV - தொகுப்பு பிரிப்பான்களுக்கு",
                 "videos": [
                     {
-                        "description": "வெளியீடு CSV கோப்பு, பிரிப்பான் அமைக்க. (இயல்புநிலை: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "கோப்பை வெளியீடு கோப்புகளை, கோப்பை முறையை அமைக்க (இயல்புநிலை: '').",
+                        "url": "வீடியோக்கள் / டாக்ஸ் / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - CSV வகையான துறைகள் அமைத்தல்",
+                "section": "வெளியீடு, CSV - வகையான துறையில் அமைக்க",
                 "videos": [
                     {
-                        "description": "வெளியீடு CSV கோப்பு, வகையான துறையில் அமைக்க.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV கோப்பு வெளியீடு, ஒரு எளிய வழி வரிசைப்படுத்த, CSV துறைகள் அமைக்க.",
+                        "url": "வீடியோக்கள் / டாக்ஸ் / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - பயன்பாட்டு சிக்கலான பொருள் இயந்திரம்",
+                "section": "வெளியீடு, CSV - அமைக்க பொறிகள் சிக்கலான பொருட்களை பயன்படுத்த",
                 "videos": [
                     {
-                        "description": "வெளியீடு CSV கோப்பு, சிக்கலான கோப்பு வடிவமைப்பு கையாள.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV கோப்பு வெளியீடு, சிக்கலான உள்ளீடு கோப்புகளை பயன்படுத்தி சிக்கலான பொருட்களை கையாள இயந்திரம் அமைந்தது. இயல்புநிலை: திறந்த.",
+                        "url": "வீடியோக்கள் / டாக்ஸ் / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "பதிப்பு எண்",
+        "labelVersion": "வெளியீட்டு",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "முதலில் வெளிவந்தது."
+                        "content": "முதல் வெளியீடு"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "முதலில் வெளிவந்தது."
+                        "content": "முதல் வெளியீடு"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "பதிப்பு எண்",
+        "labelVersion": "வெளியீட்டு",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "வாங்க வே",
+        "SectionName": "வாங்க எப்படி",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "கிடைக்கும் மொழிகள்",
+        "SectionName": "இணையத்தளம் கிடைக்கும் மொழிகள்",
         "ChangeAlert": "முழுமையான சுவிட்ச் மொழி"
     }
 }

@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Home Page",
-        "Feature": "Tampok",
-        "Documents": "Dokumento",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "Libreng subok",
-        "Buy": "Bilhin",
-        "Roadmap": "Roadmap",
-        "ReportIssue": "Iulat ang Isyu",
+        "Home": "Home",
+        "Feature": "Mga Tampok",
+        "Documents": "File",
+        "ReleaseNotes": "Release Notes",
+        "Downloads": "Libreng Pagsubok",
+        "Buy": "Purchase",
+        "Roadmap": "Linya ng produkto",
+        "ReportIssue": "Issue",
         "Languages": "Wika"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Very kapaki-pakinabang App. Angkop para sa Windows, Linux, MacOSX operating system.",
-        "BtnDownload": "Libreng subok",
+        "ProjectTagline": "Data ng conversion sa pagitan ng iba't-ibang mga format, suporta para sa Windows, Linux at MacOSX operating system.",
+        "BtnDownload": "Libreng Pagsubok",
         "BtnBuy": "Purchase",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,37 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Pangunahing Mga Tampok",
+            "SectionName": "Produkto pangunahing tampok",
             "list": [
-                "I-convert sa pagitan ng JSON, XML, CSV, plist, INI, .properties (java) at YML (YAML), mula sa isang format na sa isa pa.",
-                "Support conversion Batch.",
-                "Support conversion pasadyang mga pagpipilian.",
-                "Suporta format ng file kumplikadong nilalaman",
-                "Multi-language support (Isinalin sa pamamagitan ng DataStorm)."
+                "Suporta para sa JSON, conversion XML, CSV, plist, INI, ang .properties at Yang Ming Marine Transport data (YAML) file.",
+                "Support batch conversion",
+                "Support parameter customize conversion",
+                "Suporta para sa mga kumplikadong pag-asikaso data file, lalo na pag-convert ng mga file na CSV sa nested JSON",
+                "Suporta sa pag-convert sa CSV, mga patlang CSV set pag-uuri at mga setting delimiter",
+                "Multi-language support (gamit TryToTranslate tool upang i-translate)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Kahanga-hangang mga bagay-bagay ang sinasabi ng mga tao tungkol dito",
+            "SectionName": "Sumakay ng isang pagtingin sa kung ano ang sinasabi ng mga kami",
             "list": [
                 {
-                    "reviewContent": "DataStorm ay napakaganda. Simple. Clean. Perpekto. Magaling.",
+                    "reviewContent": "DataStorm ay mahusay. Simple, malinis, perpekto. Maayos na Natapos.",
                     "userName": "evanw",
-                    "professional": "Technology Ebanghelista"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm ay kung ano ang gagawin ko medyo marami ang lahat ng aking mga sulat sa. Ito ay isang magandang maliit na app.",
+                    "reviewContent": "DataStorm ay kung ano ang gagawin ko halos lahat ng aking mga kasangkapan, ito ay isang magandang maliit na application.",
                     "userName": "Peter Bright",
-                    "professional": "Writer sa ARS Technica"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Kung mayroon kang anumang mga interes sa data ng conversion, DataStorm ay talagang nagkakahalaga ng isang pag-download.",
-                    "userName": "LifeHacker",
-                    "professional": "Web Developer at Designer"
+                    "reviewContent": "Kung kailangan mong gawin ang data ng conversion, DataStorm ay talagang nagkakahalaga ng pag-download.",
+                    "userName": "Lifehacker ni",
+                    "professional": "Web developer at designer"
                 },
                 {
-                    "reviewContent": "Ko talagang gusto DataStorm, ay nagdala ng maraming kaginhawahan para sa aking trabaho.",
+                    "reviewContent": "Ko talagang gusto DataStorm, nagbigay ako ng isang pulutong ng mga trabaho upang dalhin madali.",
                     "userName": "jeruss",
-                    "professional": "PHP Framework Developer"
+                    "professional": "PHP framework unlad"
                 }
             ]
         }
@@ -64,39 +65,48 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ToCSV - Pagtatakda separator",
+                "section": "Output CSV - set panghiwalay",
                 "videos": [
                     {
-                        "description": "Output csv file, ang pagtatakda ng separator. (default: ',')",
-                        "url": "{{videos/docs/it2csv_separator.mp4}}"
+                        "description": "CSV file na output, CSV delimited set method (default: '').",
+                        "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ToCSV - Pagtatakda ng mga patlang csv uri",
+                "section": "Output CSV - upang itakda ang patlang na uri",
                 "videos": [
                     {
-                        "description": "Output csv file, pagse-set ang patlang na uri.",
-                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
+                        "description": "CSV file output, itakda ang mga patlang ng CSV upang maipagsama-sama sa isang simpleng paraan.",
+                        "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ToCSV - Gumamit ng mahirap maintindihan na bagay engine",
+                "section": "Output CSV - setting engine gumamit ng kumplikadong mga bagay",
                 "videos": [
                     {
-                        "description": "Output csv file, panghawakan ang mahirap na format ng file.",
-                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
+                        "description": "CSV file output, itakda ang engine upang hawakan komplikadong mga bagay gamit ang complex input file. Default: Open.",
+                        "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Numero ng Bersyon",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX}}",
+                        "content": "{{[Upgrade] NativeEngine update}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "list": [
@@ -115,7 +125,7 @@
                 ]
             },
             {
-                "version": "{{4.19}}",
+                "version": "4.19",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -151,19 +161,42 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Unang inilabas."
+                        "content": "Unang release"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Unang inilabas."
+                        "content": "Unang release"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Numero ng Bersyon",
+        "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.21}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x86-setup.exe}}",
+                        "size": "{{57.1MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/30bzlcl92pkh/DataStorm-v4.21-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.21-win32-x64-setup.exe}}",
+                        "size": "{{67.9.4MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/2ol34gfv9lx7/DataStorm-v4.21-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.21-darwin-x64.zip}}",
+                        "size": "{{16.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/w1hf0pt9pz3/DataStorm-v4.21.0-darwin-x64.zip}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.20}}",
                 "zipList": [
@@ -237,25 +270,31 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Bumili Way",
+        "SectionName": "Paano Upang Bilhin",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
+                "price": "{{99元}}",
                 "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
+            },
+            {
+                "name": "{{DataStorm for linux}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
+            },
+            {
+                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "price": "{{99元}}",
+                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
@@ -271,12 +310,6 @@
             },
             {
                 "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99 RMB}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "price": "{{$15.99}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
@@ -285,7 +318,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Magagamit na Mga Wika",
+        "SectionName": "Magagamit na Mga Wika Website",
         "ChangeAlert": "Kumpleto na wika switch"
     }
 }
