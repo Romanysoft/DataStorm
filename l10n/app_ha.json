@@ -1,19 +1,19 @@
 {
     "TopBar": {
         "Home": "Home",
-        "Feature": "Fasali",
-        "Documents": "Online takardun",
-        "ReleaseNotes": "Bayanan kula saki",
-        "Downloads": "Free gwajin",
+        "Feature": "Features",
+        "Documents": "Online Help",
+        "ReleaseNotes": "release Notes",
+        "Downloads": "free Trial",
         "Buy": "Purchase",
-        "Roadmap": "Samfur line",
-        "ReportIssue": "Batun",
+        "Roadmap": "Product line",
+        "ReportIssue": "Rahoto matsala",
         "Languages": "Harshe"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Data yi hira tsakanin daban-daban Formats, goyon baya ga Windows, Linux da MacOSX aiki tsarin.",
-        "BtnDownload": "Free gwajin",
+        "ProjectTagline": "Chanza of data a mahara Formats, goyon baya ga Windows, Linux da MacOSX tsarin aiki.",
+        "BtnDownload": "free Trial",
         "BtnBuy": "Purchase",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,36 +24,36 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Samfur main siffofin",
+            "SectionName": "Product main siffofin",
             "list": [
-                "Support for JSON, hira XML, CSV, PLIST, Ini, da .properties da Yang Ming Marine sufuri (YAML) fayil data.",
+                "Support JSON, maida XML, CSV, PLIST, Ini, da .properties da Yangming Shipping (YAML) file data.",
                 "Support tsari hira",
-                "Support siffanta hira sigogi",
-                "Goyon baya ga hadaddun data fayil handling, musamman ma tana mayar CSV fayiloli a cikin nested JSON",
-                "Support tana mayar wa CSV, CSV filayen saita kasawa da delimiter saituna",
-                "Multi-harshen goyon baya (ta amfani da kayan aiki TryToTranslate fassara)."
+                "Support musamman hira sigogi",
+                "Goyi bayan hadaddun data fayil aiki, musamman Converter nested JSON fayiloli zuwa CSV",
+                "Support mayar to CSV, CSV filaye don warware da kuma kafa delimiter saituna",
+                "Multi-harshen goyon baya (ta amfani da TryToTranslate translation kayan aiki)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Dubi abin da muke cewa",
+            "SectionName": "Dubi abin da kowa yake magana game da",
             "list": [
                 {
-                    "reviewContent": "DataStorm ne mai girma. Simple, mai tsabta, m. Da kyau yi.",
+                    "reviewContent": "DataStorm ne mai girma. Simple, mai tsabta, m. Kyau yi.",
                     "userName": "evanw",
-                    "professional": "Database Administrator"
+                    "professional": "database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm shi ne abin da zan yi kusan dukan kayayyakin aiki, wannan shi ne babban dan aikace-aikace.",
+                    "reviewContent": "DataStorm zan yi kusan dukan kayayyakin aiki, wannan shi ne babban kadan aikace-aikace.",
                     "userName": "Peter Bright",
-                    "professional": "Gwajin Engineer"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Idan kana bukatar ka yi data hira, DataStorm ne shakka daraja da download.",
+                    "reviewContent": "Idan kana bukatar ka yi data hira, DataStorm ne shakka daraja sauke.",
                     "userName": "Lifehacker ta",
-                    "professional": "Yanar gizo da kuma Developers zanen kaya"
+                    "professional": "Web developers da designers"
                 },
                 {
-                    "reviewContent": "Na ainihi kamar DataStorm, ya ba ni mai yawa aiki kawo sauki.",
+                    "reviewContent": "Na gaske kamar DataStorm, ka ba ni aiki ya kawo mai yawa saukaka.",
                     "userName": "jeruss",
                     "professional": "PHP tsarin ci gaban"
                 }
@@ -65,39 +65,52 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Fitarwa CSV - sa separators",
+                "section": "Output CSV - sa delimiter",
                 "videos": [
                     {
-                        "description": "CSV fitarwa fayiloli, CSV delimited kafa Hanyar (tsoho: '').",
-                        "url": "videos / daftarorin aiki / it2csv_separator.mp4"
+                        "description": "CSV fitarwa files, saituna, CSV delimited hanya (tsoho: '').",
+                        "url": "videos / Docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Fitarwa CSV - domin saita irin filin",
+                "section": "Output CSV - domin saita raba filin",
                 "videos": [
                     {
-                        "description": "CSV fayil fitarwa, saita CSV filaye don warware wata hanya mai sauƙi.",
-                        "url": "videos / daftarorin aiki / it2csv_sortFields.mp4"
+                        "description": "CSV fayil fitarwa, saita CSV filaye don warware mai sauki hanya.",
+                        "url": "videos / Docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Fitarwa CSV - kafa injuna amfani da hadaddun abubuwa",
+                "section": "Output CSV - Kafa injuna amfani hadaddun abubuwa",
                 "videos": [
                     {
-                        "description": "CSV fayil fitarwa, saita engine rike hadaddun abubuwa ta yin amfani da hadaddun shigar da fayiloli. Tsoho: Open.",
-                        "url": "videos / daftarorin aiki / it2csv_useComplexJSONEngine.mp4"
+                        "description": "CSV fayil fitarwa, saita engine rike hadaddun abubuwa ta amfani da hadaddun labari files. Default: Open.",
+                        "url": "videos / Docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Saki",
+        "labelVersion": "release",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4,19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Na farko saki"
+                        "content": "Na farko release"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Na farko saki"
+                        "content": "Na farko release"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Saki",
+        "labelVersion": "release",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Ta yaya To Buy",
+        "SectionName": "buy",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Yanar Gizo Ya Rasu Harsuna",
-        "ChangeAlert": "Cikakken canza harshen"
+        "SectionName": "Site harsuna available",
+        "ChangeAlert": "Sauya sheka harshe don kammala"
     }
 }

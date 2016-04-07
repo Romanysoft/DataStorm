@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Hejmo",
-        "Feature": "Karakterizaĵoj",
-        "Documents": "Enreta Dokumentoj",
+        "Home": "hejmo",
+        "Feature": "karakterizaĵoj",
+        "Documents": "rete Helpo",
         "ReleaseNotes": "Release Notoj",
-        "Downloads": "Free Trial",
-        "Buy": "Aĉeto",
-        "Roadmap": "Produkto linio",
-        "ReportIssue": "Temo",
-        "Languages": "Lingvo"
+        "Downloads": "libera Elprovo",
+        "Buy": "aĉeto",
+        "Roadmap": "produktserio",
+        "ReportIssue": "Raportu problemo",
+        "Languages": "lingvo"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Datumoj konvertiĝo inter diversaj formatoj, apogo por Windows, Linukso kaj MacOSX operaciumoj.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "Aĉeto",
+        "ProjectTagline": "Konvertiĝo de datumoj en multnombraj formatoj, apogo por Windows, Linukso kaj MacOSX mastruma sistemo.",
+        "BtnDownload": "libera Elprovo",
+        "BtnBuy": "aĉeto",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -26,36 +26,36 @@
         "Features": {
             "SectionName": "Produkto ĉefaj karakterizaĵoj",
             "list": [
-                "Subteno por JSON, konvertiĝo XML, CSV, plist, INI, la .properties kaj Yang Ming Marine Transport (YAML) dosiero datumoj.",
+                "Subteno JSON, konverti XML, CSV, plist, INI, la .properties kaj Yangming Shipping (YAML) dosiero datumoj.",
                 "Subteno batch konvertiĝo",
-                "Subteno customize konvertiĝo parametroj",
-                "Subteno por kompleksaj datumoj dosiero uzado, speciale konvertanta CSV dosierojn en nestitaj JSON",
-                "Subteno konvertanta al CSV, CSV kampoj aro ordigado kaj delimitador agordojn",
-                "Multi-lingvo subteno (uzante TryToTranslate ilo por traduki)."
+                "Subteno adaptitajn konvertiĝo parametroj",
+                "Subtenu kompleksaj datumoj dosiero prilaborado, aparte konvertilo nestitaj JSON dosierojn al CSV",
+                "Subteno konvertanta al CSV, CSV kampoj ordigi kaj starigis delimitador agordojn",
+                "Multi-lingva subteno (uzante TryToTranslate traduko ilo)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Rigardu kion ni diras",
+            "SectionName": "Vidi kion ĉiu parolas",
             "list": [
                 {
                     "reviewContent": "DataStorm estas granda. Simpla, pura, perfekta. Bele farita.",
                     "userName": "evanw",
-                    "professional": "Datumbazo Administranto"
+                    "professional": "datumbaza administranto"
                 },
                 {
-                    "reviewContent": "DataStorm estas kion mi faras preskaŭ ĉiuj miaj iloj, ĉi tiu estas granda malgranda apliko.",
-                    "userName": "Peter Brilo",
-                    "professional": "Testo Inĝeniero"
+                    "reviewContent": "DataStorm mi faras preskaŭ ĉiuj miaj iloj, ĉi tiu estas granda malgranda apliko.",
+                    "userName": "Peter Bright",
+                    "professional": "testo Inĝeniero"
                 },
                 {
-                    "reviewContent": "Se vi bezonas fari datumoj konvertiĝo, DataStorm estas sendube valora la deŝuto.",
+                    "reviewContent": "Se vi bezonas fari datumoj konvertiĝo, DataStorm estas sendube valora elŝutanta.",
                     "userName": "Lifehacker la",
                     "professional": "Retejo programistoj kaj diseñadores"
                 },
                 {
-                    "reviewContent": "Mi vere ŝatas DataStorm, donis al mi multe da laboro por alporti facila.",
+                    "reviewContent": "Mi vere ŝatas DataStorm, doni min laboro alporti multajn oportuneco.",
                     "userName": "jeruss",
-                    "professional": "PHP kadro evoluo"
+                    "professional": "PHP kadro disvolviĝo"
                 }
             ]
         }
@@ -65,39 +65,52 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Eligo CSV - aro apartigiloj",
+                "section": "Eligo CSV - aro delimitador",
                 "videos": [
                     {
-                        "description": "CSV eligo dosierojn, CSV limigita aro metodo (defaŭlte: '').",
-                        "url": "videos / dokumentojn / it2csv_separator.mp4"
+                        "description": "CSV eligo dosierojn, agordojn, CSV limigita metodo (defaŭlte: '').",
+                        "url": "filmetoj / dokumentojn / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Eligo CSV - starigi la speco kampo",
+                "section": "Eligo CSV - agordi la speco kampo",
                 "videos": [
                     {
-                        "description": "CSV-dosiero eligo, turnu la CSV kampoj ordigi simpla maniero.",
-                        "url": "videos / dokumentojn / it2csv_sortFields.mp4"
+                        "description": "CSV-dosiero eligo, starigis la CSV kampoj ordigi simpla metodo.",
+                        "url": "filmetoj / dokumentojn / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Eligo CSV - opcio motoroj uzi kompleksajn objektojn",
+                "section": "Eligo CSV - ĝustigado motoroj uzi kompleksajn objektojn",
                 "videos": [
                     {
-                        "description": "CSV-dosiero eligo, turnu la motoro por manipuli kompleksaj objektoj uzante kompleksan enigo dosierojn. Defaŭlta: Malferma.",
-                        "url": "videos / dokumentojn / it2csv_useComplexJSONEngine.mp4"
+                        "description": "CSV-dosiero eligo, starigis la motoro por manipuli kompleksaj objektoj uzante kompleksan enigo dosierojn. Defaŭlte: Open.",
+                        "url": "filmetoj / dokumentojn / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "ĵeto",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Unua eldono"
+                        "content": "unua eldono"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Unua eldono"
+                        "content": "unua eldono"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "ĵeto",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Kiel aĉeti",
+        "SectionName": "aĉeti",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Retejo Disponeblaj Lingvoj",
-        "ChangeAlert": "Kompleta ŝaltilo lingvo"
+        "SectionName": "Ejo lingvoj disponeblaj",
+        "ChangeAlert": "Ŝaltanta lingvo kompletigi"
     }
 }

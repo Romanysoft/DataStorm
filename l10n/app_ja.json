@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "ホーム",
         "Feature": "特長",
-        "Documents": "オンラインドキュメント",
+        "Documents": "オンラインヘルプ",
         "ReleaseNotes": "リリースノート",
-        "Downloads": "フリートライアル",
+        "Downloads": "無料体験",
         "Buy": "購入",
         "Roadmap": "製品ライン",
-        "ReportIssue": "問題",
+        "ReportIssue": "問題を報告します",
         "Languages": "言語"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "様々なフォーマット間のデータ変換、Windows、Linux、およびMacOSXのオペレーティングシステムのサポート。",
-        "BtnDownload": "フリートライアル",
+        "ProjectTagline": "複数の形式でのデータの変換、Windows、Linux、およびMacOSXのオペレーティングシステムをサポートしています。",
+        "BtnDownload": "無料体験",
         "BtnBuy": "購入",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,38 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "製品の主な特徴",
+            "SectionName": "製品の主な特長",
             "list": [
-                "JSON、変換XML、CSV、PLIST、INI、.propertiesファイルや陽明海運（YAML）ファイルデータのサポート。",
+                "サポートJSON、XML、CSV、PLIST、INI、.propertiesファイルや陽明送料（YAML）ファイルデータを変換します。",
                 "サポートバッチ変換",
-                "サポートカスタマイズ変換パラメータ",
-                "特にネストされたJSONにCSVファイルを変換する複雑なデータファイルの処理のサポート、",
-                "CSVへの変換をサポート、CSVフィールドは、ソートセットと区切り文字の設定",
-                "多言語サポート（翻訳しTryToTranslateツールを使用して）。"
+                "カスタマイズされた変換パラメータをサポートしています",
+                "CSVファイルに特定のコンバータネストされたJSONファイルでは、複雑なデータファイルの処理をサポートしています",
+                "区切り文字の設定をソートし、設定するCSV、CSVのフィールドへの変換をサポート",
+                "（TryToTranslateの翻訳ツールを使用して）マルチ言語サポート。"
             ]
         },
         "UserReviews": {
-            "SectionName": "私たちが何を言っているかを見てみましょう",
+            "SectionName": "誰もが話しているものを参照してください。",
             "list": [
                 {
-                    "reviewContent": "DataStormは素晴らしいです。完璧な、きれいな、シンプル。素敵行います。",
+                    "reviewContent": "DataStormは素晴らしいです。完璧な、きれいな、シンプル。うまく行って。",
                     "userName": "evanw",
                     "professional": "データベース管理者"
                 },
                 {
-                    "reviewContent": "DataStormは、私はほとんどすべての私のツールが何をすべきか、これは偉大な小さなアプリケーションです。",
+                    "reviewContent": "DataStorm私はほとんどすべての私のツールを実行し、これは偉大な小さなアプリケーションです。",
                     "userName": "ピーター・ブライト",
                     "professional": "試験技術者"
                 },
                 {
-                    "reviewContent": "あなたはデータ変換を行う必要がある場合、DataStormは間違いなく、ダウンロードする価値があります。",
+                    "reviewContent": "あなたはデータ変換を行う必要がある場合、DataStormは間違いなくダウンロードする価値があります。",
                     "userName": "ライフハッカーの",
                     "professional": "Web開発者やデザイナー"
                 },
                 {
-                    "reviewContent": "私は本当にDataStormのような、簡単に持って来るために私に多くの作業を行いました。",
+                    "reviewContent": "私は本当にDataStormのように、私は多くの利便性をもたらすために仕事を与えます。",
                     "userName": "jeruss",
-                    "professional": "PHPフレームワークの開発"
+                    "professional": "PHPのフレームワーク開発"
                 }
             ]
         }
@@ -65,10 +65,10 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "CSV出力 - セットセパレータ",
+                "section": "出力CSV  - 設定デリミタ",
                 "videos": [
                     {
-                        "description": "CSV出力ファイル、CSVは設定方法（デフォルト： ''）で区切ら。",
+                        "description": "CSV出力ファイル、設定、CSVは、メソッド（デフォルト： ''）で区切ら。",
                         "url": "ビデオ/ドキュメント/ it2csv_separator.mp4"
                     }
                 ]
@@ -78,17 +78,17 @@
                 "section": "出力CSV  - ソートフィールドを設定します",
                 "videos": [
                     {
-                        "description": "CSVファイル出力は、簡単な方法をソートするためにCSVのフィールドを設定します。",
+                        "description": "CSVファイル出力は、簡単な方法をソートするために、CSVフィールドを設定します。",
                         "url": "ビデオ/ドキュメント/ it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "CSV出力 - 設定エンジンは、複雑なオブジェクトを使用します",
+                "section": "出力CSV  - 設定エンジンは、複雑なオブジェクトを使用します",
                 "videos": [
                     {
-                        "description": "CSVファイル出力、複雑な入力ファイルを使用して、複雑なオブジェクトを処理するためにエンジンを設定します。デフォルト：オープン。",
+                        "description": "CSVファイル出力、複雑な入力ファイルを使用して、複雑なオブジェクトを処理するようにエンジンを設定します。デフォルト：オープン。",
                         "url": "ビデオ/ドキュメント/ it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "解放",
+        "labelVersion": "リリース",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "初リリース"
+                        "content": "最初のリリース"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "初リリース"
+                        "content": "最初のリリース"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "解放",
+        "labelVersion": "リリース",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "購入する方法",
+        "SectionName": "買います",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ウェブサイトの利用できる言語",
-        "ChangeAlert": "完全なスイッチの言語"
+        "SectionName": "利用可能なサイトの言語",
+        "ChangeAlert": "完了するために、言語の切り替え"
     }
 }

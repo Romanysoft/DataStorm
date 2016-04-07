@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Nyumbani",
-        "Feature": "Makala",
-        "Documents": "Online Nyaraka",
-        "ReleaseNotes": "Maelezo ya kutolewa",
-        "Downloads": "Bure kesi",
+        "Home": "nyumbani",
+        "Feature": "makala",
+        "Documents": "online Msaada",
+        "ReleaseNotes": "Release Notes",
+        "Downloads": "bure kesi",
         "Buy": "Ununuzi",
-        "Roadmap": "Mstari wa bidhaa",
-        "ReportIssue": "Suala",
-        "Languages": "Lugha"
+        "Roadmap": "bidhaa line",
+        "ReportIssue": "Ripoti tatizo",
+        "Languages": "lugha"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Data uongofu kati ya miundo mbalimbali, msaada kwa ajili ya Windows, Linux na MacOSX mifumo ya uendeshaji.",
-        "BtnDownload": "Bure kesi",
+        "ProjectTagline": "Wongofu wa data katika miundo mbalimbali, msaada kwa ajili ya Windows, Linux na MacOSX mfumo wa uendeshaji.",
+        "BtnDownload": "bure kesi",
         "BtnBuy": "Ununuzi",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -26,36 +26,36 @@
         "Features": {
             "SectionName": "Bidhaa sifa kuu",
             "list": [
-                "Msaada kwa ajili ya JSON, kubadilika XML, CSV, plist, INI, .properties na Yang Ming Usafiri wa Majini data (YAML) file.",
-                "Support kundi uongofu",
-                "Support Customize vigezo kubadilika",
-                "Msaada kwa ajili ya tata data file utunzaji, hasa kuwabadili files CSV ndani ya nested JSON",
-                "Support kuwabadili kwa CSV, mashamba CSV kuweka kuchagua na mazingira delimiter",
-                "Msaada lugha mbalimbali (kwa kutumia TryToTranslate chombo kutafsiri)."
+                "Support JSON, kubadilisha XML, CSV, plist, INI, .properties na data file Yangming Shipping (YAML).",
+                "Support uongofu kundi",
+                "Support umeboreshwa vigezo kubadilika",
+                "Support tata data faili usindikaji, hasa kubadilisha fedha Furushi files JSON kwa CSV",
+                "Support kuwabadili kwa CSV, mashamba CSV kuchambua na kuweka mazingira delimiter",
+                "Multi-lugha msaada (kwa kutumia TryToTranslate chombo tafsiri)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Kuangalia nini tunasema",
+            "SectionName": "Kuona nini kila mtu ni kuzungumza juu ya",
             "list": [
                 {
                     "reviewContent": "DataStorm ni kubwa. Rahisi, safi, kamilifu. Nicely kufanyika.",
                     "userName": "evanw",
-                    "professional": "Database Msimamizi"
+                    "professional": "database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm ni nini mimi karibu wote zana yangu, hii ni kubwa maombi kidogo.",
-                    "userName": "Peter Mkali",
-                    "professional": "Mtihani Mhandisi"
+                    "reviewContent": "DataStorm mimi kufanya karibu wote zana yangu, hii ni kubwa maombi kidogo.",
+                    "userName": "Peter Bright",
+                    "professional": "mtihani Mhandisi"
                 },
                 {
-                    "reviewContent": "Kama unahitaji kufanya uongofu data, DataStorm ni dhahiri thamani download.",
+                    "reviewContent": "Kama unahitaji kufanya data uongofu, DataStorm ni dhahiri thamani ya kupakua.",
                     "userName": "Lifehacker ya",
-                    "professional": "Watengenezaji mtandao na wabunifu"
+                    "professional": "watengenezaji mtandao na wabunifu"
                 },
                 {
-                    "reviewContent": "Mimi kwa kweli kama DataStorm, alinipa mengi ya kazi ya kuleta rahisi.",
+                    "reviewContent": "Mimi kwa kweli kama DataStorm, nipe kazi kuleta mengi ya urahisi.",
                     "userName": "jeruss",
-                    "professional": "PHP mfumo wa maendeleo"
+                    "professional": "PHP maendeleo ya mfumo"
                 }
             ]
         }
@@ -65,10 +65,10 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Pato CSV - seti separators",
+                "section": "Pato CSV - seti delimiter",
                 "videos": [
                     {
-                        "description": "CSV files pato, CSV delimited kuweka njia (default: '').",
+                        "description": "CSV files pato, mazingira, CSV delimited njia (default: '').",
                         "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
@@ -85,10 +85,10 @@
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Pato CSV - kuweka injini kutumia vitu tata",
+                "section": "Pato CSV - Kuweka injini kutumia vitu tata",
                 "videos": [
                     {
-                        "description": "CSV faili pato, kuweka injini kushughulikia vitu tata kwa kutumia mafaili tata pembejeo. Default: Open.",
+                        "description": "CSV faili pato, kuweka injini ya kushughulikia vitu tata kwa kutumia pembejeo files tata. Default: Open.",
                         "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Kutolewa",
+        "labelVersion": "kutolewa",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Kwanza kutolewa"
+                        "content": "kwanza kutolewa"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Kwanza kutolewa"
+                        "content": "kwanza kutolewa"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Kutolewa",
+        "labelVersion": "kutolewa",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Jinsi ya kununua",
+        "SectionName": "kununua",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Tovuti Inapatikana Lugha",
-        "ChangeAlert": "Kamili lugha kubadili"
+        "SectionName": "Lugha tovuti inapatikana",
+        "ChangeAlert": "Byte lugha kukamilisha"
     }
 }

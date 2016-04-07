@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "ទំព័រ​ដើម",
-        "Feature": "លក្ខណៈ​ពិសេស",
-        "Documents": "ឯកសារ​លើ​ប​ណ្តា​ញ",
-        "ReleaseNotes": "កំណត់ចំណាំ​ការ​ចេញផ្សាយ",
-        "Downloads": "ការ​ជំនុំ​ជម្រះ​ដោយ​ឥត​គិត​ថ្លៃ",
-        "Buy": "ការ​ទិញ",
-        "Roadmap": "បន្ទាត់​ផលិតផល",
-        "ReportIssue": "បញ្ហា​ការ",
+        "Home": "ទំព័រដើម",
+        "Feature": "លក្ខណៈពិសេស",
+        "Documents": "ជំនួយលើបណ្តាញ",
+        "ReleaseNotes": "កំណត់ចំណាំការចេញផ្សាយ",
+        "Downloads": "សវនាការដោយឥតគិតថ្លៃ",
+        "Buy": "ការទិញ",
+        "Roadmap": "បន្ទាត់ផលិតផល",
+        "ReportIssue": "រាយការណ៍បញ្ហា",
         "Languages": "ភាសា"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "ការ​បម្លែង​ទិន្នន័យ​រវាង​ទ្រង់ទ្រាយ​ផ្សេង​ដូចជា​ការ​គាំទ្រ​សម្រាប់​ប្រព័ន្ធ​ប្រតិបត្តិការ Windows​, Linux និង MacOSX ។",
-        "BtnDownload": "ការ​ជំនុំ​ជម្រះ​ដោយ​ឥត​គិត​ថ្លៃ",
-        "BtnBuy": "ការ​ទិញ",
+        "ProjectTagline": "ការបម្លែងនៃទិន្នន័យនៅក្នុងទ្រង់ទ្រាយច្រើន, ការគាំទ្រសម្រាប់ Windows, Linux និងប្រព័ន្ធប្រតិបត្តិការ MacOSX ។",
+        "BtnDownload": "សវនាការដោយឥតគិតថ្លៃ",
+        "BtnBuy": "ការទិញ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,38 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "លក្ខណៈ​ពិសេស​ចម្បង​ផលិតផល",
+            "SectionName": "លក្ខណៈពិសេសចម្បងផលិតផល",
             "list": [
-                "ការ​គាំទ្រ​សម្រាប់ JSON​, ការ​បម្លែង XML មាន CSV​, plist​, ini​, បើក​ដំណើរការ​និង​ការ​ដឹក​ជញ្ជូន​កង​ម៉ារីន​លោក Yang មីង​ទិន្នន័យ​របស់​ឯកសារ (YAML​) ។",
-                "ការ​បម្លែង​បាច់​នូវ​ការ​គាំទ្រ",
-                "ការ​គាំទ្រ​ប៉ារ៉ាម៉ែត្រ​ការ​បម្លែង​ប្ដូរ​តាម​បំណង",
-                "ការ​គាំទ្រ​សម្រាប់​ការ​គ្រប់គ្រង​ឯកសារ​ទិន្នន័យ​ស្មុ​គ្រ​ស្មាញ​ជា​ពិសេស​នៅ​ក្នុង​ការ​បម្លែង​ឯកសារ CSV ចូល​ទៅ​ក្នុង​សំណាញ់ JSON",
-                "ការ​គាំទ្រ​ការ​បម្លែង​ទៅ​ជា CSV វាល​ជា CSV កំណត់​ការ​តម្រៀប​និង​ការ​កំណត់​ការ​កំណត់​ព្រំដែន",
-                "ការ​គាំទ្រ​ពហុ​ភាសា (ដោយ​ប្រើ​ឧបករណ៍ TryToTranslate ដើម្បី​បកប្រែ​) ។"
+                "ការគាំទ្រ JSON បម្លែង XML, ជា CSV, plist, ini, បើកដំណើរការនិងទិន្នន័យឯកសារ Yangming ដឹកជញ្ជូន (YAML) ។",
+                "ការបម្លែងបាច់ការគាំទ្រ",
+                "ការគាំទ្រការប្ដូរតាមបំណងប៉ារ៉ាម៉ែត្រការបម្លែង",
+                "គាំទ្រដល់ដំណើរការឯកសារទិន្នន័យស្មុគ្រស្មាញជាពិសេសកម្មវិធីបម្លែងដាក់រួមគ្នាឯកសារ JSON ទៅជា CSV",
+                "ការគាំទ្រការបម្លែងទៅជា CSV វាលជា CSV ដើម្បីតម្រៀបនិងកំណត់ការកំណត់ការកំណត់ព្រំដែន",
+                "ការគាំទ្រដែលមានច្រើនភាសា (ដោយប្រើឧបករណ៍បកប្រែ TryToTranslate) ។"
             ]
         },
         "UserReviews": {
-            "SectionName": "សូម​មើល​នៅ​អ្វី​ដែល​យើង​កំពុង​និយាយ",
+            "SectionName": "សូមមើលអ្វីដែលមនុស្សគ្រប់គ្នាកំពុងនិយាយអំពី",
             "list": [
                 {
-                    "reviewContent": "DataStorm គឺ​អស្ចារ្យ​។ សាមញ្ញ​, ស្អាត​, ល្អ​ឥត​ខ្ចោះ​។ ធ្វើ​បាន​យ៉ាង​ល្អ​ប្រណិត​។",
+                    "reviewContent": "DataStorm គឺអស្ចារ្យ។ សាមញ្ញ, ស្អាត, ល្អឥតខ្ចោះ។ ធ្វើបានល្អមែន។",
                     "userName": "evanw",
-                    "professional": "អ្នក​គ្រប់គ្រង​មូលដ្ឋាន​ទិន្នន័យ"
+                    "professional": "អ្នកគ្រប់គ្រងមូលដ្ឋានទិន្នន័យ"
                 },
                 {
-                    "reviewContent": "DataStorm គឺ​ជា​អ្វី​ដែល​ខ្ញុំ​បាន​ធ្វើ​ជា​ឧបករណ៍​របស់​ខ្ញុំ​ស្ទើរ​តែ​ទាំង​អស់​, នេះ​គឺ​ជា​កម្មវិធី​ដែល​មាន​តិចតួច​ខ្លាំង​ណាស់​។",
-                    "userName": "លោក​ពេត្រុស​ប្រាយ",
-                    "professional": "ការ​ធ្វើ​តេ​ស្ត​វិស្វករ"
+                    "reviewContent": "DataStorm ខ្ញុំបានធ្វើស្ទើរតែទាំងអស់ឧបករណ៍របស់ខ្ញុំនេះគឺជាកម្មវិធីដែលមានតិចតួចខ្លាំងណាស់។",
+                    "userName": "លោកពេត្រុសប្រាយ",
+                    "professional": "ការធ្វើតេស្តវិស្វករ"
                 },
                 {
-                    "reviewContent": "ប្រសិន​បើ​អ្នក​ត្រូវ​ធ្វើ​ការ​បម្លែង​ទិន្នន័យ DataStorm គឺ​ពិត​ជា​មាន​តម្លៃ​ទាញ​យក​។",
+                    "reviewContent": "ប្រសិនបើអ្នកត្រូវការដើម្បីធ្វើការបម្លែងទិន្នន័យ DataStorm គឺពិតជាមានតម្លៃទាញយក។",
                     "userName": "Lifehacker របស់",
-                    "professional": "អ្នក​អភិវឌ្ឍន៍​គេហទំព័រ​និង​អ្នក​រចនា"
+                    "professional": "អ្នកអភិវឌ្ឍន៍គេហទំព័រនិងអ្នករចនា"
                 },
                 {
-                    "reviewContent": "ខ្ញុំ​ពិត​ជា​ចូលចិត្ត DataStorm បាន​ឱ្យ​ច្រើន​នៃ​ការងារ​មួយ​ដើម្បី​នាំ​មក​នូវ​ភាព​ងាយ​ស្រួល​។",
+                    "reviewContent": "ខ្ញុំពិតជាចូលចិត្ត DataStorm, ផ្តល់ឱ្យខ្ញុំធ្វើការដើម្បីនាំយកមកនូវការជាច្រើននៃភាពងាយស្រួលមួយ។",
                     "userName": "jeruss",
-                    "professional": "ការ​អភិវឌ្ឍ​ក្រប​ខណ្ឌ​កម្មវិធី PHP"
+                    "professional": "ការអភិវឌ្ឍក្របខ័ណ្ឌកម្មវិធី PHP"
                 }
             ]
         }
@@ -65,30 +65,30 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ទិ​ន្ន​ផល​ជា CSV - សំណុំ​បំបែក",
+                "section": "ទិន្នផលជា CSV - សំណុំសញ្ញាកំណត់ព្រំដែន",
                 "videos": [
                     {
-                        "description": "ឯកសារ​លទ្ធផល CSV​, ជា CSV ដែល​បាន​កំណត់​ព្រំដែន​ដែល​បាន​កំណត់​វិធី​សា​ស្ដ្រ (លំនាំ​ដើម​: \"\"​) ។",
+                        "description": "ឯកសារលទ្ធផលជា CSV, ការកំណត់, ជា CSV កំណត់ព្រំដែនវិធីសាស្រ្ត (លំនាំដើម: '') ។",
                         "url": "វីដេអូ / ឯកសារ / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ទិ​ន្ន​ផល​ជា CSV - ដើម្បី​កំណត់​វាល​តម្រៀប",
+                "section": "ទិន្នផលជា CSV - ដើម្បីកំណត់ការតម្រៀបវាល",
                 "videos": [
                     {
-                        "description": "ទិ​ន្ន​ផល​ឯកសារ CSV កំណត់​វាល​ជា CSV ដើម្បី​តម្រៀប​តាម​វិធី​សាមញ្ញ​មួយ​។",
+                        "description": "ទិន្នផលឯកសារ CSV កំណត់វាលជា CSV ដើម្បីតម្រៀបជាវិធីសាស្រ្តសាមញ្ញ។",
                         "url": "វីដេអូ / ឯកសារ / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ទិ​ន្ន​ផល​ជា CSV - ការ​កំណត់​ម៉ាស៊ីន​ប្រើ​វត្ថុ​ស្មុ​គ្រ​ស្មាញ",
+                "section": "ទិន្នផលជា CSV - ម៉ាស៊ីនការកំណត់ប្រើវត្ថុស្មុគ្រស្មាញ",
                 "videos": [
                     {
-                        "description": "ទិ​ន្ន​ផល​ឯកសារ CSV​, កំណត់​ម៉ាស៊ីន​ដើម្បី​ដោះស្រាយ​វត្ថុ​ស្មុគស្មាញ​ដោយ​ប្រើ​ឯកសារ​បញ្ចូល​ស្មុ​គ្រ​ស្មាញ​។ លំនាំដើម​: បើក​ទូលាយ​។",
+                        "description": "ទិន្នផលឯកសារ CSV កំណត់ម៉ាស៊ីនដើម្បីដោះស្រាយវត្ថុស្មុគស្មាញដោយប្រើឯកសារបញ្ចូលស្មុគ្រស្មាញ។ លំនាំដើម: បើកទូលាយ។",
                         "url": "វីដេអូ / ឯកសារ / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ការ​ចេញផ្សាយ",
+        "labelVersion": "ការចេញផ្សាយ",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "ការ​ចេញ​ផ្សាយ​ជា​លើក​ដំបូង"
+                        "content": "ការចេញផ្សាយជាលើកដំបូង"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "ការ​ចេញ​ផ្សាយ​ជា​លើក​ដំបូង"
+                        "content": "ការចេញផ្សាយជាលើកដំបូង"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "ការ​ចេញផ្សាយ",
+        "labelVersion": "ការចេញផ្សាយ",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "តើ​ធ្វើ​ដូចម្តេច​ដើម្បី​ទិញ",
+        "SectionName": "ទិញ",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "វេ​ប​សាយ​ភាសា​ដែល​អាច​ប្រើ​បាន",
-        "ChangeAlert": "ភាសា​កុងតាក់​ពេញលេញ"
+        "SectionName": "តំបន់បណ្តាញដែលអាចប្រើបានភាសា",
+        "ChangeAlert": "ការផ្លាស់ប្តូរភាសាដើម្បីបញ្ចប់"
     }
 }

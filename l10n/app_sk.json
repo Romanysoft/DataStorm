@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Domov",
-        "Feature": "Funkcie",
-        "Documents": "Online dokumentácia",
+        "Home": "domov",
+        "Feature": "rysy",
+        "Documents": "online nápoveda",
         "ReleaseNotes": "Poznámky k vydaniu",
-        "Downloads": "Skúšobná verzia zdarma",
-        "Buy": "Nákup",
+        "Downloads": "skúšobná verzia zdarma",
+        "Buy": "nákup",
         "Roadmap": "Produktový rad",
-        "ReportIssue": "Otázka",
-        "Languages": "Jazyk"
+        "ReportIssue": "nahlásiť problém",
+        "Languages": "jazyk"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konverzie dát medzi rôznymi formátmi, podpora pre operačné systémy Windows, Linux a MacOSX.",
-        "BtnDownload": "Skúšobná verzia zdarma",
-        "BtnBuy": "Nákup",
+        "ProjectTagline": "Prevod dát v rôznych formátoch, podporu pre Windows, Linux a operačným systémom MacOSX.",
+        "BtnDownload": "skúšobná verzia zdarma",
+        "BtnBuy": "nákup",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,38 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Základné vlastnosti",
+            "SectionName": "Účinky",
             "list": [
-                "Podpora pre JSON, konverzie XML, CSV, plist, INI, o .properties a Yang Ming námornej dopravy dát (Yamli) súborov.",
+                "Podpora JSON, previesť XML, CSV, plist, INI, na .properties a súborová dáta Yangming doprava (Yamli).",
                 "Podpora dávkové konverzie",
-                "Podpora parametre konverzie customize",
-                "Podpora pre komplexné manipulácie súboru dát, najmä konvertovanie CSV súborov do vnorené JSON",
-                "Podpora prevodu do formátu CSV, CSV pole nastaviť triedenie a nastavenie oddeľovač",
-                "Multi-jazyková podpora (pomocou nástroja TryToTranslate preložiť)."
+                "Podpora vlastné parametre konverzie",
+                "Podporovať komplexné spracovanie súboru dát, najmä konvertora vnorené JSON súborov do formátu CSV",
+                "Podpora konverzie do CSV, CSV polí pre triedenie a nastavte oddeľovač",
+                "Multi-jazyková podpora (pomocou TryToTranslate nástroj pre preklad)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Pozrite sa na to, čo hovoríme",
+            "SectionName": "Pozrite sa, čo všetci o tom hovoria",
             "list": [
                 {
-                    "reviewContent": "DataStore je skvelá. Jednoduché, čisté, dokonalé. Dobrá práca.",
+                    "reviewContent": "DataStore je skvelý. Jednoduché, čisté, dokonalé. Dobrá práca.",
                     "userName": "evanw",
-                    "professional": "Database Administrator"
+                    "professional": "správca databázy"
                 },
                 {
-                    "reviewContent": "DataStore je to, čo mám robiť, takmer všetky svoje nástroje, je to veľký malý aplikácie.",
+                    "reviewContent": "DataStore mám takmer všetky svoje nástroje, to je veľký malý aplikácie.",
                     "userName": "Peter Bright",
-                    "professional": "Test Engineer"
+                    "professional": "test Engineer"
                 },
                 {
-                    "reviewContent": "Ak potrebujete urobiť konverzie dát, DataStore je rozhodne stojí za stiahnutie.",
+                    "reviewContent": "Ak potrebujete vykonať konverziu dát, DataStore rozhodne stojí za stiahnutie.",
                     "userName": "Lifehacker je",
                     "professional": "Weboví vývojári a návrhári"
                 },
                 {
-                    "reviewContent": "Naozaj rád DataStore som, dal mi veľa práce, aby ľahké.",
+                    "reviewContent": "Moc sa mi páči DataStore, daj mi pracovať na priniesť veľa pohodlia.",
                     "userName": "jeruss",
-                    "professional": "Framework pre vývoj PHP"
+                    "professional": "framework pre vývoj PHP"
                 }
             ]
         }
@@ -65,39 +65,52 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Výstup CSV - sada odlučovače",
+                "section": "Výstup CSV - sada oddeľovač",
                 "videos": [
                     {
-                        "description": "Výstupných súborov CSV, CSV oddelený nastaviť metódu (predvolený: '').",
-                        "url": "Videa / docs / it2csv_separator.mp4"
+                        "description": "CSV výstupných súborov, nastavenie, CSV oddelený metódu (predvolené: '').",
+                        "url": "Videá / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Výstup CSV - nastavenie radenia poľa",
+                "section": "Výstup CSV - nastaviť pole triedenie",
                 "videos": [
                     {
-                        "description": "Výstupný súbor CSV, nastavte pole CSV zoradiť jednoduchým spôsobom.",
-                        "url": "Videa / docs / it2csv_sortFields.mp4"
+                        "description": "CSV súbor výstup, nastavte pole CSV zoradiť jednoduchú metódu.",
+                        "url": "Videá / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Výstup CSV - nastavenie motory používajú zložité objekty",
+                "section": "Výstup CSV - Nastavenie motory používajú zložité objekty",
                 "videos": [
                     {
-                        "description": "Výstupný súbor CSV, nastavte motor riešiť zložité objekty pomocou zložitých vstupných súborov. Predvolené: Open.",
-                        "url": "Videa / docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "CSV výstupný súbor, nastavte motor riešiť zložité objekty pomocou zložitých vstupných súborov. Predvolené: Open.",
+                        "url": "Videá / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "uvoľnenie",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Prvé vydanie"
+                        "content": "prvé vydanie"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Prvé vydanie"
+                        "content": "prvé vydanie"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "uvoľnenie",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Ako nakupovať",
+        "SectionName": "kúpiť",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Dostupné jazyky webových stránok",
-        "ChangeAlert": "Kompletné Jazyk Prepínač"
+        "SectionName": "jazyky,",
+        "ChangeAlert": "Prepnutie jazyka na dokončenie"
     }
 }

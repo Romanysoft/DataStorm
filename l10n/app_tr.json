@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Ev",
+        "Home": "ev",
         "Feature": "Özellikler",
-        "Documents": "Çevrimiçi Belgeler",
+        "Documents": "çevrimiçi Yardım",
         "ReleaseNotes": "Sürüm Notları",
         "Downloads": "Ücretsiz Deneme",
-        "Buy": "Satınalma",
+        "Buy": "satın alma",
         "Roadmap": "Ürün çeşitleri",
-        "ReportIssue": "Mesele",
-        "Languages": "Lisan"
+        "ReportIssue": "Bir sorunu bildirmek",
+        "Languages": "dil"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Çeşitli biçimleri arasında veri dönüştürme, Windows, Linux ve MacOSX işletim sistemleri için destek.",
+        "ProjectTagline": "birden fazla formatta, Windows, Linux ve MacOSX işletim sistemi için destek verilerin dönüştürülmesi.",
         "BtnDownload": "Ücretsiz Deneme",
-        "BtnBuy": "Satınalma",
+        "BtnBuy": "satın alma",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,36 +24,36 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Ürün temel özellikleri",
+            "SectionName": "Ürün ana özellikleri",
             "list": [
-                "JSON, dönüşüm XML, CSV, PLIST, INI, .properties ve Yang Ming Marine Transport (YAML) dosyası verileri için destek.",
-                "Destek toplu dönüştürme",
-                "Destek özelleştirmek dönüşüm parametreleri",
-                "Özellikle iç içe JSON içine CSV dosyalarını dönüştürme karmaşık veri dosya işleme, Destek",
-                "Destek CSV dönüştürmek CSV alanlarını sıralama ve sınırlayıcı ayarları set",
-                "Çoklu dil desteği (çevirmek için TryToTranslate aracını kullanarak)."
+                "Destek JSON, XML, CSV, PLIST, INI, .properties ve Yangming taşıtları (YAML) dosyası verileri dönüştürmek.",
+                "Toplu dönüştürme desteği",
+                "Destek özelleştirilmiş dönüşüm parametreleri",
+                "CSV özellikle dönüştürücü iç içe JSON dosyaları, karmaşık veri dosya işleme Destek",
+                "sıralamak için CSV CSV alanlarına dönüştürerek Destek ve set sınırlayıcı ayarları",
+                "(TryToTranslate çeviri aracını kullanarak) Çoklu dil desteği."
             ]
         },
         "UserReviews": {
-            "SectionName": "Biz ne söylediğini bir göz atın",
+            "SectionName": "Herkesin bahsettiğini görün",
             "list": [
                 {
-                    "reviewContent": "DataStorm harika. Mükemmel, temiz, basit. Güzel yapılır.",
+                    "reviewContent": "DataStorm harika. mükemmel, temiz, basit. Güzel yapılır.",
                     "userName": "evanw",
-                    "professional": "Veritabanı Yöneticisi"
+                    "professional": "veritabanı Yöneticisi"
                 },
                 {
-                    "reviewContent": "DataStorm, bu büyük bir küçük uygulama nedir neredeyse tüm araçları yapmak olduğunu.",
+                    "reviewContent": "Neredeyse tüm araçları yapmak DataStorm, bu harika bir küçük bir uygulamadır.",
                     "userName": "Peter Bright",
                     "professional": "Test Mühendisi"
                 },
                 {
-                    "reviewContent": "Veri dönüşüm yapmak gerekiyorsa, DataStorm kesinlikle indirme değer.",
+                    "reviewContent": "veri dönüşüm yapmak gerekirse, DataStorm indirirken kesinlikle değer.",
                     "userName": "Lifehacker en",
                     "professional": "Web geliştiricileri ve tasarımcıları"
                 },
                 {
-                    "reviewContent": "Gerçekten DataStorm gibi kolay getirmek için bana bir sürü iş verdi.",
+                    "reviewContent": "Gerçekten DataStorm gibi, bana bir çok kolaylık getirmek için çalışmak verir.",
                     "userName": "jeruss",
                     "professional": "PHP çerçeve geliştirme"
                 }
@@ -65,10 +65,10 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Çıktı CSV - set ayırıcılar",
+                "section": "Çıktı CSV - set sınırlayıcı",
                 "videos": [
                     {
-                        "description": "CSV çıktı dosyaları, CSV yöntemini ayarlamak ayrılmış (varsayılan: '').",
+                        "description": "CSV çıktı dosyaları, ayarları, CSV (: '' varsayılan) yöntemini ayrılmış.",
                         "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
@@ -78,17 +78,17 @@
                 "section": "Çıktı CSV - sıralama alanını ayarlamak için",
                 "videos": [
                     {
-                        "description": "CSV dosyası çıktı, basit bir şekilde sıralamak CSV alanlarını ayarlayın.",
+                        "description": "CSV dosyası çıktı, basit bir yöntem sıralamak için CSV alanlarını ayarlayın.",
                         "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Çıktı CSV - ayar motorları karmaşık nesneleri kullanmak",
+                "section": "Çıktı CSV - Ayar motorları karmaşık nesneleri kullanın",
                 "videos": [
                     {
-                        "description": "CSV dosyası çıktı, karmaşık girdi dosyaları kullanarak karmaşık nesneleri işlemek için motoru ayarlayın. Varsayılan: Açık.",
+                        "description": "CSV dosyası çıktı, karmaşık girdi dosyaları kullanarak karmaşık nesneleri işlemek için motor ayarlayın. Varsayılan: Açık.",
                         "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Serbest bırakma",
+        "labelVersion": "serbest bırakma",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "İlk sürüm"
+                        "content": "ilk sürüm"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "İlk sürüm"
+                        "content": "ilk sürüm"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Serbest bırakma",
+        "labelVersion": "serbest bırakma",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Satın Nasıl",
+        "SectionName": "satın almak",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Web Sitesi Mevcut Diller",
-        "ChangeAlert": "Komple anahtar dili"
+        "SectionName": "Kullanılabilir site dilleri",
+        "ChangeAlert": "dilinin değiştirilmesi tamamlamak için"
     }
 }

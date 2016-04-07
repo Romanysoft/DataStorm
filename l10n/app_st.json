@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Online ditokomane tse",
+        "Documents": "Online Help",
         "ReleaseNotes": "Release Notes",
-        "Downloads": "Free Trial",
-        "Buy": "Reka",
-        "Roadmap": "Product mola",
-        "ReportIssue": "Issue",
-        "Languages": "Puo"
+        "Downloads": "Free Nyeoe",
+        "Buy": "theko",
+        "Roadmap": "Product moleng oa",
+        "ReportIssue": "Tlaleha bothata",
+        "Languages": "puo"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Data ho sokoloha pakeng tsa tse sa tšoaneng rulaganya, tsehetso ho Windows, Linux le MacOSX sebetsa tsamaiso ea.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "Reka",
+        "ProjectTagline": "Sokoloha ya data a rulaganya multiple, tšehetso bakeng sa Windows, Linux le MacOSX tshebetso ya ho sebetsa.",
+        "BtnDownload": "Free Nyeoe",
+        "BtnBuy": "theko",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,38 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product ditshebetsong",
+            "SectionName": "Product ditshebetso tse ka sehloohong",
             "list": [
-                "Tšehetsa JSON, ho sokoloha xML, CSV, PLIST, Krrish, le .properties le Yang Ming Marine Transport (YAML) faele ya data.",
-                "Support methaka ho sokoloha",
-                "Support tlwaetsa ho sokoloha meedi",
-                "Tšehetsa e rarahaneng ya data faele ho tshwara, haholo-holo fetola CSV difaele ka nested JSON",
-                "Support fetola ho CSV, CSV masimo a beha sorting le sekgaoganyi di-setting",
-                "Multi-puo tshehetso (ho sebelisa TryToTranslate sesebelisoa ho fetolela)."
+                "Support JSON, sokolla xML, CSV, PLIST, Krrish, e .properties le data faele Yangming Shipping (YAML).",
+                "Support sokoloha methaka",
+                "Support customized entsprechen sokoloha",
+                "Tshehetsa rarahaneng ya data faele e lokisa, ka ho khetheha converter nested difaele JSON ho CSV",
+                "Support fetola ho CSV, masimo CSV ho utloisisa 'me a lokise-setting tsa sekgaoganyi",
+                "Multi-puo tshehetso (sebelisa TryToTranslate phetolelo sesebelisoa)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Hlahlobeng seo re se a re",
+            "SectionName": "Re bone hore na mong le e mong o bua ka",
             "list": [
                 {
-                    "reviewContent": "DataStorm e moholo. Bonolo, e hloekileng, phethahetse. Hantle mantsoe a entseng.",
+                    "reviewContent": "DataStorm o moholo. Bonolo, e bolokoe e hloekile, ba phethahetse. Hantle mantsoe a entse.",
                     "userName": "evanw",
-                    "professional": "K Molaodi"
+                    "professional": "polokelongtshedimosetso Molaodi"
                 },
                 {
-                    "reviewContent": "DataStorm ke seo ke se etsang hoo e ka bang eohle ea ka e lisebelisoa, sena ke e khōlō nyenyane kōpo ea ka.",
+                    "reviewContent": "DataStorm ke etsa hoo e ka bang tsohle lithulusi tsa ka, sena ke le leholo kopo e nyenyane.",
                     "userName": "Peter Bright",
                     "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Haeba u lokelang ho se etsa ya data sokoloha, DataStorm ke sebele bohlokoa download.",
-                    "userName": "Lifehacker ea",
-                    "professional": "Web ke jwa le bayemi"
+                    "reviewContent": "Haeba u lokela ho etsa ya data sokoloha, DataStorm ke sebele habohlokoa ho Downloading.",
+                    "userName": "Lifehacker a",
+                    "professional": "ke jwa Web le bayemi"
                 },
                 {
-                    "reviewContent": "Ke hlile ke rata DataStorm, o ile a mpha mosebetsi o mongata ho tlisa bonolo.",
+                    "reviewContent": "Ke hlile ke rata DataStorm, mphe sebetsa ho tlisa e ngata bebofalletsa.",
                     "userName": "jeruss",
-                    "professional": "PHP moralo wa ntshetsopele ya"
+                    "professional": "PHP ntshetsopele moralo wa"
                 }
             ]
         }
@@ -65,30 +65,30 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Dipholo tsa CSV - seta separators",
+                "section": "Khumo CSV - sete sekgaoganyi",
                 "videos": [
                     {
-                        "description": "CSV dipholo tsa difaele, CSV delimited beha mokgwa (le ya kamehla: '').",
+                        "description": "CSV difaele khumo di-setting, CSV delimited mokgwa (ya kamehla: \" ').",
                         "url": "livideo / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Dipholo tsa CSV - ea ho beha mofuta o tšimo",
+                "section": "Khumo CSV - ho beha ea tšimo mofuta",
                 "videos": [
                     {
-                        "description": "CSV faele kwalwa, a beha CSV masimong ho ea utloisisa tsela e bonolo.",
+                        "description": "CSV faele khumo, beha masimong CSV ho utloisisa mokhoa bonolo.",
                         "url": "livideo / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Dipholo tsa CSV - ho beha dienjini sebelisa e rarahaneng dintho",
+                "section": "Khumo CSV - Ho beha dienjini sebelisa dintho tse rarahaneng",
                 "videos": [
                     {
-                        "description": "CSV faele kwalwa, beha enjene ho sebetsana le e rarahaneng dintho ho sebelisa e rarahaneng input difaele. Default: Open.",
+                        "description": "CSV faele khumo, beha enjene ho sebetsana dintho tse rarahaneng sebelisa difaele input rarahaneng. Default: Open.",
                         "url": "livideo / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -98,6 +98,19 @@
     "ReleaseNotePage": {
         "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4,19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,11 +174,11 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Pele ho lokolloa"
+                        "content": "lokolloe la pele"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Pele ho lokolloa"
+                        "content": "lokolloe la pele"
                     }
                 ]
             }
@@ -174,6 +187,41 @@
     "VersionPage": {
         "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "How To Buy",
+        "SectionName": "Buy",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Website Available Lipuo",
-        "ChangeAlert": "Ho feletseng fapoha puo"
+        "SectionName": "lipuo Site fumaneha",
+        "ChangeAlert": "Ho switjha puo ho tlatsa"
     }
 }

@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Inici",
-        "Feature": "Característiques",
-        "Documents": "Documentació en línia",
+        "Home": "casa",
+        "Feature": "característiques",
+        "Documents": "Ajuda en línia",
         "ReleaseNotes": "Notes de la versió",
-        "Downloads": "Prova gratuïta",
-        "Buy": "Compra",
-        "Roadmap": "Línia de productes",
-        "ReportIssue": "Edició",
-        "Languages": "Idioma"
+        "Downloads": "de prova gratis",
+        "Buy": "compra",
+        "Roadmap": "línia de productes",
+        "ReportIssue": "Avisa d'un error",
+        "Languages": "idioma"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "La conversió de dades entre diferents formats, suport per a sistemes operatius Windows, Linux i MacOSX.",
-        "BtnDownload": "Prova gratuïta",
-        "BtnBuy": "Compra",
+        "ProjectTagline": "La conversió de dades en diversos formats, suport per a Windows, Linux i el sistema operatiu MacOSX.",
+        "BtnDownload": "de prova gratis",
+        "BtnBuy": "compra",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,38 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Característiques principals del producte",
+            "SectionName": "característiques principals del producte",
             "list": [
-                "Suport per JSON, XML conversió, CSV, plist, INI, els .properties i Yang Ming Marina Transport dades (YAML) d'arxius.",
+                "Suport JSON, XML, CSV convertir, plist, INI, les dades de l'arxiu .properties i Yang Ming d'enviament (YAML).",
                 "Suporta conversió per lots",
-                "Paràmetres de conversió personalitzar Suport",
-                "Suport per al complex maneig d'arxius de dades, especialment la conversió d'arxius CSV a imbricada JSON",
-                "Suport a la conversió a CSV, els camps CSV setembre classificació i ajustos delimitadors",
-                "El suport multi-idioma (usant l'eina TryToTranslate traduir)."
+                "paràmetres de conversió de suport personalitzat",
+                "Donar suport al processament d'arxius de dades complexes, en particular convertidor fet niu arxius JSON a CSV",
+                "Suport a la conversió de CSV, els camps CSV per ordenar i ajustos delimitadors configurats",
+                "Suport multi-idioma (usant l'eina de traducció TryToTranslate)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Fes un cop d'ull al que estem dient",
+            "SectionName": "Mireu el que tothom parla",
             "list": [
                 {
-                    "reviewContent": "Datastorm és gran. Senzill, net, perfecte. Ben fet.",
+                    "reviewContent": "Datastorm és gran. Senzill, net, perfecte. Molt ben fet.",
                     "userName": "evanw",
-                    "professional": "Database Administrator"
+                    "professional": "Administrador de Base de Dades"
                 },
                 {
-                    "reviewContent": "Datastorm és el que faig gairebé totes les meves eines, aquest és un petit gran aplicació.",
+                    "reviewContent": "Datastorm faig gairebé totes les meves eines, aquest és un petit gran aplicació.",
                     "userName": "Peter Bright",
-                    "professional": "Test Engineer"
+                    "professional": "test Engineer"
                 },
                 {
-                    "reviewContent": "Si el que necessita fer la conversió de dades, Datastorm és definitivament val la pena la descàrrega.",
+                    "reviewContent": "Si el que necessita fer la conversió de dades, Datastorm és definitivament val la pena descarregar.",
                     "userName": "Lifehacker de",
                     "professional": "Els desenvolupadors web i dissenyadors"
                 },
                 {
-                    "reviewContent": "M'agrada molt Datastorm, em va donar un munt de treball per dur fàcil.",
+                    "reviewContent": "M'agrada molt Datastorm, dóna'm treball per portar una gran comoditat.",
                     "userName": "jeruss",
-                    "professional": "Desenvolupament framework PHP"
+                    "professional": "el desenvolupament del marc de PHP"
                 }
             ]
         }
@@ -65,30 +65,30 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Sortida CSV - separadors d'ajust",
+                "section": "Sortida CSV - conjunt delimitador",
                 "videos": [
                     {
-                        "description": "Arxius de sortida CSV, CSV delimitat mètode set (per defecte: '').",
+                        "description": "arxius de sortida CSV, ajustaments, CSV delimitats mètode (per defecte: '').",
                         "url": "vídeos / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Sortida CSV - perquè el camp d'ordenació",
+                "section": "CSV de sortida - perquè el camp d'ordenació",
                 "videos": [
                     {
-                        "description": "Sortida del fitxer CSV, estableixi els camps CSV per ordenar d'una manera senzilla.",
+                        "description": "sortida de l'arxiu CSV, estableix els camps CSV per ordenar un mètode senzill.",
                         "url": "vídeos / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Sortida CSV - Marc motors utilitzen objectes complexos",
+                "section": "Sortida CSV - motors d'ajust, empri objectes complexos",
                 "videos": [
                     {
-                        "description": "Sortida del fitxer CSV, estableixi el motor per manejar objectes complexos utilitzant arxius d'entrada complexes. Per defecte: Obert.",
+                        "description": "CSV sortida d'arxiu, configurar el motor per manejar objectes complexos utilitzant arxius d'entrada complexes. Per defecte: obert.",
                         "url": "vídeos / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Llançament",
+        "labelVersion": "alliberament",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Primera versió"
+                        "content": "primera versió"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Primera versió"
+                        "content": "primera versió"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Llançament",
+        "labelVersion": "alliberament",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Com Comprar",
+        "SectionName": "comprar",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Lloc web Idiomes disponibles",
-        "ChangeAlert": "Llenguatge complet interruptor"
+        "SectionName": "Idiomes del lloc disponibles",
+        "ChangeAlert": "Canvi de l'idioma per completar"
     }
 }

@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "בית",
         "Feature": "תכונות",
-        "Documents": "תיעוד מקוון",
-        "ReleaseNotes": "הערות",
-        "Downloads": "ניסיון חינם",
+        "Documents": "עזרה מקוונת",
+        "ReleaseNotes": "הערות מוצר",
+        "Downloads": "נסיון חינם",
         "Buy": "רכישה",
         "Roadmap": "קו מוצרים",
-        "ReportIssue": "נושא",
+        "ReportIssue": "דווח על בעיה",
         "Languages": "שפה"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "המרת נתונים בין פורמטים שונים, תמיכה במערכות הפעלת Windows, Linux ו- MacOSX.",
-        "BtnDownload": "ניסיון חינם",
+        "ProjectTagline": "המרה של נתונים בפורמטים מרובים, תמיכה עבור Windows, Linux ומערכת ההפעלה MacOSX.",
+        "BtnDownload": "נסיון חינם",
         "BtnBuy": "רכישה",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,36 +24,36 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "תכונות עיקריות של מוצר",
+            "SectionName": "תכונות מוצר עיקריות",
             "list": [
-                "התמיכה JSON, XML המרה, CSV, plist, INI, .properties ויאנג מינג הימי תחבורה נתוני קובץ (YAML).",
-                "אצווה המרה תמיכה",
-                "פרמטרים המרה אישית תמיכה",
-                "תמיכה בטיפול בקבצי נתונים מורכב, במיוחד המרת קבצי CSV לתוך JSON המקונן",
-                "תמיכה בהמרה ל- CSV, שדות CSV להגדיר מיון והגדרות מפריד",
-                "תמיכה בריבוי שפות (באמצעות כלי TryToTranslate לתרגם)."
+                "תמיכה JSON, להמיר XML, CSV, plist, INI, .properties משלוח Yangming (YAML) נתונים בקובץ.",
+                "תמיכה אצווה המרה",
+                "תמיכת פרמטרים מרים מותאם אישית",
+                "לתמיכה בעיבוד קובץ נתונים מורכב, קבצי JSON בפרט מקוננות ממירות ל- CSV",
+                "תמיכה בהמרת ל- CSV, שדות CSV למיין והגדרות מפרידות להגדיר",
+                "תמיכה רב-לשונית (באמצעות כלי התרגום TryToTranslate)."
             ]
         },
         "UserReviews": {
-            "SectionName": "תסתכל על מה שאנחנו אומרים",
+            "SectionName": "ראה מה כולם מדברים על",
             "list": [
                 {
-                    "reviewContent": "DataStorm הוא גדול. פשוט, נקי, מושלם. עשה יפה.",
+                    "reviewContent": "DataStorm הוא נהדר. פשוט, נקי, מושלם. עבודה יפה.",
                     "userName": "evanw",
-                    "professional": "מנהל מסד נתונים"
+                    "professional": "מנהל מסדי נתונים"
                 },
                 {
-                    "reviewContent": "DataStorm הוא מה שאני עושה כמעט את כל כלים שלי, זה הוא יישום קטן גדול.",
-                    "userName": "פיטר רייט",
+                    "reviewContent": "DataStorm שאני עושה כמעט את כל הכלים שלי, זה הוא יישום קטן גדול.",
+                    "userName": "פיטר מואר",
                     "professional": "בדיקת מהנדס"
                 },
                 {
-                    "reviewContent": "אם אתה צריך לעשות המרת נתונים, DataStorm הוא בהחלט שווה ההורדה.",
+                    "reviewContent": "אם אתה צריך לעשות המרת נתונים, DataStorm בהחלט שווה הורדה.",
                     "userName": "Lifehacker של",
                     "professional": "מפתחי אינטרנט ומעצבים"
                 },
                 {
-                    "reviewContent": "אני באמת אוהב את DataStorm, נתתי לי הרבה עבודה כדי להביא קל.",
+                    "reviewContent": "אני ממש אוהב DataStorm, תן לי לעבוד כדי להביא הרבה נוחות.",
                     "userName": "jeruss",
                     "professional": "פיתוח במסגרת PHP"
                 }
@@ -65,21 +65,21 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "פלט CSV - מפרידי סט",
+                "section": "CSV פלט - מפריד סט",
                 "videos": [
                     {
-                        "description": "קבצי פלט CSV, CSV מופרד להגדיר שיטה (ברירת מחדל: '').",
-                        "url": "קטעי וידאו / מסמכים / it2csv_separator.mp4"
+                        "description": "קבצי פלט CSV, הגדרות, CSV מופרד שיטה (ברירת מחדל: '').",
+                        "url": "קטעי וידאו / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "פלט CSV - כדי להגדיר את שדה הסוג",
+                "section": "CSV יציאה - כדי להגדיר את השדה מיין",
                 "videos": [
                     {
-                        "description": "פלט קובץ CSV, הגדר את שדות CSV כדי למיין דרך פשוטה.",
-                        "url": "קטעי וידאו / מסמכים / it2csv_sortFields.mp4"
+                        "description": "פלט קובץ CSV, הגדר את השדות CSV למיין שיטה פשוטה.",
+                        "url": "קטעי וידאו / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
@@ -88,8 +88,8 @@
                 "section": "פלט CSV - מנועי הגדרת שימוש באובייקטים מורכבים",
                 "videos": [
                     {
-                        "description": "פלט קובץ CSV, להגדיר את המנוע כדי לטפל באובייקטים מורכבים תוך שימוש בקבצי קלט מורכבים. ברירת מחדל: להרחיב.",
-                        "url": "קטעי וידאו / מסמכים / it2csv_useComplexJSONEngine.mp4"
+                        "description": "פלט קובץ CSV, הגדר את המנוע לטפל אובייקטים מורכבים באמצעות קבצי קלט מורכבים. ברירת מחדל: פתח.",
+                        "url": "קטעי וידאו / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
@@ -98,6 +98,19 @@
     "ReleaseNotePage": {
         "labelVersion": "שחרור",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,11 +174,11 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "גרסה הראשונה"
+                        "content": "מהדורה ראשונה"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "גרסה הראשונה"
+                        "content": "מהדורה ראשונה"
                     }
                 ]
             }
@@ -174,6 +187,41 @@
     "VersionPage": {
         "labelVersion": "שחרור",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "איך קונה",
+        "SectionName": "קנה",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "שפות זמינות באתר האינטרנט",
-        "ChangeAlert": "שפת מתג מלאה"
+        "SectionName": "שפות אתר זמינות",
+        "ChangeAlert": "החלפת שפה כדי להשלים"
     }
 }

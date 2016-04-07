@@ -1,18 +1,18 @@
 {
     "TopBar": {
-        "Home": "హోం",
+        "Home": "హోమ్",
         "Feature": "ఫీచర్స్",
-        "Documents": "ఆన్లైన్ డాక్యుమెంటేషన్",
+        "Documents": "ఆన్లైన్ సహాయం",
         "ReleaseNotes": "విడుదల గమనికలు",
         "Downloads": "ఉచిత ట్రయల్",
         "Buy": "కొనుగోలు",
         "Roadmap": "ఉత్పత్తి లైన్",
-        "ReportIssue": "ఇష్యూ",
+        "ReportIssue": "ఒక సమస్యను నివేదించండి",
         "Languages": "భాషా"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "వివిధ ఫార్మాట్లలో మధ్య డేటా మార్పిడి, Windows, Linux మరియు MacOSX ఆపరేటింగ్ వ్యవస్థలు మద్దతు.",
+        "ProjectTagline": "బహుళ ఫార్మాట్లలో, విండోస్, లినక్స్ మరియు MacOSX ఆపరేటింగ్ సిస్టమ్ కోసం మద్దతుగా డేటా మార్పిడి.",
         "BtnDownload": "ఉచిత ట్రయల్",
         "BtnBuy": "కొనుగోలు",
         "Screens": [
@@ -26,34 +26,34 @@
         "Features": {
             "SectionName": "ఉత్పత్తి ప్రధాన లక్షణాలు",
             "list": [
-                "JSON, మార్పిడి XML, CSV, plist, INI, .గుణాలు మరియు యాంగ్ మింగ్ సముద్ర రవాణా (YAML) ఫైల్ డేటా తోడ్పాటు.",
+                "మద్దతు JSON, XML, CSV plist, INI, .గుణాలు మరియు యన్గ్మింగ్ షిప్పింగ్ (YAML) ఫైల్ డేటా మార్చేందుకు.",
                 "మద్దతు బ్యాచ్ మార్పిడి",
-                "మద్దతు అనుకూలీకరించు మార్పిడి పారామితులు",
-                "ముఖ్యంగా సమూహ JSON లోకి CSV ఫైళ్లు మార్చడానికి క్లిష్టమైన డేటా ఫైలు నిర్వహణ కోసం మద్దతు",
-                "మద్దతు, CSV మారటం CSV ఖాళీలను సార్టింగ్ మరియు డీలిమిటర్ అమర్పులను సెట్",
-                "బహుళ భాషా మద్దతు (అనువదించడానికి TryToTranslate సాధనం ఉపయోగించి)."
+                "మద్దతు అనుకూలీకరించిన మార్పిడి పారామితులు",
+                "CSV కి ప్రత్యేక కన్వర్టర్ యున్న JSON ఫైళ్లు లో, క్లిష్టమైన సమాచార ఫైల్ ప్రాసెసింగ్ మద్దతు",
+                "CSV, CSV ఖాళీలను మారటం మద్దతు క్రమం మరియు డీలిమిటర్ సెట్టింగ్లు సెట్",
+                "బహుళ భాషా మద్దతు (TryToTranslate అనువాదం సాధనం ఉపయోగించి)."
             ]
         },
         "UserReviews": {
-            "SectionName": "మేము ఏమి పరిశీలించి",
+            "SectionName": "ప్రతి ఒక్కరూ గురించి మాట్లాడుతున్నారో చూడండి",
             "list": [
                 {
-                    "reviewContent": "DataStorm బాగుంది. పరిపూర్ణ, శుభ్రంగా, సాధారణ. చక్కగా పూర్తి.",
+                    "reviewContent": "DataStorm బాగుంది. పరిపూర్ణ, సాధారణ శుభ్రంగా. చక్కగా పూర్తి.",
                     "userName": "evanw",
                     "professional": "డేటాబేస్ అడ్మినిస్ట్రేటర్"
                 },
                 {
-                    "reviewContent": "DataStorm, ఈ గొప్ప కొద్దిగా అప్లికేషన్ నేను దాదాపు అన్ని నా టూల్స్ ఉంది.",
+                    "reviewContent": "DataStorm నేను దాదాపు అన్ని నా పనిముట్లు దీన్ని, ఈ ఒక గొప్ప కొద్దిగా అప్లికేషన్.",
                     "userName": "పీటర్ బ్రైట్",
-                    "professional": "టెస్ట్ Engineer"
+                    "professional": "టెస్ట్ ఇంజనీర్"
                 },
                 {
                     "reviewContent": "మీరు డేటా మార్పిడి చేయడానికి అవసరం ఉంటే, DataStorm ఖచ్చితంగా డౌన్లోడ్ విలువ.",
-                    "userName": "Lifehacker యొక్క",
+                    "userName": "లైఫ్హ్యాకర్ యొక్క",
                     "professional": "వెబ్ డెవలపర్లు మరియు డిజైనర్లు"
                 },
                 {
-                    "reviewContent": "నేను నిజంగా DataStorm వంటి, సులభంగా తీసుకుని నాకు పని చాలా ఇచ్చింది.",
+                    "reviewContent": "నేను నిజంగా DataStorm వలె నా సౌలభ్యం చాలా తీసుకుని పని ఇవ్వాలని.",
                     "userName": "jeruss",
                     "professional": "PHP ఫ్రేమ్ అభివృద్ధి"
                 }
@@ -65,10 +65,10 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "అవుట్పుట్ CSV - సెట్ వేరు",
+                "section": "అవుట్పుట్ CSV - సెట్ డీలిమిటర్",
                 "videos": [
                     {
-                        "description": "CSV అవుట్పుట్ ఫైళ్లు, CSV పద్ధతి సెట్ పరిమితమయ్యే (డిఫాల్ట్: '').",
+                        "description": "CSV అవుట్పుట్ ఫైళ్లు, సెట్టింగులు, CSV (: 'డిఫాల్ట్) పద్దతి వేరు.",
                         "url": "వీడియోలను / డాక్స్ / it2csv_separator.mp4"
                     }
                 ]
@@ -78,17 +78,17 @@
                 "section": "అవుట్పుట్ CSV - విధమైన రంగంలో సెట్",
                 "videos": [
                     {
-                        "description": "CSV ఫైల్ అవుట్పుట్, ఒక సాధారణ మార్గం క్రమం CSV ఖాళీలను సెట్.",
+                        "description": "CSV ఫైల్ అవుట్పుట్, ఒక సాధారణ పద్ధతి క్రమం కు CSV ఖాళీలను సెట్.",
                         "url": "వీడియోలను / డాక్స్ / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "అవుట్పుట్ CSV - సెట్టింగు ఇంజిన్లు క్లిష్టమైన వస్తువులు ఉపయోగించడానికి",
+                "section": "అవుట్పుట్ CSV - చేస్తోంది ఇంజిన్లు క్లిష్టమైన వస్తువులు ఉపయోగించడానికి",
                 "videos": [
                     {
-                        "description": "CSV ఫైలు అవుట్పుట్, క్లిష్టమైన ఇన్పుట్ ఫైళ్లు ఉపయోగించి క్లిష్టమైన వస్తువులు నిర్వహించడానికి ఇంజిన్ సెట్. డిఫాల్ట్: తెరువు.",
+                        "description": "CSV ఫైల్ అవుట్పుట్, క్లిష్టమైన ఇన్పుట్ ఫైళ్లు ఉపయోగించి క్లిష్టమైన వస్తువులు నిర్వహించడానికి ఇంజిన్ సెట్. డిఫాల్ట్: తెరవండి.",
                         "url": "వీడియోలను / డాక్స్ / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -98,6 +98,19 @@
     "ReleaseNotePage": {
         "labelVersion": "విడుదల",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -174,6 +187,41 @@
     "VersionPage": {
         "labelVersion": "విడుదల",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "కొనుగోలు ఎలా",
+        "SectionName": "కొనుగోలు",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "వెబ్సైట్ అందుబాటులోని భాషలు",
-        "ChangeAlert": "పూర్తి స్విచ్ భాష"
+        "SectionName": "అందుబాటులో సైటు భాషలు",
+        "ChangeAlert": "పూర్తి భాష మారినప్పుడు"
     }
 }

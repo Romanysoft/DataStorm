@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Үй",
-        "Feature": "Ерекшеліктері",
-        "Documents": "Онлайн құжаттама",
+        "Home": "үй",
+        "Feature": "ерекшеліктері",
+        "Documents": "Онлайн анықтама",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Тегін Trial",
-        "Buy": "Сатып алу",
+        "Buy": "сатып алу",
         "Roadmap": "Өнім желісі",
-        "ReportIssue": "Мәселе",
-        "Languages": "Тіл"
+        "ReportIssue": "Мәселе туралы хабарлау",
+        "Languages": "тіл"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Түрлі форматтағы, Windows, Linux және MacOSX амалдық жүйелеріне арналған қолдау арасындағы деректер түрлендіру.",
+        "ProjectTagline": "бірнеше форматта деректер Айырбастау, Windows, Linux және MacOSX операциялық жүйесі үшін қолдау.",
         "BtnDownload": "Тегін Trial",
-        "BtnBuy": "Сатып алу",
+        "BtnBuy": "сатып алу",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -26,36 +26,36 @@
         "Features": {
             "SectionName": "Өнім негізгі белгілері",
             "list": [
-                "JSON, түрлендіру XML, CSV, PLIST, INI, .properties және Ян Мин Теңіз көлігі (YAML) файл деректер қолдау.",
+                "Қолдау JSON, XML, CSV, PLIST, INI, .properties және Yangming Жеткізу (YAML) файл мәліметтерін түрлендіру.",
                 "Қолдау пакеттік айырбастау",
-                "Қолдау теңшеу айырбастау параметрлері",
-                "Әсіресе енгізілген JSON ішіне CSV файлдарын айырбастау күрделі деректер файлы өңдеу қолдау,",
-                "CSV түрлендіру қолдау, CSV өріс сұрыптау орнатуға және бөлгіш параметрлері",
-                "(Аудару TryToTranslate құралын пайдалану арқылы) Бірнеше тілді қолдау."
+                "Теңшелген айырбастау параметрлерін қолдау",
+                "күрделі деректер файлы өңдеуді қолдау, атап айтқанда, түрлендіргішті CSV үшін JSON файлдарын салынған",
+                "бөлгіш параметрлерін сұрыптау және орнату үшін CSV, CSV өрістерге түрлендіру қолдау",
+                "(TryToTranslate аударма құралын пайдаланып) Бірнеше тілді қолдау."
             ]
         },
         "UserReviews": {
-            "SectionName": "Біз айтып көзқараспен",
+            "SectionName": "әркім туралы айтып қандай қараңыз",
             "list": [
                 {
-                    "reviewContent": "DataStorm үлкен. Қарапайым, таза, тамаша. Жақсы жасаған.",
+                    "reviewContent": "DataStorm зор. Қарапайым, таза, тамаша. Жақсы жасаған.",
                     "userName": "evanw",
                     "professional": "Дерекқор әкімшісі"
                 },
                 {
-                    "reviewContent": "DataStorm Мен барлық дерлік менің құралдарды не істеу, бұл үлкен кішкентай қолдану болып табылады.",
+                    "reviewContent": "DataStorm Мен барлық дерлік менің құралдары істеу, бұл үлкен кішкентай бағдарлама болып табылады.",
                     "userName": "Питер Bright",
                     "professional": "Test инженері"
                 },
                 {
-                    "reviewContent": "Деректер қайта жасауға қажет болса, DataStorm сөзсіз жүктеу тұр.",
+                    "reviewContent": "Егер сіз деректерді түрлендіру істеу керек болса, DataStorm сөзсіз жүктеу тұр.",
                     "userName": "Lifehacker ның",
                     "professional": "Веб әзірлеушілер мен дизайнерлер"
                 },
                 {
-                    "reviewContent": "Мен шынында DataStorm сияқты, жеңіл алып маған үлкен жұмыс берді.",
+                    "reviewContent": "Мен шынында DataStorm сияқты, маған ыңғайлы көп әкелуге жұмыс істейді береді.",
                     "userName": "jeruss",
-                    "professional": "PHP база дамыту"
+                    "professional": "PHP Framework дамыту"
                 }
             ]
         }
@@ -65,20 +65,20 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Шығыс CSV - жиынтығы сепараторлар",
+                "section": "Шығыс CSV - орнату бөлгіш",
                 "videos": [
                     {
-                        "description": "CSV файлдар, CSV орнату әдісін (әдепкі: '') бөлінген.",
+                        "description": "CSV файлдар, параметрлер, CSV әдісін (әдепкі: '') бөлінген.",
                         "url": "бейнелер / Docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Шығыс CSV - сұрыптау өріс орнату үшін",
+                "section": "Шығыс CSV - сұрыптау өрісін орнату үшін",
                 "videos": [
                     {
-                        "description": "CSV файлы шығару, қарапайым жолын сұрыптау үшін CSV өрістерін орнатыңыз.",
+                        "description": "CSV файлы шығару, қарапайым әдісін сұрыптау үшін CSV өрістерді орнату.",
                         "url": "бейнелер / Docs / it2csv_sortFields.mp4"
                     }
                 ]
@@ -88,7 +88,7 @@
                 "section": "Шығыс CSV - орнату қозғалтқыштар кешені объектілерін пайдалануға",
                 "videos": [
                     {
-                        "description": "CSV файлы шығу, күрделі Кіріс файлдарды пайдаланып күрделі нысандарды өңдеуге қозғалтқыш орнатылған. Әдепкі: Ашық.",
+                        "description": "CSV файлы шығу, күрделі Кіріс файлдарды пайдаланып күрделі нысандарды өңдеуге қозғалтқышты орнату. Әдепкі: Ашық.",
                         "url": "бейнелер / Docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Босату",
+        "labelVersion": "босату",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -172,8 +185,43 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Босату",
+        "labelVersion": "босату",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Қалай сатып",
+        "SectionName": "сатып",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Сайт Бар тілдері",
-        "ChangeAlert": "Толық қосқыш тілі"
+        "SectionName": "Қол жетімді тілдер Сайт",
+        "ChangeAlert": "аяқтау үшін тілді ауысу"
     }
 }

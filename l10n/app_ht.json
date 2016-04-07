@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "Kay",
         "Feature": "Karakteristik",
-        "Documents": "Online Dokimantasyon",
-        "ReleaseNotes": "Release Nòt",
-        "Downloads": "Gratis Jijman",
+        "Documents": "En jwèt ede",
+        "ReleaseNotes": "Nòt Release",
+        "Downloads": "gratis jijman",
         "Buy": "Achte",
-        "Roadmap": "Liy pwodwi",
-        "ReportIssue": "Nimewo",
+        "Roadmap": "pwodwi liy",
+        "ReportIssue": "Rapòte yon pwoblèm",
         "Languages": "Lang"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Done konvèsyon ant fòma divès kalite, sipò pou Windows, Linux ak makoo sistèm opere.",
-        "BtnDownload": "Gratis Jijman",
+        "ProjectTagline": "Konvèsyon nan done nan fòma miltip, sipò pou Windows, Linux ak sistèm opere makoo.",
+        "BtnDownload": "gratis jijman",
         "BtnBuy": "Achte",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -26,36 +26,36 @@
         "Features": {
             "SectionName": "Pwodwi karakteristik prensipal",
             "list": [
-                "Sipò pou JSON, XML konvèsyon, CSV, plist, INI, .Pwopriyete yo ak Yang Ming Marin transpò done (YAML) dosye-a.",
+                "Sipò JSON, konvèti XML, CSV, plist, INI, .Pwopriyete yo ak Yangming Shipping (YAML) done dosye-a.",
                 "Sipò konvèsyon pakèt",
-                "Sipò paramèt konvèsyon Customize",
-                "Sipò pou konplèks manyen dosye done, espesyalman konvèti CSV dosye nan enbrike JSON",
-                "Sipò konvèti CSV, CSV jaden yo mete klasman ak anviwònman delimiteur",
-                "Sipò Multi-lang (lè l sèvi avèk zouti TryToTranslate li tradui)."
+                "Sipò Customized paramèt konvèsyon",
+                "Sipòte konplèks pwosesis dosye done, an patikilye konvètisè pare solèy dosye JSON CSV",
+                "Sipò konvèti CSV, CSV jaden yo sòt, li mete anviwònman delimiteur",
+                "sipò Nan plizyè lang (lè l sèvi avèk TryToTranslate zouti tradiksyon)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Pran yon gade nan ki sa nou ap di",
+            "SectionName": "Wè sa ki tout moun ap pale de",
             "list": [
                 {
                     "reviewContent": "DataStorm se gwo. Senp, pwòp, pafè. Joliman fè.",
                     "userName": "evanw",
-                    "professional": "Administratè baz done"
+                    "professional": "Database Administratè"
                 },
                 {
-                    "reviewContent": "DataStorm se sa m 'fè prèske tout zouti mwen, sa a se yon gwo aplikasyon ti kras.",
+                    "reviewContent": "DataStorm m 'fè prèske tout zouti m' yo, sa a se yon aplikasyon gwo ti kras.",
                     "userName": "Pyè Bright",
                     "professional": "Tès Engineer"
                 },
                 {
-                    "reviewContent": "Si ou bezwen fè done konvèsyon, DataStorm se definitivman vo download la.",
-                    "userName": "Lifehacker la",
-                    "professional": "Devlopè Web ak Designers"
+                    "reviewContent": "Si ou bezwen fè done konvèsyon, DataStorm se definitivman vo Téléchargez.",
+                    "userName": "Lifehacker a",
+                    "professional": "devlopè entènèt ak Designers"
                 },
                 {
-                    "reviewContent": "Mwen vrèman renmen DataStorm, te ban m 'yon anpil nan travay yo pote fasil.",
+                    "reviewContent": "Mwen vrèman renmen DataStorm, ban m 'travay yo pote yon anpil nan konvenyans.",
                     "userName": "jeruss",
-                    "professional": "PHP devlopman fondasyon"
+                    "professional": "PHP fondasyon devlopman"
                 }
             ]
         }
@@ -65,30 +65,30 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Sòti CSV - mete separateur",
+                "section": "Sòti CSV - mete delimiteur",
                 "videos": [
                     {
-                        "description": "CSV dosye pwodiksyon, CSV séparer mete metòd (default: '').",
+                        "description": "CSV dosye pwodiksyon, anviwònman, CSV séparer metòd (default: '').",
                         "url": "videyo / Doc / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Sòti CSV - yo mete nan sòt jaden",
+                "section": "Sòti CSV - yo mete jaden an sòt",
                 "videos": [
                     {
-                        "description": "CSV pwodiksyon dosye, mete jaden yo CSV sòt yon fason ki senp.",
+                        "description": "CSV pwodiksyon dosye, mete jaden yo CSV sòt yon metòd senp.",
                         "url": "videyo / Doc / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Sòti CSV - mete motè sèvi ak objè konplèks",
+                "section": "Sòti CSV - Mete motè sèvi ak objè konplèks",
                 "videos": [
                     {
-                        "description": "CSV pwodiksyon dosye, mete motè a okipe objè konplèks lè l sèvi avèk dosye D 'konplèks. Default: Louvri.",
+                        "description": "CSV pwodiksyon dosye, mete motè a okipe objè konplèks lè l sèvi avèk dosye D 'konplèks. Default: Open.",
                         "url": "videyo / Doc / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -98,6 +98,19 @@
     "ReleaseNotePage": {
         "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -174,6 +187,41 @@
     "VersionPage": {
         "labelVersion": "Release",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Kijan Pou Achte",
+        "SectionName": "Achte",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Sit wèb Lang ki disponib",
-        "ChangeAlert": "Ranpli ak lang switch"
+        "SectionName": "Sit Lang ki disponib",
+        "ChangeAlert": "Oblije chanje ak lang ranpli"
     }
 }

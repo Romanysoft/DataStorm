@@ -2,17 +2,17 @@
     "TopBar": {
         "Home": "บ้าน",
         "Feature": "คุณสมบัติ",
-        "Documents": "เอกสารออนไลน์",
-        "ReleaseNotes": "หมายเหตุรีลีส",
+        "Documents": "ความช่วยเหลือออนไลน์",
+        "ReleaseNotes": "บันทึกประจำรุ่น",
         "Downloads": "ทดลองใช้ฟรี",
         "Buy": "ซื้อ",
         "Roadmap": "สายผลิตภัณฑ์",
-        "ReportIssue": "ปัญหา",
+        "ReportIssue": "รายงานปัญหา",
         "Languages": "ภาษา"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "การแปลงข้อมูลระหว่างรูปแบบต่างๆ, การสนับสนุนสำหรับ Windows, Linux และระบบปฏิบัติการ MacOSX",
+        "ProjectTagline": "การแปลงข้อมูลในรูปแบบต่างๆ, การสนับสนุนสำหรับ Windows, Linux และระบบปฏิบัติการ MacOSX",
         "BtnDownload": "ทดลองใช้ฟรี",
         "BtnBuy": "ซื้อ",
         "Screens": [
@@ -26,16 +26,16 @@
         "Features": {
             "SectionName": "คุณสมบัติหลักสินค้า",
             "list": [
-                "การสนับสนุนสำหรับ JSON, XML แปลง, CSV, plist, INI, .properties และหยางหมิงการขนส่งทางทะเล (YAML) แฟ้มข้อมูล",
+                "สนับสนุน JSON, แปลง XML, CSV plist, INI ที่ .properties และ Yangming การจัดส่งสินค้า (YAML) ไฟล์ข้อมูล",
                 "การแปลงชุดสนับสนุน",
-                "การสนับสนุนการปรับแต่งพารามิเตอร์การแปลง",
-                "การสนับสนุนสำหรับการจัดการไฟล์ข้อมูลที่ซับซ้อนโดยเฉพาะอย่างยิ่งการแปลงไฟล์ CSV เข้าซ้อนกัน JSON",
-                "สนับสนุนการแปลงไปยัง CSV เขตข้อมูล CSV ตั้งเรียงลำดับและการตั้งค่าตัวคั่น",
-                "การสนับสนุนหลายภาษา (ใช้เครื่องมือ TryToTranslate การแปล)"
+                "สนับสนุนการปรับแต่งพารามิเตอร์แปลง",
+                "สนับสนุนการประมวลผลไฟล์ข้อมูลที่ซับซ้อนโดยเฉพาะในแปลงไฟล์ซ้อน JSON เพื่อ CSV",
+                "สนับสนุนการแปลงไปยัง CSV เขตข้อมูล CSV เพื่อจัดเรียงและตั้งค่าตัวคั่น",
+                "การสนับสนุนหลายภาษา (โดยใช้เครื่องมือแปลภาษา TryToTranslate)"
             ]
         },
         "UserReviews": {
-            "SectionName": "ลองดูที่สิ่งที่เราพูด",
+            "SectionName": "ดูสิ่งที่ทุกคนพูดถึง",
             "list": [
                 {
                     "reviewContent": "DataStorm เป็นที่ดี เรียบง่ายสะอาดที่สมบูรณ์แบบ ทำอย่าง",
@@ -43,19 +43,19 @@
                     "professional": "ผู้ดูแลระบบฐานข้อมูล"
                 },
                 {
-                    "reviewContent": "DataStorm คือสิ่งที่ผมทำเกือบทุกเครื่องมือของฉันนี้เป็นโปรแกรมที่มีน้อยมาก",
+                    "reviewContent": "DataStorm ฉันทำเกือบทุกเครื่องมือของฉันนี้เป็นโปรแกรมที่น้อยมาก",
                     "userName": "ปีเตอร์สดใส",
                     "professional": "วิศวกรทดสอบ"
                 },
                 {
-                    "reviewContent": "ถ้าคุณต้องการที่จะทำแปลงข้อมูล DataStorm เป็นมั่นเหมาะมูลค่าการดาวน์โหลด",
+                    "reviewContent": "หากคุณต้องการที่จะทำแปลงข้อมูล DataStorm เป็นมั่นเหมาะมูลค่าการดาวน์โหลด",
                     "userName": "Lifehacker ของ",
                     "professional": "นักพัฒนาเว็บและนักออกแบบ"
                 },
                 {
-                    "reviewContent": "ผมชอบ DataStorm ให้ฉันทำงานมากที่จะนำมาง่าย",
+                    "reviewContent": "ผมชอบ DataStorm ให้ฉันทำงานเพื่อนำความสะดวกสบายมาก",
                     "userName": "jeruss",
-                    "professional": "PHP การพัฒนากรอบ"
+                    "professional": "การพัฒนากรอบ PHP"
                 }
             ]
         }
@@ -65,30 +65,30 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "CSV ออก - แยกชุด",
+                "section": "เอาท์พุท CSV - ชุดคั่น",
                 "videos": [
                     {
-                        "description": "CSV ไฟล์ที่ส่งออก, CSV คั่นวิธีการตั้งค่า (ค่าเริ่มต้น: '')",
+                        "description": "ไฟล์ที่ส่งออก CSV, การตั้งค่า, CSV คั่นด้วยวิธีการ (ค่าเริ่มต้น: '')",
                         "url": "วิดีโอ / เอกสาร / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "CSV การส่งออก - เพื่อตั้งเขตการจัดเรียง",
+                "section": "เอาท์พุท CSV - เพื่อตั้งข้อมูลการจัดเรียง",
                 "videos": [
                     {
-                        "description": "CSV การส่งออกไฟล์ CSV ตั้งสาขาในการจัดเรียงเป็นวิธีที่ง่าย",
+                        "description": "CSV ไฟล์ที่ส่งออกตั้งเขต CSV เพื่อจัดเรียงวิธีการที่ง่าย",
                         "url": "วิดีโอ / เอกสาร / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "CSV ออก - เครื่องมือการตั้งค่าการใช้วัตถุที่ซับซ้อน",
+                "section": "เอาท์พุท CSV - เครื่องมือการตั้งค่าใช้วัตถุที่ซับซ้อน",
                 "videos": [
                     {
-                        "description": "การส่งออกไฟล์ CSV ตั้งเครื่องมือในการจัดการกับวัตถุที่ซับซ้อนโดยใช้ไฟล์ข้อมูลที่ซับซ้อน เริ่มต้น: เปิด",
+                        "description": "CSV ไฟล์ที่ส่งออกตั้งเครื่องมือในการจัดการกับวัตถุที่ซับซ้อนโดยใช้ไฟล์ข้อมูลที่ซับซ้อน เริ่มต้น: เปิด",
                         "url": "วิดีโอ / เอกสาร / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ที่วางจำหน่าย",
+        "labelVersion": "ปล่อย",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "รุ่นแรก"
+                        "content": "เปิดตัวครั้งแรก"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "รุ่นแรก"
+                        "content": "เปิดตัวครั้งแรก"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "ที่วางจำหน่าย",
+        "labelVersion": "ปล่อย",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "วิธีการซื้อ",
+        "SectionName": "ซื้อ",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ภาษา Available เว็บไซต์",
-        "ChangeAlert": "ภาษาสวิทช์ที่สมบูรณ์"
+        "SectionName": "ภาษาเว็บไซต์ที่มีอยู่",
+        "ChangeAlert": "การสลับภาษาที่จะเสร็จสมบูรณ์"
     }
 }

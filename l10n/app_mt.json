@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Home",
-        "Feature": "Karatteristiċi",
-        "Documents": "Dokumentazzjoni Online",
+        "Home": "home",
+        "Feature": "karatteristiċi",
+        "Documents": "online Għajnuna",
         "ReleaseNotes": "Noti Rilaxx",
         "Downloads": "Free Trial",
-        "Buy": "Xiri",
-        "Roadmap": "Linja Prodott",
-        "ReportIssue": "Ħruġ",
-        "Languages": "Lingwa"
+        "Buy": "xiri",
+        "Roadmap": "linja tal-prodott",
+        "ReportIssue": "Rapport problema",
+        "Languages": "lingwa"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Data ta 'konverżjoni bejn formati differenti, l-appoġġ għall-Windows, Linux u MacOSX sistemi operattivi.",
+        "ProjectTagline": "Konverżjoni ta 'data fil-formati multipli, l-appoġġ għall-Windows, Linux u sistema operattiva MacOSX.",
         "BtnDownload": "Free Trial",
-        "BtnBuy": "Xiri",
+        "BtnBuy": "xiri",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -26,36 +26,36 @@
         "Features": {
             "SectionName": "Karatteristiċi ewlenin tal-prodott",
             "list": [
-                "Appoġġ għall JSON, XML konverżjoni, CSV, PLIST, INI, il .properties u Yang Ming Trasport Marittimu data (YAML) fajl.",
-                "Konverżjoni tal-lott appoġġ",
-                "Parametri ta 'konverżjoni customize appoġġ",
-                "Appoġġ għall-kumpless immaniġġjar fajl tad-data, speċjalment konverżjoni fajls CSV fis nested JSON",
-                "Appoġġ konverżjoni għall CSV, oqsma CSV stabbilit issortjar u settings delimiter",
-                "Appoġġ Multi-lingwa (użu għodda TryToTranslate biex tittraduċi)."
+                "Appoġġ JSON, jikkonvertu XML, CSV, PLIST, INI, il .properties u Yangming Bastimenti (YAML) fajl tad-data.",
+                "konverżjoni tal-lott Appoġġ",
+                "Appoġġ apposta parametri ta 'konverżjoni",
+                "Appoġġ għall-kumpless ipproċessar fajl tad-data, b'mod partikolari konvertitur nested fajls JSON lill CSV",
+                "Appoġġ konverżjoni għall CSV, oqsma CSV biex issolvi u settings delimetru stabbiliti",
+                "appoġġ multi-lingwistiku (bl-użu għodda ta 'traduzzjoni TryToTranslate)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Agħti ħarsa lejn dak li qed tgħid",
+            "SectionName": "Ara dak li kulħadd qed jitkellem dwar",
             "list": [
                 {
                     "reviewContent": "DataStorm hija kbira. Sempliċi, nadif, perfetta. Nicely jsir.",
                     "userName": "evanw",
-                    "professional": "Database Amministratur"
+                    "professional": "database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm huwa dak I do kważi l-għodod tiegħi, dan huwa ftit applikazzjoni kbir.",
+                    "reviewContent": "DataStorm I do kważi kollha għodod tiegħi, din hija applikazzjoni ftit kbir.",
                     "userName": "Peter Bright",
-                    "professional": "Inġinier tat-test"
+                    "professional": "test Inġinier"
                 },
                 {
-                    "reviewContent": "Jekk għandek bżonn tagħmel konverżjoni tad-data, DataStorm huwa definittivament jiswew il-download.",
-                    "userName": "Tal Lifehacker",
+                    "reviewContent": "Jekk għandek bżonn tagħmel data ta 'konverżjoni, DataStorm huwa definittivament jiswew tniżżil.",
+                    "userName": "Lifehacker s",
                     "professional": "Web iżviluppaturi u disinjaturi"
                 },
                 {
-                    "reviewContent": "I really simili DataStorm, tatni ħafna xogħol biex iġibu faċli.",
+                    "reviewContent": "I really simili DataStorm, agħti lili jaħdmu biex iġibu ħafna ta 'konvenjenza.",
                     "userName": "jeruss",
-                    "professional": "Iżvilupp qafas PHP"
+                    "professional": "PHP iżvilupp qafas"
                 }
             ]
         }
@@ -65,30 +65,30 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Output CSV - separaturi stabbiliti",
+                "section": "Output CSV - delimetru sett",
                 "videos": [
                     {
-                        "description": "Fajls produzzjoni CSV, CSV delimitat metodu ddefinit (default: \"\").",
+                        "description": "CSV fajls produzzjoni, l-issettjar, CSV delimitat Metodu (default: '').",
                         "url": "videos / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Output CSV - li tiffissa l-kamp tip",
+                "section": "Output CSV - li jiġu stabbiliti l-kamp tip",
                 "videos": [
                     {
-                        "description": "Output fajl CSV, jistabbilixxu l-oqsma CSV biex issolvi mod sempliċi.",
+                        "description": "produzzjoni CSV, jistabbilixxu l-oqsma CSV biex issolvi metodu sempliċi.",
                         "url": "videos / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Output CSV - magni li jistabbilixxu l-użu oġġetti kumplessi",
+                "section": "Output CSV - magni Twaqqif jużaw oġġetti kumplessi",
                 "videos": [
                     {
-                        "description": "Output fajl CSV, tistabbilixxi l-magna biex jimmaniġġaw oġġetti kumplessi li jużaw fajls input kumplessi. Default: Open.",
+                        "description": "produzzjoni CSV, tistabbilixxi l-magna biex jimmaniġġaw oġġetti kumplessi li jużaw fajls input kumplessi. Default: Open.",
                         "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Rilaxx",
+        "labelVersion": "rilaxx",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Ewwel ħruġ"
+                        "content": "ewwel ħruġ"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Ewwel ħruġ"
+                        "content": "ewwel ħruġ"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Rilaxx",
+        "labelVersion": "rilaxx",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Kif To Buy",
+        "SectionName": "Buy",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Website Lingwi disponibbli",
-        "ChangeAlert": "Lingwa swiċċ Tlesti"
+        "SectionName": "lingwi Site disponibbli",
+        "ChangeAlert": "lingwa Qlib biex jitlesta"
     }
 }

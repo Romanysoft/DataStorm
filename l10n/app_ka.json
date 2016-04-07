@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "მთავარი",
         "Feature": "მახასიათებლები",
-        "Documents": "ონლაინ დოკუმენტაცია",
+        "Documents": "ონლაინ დახმარება",
         "ReleaseNotes": "გამოშვების შენიშვნები",
         "Downloads": "უფასო Trial",
-        "Buy": "ნასყიდობის",
+        "Buy": "შეძენა",
         "Roadmap": "პროდუქციის ხაზი",
-        "ReportIssue": "Issue",
+        "ReportIssue": "ანგარიშს პრობლემა",
         "Languages": "ენა"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "მონაცემთა კონვერტაციის შორის სხვადასხვა ფორმატებში, მხარდაჭერა Windows, Linux და MacOSX ოპერაციული სისტემები.",
+        "ProjectTagline": "კონვერტაციის მონაცემების სხვადასხვა ფორმატში, მხარდაჭერა Windows, Linux და MacOSX ოპერაციული სისტემა.",
         "BtnDownload": "უფასო Trial",
-        "BtnBuy": "ნასყიდობის",
+        "BtnBuy": "შეძენა",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -26,16 +26,16 @@
         "Features": {
             "SectionName": "პროდუქტის ძირითადი მახასიათებლები",
             "list": [
-                "მხარდაჭერა JSON, კონვერტაციის XML, CSV, plist, INI, რომ .თვისებების და ახალგაზრდა Ming საზღვაო ტრანსპორტის (YAML) ფაილის მონაცემების.",
+                "მხარდაჭერა JSON, კონვერტირება XML, CSV, plist, INI, რომ .თვისებების და Yangming გადაზიდვები (YAML) ფაილის მონაცემების.",
                 "მხარდაჭერა სურათების კონვერტაცია",
-                "მხარდაჭერა Customize კონვერტაციის პარამეტრების",
-                "მხარდაჭერა კომპლექსური მონაცემთა ფაილი გატარება, მით უმეტეს, კონვერტაცია CSV ფაილი შევიდა წყობილი JSON",
-                "მხარდაჭერა კონვერტაცია CSV, CSV სფეროებში მითითებული დახარისხება და delimiter პარამეტრები",
-                "მრავალ ენაზე მხარდაჭერა (გამოყენებით TryToTranslate ინსტრუმენტი თარგმნა)."
+                "მხარდაჭერა მორგებულია კონვერტაციის პარამეტრების",
+                "მხარდაჭერა კომპლექსური მონაცემთა ფაილი გადამუშავება, კერძოდ კონვერტორი წყობილი JSON ფაილი CSV",
+                "მხარდაჭერა კონვერტაცია CSV, CSV სფეროებში დასალაგებლად და მითითებული delimiter პარამეტრები",
+                "მრავალ ენაზე მხარდაჭერა (გამოყენებით TryToTranslate თარგმანი ინსტრუმენტი)."
             ]
         },
         "UserReviews": {
-            "SectionName": "შეხედეთ, რასაც ჩვენ ვამბობთ",
+            "SectionName": "იხილეთ რა ყველას ლაპარაკი",
             "list": [
                 {
                     "reviewContent": "DataStorm არის დიდი. მარტივი, სუფთა, სრულყოფილი. ლამაზად კეთდება.",
@@ -43,17 +43,17 @@
                     "professional": "მონაცემთა ბაზის ადმინისტრატორი"
                 },
                 {
-                    "reviewContent": "DataStorm არის ის, რაც მე თითქმის ყველა ჩემი იარაღები, ეს არის დიდი პატარა პროგრამა.",
+                    "reviewContent": "DataStorm მე თითქმის ყველა ჩემი იარაღები, ეს არის დიდი პატარა პროგრამა.",
                     "userName": "პიტერ Bright",
                     "professional": "სატესტო ინჟინერი"
                 },
                 {
-                    "reviewContent": "თუ თქვენ გჭირდებათ რომ გააკეთოთ, მონაცემების კონვერტაციის, DataStorm ნამდვილად ღირს ჩამოტვირთვა.",
+                    "reviewContent": "თუ თქვენ გჭირდებათ რომ გააკეთოთ, მონაცემების კონვერტაციის, DataStorm ნამდვილად ღირს ჩამოტვირთვის.",
                     "userName": "Lifehacker ს",
                     "professional": "ვებ დეველოპერები და დიზაინერები"
                 },
                 {
-                    "reviewContent": "მე ნამდვილად მინდა DataStorm, მომცა ბევრი მუშაობა, რათა ადვილი.",
+                    "reviewContent": "მე ნამდვილად მინდა DataStorm, მომეცი მუშაობა, რათა ბევრი მოხერხებულობისთვის.",
                     "userName": "jeruss",
                     "professional": "PHP ფარგლებში განვითარების"
                 }
@@ -65,10 +65,10 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "გამოყვანის CSV - კომპლექტი გამყოფების",
+                "section": "გამოყვანის CSV - კომპლექტი delimiter",
                 "videos": [
                     {
-                        "description": "CSV გამომავალი ფაილი, CSV delimited მითითებული მეთოდი (default: '').",
+                        "description": "CSV გამომავალი ფაილი, პარამეტრების, CSV delimited მეთოდი (default: '').",
                         "url": "ვიდეო / docs / it2csv_separator.mp4"
                     }
                 ]
@@ -78,14 +78,14 @@
                 "section": "გამოყვანის CSV - შექმნას ერთგვარი სფეროში",
                 "videos": [
                     {
-                        "description": "CSV ფაილი გამომავალი, მითითებული CSV სფეროებში დასალაგებლად მარტივი გზა.",
+                        "description": "CSV ფაილი გამომავალი, მითითებული CSV სფეროებში დასალაგებლად მარტივი მეთოდი.",
                         "url": "ვიდეო / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "გამოყვანის CSV - შექმნის ძრავები გამოიყენოთ რთული ობიექტების",
+                "section": "გამოყვანის CSV - ძრავები გამოიყენოთ რთული ობიექტების",
                 "videos": [
                     {
                         "description": "CSV ფაილი გამომავალი, მითითებული ძრავის გაუმკლავდეს რთული ობიექტების გამოყენებით კომპლექსი შეტანის ფაილი. Default: ღია.",
@@ -98,6 +98,19 @@
     "ReleaseNotePage": {
         "labelVersion": "გამოსვლის",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,11 +174,11 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "პირველი გამოცემა"
+                        "content": "პირველი რელიზი"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "პირველი გამოცემა"
+                        "content": "პირველი რელიზი"
                     }
                 ]
             }
@@ -174,6 +187,41 @@
     "VersionPage": {
         "labelVersion": "გამოსვლის",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "როგორ ვიყიდოთ",
+        "SectionName": "ყიდვა",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "საიტი შესაძლო ენები",
-        "ChangeAlert": "სრული ენის შეცვლა"
+        "SectionName": "საიტის ენები ხელმისაწვდომია",
+        "ChangeAlert": "გადართვის ენის დაასრულებს"
     }
 }

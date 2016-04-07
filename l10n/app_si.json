@@ -2,17 +2,17 @@
     "TopBar": {
         "Home": "මුල් පිටුව",
         "Feature": "විශේෂාංග",
-        "Documents": "ඔන්ලයින් ප්රලේඛන",
+        "Documents": "ඔන්ලයින් උදවු",
         "ReleaseNotes": "මුදා හැරීමේ සටහන්",
         "Downloads": "නිදහස් ට්රයල්",
         "Buy": "මිලදී ගැනීම",
-        "Roadmap": "නිෂ්පාදන",
-        "ReportIssue": "නිකුත්",
+        "Roadmap": "නිෂ්පාදන පෙළ",
+        "ReportIssue": "ගැටලුවක් වාර්තා",
         "Languages": "භාෂා"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "විවිධ හැඩතල, වින්ඩෝස්, ලිනක්ස් සහ MacOSX මෙහෙයුම් පද්ධති සඳහා සහයෝගය අතර දත්ත පරිවර්තනය.",
+        "ProjectTagline": "බහු ආකෘති දත්ත පරිවර්තනය කිරීම, වින්ඩෝස්, ලිනක්ස් සහ MacOSX මෙහෙයුම් පද්ධතිය සඳහා සහාය.",
         "BtnDownload": "නිදහස් ට්රයල්",
         "BtnBuy": "මිලදී ගැනීම",
         "Screens": [
@@ -26,36 +26,36 @@
         "Features": {
             "SectionName": "නිෂ්පාදන ප්රධාන ලක්ෂණ",
             "list": [
-                "JSON, පරිවර්තන XML, CSV, PLIST, INI එම .properties සහ යැං මිං නාවික ප්රවාහන (YAML) ගොනු දත්ත සඳහා සහාය.",
+                "සහයෝගය JSON, XML, CSV, PLIST, INI එම .properties හා Yangming නැව් (YAML) ගොනු දත්ත බවට පරිවර්තනය කරයි.",
                 "සහාය කණ්ඩායම බවට පරිවර්තනය",
-                "සහාය සකසුරුවම් පරිවර්තනය පරාමිතීන්",
-                "විශේෂයෙන් පිලිතුරු කැදැලි ආකාරයෙන් සංදර්ශනය කරන්න JSON බවට CSV ගොනු පරිවර්තනය සංකීර්ණ දත්ත ගොනු හැසිරවීමේ සඳහා සහාය,",
-                "CSV පරිවර්තනයේදී සහයෝගය, CSV ක්ෂේත්ර තෝරා බේරා ගැනීමේ තබා පරිසීමකය සැකසුම්",
-                "(පරිවර්තනය කිරීමට TryToTranslate මෙවලම භාවිතා කර) බහු-භාෂා පහසුකම."
+                "සැකසුණු පරිවර්තනය පරාමිතීන් සහාය",
+                "සංකීර්ණ දත්ත ගොනු සැකසුම සහාය, විශේෂයෙන්ම පරිවර්තකය තුළ CSV කිරීමට JSON ගොනු පතරෙහි",
+                "සහයෝගය පරිසීමක සැකසුම් නිරාකරණය නියම කිරීමට සහ CSV, CSV ක්ෂේත්ර පරිවර්තනයේදී",
+                "බහු-භාෂා පහසුකම (TryToTranslate පරිවර්තනය මෙවලම භාවිතා කර)."
             ]
         },
         "UserReviews": {
-            "SectionName": "අපි කියන දේ දෙස බලන්න",
+            "SectionName": "හැමෝම ගැන කතා කරන දේ බලන්න",
             "list": [
                 {
-                    "reviewContent": "DataStorm විශාල වේ. , සරල, පිරිසිදු පරිපූර්ණ. එමෙන්ම උෂ්ණත්වය සිදු.",
+                    "reviewContent": "DataStorm විශාල වේ. සරල, පිරිසිදු, පරිපූර්ණ. එමෙන්ම උෂ්ණත්වය සිදු.",
                     "userName": "evanw",
                     "professional": "දත්ත සමුදාය පරිපාලක"
                 },
                 {
-                    "reviewContent": "DataStorm මම ​​පාහේ මගේ සියලු මෙවලම් කරන දේ, මෙම ශ්රේෂ්ඨ ටිකක් අයදුම් යි.",
+                    "reviewContent": "DataStorm මම ​​පාහේ මගේ මෙවලම් කරන්නෙ, මේ මහා ටිකක් අයදුම් වේ.",
                     "userName": "පීටර් දීප්තිමත්",
                     "professional": "ටෙස්ට් ඉංජිනේරු"
                 },
                 {
-                    "reviewContent": "ඔබ දත්ත බවට පරිවර්තනය කරන්න අවශ්ය නම්, DataStorm අනිවාර්යයෙන්ම බාගත වටී.",
+                    "reviewContent": "ඔබ දත්ත පරිවර්තනය කරන්න අවශ්ය නම්, DataStorm අනිවාර්යයෙන්ම බාගත වටී.",
                     "userName": "Lifehacker ගේ",
                     "professional": "වෙබ් අඩවි සංවර්ධනය සහ සැලසුම්කරුවන්"
                 },
                 {
-                    "reviewContent": "මම ඇත්තටම DataStorm මෙන් පහසු ගෙන ඒමට මට වැඩ ගොඩක් දුන්නා.",
+                    "reviewContent": "මම ඇත්තටම DataStorm වගේ, මට පහසුව ගොඩක් ගෙන ඒමට කටයුතු කරනවා.",
                     "userName": "jeruss",
-                    "professional": "PHP හි රාමුව සංවර්ධනය"
+                    "professional": "PHP රාමුව සංවර්ධනය"
                 }
             ]
         }
@@ -65,10 +65,10 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ප්රතිදාන CSV - කට්ටලයක් විෙභ්දක",
+                "section": "ප්රතිදාන CSV - සකස් පරිසීමක",
                 "videos": [
                     {
-                        "description": "CSV ප්රතිදානය ගොනු, CSV සකස් ක්රමය (පෙරනිමි: '') පිරිසගේ.",
+                        "description": "CSV ගොනු ප්රතිදානය සැකසීම්, CSV පිරිසගේ ක්රමය (පෙරනිමි: '').",
                         "url": "වීඩියෝ / Docs / it2csv_separator.mp4"
                     }
                 ]
@@ -78,17 +78,17 @@
                 "section": "ප්රතිදාන CSV - වර්ග කිරීම ක්ෂේත්රයේ ඇති කිරීමට",
                 "videos": [
                     {
-                        "description": "CSV ගොනුවක් නිෂ්පාදනය, සරල ක්රමයක් නිරාකරණය කිරීමට CSV ක්ෂේත්ර කළේය.",
+                        "description": "CSV ගොනුවේ ප්රතිදාන, සරල ක්රමය නිරාකරණය කිරීමට CSV ක්ෂේත්ර කළේය.",
                         "url": "වීඩියෝ / Docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ප්රතිදාන CSV - තැබීම එන්ජින් සංකීර්ණ වස්තූන් භාවිතා",
+                "section": "ප්රතිදාන CSV - Setting එන්ජින් සංකීර්ණ වස්තූන් භාවිතා",
                 "videos": [
                     {
-                        "description": "CSV ගොනුවක් නිෂ්පාදනය, සංකීර්ණ ආදාන ගොනු භාවිතා සංකීර්ණ වස්තූන් හැසිරවීමට එන්ජිම කළේය. පෙරනිමි: විවෘත.",
+                        "description": "CSV ගොනුවේ ප්රතිදාන, සංකීර්ණ ආදාන ගොනු භාවිතා සංකීර්ණ වස්තූන් හැසිරවීමට එන්ජිම කළේය. පෙරනිමි: විවෘත.",
                         "url": "වීඩියෝ / Docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -98,6 +98,19 @@
     "ReleaseNotePage": {
         "labelVersion": "නිකුතු",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,11 +174,11 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "පළමු නිකුතුව"
+                        "content": "ප්රථම නිකුතුව"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "පළමු නිකුතුව"
+                        "content": "ප්රථම නිකුතුව"
                     }
                 ]
             }
@@ -174,6 +187,41 @@
     "VersionPage": {
         "labelVersion": "නිකුතු",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "කෙසේ මිලට ගැනීම සඳහා",
+        "SectionName": "මිලට ගන්න",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "වෙබ් අඩවිය භාවිතයට ගත හැකි භාෂා",
-        "ChangeAlert": "සම්පූර්ණ බස මාරු"
+        "SectionName": "ලබා ගත හැකි වෙබ් අඩවිය භාෂා",
+        "ChangeAlert": "සම්පූර්ණ කිරීම සඳහා භාෂා මාරු"
     }
 }

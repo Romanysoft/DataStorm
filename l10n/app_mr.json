@@ -2,17 +2,17 @@
     "TopBar": {
         "Home": "मुख्यपृष्ठ",
         "Feature": "वैशिष्ट्ये",
-        "Documents": "ऑनलाइन दस्तऐवज",
+        "Documents": "ऑनलाइन मदत",
         "ReleaseNotes": "प्रकाशन टिपा",
         "Downloads": "विनामूल्य चाचणी",
         "Buy": "खरेदी",
         "Roadmap": "उत्पादन ओळ",
-        "ReportIssue": "अंक",
+        "ReportIssue": "एका समस्येचा अहवाल द्या",
         "Languages": "भाषा"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "विविध स्वरूपात अंतर्गत डाटा रूपांतरण, विंडोज, लिनक्स व MacOSX कार्य प्रणाली समर्थन.",
+        "ProjectTagline": "अनेक स्वरूप, विंडोज, लिनक्स व MacOSX ऑपरेटिंग सिस्टम समर्थन डेटा रूपांतरण.",
         "BtnDownload": "विनामूल्य चाचणी",
         "BtnBuy": "खरेदी",
         "Screens": [
@@ -26,34 +26,34 @@
         "Features": {
             "SectionName": "उत्पादन मुख्य वैशिष्ट्ये",
             "list": [
-                "आणि JSON, रूपांतरण एक्स एम एल, सी, plist, ini, .properties व यांग मिंग सागरी वाहतूक (YAML) फाइल डेटा समर्थन.",
+                "समर्थन JSON, एक्स एम एल, सी, plist, INI, .properties आणि Yangming शिपिंग (YAML) फाइल डेटा रूपांतरित.",
                 "समर्थन बॅच रूपांतरण",
                 "समर्थन सानुकूलित रूपांतरण घटके",
-                "विशेषत: एकात एक आणि JSON मध्ये सी फायली रूपांतरित जटिल डेटा फाइल हाताळणी, समर्थन",
-                "समर्थन, सी रूपांतर सी फील्ड वर्गीकरण आणि मर्यादेचा सेटिंग्ज सेट करा",
-                "मल्टी भाषा समर्थन (अनुवाद करण्यास TryToTranslate साधन वापरून)."
+                "सी विशिष्ट कनवर्टर नेस्टेड JSON फाइल्स, गुंतागुंतीच्या डेटा फाइल प्रक्रिया समर्थन",
+                "क्रमवारी पाठिंबा सी, सी शेतात रूपांतर करणे आणि सेट मर्यादेचा सेटिंग",
+                "मल्टी भाषा समर्थन (TryToTranslate अनुवाद साधन वापरून)."
             ]
         },
         "UserReviews": {
-            "SectionName": "आम्ही म्हणत आहेत काय एक कटाक्ष",
+            "SectionName": "प्रत्येकासाठी बद्दल बोलत आहे ते पहा",
             "list": [
                 {
-                    "reviewContent": "DataStorm महान आहे. परिपूर्ण, स्वच्छ, साधे. छान झाले.",
+                    "reviewContent": "DataStorm महान आहे. साधे, स्वच्छ, परिपूर्ण. छान पूर्ण केले.",
                     "userName": "evanw",
                     "professional": "डेटाबेस प्रशासक"
                 },
                 {
-                    "reviewContent": "DataStorm, हे एक महान थोडे अनुप्रयोग आहे, जे मी जवळजवळ सर्व माझ्या साधने नाहीत.",
+                    "reviewContent": "मी जवळजवळ सर्व माझ्या साधने करू DataStorm, हे एक महान थोडे अनुप्रयोग आहे.",
                     "userName": "पीटर तेजस्वी",
                     "professional": "कसोटी अभियंता"
                 },
                 {
-                    "reviewContent": "आपण डेटा रूपांतर करावे लागेल, तर DataStorm निश्चितपणे डाउनलोड वाचतो आहे.",
+                    "reviewContent": "आपण डेटा रूपांतरण करावे लागेल, तर DataStorm डाउनलोड नक्कीच वाचतो.",
                     "userName": "Lifehacker च्या",
                     "professional": "वेब डेव्हलपर आणि डिझाइनर"
                 },
                 {
-                    "reviewContent": "मी खरोखर DataStorm जसे, सोपे आणण्यासाठी मला काम भरपूर दिली.",
+                    "reviewContent": "मी DataStorm तू मला सोयीसाठी भरपूर आणण्यासाठी काम द्या.",
                     "userName": "jeruss",
                     "professional": "कृपया PHP फ्रेमवर्क विकास"
                 }
@@ -65,20 +65,20 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "आउटपुट सी - संच विभाजक",
+                "section": "आउटपुट सी - संच मर्यादेचा",
                 "videos": [
                     {
-                        "description": "सी निर्गत फाइल्सचे, सी पद्धत सेट सिमित केलेली (मुलभूत: '').",
+                        "description": "सी उत्पादन फायली, सेटिंग्ज, सी पद्धत सिमित (मुलभूत: '').",
                         "url": "व्हिडिओ / दस्तऐवज / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "आउटपुट सी - क्रमवारी क्षेत्रात सेट करण्यासाठी",
+                "section": "आउटपुट सी - क्रमवारी लावा फील्ड सेट करण्यासाठी",
                 "videos": [
                     {
-                        "description": "सी फाइल उत्पादन एक सोपा मार्ग वर्गीकरण सी फील्ड सेट.",
+                        "description": "सी फाइल उत्पादन, एक सोपी पद्धत वर्गीकरण सी फील्ड सेट.",
                         "url": "व्हिडिओ / दस्तऐवज / it2csv_sortFields.mp4"
                     }
                 ]
@@ -88,7 +88,7 @@
                 "section": "आउटपुट सी - सेट इंजिन जटिल ऑब्जेक्ट",
                 "videos": [
                     {
-                        "description": "सी फाइल उत्पादन जटिल इन्पुट फाइल वापर करून क्लिष्ठ वस्तू हाताळण्यासाठी इंजिन सेट करा. डीफॉल्ट: उघडा.",
+                        "description": "सी फाइल उत्पादन, जटिल इन्पुट फाइल वापर करून क्लिष्ठ वस्तू हाताळण्यासाठी इंजिन सेट करा. डीफॉल्ट: उघडा.",
                         "url": "व्हिडिओ / दस्तऐवज / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -98,6 +98,19 @@
     "ReleaseNotePage": {
         "labelVersion": "प्रकाशन",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -174,6 +187,41 @@
     "VersionPage": {
         "labelVersion": "प्रकाशन",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "खरेदी कसे",
+        "SectionName": "खरेदी",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "वेबसाइट उपलब्ध भाषा",
-        "ChangeAlert": "पूर्ण स्विच भाषा"
+        "SectionName": "साइट भाषा उपलब्ध",
+        "ChangeAlert": "पूर्ण भाषा सुरू करणे"
     }
 }

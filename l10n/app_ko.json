@@ -2,17 +2,17 @@
     "TopBar": {
         "Home": "홈",
         "Feature": "특징",
-        "Documents": "온라인 문서",
+        "Documents": "온라인 도움말",
         "ReleaseNotes": "릴리스 노트",
         "Downloads": "무료 평가판",
         "Buy": "매수",
         "Roadmap": "제품 라인",
-        "ReportIssue": "문제",
+        "ReportIssue": "문제 신고",
         "Languages": "언어"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "다양한 형식 간의 데이터 변환, 윈도우, 리눅스,에서라도 운영 체제에 대한 지원.",
+        "ProjectTagline": "여러 형식, 윈도우, 리눅스 및에서라도 운영 체제에 대한 지원 데이터의 변환.",
         "BtnDownload": "무료 평가판",
         "BtnBuy": "매수",
         "Screens": [
@@ -26,34 +26,34 @@
         "Features": {
             "SectionName": "제품 주요 특징",
             "list": [
-                "JSON, 변환, XML, CSV, PLIST, INI, .properties 파일과 양밍 해운 (YAML) 파일 데이터를 지원합니다.",
+                "지원 JSON은 XML, CSV, PLIST, INI는 .properties 파일과 양명 배송 (YAML) 파일 데이터를 변환합니다.",
                 "지원 일괄 변환",
-                "지원 사용자 정의 변환 매개 변수",
-                "특히 중첩 된 JSON으로 CSV 파일을 변환 복잡한 데이터 파일 처리에 대한 지원",
-                "지원, CSV로 변환 CSV 필드는 정렬 및 구분 설정 세트",
-                "다국어 지원 (번역 TryToTranslate 도구를 사용하여)."
+                "고객 맞춤형 변환 파라미터",
+                "CSV 특히 변환기 중첩 JSON 파일에 복합 데이터 파일 처리를 지원",
+                "정렬 CSV, CSV 필드로 전환 지원 및 설정 구분 설정",
+                "(TryToTranslate 번역 도구를 사용하여) 다중 언어를 지원합니다."
             ]
         },
         "UserReviews": {
-            "SectionName": "우리가 무슨 말을 살펴 보자",
+            "SectionName": "모두가 말하는 것이 무엇인지 알아보기",
             "list": [
                 {
-                    "reviewContent": "DataStorm은 중대하다. 완벽한, 청소, 간단한. 멋지게 수행.",
+                    "reviewContent": "DataStorm은 중대하다. 완벽한, 청소, 간단한. 멋지게 다.",
                     "userName": "evanw",
                     "professional": "데이터베이스 관리자"
                 },
                 {
-                    "reviewContent": "DataStorm이 좋은 작은 응용 프로그램입니다 제가 거의 내 모든 도구를 할 수 있습니다.",
+                    "reviewContent": "나는 거의 모든 내 도구를 할 DataStorm이 좋은 작은 응용 프로그램입니다.",
                     "userName": "피터 밝은",
                     "professional": "테스트 엔지니어"
                 },
                 {
-                    "reviewContent": "당신은 데이터 변환을 수행해야하는 경우, DataStorm 확실히 다운로드 가치가있다.",
+                    "reviewContent": "당신이 데이터 변환을 수행해야하는 경우, DataStorm 다운로드가 확실히 가치가있다.",
                     "userName": "Lifehacker에의",
                     "professional": "웹 개발자와 디자이너"
                 },
                 {
-                    "reviewContent": "정말 DataStorm 같은, 쉽게 가지고 나에게 많은 일을했다.",
+                    "reviewContent": "정말 DataStorm처럼, 나에게 편의를 많이 가지고 작업을 제공합니다.",
                     "userName": "jeruss",
                     "professional": "PHP 프레임 워크 개발"
                 }
@@ -68,7 +68,7 @@
                 "section": "출력 CSV - 세트 분리",
                 "videos": [
                     {
-                        "description": "CSV 출력 파일, CSV는 방법 설정으로 구분 된 (기본값 : '').",
+                        "description": "CSV 출력 파일, 설정, CSV는 ( ''기본) 메소드를 구분.",
                         "url": "동영상 / 문서 / it2csv_separator.mp4"
                     }
                 ]
@@ -78,7 +78,7 @@
                 "section": "출력 CSV는 - 정렬 필드를 설정합니다",
                 "videos": [
                     {
-                        "description": "CSV 파일 출력, 간단한 방법을 정렬하려면 CSV 필드를 설정합니다.",
+                        "description": "CSV 파일 출력, 간단한 방법을 정렬 할 CSV 필드를 설정합니다.",
                         "url": "동영상 / 문서 / it2csv_sortFields.mp4"
                     }
                 ]
@@ -88,7 +88,7 @@
                 "section": "출력 CSV - 설정 엔진은 복잡한 객체를 사용",
                 "videos": [
                     {
-                        "description": "CSV 파일 출력, 복잡한 입력 파일을 사용하여 복잡한 오브젝트를 처리하기 위해 엔진을 설정한다. 기본값 : 엽니 다.",
+                        "description": "CSV 파일 출력 복잡한 입력 파일을 사용하여 복잡한 오브젝트를 처리하기 위해 엔진을 설정한다. 기본값 : 엽니 다.",
                         "url": "동영상 / 문서 / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -98,6 +98,19 @@
     "ReleaseNotePage": {
         "labelVersion": "해제",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -174,6 +187,41 @@
     "VersionPage": {
         "labelVersion": "해제",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "구입 방법",
+        "SectionName": "사기",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "웹 사이트 사용 가능한 언어",
-        "ChangeAlert": "전체 언어 변경"
+        "SectionName": "사용 가능한 사이트 언어",
+        "ChangeAlert": "언어를 전환 완료"
     }
 }

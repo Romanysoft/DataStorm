@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Hem",
-        "Feature": "Egenskaper",
-        "Documents": "Onlinedokumentation",
-        "ReleaseNotes": "Utgåvan",
+        "Home": "hem",
+        "Feature": "särdrag",
+        "Documents": "Onlinehjälp",
+        "ReleaseNotes": "utgåvan",
         "Downloads": "Free Trial",
-        "Buy": "Inköp",
-        "Roadmap": "Produktlinje",
-        "ReportIssue": "Issue",
-        "Languages": "Språk"
+        "Buy": "inköp",
+        "Roadmap": "produktlinje",
+        "ReportIssue": "Rapportera ett problem",
+        "Languages": "språk"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Data konvertering mellan olika format, stöd för Windows, Linux och MacOSX operativsystem.",
+        "ProjectTagline": "Konvertering av data i olika format, stöd för Windows, Linux och MacOSX operativsystem.",
         "BtnDownload": "Free Trial",
-        "BtnBuy": "Inköp",
+        "BtnBuy": "inköp",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -26,34 +26,34 @@
         "Features": {
             "SectionName": "Produkthuvuddrag",
             "list": [
-                "Stöd för JSON, konvertering XML, CSV, PLIST, INI, de .properties och Yang Ming Marine Transport uppgifter (YAML) fil.",
+                "Stöd JSON, konvertera XML, CSV, PLIST, INI, de .properties och Yangming Shipping (YAML) fildata.",
                 "Stöd baken omvandlingen",
-                "Support skräddarsy omvandlingsparametrar",
-                "Stöd för komplexa data filhantering, särskilt konvertera CSV-filer till kapslade JSON",
-                "Stöd konvertera till CSV, CSV fält set sortering och avgränsnings inställningar",
-                "Stöd för flera språk (med hjälp av TryToTranslate verktyg för att översätta)."
+                "Stöd anpassas omvandlingsparametrar",
+                "Stödja komplexa data filbearbetning, särskilt omvandlare kapslade JSON-filer till CSV",
+                "Stöd konvertera till CSV, CSV fält för att sortera och som avgränsnings inställningar",
+                "Stöd för flera språk (med TryToTranslate översättningsverktyg)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Ta en titt på vad vi säger",
+            "SectionName": "Se vad alla talar om",
             "list": [
                 {
                     "reviewContent": "DataStorm är stor. Enkelt, rent, perfekt. Snyggt gjort.",
                     "userName": "evanw",
-                    "professional": "Databasadministratör"
+                    "professional": "Databasadministratör administratör~~POS=HEADCOMP"
                 },
                 {
-                    "reviewContent": "DataStorm är vad jag gör nästan alla mina verktyg, är detta en stor litet program.",
+                    "reviewContent": "DataStorm jag gör nästan alla mina verktyg, är detta en stor liten applikation.",
                     "userName": "Peter Bright",
                     "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Om du behöver göra data konvertering, är DataStorm definitivt värt nedladdningen.",
+                    "reviewContent": "Om du behöver göra data konvertering, är DataStorm definitivt värt att ladda ner.",
                     "userName": "Lifehacker s",
                     "professional": "Webbutvecklare och designers"
                 },
                 {
-                    "reviewContent": "Jag gillar verkligen DataStorm, gav mig en hel del arbete för att få lätt.",
+                    "reviewContent": "Jag gillar verkligen DataStorm, ge mig arbeta för att få en hel del bekvämlighet.",
                     "userName": "jeruss",
                     "professional": "PHP utveckling ram"
                 }
@@ -65,10 +65,10 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Utgång CSV - set separatorer",
+                "section": "Utgång CSV - set avgränsare",
                 "videos": [
                     {
-                        "description": "CSV utdatafiler, CSV avgränsad satt metod (default: \"').",
+                        "description": "CSV utdatafiler, inställningar, CSV avgränsad metod (standard: '').",
                         "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
@@ -78,17 +78,17 @@
                 "section": "Utgång CSV - för att ställa in sorteringsfältet",
                 "videos": [
                     {
-                        "description": "CSV-fil utgång, ställ in CSV fält för att sortera ett enkelt sätt.",
+                        "description": "CSV-fil utgång, ställ in CSV fält för att sortera en enkel metod.",
                         "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Utgång CSV - inställnings motorer använder komplexa objekt",
+                "section": "Utgång CSV - Ställa motorer använder komplexa objekt",
                 "videos": [
                     {
-                        "description": "CSV-fil utgång, ställ in motorn för att hantera komplexa objekt med komplexa indatafiler. Standard: Öppna.",
+                        "description": "CSV-fil utgång, ställa in motorn för att hantera komplexa objekt med komplexa indatafiler. Standard: Öppna.",
                         "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Släpp",
+        "labelVersion": "frisättning",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4,19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Första utgåvan"
+                        "content": "första utgåvan"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Första utgåvan"
+                        "content": "första utgåvan"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Släpp",
+        "labelVersion": "frisättning",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Hur man köper",
+        "SectionName": "köpa",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Webbplats Tillgängliga språk",
-        "ChangeAlert": "Fullständig övergång språk"
+        "SectionName": "Sajtens språk tillgängliga",
+        "ChangeAlert": "Omkopplings språk för att slutföra"
     }
 }

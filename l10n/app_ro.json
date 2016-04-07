@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Acasă",
-        "Feature": "Caracteristici",
-        "Documents": "Documentație online",
+        "Home": "acasă",
+        "Feature": "caracteristici",
+        "Documents": "Ajutor on-line",
         "ReleaseNotes": "Note de lansare",
-        "Downloads": "Free Trial",
-        "Buy": "Cumpărare",
-        "Roadmap": "Linia de produse",
-        "ReportIssue": "Emisiune",
-        "Languages": "Limbă"
+        "Downloads": "Trial gratuit",
+        "Buy": "cumpărare",
+        "Roadmap": "linia de produse",
+        "ReportIssue": "Raportați o problemă",
+        "Languages": "limbă"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Conversia datelor între diferite formate, suport pentru sistemele de operare Windows, Linux și MacOSX.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "Cumpărare",
+        "ProjectTagline": "Conversia datelor în mai multe formate, suport pentru Windows, Linux și sistemul de operare MacOSX.",
+        "BtnDownload": "Trial gratuit",
+        "BtnBuy": "cumpărare",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,18 +24,18 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Produse caracteristici principale",
+            "SectionName": "Caracteristici principale ale produsului",
             "list": [
-                "Suport pentru JSON, XML de conversie, CSV, plist, INI, a .properties și Yang Ming transportul maritim de date (YAML) fișiere.",
-                "Sprijin lot de conversie",
-                "Suport parametrii de conversie personaliza",
-                "Suport pentru manipulare complex de fișiere de date, în special de conversie a fișierelor CSV în imbricate JSON",
-                "Suport de conversie a CSV, câmpuri CSV set de sortare și setările Delimitator",
-                "Suport multilingvistic (cu ajutorul instrumentului de TryToTranslate pentru a traduce)."
+                "Suport JSON, converti XML, CSV, Plist, INI, a .properties și fișierul de date Yangming Shipping (YAML).",
+                "Suport de conversie lot",
+                "Parametrii de conversie de sprijin personalizat",
+                "Sprijini complexe de prelucrare a fișierelor de date, convertor cuibărit anumite fișiere JSON CSV",
+                "Suport de conversie în CSV, câmpuri CSV pentru a sorta și setările Delimitator stabilite",
+                "suport multi-language (folosind instrument de traducere TryToTranslate)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Aruncati o privire la ceea ce spunem",
+            "SectionName": "A se vedea ce toată lumea vorbește despre",
             "list": [
                 {
                     "reviewContent": "DataStorm este mare. Simplu, curat, perfect. Bine făcut.",
@@ -43,19 +43,19 @@
                     "professional": "Administrator de baze de date"
                 },
                 {
-                    "reviewContent": "DataStorm este ceea ce fac aproape toate instrumentele mele, aceasta este o mare cerere de mic.",
+                    "reviewContent": "DataStorm Eu fac aproape toate sculele mele, aceasta este o mare aplicație mică.",
                     "userName": "Peter Bright",
-                    "professional": "Inginer de testare"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Dacă aveți nevoie pentru a face conversia de date, DataStorm este cu siguranta merita descărcarea.",
-                    "userName": "Lifehacker lui",
-                    "professional": "Dezvoltatori web si designeri"
+                    "reviewContent": "În cazul în care aveți nevoie pentru a face conversia de date, DataStorm este cu siguranță în valoare de descărcare.",
+                    "userName": "lui Lifehacker",
+                    "professional": "Dezvoltatorii web și designeri"
                 },
                 {
-                    "reviewContent": "Îmi place foarte mult DataStorm, mi-a dat o mulțime de lucru pentru a aduce ușor.",
+                    "reviewContent": "Îmi place foarte mult DataStorm, da-mi locul de muncă pentru a aduce o mulțime de comoditate.",
                     "userName": "jeruss",
-                    "professional": "Dezvoltarea cadru PHP"
+                    "professional": "Dezvoltarea PHP-cadru"
                 }
             ]
         }
@@ -65,30 +65,30 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Ieșire CSV - set separatoare",
+                "section": "Ieșire CSV - set delimitator",
                 "videos": [
                     {
-                        "description": "Fișierele de ieșire CSV, CSV Delimitat metoda set (default: \"\").",
+                        "description": "fișierele de ieșire CSV, setări, CSV delimitate metoda (implicit: '').",
                         "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Ieșire CSV - pentru a seta domeniul de sortare",
+                "section": "Ieșire CSV - pentru a seta câmpul de sortare",
                 "videos": [
                     {
-                        "description": "CSV ieșire fișier, setați câmpurile CSV pentru a sorta un mod simplu.",
+                        "description": "ieșire fișier CSV, setați câmpurile CSV pentru a sorta o metodă simplă.",
                         "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Ieșire CSV - motoare de stabilire a utiliza obiecte complexe",
+                "section": "Ieșire CSV - motoarele Setarea folosesc obiecte complexe",
                 "videos": [
                     {
-                        "description": "CSV ieșire fișier, setați motorul să se ocupe de obiecte complexe, folosind fișiere de intrare complexe. Implicit: Open.",
+                        "description": "CSV ieșire fișier, setați motorul să se ocupe de obiecte complexe folosind fișiere de intrare complexe. Implicit: Deschideți.",
                         "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Eliberare",
+        "labelVersion": "lansare",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "În primul rând de presă"
+                        "content": "Prima lansare"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "În primul rând de presă"
+                        "content": "Prima lansare"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Eliberare",
+        "labelVersion": "lansare",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Cum să cumpărați",
+        "SectionName": "cumpăra",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site-ul Limbi disponibile",
-        "ChangeAlert": "Complet Schimbă limba"
+        "SectionName": "Limbile site-ului disponibile",
+        "ChangeAlert": "Trecerea de limbă pentru a finaliza"
     }
 }

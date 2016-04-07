@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Kodus",
+        "Home": "kodus",
         "Feature": "Omadused",
-        "Documents": "Hetkel Dokumentatsiooni",
+        "Documents": "Hetkel Abi",
         "ReleaseNotes": "Release Notes",
         "Downloads": "Tasuta prooviversioon",
-        "Buy": "Ostu",
-        "Roadmap": "Tootevalik",
-        "ReportIssue": "Teema",
-        "Languages": "Keel"
+        "Buy": "ostmine",
+        "Roadmap": "tootevalik",
+        "ReportIssue": "Teavita probleemist",
+        "Languages": "keel"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Andmete muutmiseks erinevate formaatide toetus Windows, Linux ja MacOSX operatsioonisüsteemidega.",
+        "ProjectTagline": "Tulemus andmete mitmes vormingus toetus Windows, Linux ja MacOSX operatsioonisüsteemi.",
         "BtnDownload": "Tasuta prooviversioon",
-        "BtnBuy": "Ostu",
+        "BtnBuy": "ostmine",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -26,36 +26,36 @@
         "Features": {
             "SectionName": "Toote põhijooned",
             "list": [
-                "Toetus JSON, muundamise XML, CSV, plist, INI, siis .properties ja Yang Ming Marine Transport (YAML) faili andmeid.",
+                "Toetus JSON, teisendada XML, CSV, plist, INI, siis .atribuudid ja Yangming Shipping (YAML) faili andmed.",
                 "Toetus partii tulemus",
-                "Toetus Kohanda muutmise parameetrid",
-                "Toetus keeruline andmefaili käitlemine, eriti ümberehitamiseks CSV failid nested JSON",
-                "Toetus teisendamine CSV CSV väljad lükka sorteerimine ja eraldaja seaded",
-                "Mitme keele tugi (kasutades TryToTranslate näitaja tõlkida)."
+                "Toetus kohandatud muundamise parameetreid",
+                "Probleemid keeruline andmefailide töötlemist, eriti konverter nested JSON faile CSV",
+                "Probleemid hakkavad töötama CSV CSV väljad sorteerida ning määrata eraldaja seaded",
+                "Mitme keele tugi (kasutades TryToTranslate käännöstyökaluamme)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Heitke pilk, mida me ütleme",
+            "SectionName": "Vaata, mida kõik räägivad",
             "list": [
                 {
                     "reviewContent": "DataStorm on suur. Lihtne, puhas, täiuslik. Ilusti tehtud.",
                     "userName": "evanw",
-                    "professional": "Andmebaasi administraator"
+                    "professional": "andmebaasi administraator"
                 },
                 {
-                    "reviewContent": "DataStorm on see, mida ma teen peaaegu kõik oma vahendid, et see on väga väike rakendus.",
+                    "reviewContent": "DataStorm ma peaaegu kõik minu vahendid, et see on väga väike rakendus.",
                     "userName": "Peter Bright",
                     "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Kui teil on vaja teha andmete muutmise, DataStorm tasub kindlasti alla.",
+                    "reviewContent": "Kui teil on vaja teha andmete muutmise, DataStorm tasub kindlasti allalaadimist.",
                     "userName": "Lifehacker on",
-                    "professional": "Web arendajad ja projekteerijad"
+                    "professional": "Web arendajad ja disainerid"
                 },
                 {
-                    "reviewContent": "Mulle meeldib DataStorm, andis mulle palju tööd, et tuua lihtne.",
+                    "reviewContent": "Mulle meeldib DataStorm, anna mulle tööd, et tuua palju mugavamaks.",
                     "userName": "jeruss",
-                    "professional": "PHP raamistik areng"
+                    "professional": "PHP raames areng"
                 }
             ]
         }
@@ -65,10 +65,10 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Output CSV - komplekt eraldajad",
+                "section": "Output CSV - komplekt eraldaja",
                 "videos": [
                     {
-                        "description": "CSV väljund faili, CSV piiritletud määrata meetod (vaikimisi: '').",
+                        "description": "CSV väljund failid, sätted, CSV piiritletud meetod (vaikimisi: '').",
                         "url": "videos / docs / it2csv_separator.mp4"
                     }
                 ]
@@ -78,14 +78,14 @@
                 "section": "Output CSV - et sortreerimise",
                 "videos": [
                     {
-                        "description": "CSV faili väljund, määrata CSV väljad sorteerida lihtsal viisil.",
+                        "description": "CSV faili väljund, seadke CSV väljad sorteerida lihtne meetod.",
                         "url": "videos / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Output CSV - seadistusega mootoreid kasutada keeruliste objektide",
+                "section": "Output CSV - seadistamine mootorid kasutavad keerulisi objekte",
                 "videos": [
                     {
                         "description": "CSV faili väljund, seadke mootori käsitseda keerulisi objekte, kasutades keerukaid sisendfailides. Vaikimisi: Ava.",
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Vabastamine",
+        "labelVersion": "vabastamine",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -172,8 +185,43 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Vabastamine",
+        "labelVersion": "vabastamine",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Kuidas osta",
+        "SectionName": "ostma",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Koduleht Olemasolevad keeled",
-        "ChangeAlert": "Täielik üleminek keel"
+        "SectionName": "Saidi keeles kättesaadav",
+        "ChangeAlert": "Switching keel lõpetada"
     }
 }

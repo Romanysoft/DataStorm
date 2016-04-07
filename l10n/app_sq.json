@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Shtëpi",
-        "Feature": "Karakteristika",
-        "Documents": "Dokumentacioni në internet",
+        "Home": "shtëpi",
+        "Feature": "Features",
+        "Documents": "online Ndihmë",
         "ReleaseNotes": "Shënime Versioni",
-        "Downloads": "Free Trial",
-        "Buy": "Blerje",
+        "Downloads": "Trial pa pagesë",
+        "Buy": "blerje",
         "Roadmap": "Programi i prodhimit",
-        "ReportIssue": "Çështje",
-        "Languages": "Gjuhë"
+        "ReportIssue": "Raporto një problem",
+        "Languages": "gjuhë"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konvertimit të dhënave në mes formateve të ndryshme, mbështetje për Windows, Linux dhe MacOSX sistemet operative.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "Blerje",
+        "ProjectTagline": "Konvertimi i të dhënave në formate të shumta, mbështetje për Windows, Linux dhe të sistemit operativ MacOSX.",
+        "BtnDownload": "Trial pa pagesë",
+        "BtnBuy": "blerje",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,38 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Produktit karakteristika kryesore",
+            "SectionName": "Karakteristika të produktit kryesore",
             "list": [
-                "Mbështetje për JSON, konvertimit XML, CSV, PLIST, INI, të .properties dhe Yang Ming Detare Transportit dhëna (YAML) file.",
-                "Mbështetje konvertimit grumbull",
-                "Mbështetje Parametrat rregulloje konvertimit",
-                "Mbështetje për komplekse trajtimin e të dhënave fotografi, sidomos konvertimin fotografi CSV në mbivendosur JSON",
-                "Mbështetje për konvertimin CSV, fusha CSV set klasifikim dhe parametrat kufizues",
-                "Mbështetje shumë gjuhë (duke përdorur mjet TryToTranslate për të përkthyer)."
+                "Mbështetje JSON, XML kthyer, CSV, plist, INI, e .properties dhe Yangming Shipping (YAML) të dhënat e file.",
+                "Mbështetje grumbull konvertimit",
+                "Mbështetja e përshtatur parametrat e konvertimit",
+                "Mbështetur komplekse fotografi përpunimit të të dhënave, në veçanti converter mbivendosur fotografi JSON në CSV",
+                "Mbështetje konvertimin në CSV, fushat CSV për të zgjidhur dhe parametrat e vendosura kufizues",
+                "Mbështetje Multi-gjuha (duke përdorur mjet përkthim TryToTranslate)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Hidhni një sy në atë që ne jemi duke thënë",
+            "SectionName": "Shih se çfarë të gjithë është duke folur rreth",
             "list": [
                 {
-                    "reviewContent": "DataStorm është e madhe. Thjeshtë, të pastër, të përsosur. Bërë mirë.",
+                    "reviewContent": "DataStorm është e madhe. Thjeshtë, të pastër, të përsosur. bërë mirë.",
                     "userName": "evanw",
-                    "professional": "Baza e të dhënave Administrator"
+                    "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm është ajo që unë bëj pothuajse të gjitha mjetet e mia, kjo është një kërkesë e madhe pak.",
+                    "reviewContent": "DataStorm bëj pothuajse të gjitha mjetet e mia, kjo është një aplikim i madh pak.",
                     "userName": "Peter Bright",
                     "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Nëse keni nevojë për të bërë konvertimin e të dhënave, DataStorm është definitivisht vlen shkarko.",
+                    "reviewContent": "Nëse keni nevojë për të bërë konvertimin e të dhënave, DataStorm është padyshim një vlerë shkarkimit.",
                     "userName": "Lifehacker-së",
                     "professional": "Hartuesit Web dhe designers"
                 },
                 {
-                    "reviewContent": "I really like DataStorm, më dha një shumë punë për të sjellë të lehtë.",
+                    "reviewContent": "I really like DataStorm, më jep të punojnë për të sjellë një shumë lehtësi.",
                     "userName": "jeruss",
-                    "professional": "Zhvillimi i korniza PHP"
+                    "professional": "zhvillimi kuadër PHP"
                 }
             ]
         }
@@ -65,30 +65,30 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Output CSV - Ndarësit Set",
+                "section": "Output CSV - set kufizues",
                 "videos": [
                     {
-                        "description": "CSV output fotografi, CSV përkufizuar vendosur metodë (default: '').",
+                        "description": "fotografi output CSV, settings, CSV kufizuar metodë (default: '').",
                         "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Output CSV - për të vendosur në fushë sort",
+                "section": "Output CSV - për të vendosur në fushën e renditjes",
                 "videos": [
                     {
-                        "description": "Output file CSV, të vendosur fushat CSV për të zgjidhur një mënyrë e thjeshtë.",
+                        "description": "CSV output file, të vendosur fushat CSV për të zgjidhur një metodë të thjeshtë.",
                         "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Output CSV - vendosjen engines përdorin objekte komplekse",
+                "section": "Output CSV - engines Vendosja përdorimin e objekteve komplekse",
                 "videos": [
                     {
-                        "description": "Output file CSV, vendosur motor për të trajtuar objekte komplekse duke përdorur fotografi komplekse të dhëna. Default: Open.",
+                        "description": "CSV output file, vendosur motor për të trajtuar objekte komplekse duke përdorur fotografi komplekse të dhëna. Default: Open.",
                         "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Lirim",
+        "labelVersion": "lirim",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Lirimin e parë"
+                        "content": "lirimin e parë"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Lirimin e parë"
+                        "content": "lirimin e parë"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Lirim",
+        "labelVersion": "lirim",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Si për të blerë",
+        "SectionName": "blej",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Website Gjuhët në dispozicion",
-        "ChangeAlert": "Complete kaloni gjuhë"
+        "SectionName": "Gjuhët e sitit dispozicion",
+        "ChangeAlert": "Switching gjuhë të përfunduar"
     }
 }

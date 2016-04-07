@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "Home",
+        "Home": "Ikhaya",
         "Feature": "Izici",
-        "Documents": "Online Imibhalo",
-        "ReleaseNotes": "Release Amanothi",
-        "Downloads": "Trial Free",
+        "Documents": "Online Usizo",
+        "ReleaseNotes": "release Notes",
+        "Downloads": "Isivivinyo samahhala",
         "Buy": "Ukuthengwa",
-        "Roadmap": "Line Product",
-        "ReportIssue": "Issue",
+        "Roadmap": "umugqa Product",
+        "ReportIssue": "Bika inkinga",
         "Languages": "Ulimi"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Data ukuguqulwa phakathi takhiwo ehlukahlukene, ukuxhasa Windows, Linux kanye MacOSX izinhlelo zokusebenzisa.",
-        "BtnDownload": "Trial Free",
+        "ProjectTagline": "Ukuguquka kwemininingwane in takhiwo amaningi, ukwesekwa i-Windows, i-Linux kanye yesistimu yokusebenza MacOSX.",
+        "BtnDownload": "Isivivinyo samahhala",
         "BtnBuy": "Ukuthengwa",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,38 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product izici eziyinhloko",
+            "SectionName": "Umkhiqizo izici eziyinhloko",
             "list": [
-                "Ukusekela for JSON, ukuguqulwa XML, CSV, PLIST, INI, lo .properties futhi Yang Ming Marine Transport idatha (YAML) ifayela.",
-                "Ukusekela batch ukuguqulwa",
-                "Ukusekela Yenza ukuguqulwa kwemigomo",
-                "Ukusekela for eziyinkimbinkimbi ifayela ngedatha, ikakhulukazi ekuguquleni amafayela CSV zibe JSON elifakwa",
-                "Ukusekela ukuguqulela CSV, CSV emasimini elibekwe ukuhlunga kanye izilungiselelo delimiter",
-                "Ukwesekwa ulimi Multi-(usebenzisa TryToTranslate ithuluzi ukuhumusha)."
+                "Amaprosesa asekelwe JSON, ukuguqula XML, CSV, PLIST, INI, lo .properties kanye nedatha ifayela Yangming Shipping (YAML).",
+                "batch nokuguquka ukweseka",
+                "Amaprosesa asekelwe egcizelele ukuguqulwa nemingcele",
+                "Sekela eziyinkimbinkimbi processing ifayela yemininingwane, ikakhulukazi Converter izidleke JSON amafayela kuma CSV",
+                "Amaprosesa asekelwe kuphendukela CSV, CSV amasimu ukuhlunga kanye izilungiselelo okunqandayo",
+                "ukwesekwa kolimi Multi-(usebenzisa ithuluzi translation TryToTranslate)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Sibheke lokho thina esithi",
+            "SectionName": "Bona ukuthi wonk 'umuntu ukhuluma",
             "list": [
                 {
-                    "reviewContent": "DataStorm mkhulu. Simple, zihlanzekile, ephelele. Kamnandi kwenziwe.",
+                    "reviewContent": "DataStorm mkhulu. Simple, zihlanzekile, ephelele. Kwenziwe kahle.",
                     "userName": "evanw",
                     "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm yikho engikwenzayo cishe wonke amathuluzi ami, lena isicelo enkulu kancane.",
+                    "reviewContent": "DataStorm ngenzeni cishe wonke amathuluzi ami, lena isicelo enkulu kancane.",
                     "userName": "Peter Bright",
-                    "professional": "Engineer Test"
+                    "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Uma udinga ukwenza idatha ukuguqulwa, DataStorm siyafuna kuwufanele thwebula.",
+                    "reviewContent": "Uma udinga ukwenza idatha nokuguquka, DataStorm nakanjani kuwufanele ukulanda.",
                     "userName": "Lifehacker sika",
-                    "professional": "Web Onjiniyela nabaqambi"
+                    "professional": "onjiniyela Web nabaqambi"
                 },
                 {
-                    "reviewContent": "I ngempela like DataStorm, wanginika umsebenzi omningi ukuletha lula.",
+                    "reviewContent": "I ngempela like DataStorm, ngiphe ukusebenza ukuletha eziningi lula.",
                     "userName": "jeruss",
-                    "professional": "PHP Uhlaka lwezokuthuthukiswa"
+                    "professional": "PHP ukuthuthukiswa kohlaka"
                 }
             ]
         }
@@ -65,39 +65,52 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Lokukhipha CSV - set separators",
+                "section": "Okukhipha CSV - isethi okunqandayo",
                 "videos": [
                     {
-                        "description": "CSV okukhipha amafayela, CSV delimited usethe indlela (default: '').",
-                        "url": "videos / amadokhumenti / it2csv_separator.mp4"
+                        "description": "CSV okukhipha amafayela, izilungiselelo, CSV likhawuliswe indlela (default: '').",
+                        "url": "amavidiyo / eziyakumadokhumenti / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Lokukhipha CSV - ukusetha ensimini uhlobo",
+                "section": "Okukhipha CSV - ukuze usethe Inkambu",
                 "videos": [
                     {
-                        "description": "CSV ifayela okukhiphayo, setha emasimini CSV sokulungisa ngendlela elula.",
-                        "url": "videos / amadokhumenti / it2csv_sortFields.mp4"
+                        "description": "CSV ifayela okukhipha, setha amasimu CSV ukuhlunga indlela elula.",
+                        "url": "amavidiyo / eziyakumadokhumenti / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Lokukhipha CSV - izinjini sekushoneni sebenzisa izinto eziyinkimbinkimbi",
+                "section": "Okukhipha CSV - izinjini Ukubeka basebentise tintfo eziyinkimbinkimbi",
                 "videos": [
                     {
-                        "description": "CSV ifayela okukhiphayo, setha injini ukusingatha izinto eziyinkimbinkimbi usebenzisa amafayela input eziyinkimbinkimbi. Okuzenzakalelayo: Open.",
-                        "url": "videos / amadokhumenti / it2csv_useComplexJSONEngine.mp4"
+                        "description": "CSV ifayela okukhipha, setha injini ukusingatha lezinto eyinkimbinkimbi besebenzisa amafayela input eziyinkimbinkimbi. Okuzenzakalelayo: Vula.",
+                        "url": "amavidiyo / eziyakumadokhumenti / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "release",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4,19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -161,19 +174,54 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Release First"
+                        "content": "First release"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Release First"
+                        "content": "First release"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "release",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Indlela Thenga",
+        "SectionName": "Thenga",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Iwebhusayithi Izilimi Iyatholakala",
-        "ChangeAlert": "Complete switch ulimi"
+        "SectionName": "izilimi Site kuyatholakala",
+        "ChangeAlert": "Ishintshela ulimi ukuqedela"
     }
 }

@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "Početna",
+        "Home": "dom",
         "Feature": "Značajke",
-        "Documents": "Online dokumentacija",
+        "Documents": "Online pomoć",
         "ReleaseNotes": "Napomene o izdanju",
         "Downloads": "Free Trial",
-        "Buy": "Kupnja",
-        "Roadmap": "Linija proizvoda",
-        "ReportIssue": "Pitanje",
-        "Languages": "Govor"
+        "Buy": "kupovina",
+        "Roadmap": "linija proizvoda",
+        "ReportIssue": "Prijavi problem",
+        "Languages": "jezik"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konverzija podataka između različitih formata, podrška za Windows, Linux i MacOSX operacijskim sustavima.",
+        "ProjectTagline": "Konverzija podataka u više formata, podrška za Windows, Linux i MacOSX operativni sustav.",
         "BtnDownload": "Free Trial",
-        "BtnBuy": "Kupnja",
+        "BtnBuy": "kupovina",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -26,34 +26,34 @@
         "Features": {
             "SectionName": "Proizvod Glavne značajke",
             "list": [
-                "Podrška za JSON, pretvorbu XML, CSV, PLIST, INI, u .properties i Yang Ming Marine prometa podataka (YAML) datoteka.",
+                "Podrška JSON, pretvoriti XML, CSV, PLIST, INI, u .PROPERTIES i Yang-mingov dostava (YAML) datoteka podataka.",
                 "Podrška serija pretvorbe",
-                "Podrška parametri Prilagodba pretvorbe",
-                "Podrška za složene rukovanje podaci datoteka, pogotovo pretvaranje CSV datoteke u hijerarhijskoj JSON",
-                "Podrška pretvoriti u CSV, CSV polja postaviti sortiranje i postavke graničnik",
-                "Višejezična podrška (pomoću TryToTranslate alat za prijevod)."
+                "Podrška prilagoditi parametre konverzije",
+                "Podrška kompleksnu obradu podataka datoteke, posebno konverter uklopljeni JSON datoteka u CSV",
+                "Podrška pretvoriti u CSV, CSV polja za sortiranje i postaviti postavke DELIMITER",
+                "Multi-language support (pomoću TryToTranslate prijevod alat)."
             ]
         },
         "UserReviews": {
-            "SectionName": "Pogledajte što mi govore",
+            "SectionName": "Pogledajte što svi pričaju",
             "list": [
                 {
-                    "reviewContent": "DataStorm je super. Jednostavan, čist, idealno. Lijepo učinili.",
+                    "reviewContent": "DataStorm je super. Jednostavno, čisto, savršeno. Lijepo učinili.",
                     "userName": "evanw",
                     "professional": "Database Administrator"
                 },
                 {
-                    "reviewContent": "DataStorm je ono što ja radim gotovo sve svoje alate, ovo je veliki mali program.",
-                    "userName": "Petar Bright",
+                    "reviewContent": "DataStorm ja gotovo sve svoje alate, ovo je veliki mali program.",
+                    "userName": "Peter Bright",
                     "professional": "Test Engineer"
                 },
                 {
-                    "reviewContent": "Ako trebate napraviti konverziju podataka, DataStorm je definitivno vrijedan preuzimanje.",
+                    "reviewContent": "Ako trebate napraviti konverziju podataka, DataStorm je svakako vrijedno preuzimanje.",
                     "userName": "Lifehacker je",
                     "professional": "Web programeri i dizajneri"
                 },
                 {
-                    "reviewContent": "Volim DataStorm, dao mi je puno posla da bi lako.",
+                    "reviewContent": "Volim DataStorm, ponudio mi je posao donijeti puno udobnosti.",
                     "userName": "jeruss",
                     "professional": "PHP okvir za razvoj"
                 }
@@ -65,30 +65,30 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Izlaz CSV - set separatori",
+                "section": "Izlaz CSV - set graničnik",
                 "videos": [
                     {
-                        "description": "CSV izlazne datoteke, CSV razgraničena postaviti metodu (zadano: '').",
+                        "description": "CSV izlazne datoteke, postavke, CSV razgraničena način (zadano: '').",
                         "url": "video / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Izlaz CSV - postaviti polje sortiranja",
+                "section": "Izlaz CSV - za postavljanje polje sortiranja",
                 "videos": [
                     {
-                        "description": "CSV datoteka izlaz, postavite CSV polja sortiranje jednostavan način.",
+                        "description": "CSV datoteka izlaz, postavite CSV polja za sortiranje jednostavan način.",
                         "url": "video / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Izlaz CSV - postavljanje motori koriste složene objekte",
+                "section": "Izlaz CSV - Postavljanje motori koriste složene objekte",
                 "videos": [
                     {
-                        "description": "CSV datoteka izlaz, postavite motor za obradu složenih objekata pomoću složenih ulaznih datoteka. Default: Otvori.",
+                        "description": "CSV datoteka izlaz, postavljen motor za obradu složenih objekata pomoću kompleksnih ulaznih datoteka. Default: Otvori.",
                         "url": "video / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
@@ -96,8 +96,21 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Izdanje",
+        "labelVersion": "puštanje",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4.19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -172,8 +185,43 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Izdanje",
+        "labelVersion": "puštanje",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Kako kupiti",
+        "SectionName": "kupiti",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Web Dostupni jezici",
-        "ChangeAlert": "Kompletan prekidač jezik"
+        "SectionName": "jezici stranice dostupne",
+        "ChangeAlert": "Prebacivanje jezika za dovršetak"
     }
 }

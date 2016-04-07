@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "မူလစာမျက်နှာ",
+        "Home": "နေအိမ်",
         "Feature": "အင်္ဂါရပ်များ",
-        "Documents": "အွန်လိုင်းမှတ်တမ်း",
-        "ReleaseNotes": "သတင်းထုတ်ပြန်ချက်မှတ်စုများ",
-        "Downloads": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
-        "Buy": "ဝယ်ယူ",
+        "Documents": "အွန်လိုင်းအကူအညီ",
+        "ReleaseNotes": "ဖြန့်ချိမှတ်စုများ",
+        "Downloads": "အခမဲ့စမ်းသပ်",
+        "Buy": "အရစ်ကျ",
         "Roadmap": "ကုန်ထုတ်ရေးလိုင်း",
-        "ReportIssue": "ပြဿနာက",
+        "ReportIssue": "ပြဿနာတစ်ခုတိုင်ကြားရန်",
         "Languages": "ဘာသာစကား"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "formats အမျိုးမျိုးနဲ့ Windows, Linux နဲ့ MacOSX တဲ့ operating systems များအတွက်ထောက်ခံမှုအကြား data များကိုအဖြစ်ပြောင်းလဲခြင်း။",
-        "BtnDownload": "အခမဲ့ရုံးတင်စစ်ဆေးမှု",
-        "BtnBuy": "ဝယ်ယူ",
+        "ProjectTagline": "မျိုးစုံသောပုံစံများအတွက်အချက်အလက်များ၏ကူးပြောင်းခြင်း, Windows, Linux နဲ့ MacOSX operating system အတွက်ထောက်ခံမှု။",
+        "BtnDownload": "အခမဲ့စမ်းသပ်",
+        "BtnBuy": "အရစ်ကျ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,18 +24,18 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ထုတ်ကုန်ပစ္စည်းကိုအဓိက features တွေ",
+            "SectionName": "ကုန်ပစ္စည်းအဓိက features တွေ",
             "list": [
-                "JSON ပြောင်းလဲခြင်းက XML, CSV, PLIST, INI, အ .properties နှင့်ယန်မင်ရိန်းပို့ဆောင်ရေး (YAML) ဖိုင်ကိုဒေတာတွေကိုထောက်ပံ့ပေးတာဖြစ်ပါတယ်။",
-                "ပံ့ပိုးမှုအသုတ်အဖြစ်ပြောင်းလဲခြင်း",
-                "ပံ့ပိုးမှု Customize အဖြစ်ပြောင်းလဲခြင်း parameters တွေကို",
-                "အထူးသဖြင့်အသိုက် JSON သို့ CSV files တွေကို converting ရှုပ်ထွေးသောဒေတာဖိုင်ကိုကိုင်တွယ်ဖြေရှင်းဘို့ပံ့ပိုးမှု,",
-                "CSV မှ converting ပံ့ပိုးမှု, CSV လယ်ကွင်းတွေ sorting ထား. delimiter setting ကို",
-                "(ဘာသာပြန်ဆို TryToTranslate tool ကိုသုံးပြီး) multi-ဘာသာစကားထောက်ခံမှု။"
+                "ပံ့ပိုးမှု JSON, XML ကို, CSV ဖိုင်, PLIST, INI, အ .properties နှင့် Yangming သဘောင်္တင် (YAML) ဖိုင်ကိုဒေတာကူးပြောင်း။",
+                "ပံ့ပိုးမှုအသုတ်ကူးပြောင်း",
+                "စိတ်ကြိုက်ကူးပြောင်းတဲ့ parameters တွေကိုထောကျပံ့",
+                "ရှုပ်ထွေးသောဒေတာဖိုင်အပြောင်းအလဲနဲ့ကိုထောကျပံ့, အထူးသဖြင့် converter ကိုအတွက် CSV ဖိုင်မှ JSON file တွေကိုပြပေးမှာ",
+                "အနားသတ်မျဉ်း setting များကို sort နှင့်သတ်မှတ်ထားဖို့ CSV ဖိုင်, CSV ကိုလယ်ကွင်းမှ converting ပံ့ပိုးမှု",
+                "(TryToTranslate ဘာသာပြန်ချက် tool ကိုသုံးပြီး) multi-ဘာသာစကားထောက်ခံမှု။"
             ]
         },
         "UserReviews": {
-            "SectionName": "ကျွန်တော်ဘာပြောနေမှာကြည့်လိုက်ပါ",
+            "SectionName": "လူတိုင်းအကြောင်းပြောနေတာဖြစ်ပါတယ်ဘယ်အရာကိုမြင်",
             "list": [
                 {
                     "reviewContent": "DataStorm ကြီးလှ၏။ ရိုးရှင်းစင်ကြယ်သော, စုံလင်သော။ Nice ပြုသောအမှု။",
@@ -43,19 +43,19 @@
                     "professional": "ဒေတာဘေ့စအုပ်ချုပ်ရေးမှူး"
                 },
                 {
-                    "reviewContent": "DataStorm ငါနီးပါးငါ့အလိုရှိသမျှ tools တွေကိုအဘယ်သို့ပြုမည်အရာကိုဒီအကြီးအအနည်းငယ်သာပလီကေးရှင်းဖြစ်ပါသည်။",
-                    "userName": "ပေတရု မှစ. တ Bright",
-                    "professional": "test အင်ဂျင်နီယာချုပ်"
+                    "reviewContent": "DataStorm ငါအားလုံးနီးပါးကိုငါ့ tools တွေကိုပြုပါ, ဒီဟာကြီးမြတ်နည်းနည်း application ဖြစ်ပါတယ်။",
+                    "userName": "ပတေရုသတောက်ပ",
+                    "professional": "စာမေးပွဲအင်ဂျင်နီယာချုပ်"
                 },
                 {
-                    "reviewContent": "သငျသညျဒေတာတွေကိုအဖြစ်ပြောင်းလဲခြင်းလုပ်ဖို့လိုလျှင်, DataStorm ကျိန်းသေမှာ download ရကျိုးနပ်သည်။",
+                    "reviewContent": "သငျသညျဒေတာကူးပြောင်းလုပ်ဖို့လိုလျှင်, DataStorm ကျိန်းသေဒေါင်းလုပ်ဆွဲရကျိုးနပ်သည်။",
                     "userName": "Lifehacker ရဲ့",
-                    "professional": "Web Developer တွေနဲ့ဒီဇိုင်နာများ"
+                    "professional": "Web ကို developer များနှင့်ဒီဇိုင်နာများ"
                 },
                 {
-                    "reviewContent": "ငါတကယ် DataStorm တူ, လွယ်ကူသောရောက်စေဖို့, ငါ့ကိုအလုပ်တွေအများကြီးကိုပေး၏။",
+                    "reviewContent": "ငါတကယ် DataStorm ကဲ့သို့အကြှနျုပျအဆင်ပြေအများကြီးရောက်စေဖို့အလုပ်လုပ်ပေးပါ။",
                     "userName": "jeruss",
-                    "professional": "PHP ကို​​မူဘောင်များဖွံ့ဖြိုးတိုးတက်ရေး"
+                    "professional": "PHP ကို​​မူဘောင်ဖွံ့ဖြိုးရေးလုပ်ငန်း"
                 }
             ]
         }
@@ -65,39 +65,52 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "output CSV - အစုံခွဲခြာ",
+                "section": "output CSV - set ကိုအနားသတ်မျဉ်း",
                 "videos": [
                     {
-                        "description": "CSV ကို output ဖိုင်များ, CSV set method ကို (default အနေနဲ့: '') delimited ။",
-                        "url": "ဗီဒီယိုများ / docs များ / it2csv_separator.mp4"
+                        "description": "CSV ကို output ကိုဖိုင်တွေ, ဆက်တင် CSV ကိုနည်းလမ်း (default အနေနဲ့: '') delimited ။",
+                        "url": "ဗီဒီယိုများ / docs / it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "output CSV - မျိုးကိုလယ်တင်ထားရန်",
+                "section": "output CSV - မျိုးလယ်ကွင်းတင်ထားရန်",
                 "videos": [
                     {
-                        "description": "CSV ဖိုင် output ကိုတစ်ဦးကရိုးရှင်းသွားရာလမ်း sort ဖို့ CSV လယ်ကွင်းတွေထားကြ၏။",
-                        "url": "ဗီဒီယိုများ / docs များ / it2csv_sortFields.mp4"
+                        "description": "CSV ဖိုင် output ကို, တစ်ဦးရိုးရှင်းသောနည်းလမ်း sort ဖို့ CSV ကိုလယ်ကွင်းထားကြ၏။",
+                        "url": "ဗီဒီယိုများ / docs / it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "output CSV - setting အင်ဂျင်ရှုပ်ထွေးသောတ္ထုကိုသုံး",
+                "section": "output CSV - ချိန်ညှိခြင်းအင်ဂျင်ရှုပ်ထွေးတဲ့တ္ထုကိုသုံး",
                 "videos": [
                     {
-                        "description": "CSV ဖိုင် output ကို, ရှုပ်ထွေးသော input ကို files တွေကိုသုံးပြီးရှုပ်ထွေးသောတ္ထုကိုင်တွယ်ရန်အင်ဂျင်ထားကြ၏။ Default အနေနဲ့: ပွင့်လင်း။",
-                        "url": "ဗီဒီယိုများ / docs များ / it2csv_useComplexJSONEngine.mp4"
+                        "description": "CSV ဖိုင်ထုတ်လုပ်မှု, ရှုပ်ထွေးသော input ကိုဖိုငျကို အသုံးပြု. ရှုပ်ထွေးတဲ့တ္ထုကိုင်တွယ်ရန်အင်ဂျင်ထားကြ၏။ Default: ပွင့်လင်း။",
+                        "url": "ဗီဒီယိုများ / docs / it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "သတင်းထုတ်ပြန်ချက်",
+        "labelVersion": "လွှတ်ပေး",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "list": [
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
+                    },
+                    {
+                        "platform": "{{Windows,MacOSX,Linux}}",
+                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "list": [
@@ -125,7 +138,7 @@
                 ]
             },
             {
-                "version": "4,19",
+                "version": "{{4.19}}",
                 "list": [
                     {
                         "platform": "{{MacOSX}}",
@@ -172,8 +185,43 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "သတင်းထုတ်ပြန်ချက်",
+        "labelVersion": "လွှတ်ပေး",
         "list": [
+            {
+                "version": "{{4.23}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x86-setup.exe}}",
+                        "size": "{{45.5MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/6of7h3a0f93h/DataStorm-v4.23-win32-x86-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/win32.png}}",
+                        "name": "{{DataStorm-v4.23-win32-x64-setup.exe}}",
+                        "size": "{{52.18MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/5amno9q0zokn/DataStorm-v4.23-win32-x64-setup.exe}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.23-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/4q581juibuvx/DataStorm-v4.23.0-darwin-x64.zip}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-ia32-install.tar.gz}}",
+                        "size": "{{59.7MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/43iv2sgta9ul/DataStorm-v4.23-linux-ia32-install.tar.gz}}"
+                    },
+                    {
+                        "osUrl": "{{images/download/linux.png}}",
+                        "name": "{{DataStorm-v4.23-linux-x64-install.tar.gz}}",
+                        "size": "{{59.2MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/1twhzcyj6flf/DataStorm-v4.23-linux-x64-install.tar.gz}}"
+                    }
+                ]
+            },
             {
                 "version": "{{4.21}}",
                 "zipList": [
@@ -270,55 +318,37 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "မည်သို့ Buy ရန်",
+        "SectionName": "ယ်ယူရန်",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525593555503}}"
-            },
-            {
-                "name": "{{DataStorm for linux}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=525594123342}}"
-            },
-            {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "price": "{{99元}}",
-                "buyURL": "{{https://item.taobao.com/item.htm?id=522999242720}}"
-            },
-            {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
                 "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
             },
             {
                 "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$19.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$15.99}}",
+                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
             }
         ]
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "website ကရရှိနိုင်ဘာသာစကားများကို",
-        "ChangeAlert": "complete switch ကိုဘာသာစကား"
+        "SectionName": "ရရှိနိုင်ဆိုက်ကိုဘာသာစကား",
+        "ChangeAlert": "ဖြည့်စွက်ဖို့ဘာသာစကား switching"
     }
 }
