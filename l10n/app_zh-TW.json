@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "產品主要功能特性",
             "list": [
-                "支持JSON，XML，CSV，PLIST，INI，的.properties和陽明海運（YAML）文件數據之間的轉換。",
+                "支持JSON，XML，CSV，PLIST，INI，的.properties和YML（YAML）文件數據之間的轉換。",
                 "支持批量轉換",
                 "支持定制轉換參數",
                 "支持複雜數據的文件處理，特別是嵌套JSON文件轉換成CSV",

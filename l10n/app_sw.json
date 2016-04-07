@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Bidhaa sifa kuu",
             "list": [
-                "Support JSON, kubadilisha XML, CSV, plist, INI, .properties na data file Yangming Shipping (YAML).",
+                "data uongofu (YAML) file kati ya msaada JSON, XML, CSV, plist, INI, .properties na YML.",
                 "Support uongofu kundi",
                 "Support umeboreshwa vigezo kubadilika",
                 "Support tata data faili usindikaji, hasa kubadilisha fedha Furushi files JSON kwa CSV",

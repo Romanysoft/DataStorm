@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Toote põhijooned",
             "list": [
-                "Toetus JSON, teisendada XML, CSV, plist, INI, siis .atribuudid ja Yangming Shipping (YAML) faili andmed.",
+                "Tulemus (YAML) faili andmete vahel toetus JSON, XML, CSV, plist, INI, siis .atribuudid ja YML.",
                 "Toetus partii tulemus",
                 "Toetus kohandatud muundamise parameetreid",
                 "Probleemid keeruline andmefailide töötlemist, eriti konverter nested JSON faile CSV",

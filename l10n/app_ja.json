@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "製品の主な特長",
             "list": [
-                "サポートJSON、XML、CSV、PLIST、INI、.propertiesファイルや陽明送料（YAML）ファイルデータを変換します。",
+                "サポートJSON、XML、CSV、PLIST、INI、.propertiesファイルとYMLの間の変換（YAML）ファイルデータ。",
                 "サポートバッチ変換",
                 "カスタマイズされた変換パラメータをサポートしています",
                 "CSVファイルに特定のコンバータネストされたJSONファイルでは、複雑なデータファイルの処理をサポートしています",

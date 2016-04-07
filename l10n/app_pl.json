@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Produkt główne cechy",
             "list": [
-                "Pomoc JSON, konwersja XML, CSV, PLIST, INI, w .Properties i Yangming wodny (YAML) dane pliku.",
+                "Dane konwersji plików (YAML) pomiędzy wsparcia JSON, XML, CSV, PLIST, ini, w .Properties i yml.",
                 "Wsparcie partii konwersji",
                 "Wsparcie dostosować parametry konwersji",
                 "Wspierać kompleksową obróbkę plików danych, w szczególności przekształtników zagnieżdżone pliki JSON do CSV",

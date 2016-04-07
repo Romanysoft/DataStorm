@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Các tính năng chính của sản phẩm",
             "list": [
-                "Hỗ trợ JSON, chuyển đổi XML, CSV, plist, INI, các .properties và Dương Minh Vận chuyển (YAML) dữ liệu tập tin.",
+                "dữ liệu chuyển đổi (YAML) tập tin giữa hỗ trợ JSON, XML, CSV, plist, INI, các .properties và YML.",
                 "Hỗ trợ chuyển đổi hàng loạt",
                 "Hỗ trợ tùy chỉnh các thông số chuyển đổi",
                 "Hỗ trợ xử lý tập tin dữ liệu phức tạp, trong chuyển đổi lồng đặc biệt file JSON để CSV",

@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Product tena endri-javatra",
             "list": [
-                "Support JSON, niova fo XML, CSV, PLIST, Ini, ny .properties sy Yangming Shipping (YAML) rakitra tahirin-kevitra.",
+                "Fiovam-po (YAML) rakitra tahirin-kevitra eo amin'ny fanohanana JSON, XML, CSV, PLIST, Ini, ny .properties sy YML.",
                 "Support batch fiovam-po",
                 "Support namboarina fiovam-po masontsivana",
                 "Tohano sarotra angona rakitra fanodinana, indrindra fa mpanova raki-daza ho nested JSON CSV",

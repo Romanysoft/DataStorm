@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Produktuen ezaugarri nagusiak",
             "list": [
-                "Laguntzarako JSON, bihurtzeko XML, CSV, plist, INE, .properties eta Yangming Shipping (YAML) fitxategia datuak.",
+                "laguntza JSON, XML, CSV, plist, INE, .properties eta YML arteko bihurketa (YAML) fitxategia datuak.",
                 "batch conversion laguntza",
                 "bihurtze parametro laguntza pertsonalizatu",
                 "Onartzen konplexua datuak fitxategi prozesatzeko, bereziki converter habiaratu JSON fitxategiak CSV in",

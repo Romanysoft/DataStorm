@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Produkto ĉefaj karakterizaĵoj",
             "list": [
-                "Subteno JSON, konverti XML, CSV, plist, INI, la .properties kaj Yangming Shipping (YAML) dosiero datumoj.",
+                "Konvertiĝo (YAML) dosiero datumoj inter subteno JSON, XML, CSV, plist, INI, la .properties kaj YML.",
                 "Subteno batch konvertiĝo",
                 "Subteno adaptitajn konvertiĝo parametroj",
                 "Subtenu kompleksaj datumoj dosiero prilaborado, aparte konvertilo nestitaj JSON dosierojn al CSV",

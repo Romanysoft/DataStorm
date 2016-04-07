@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Hlavní rysy produktu",
             "list": [
-                "Podpora JSON, převést XML, CSV, PLIST, INI, na .properties a souborová data Yangming doprava (YAML).",
+                "Data souboru konverze (YAML) mezi podporou JSON, XML, CSV, PLIST, INI, v .properties a YML.",
                 "Podpora dávkové konverze",
                 "Podpora vlastní parametry konverze",
                 "Podporovat komplexní zpracování souboru dat, zejména konvertoru vnořené JSON souborů do formátu CSV",

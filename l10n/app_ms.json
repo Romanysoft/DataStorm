@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Ciri-ciri utama produk",
             "list": [
-                "Sokongan JSON, menukar XML, CSV, plist, INI, yang .properties dan Yangming Penghantaran (YAML) data fail.",
+                "Data penukaran (YAML) fail antara sokongan JSON, XML, CSV, plist, INI, yang .properties dan YML.",
                 "Sokongan penukaran kumpulan",
                 "Sokongan disesuaikan parameter penukaran",
                 "Menyokong pemprosesan fail data yang kompleks, khususnya penukar bersarang fail JSON untuk CSV",

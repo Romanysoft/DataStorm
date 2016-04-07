@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Produkthuvuddrag",
             "list": [
-                "Stöd JSON, konvertera XML, CSV, PLIST, INI, de .properties och Yangming Shipping (YAML) fildata.",
+                "Omvandling (YAML) fildata mellan stöd JSON, XML, CSV, PLIST, INI, de .properties och YML.",
                 "Stöd baken omvandlingen",
                 "Stöd anpassas omvandlingsparametrar",
                 "Stödja komplexa data filbearbetning, särskilt omvandlare kapslade JSON-filer till CSV",

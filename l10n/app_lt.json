@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Produkto pagrindiniai bruožai",
             "list": [
-                "Pagalba JSON, konvertuoti XML, CSV, plist, INI, kad Properties ir Yangming Pristatymas (yaml) Failo duomenis.",
+                "Konversijos (yaml) failo duomenys tarp paramos JSON, XML, CSV, plist, INI, iš Properties ir YML.",
                 "Remti partiją konversiją",
                 "Paramos pritaikytą perskaičiavimo parametrai",
                 "Palaikymo sudėtingą duomenų failo tvarkymui, ypač keitiklių įdėtos JSON failus į CSV",

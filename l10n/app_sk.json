@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Účinky",
             "list": [
-                "Podpora JSON, previesť XML, CSV, plist, INI, na .properties a súborová dáta Yangming doprava (Yamli).",
+                "Dáta súboru konverzie (Yamli) medzi podporou JSON, XML, CSV, plist, INI, v .properties a YML.",
                 "Podpora dávkové konverzie",
                 "Podpora vlastné parametre konverzie",
                 "Podporovať komplexné spracovanie súboru dát, najmä konvertora vnorené JSON súborov do formátu CSV",

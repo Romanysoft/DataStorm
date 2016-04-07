@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "ਉਤਪਾਦ ਮੁੱਖ ਫੀਚਰ",
             "list": [
-                "ਸਹਿਯੋਗ JSON, XML, CSV, plist, INI, .properties ਅਤੇ Yangming ਸ਼ਿਪਿੰਗ (YAML) ਫਾਇਲ ਡਾਟਾ ਤਬਦੀਲ.",
+                "ਸਹਿਯੋਗ ਨੂੰ JSON, XML, CSV, plist, INI, .properties ਅਤੇ YML ਵਿਚਕਾਰ ਤਬਦੀਲੀ (YAML) ਫਾਇਲ ਨੂੰ ਡਾਟਾ.",
                 "ਸਹਿਯੋਗ ਬੈਚ ਤਬਦੀਲੀ",
                 "ਸਹਿਯੋਗ ਪਸੰਦੀ ਤਬਦੀਲੀ ਪੈਰਾਮੀਟਰ",
                 "ਸਹਿਯੋਗ ਗੁੰਝਲਦਾਰ ਡਾਟਾ ਫਾਇਲ ਨੂੰ ਕਾਰਵਾਈ ਕਰਨ CSV ਨੂੰ ਖਾਸ ਪਰਿਵਰਤਕ ਲ਼ਈ JSON ਫਾਇਲ ਵਿੱਚ,",

@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Mahsulot asosiy xususiyatlari",
             "list": [
-                "Support JSON, XML, CSV, plist, ini, suvoqli va Yangming to'laydi (YAML) Fayl ma'lumotlarni aylantirish.",
+                "qo'llab-quvvatlash JSON, XML, CSV, plist, ini, suvoqli va YML bilan ishlash (YAML) fayl ma'lumotlar.",
                 "Ko'mak ommaviy o'tkazish",
                 "Support tayyorlangan konvertatsiya parametrlar",
                 "CSV alohida Konverter nested JSON fayllar ham, murakkab ma'lumotlar fayli ishlash qo'llab-quvvatlash",

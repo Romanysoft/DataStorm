@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Gnéithe bpríomhtháirge",
             "list": [
-                "Tacaíocht JSON, thiontú XML, CSV, plist, INI, na .properties agus sonraí comhaid Yangming Loingseoireacht (YAML).",
+                "Sonraí Comhshó (YAML) comhaid idir JSON tacaíochta, XML, CSV, plist, INI, na .properties agus YML.",
                 "comhshó bhaisc Tacaíocht",
                 "Paraiméadair comhshó Tacaíocht saincheaptha",
                 "Tabhair tacaíocht casta a phróiseáil comhad sonraí, go háirithe tiontaire neadaithe comhaid JSON go CSV",

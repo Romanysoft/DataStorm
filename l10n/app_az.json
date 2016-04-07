@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Product əsas xüsusiyyətləri",
             "list": [
-                "Support JSON, XML, CSV, plist, INI, xassələri və Yangming Shipping (YAML) fayl data çevirmək.",
+                "dəstək JSON, XML, CSV, plist, ını, xassələri və İML arasında Dönüşüm (YAML) fayl data.",
                 "Support batch dönüşüm",
                 "Support xüsusi dönüşüm parametrləri",
                 "CSV xüsusi converter iç içə JSON faylları, mürəkkəb data file emal dəstək",

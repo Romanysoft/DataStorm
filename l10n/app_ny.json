@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Mankhwala zinthu zofunika",
             "list": [
-                "Support JSON, kutembenuza XML, CSV, PLIST, INI, ndi .properties ndi deta file Yangming Kutumiza (YAML).",
+                "deta kutembenuka (YAML) file pakati thandizo JSON, XML, CSV, PLIST, INI, ndi .properties ndi YML.",
                 "Support kutembenuka mtanda",
                 "Support makonda magawo kutembenuka",
                 "Kuthandiza zovuta deta file processing, makamaka Converter zinapeza malo okhala owona JSON kuti CSV",

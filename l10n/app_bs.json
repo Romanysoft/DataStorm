@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Proizvod glavne karakteristike",
             "list": [
-                "Podrška JSON, pretvoriti XML, CSV, PLIST, INI, u .properties i Yangming Shipping (JUMP) podataka datoteke.",
+                "Podaci o pretvorbi (JUMP) datoteka između podrška JSON, XML, CSV, PLIST, INI, u .properties i YML.",
                 "Podrška batch konverziju",
                 "Podrška prilagoditi parametre konverzije",
                 "Podrška kompleks obrade datoteka podataka, a posebno konverter ugnijezditi JSON datoteke u CSV",

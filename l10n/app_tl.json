@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Produkto pangunahing tampok",
             "list": [
-                "Support JSON, i-convert XML, CSV, plist, INI, ang .properties at Yangming Shipping (YAML) data file.",
+                "data ng conversion (YAML) file sa pagitan ng suporta JSON, XML, CSV, plist, INI, ang .properties at YML.",
                 "Support batch conversion",
                 "Support customize parameter conversion",
                 "Suportahan kumplikadong data file processing, sa mga partikular na converter nested JSON file sa CSV",

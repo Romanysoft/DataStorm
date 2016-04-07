@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Karakteristika të produktit kryesore",
             "list": [
-                "Mbështetje JSON, XML kthyer, CSV, plist, INI, e .properties dhe Yangming Shipping (YAML) të dhënat e file.",
+                "të dhënat e konvertimit (YAML) fotografi mes mbështetje JSON, XML, CSV, plist, INI, të .properties dhe YML.",
                 "Mbështetje grumbull konvertimit",
                 "Mbështetja e përshtatur parametrat e konvertimit",
                 "Mbështetur komplekse fotografi përpunimit të të dhënave, në veçanti converter mbivendosur fotografi JSON në CSV",

@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Proizvod Glavne značajke",
             "list": [
-                "Podrška JSON, pretvoriti XML, CSV, PLIST, INI, u .PROPERTIES i Yang-mingov dostava (YAML) datoteka podataka.",
+                "Podaci pretvorbe (YAML) datoteka između podrške JSON, XML, CSV, PLIST, INI, u .PROPERTIES i YML.",
                 "Podrška serija pretvorbe",
                 "Podrška prilagoditi parametre konverzije",
                 "Podrška kompleksnu obradu podataka datoteke, posebno konverter uklopljeni JSON datoteka u CSV",

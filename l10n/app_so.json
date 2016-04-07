@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Product qaababka ugu muhiimsan ee",
             "list": [
-                "Taageerada JSON, badalo XML, CSV, PLIST, INI, ka .properties iyo Yangming Shipping (YAML) xogta file.",
+                "data Conversion (YAML) file dhexeeya JSON taageero, XML, CSV, PLIST, INI, .properties iyo YML.",
                 "diinta Dufcaddii Support",
                 "Taageerada kartoo-beegyada uu diinta",
                 "Taageer processing file xog adag, gaar ahaan Converter nested files JSON in CSV",

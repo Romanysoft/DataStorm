@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Product nag-unang mga bahin",
             "list": [
-                "Support JSON, kinabig XML, CSV, PLIST, ini, ang mga .properties ug Yangming Shipping (YAML) sa data file.",
+                "data sa pagkakabig (YAML) file sa taliwala sa suporta JSON, XML, CSV, PLIST, ini, ang mga .properties ug YML.",
                 "Support batch pagkakabig",
                 "Support customized lantugi pagkakabig",
                 "Suportahi komplikado sa data file pagproseso, sa partikular Tigpabalhin nagsalag JSON file sa CSV",

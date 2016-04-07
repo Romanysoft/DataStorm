@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "fitur utama Product",
             "list": [
-                "Dhukungan JSON, ngowahi XML, CSV, plist, INI, ing .properties lan data file Yangming Shipping (YAML).",
+                "data konversi (YAML) file antarane support JSON, XML, CSV, plist, INI, ing .properties lan YML.",
                 "Dhukungan konversi kumpulan",
                 "Dhukungan selaras paramèter konversi",
                 "Ndhukung Processing file data Komplek, ing tartamtu rate ketik teks utawa file JSON kanggo CSV",

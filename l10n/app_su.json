@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "fitur utama produk",
             "list": [
-                "Rojongan JSON, ngarobah XML, CSV, PLIST, INI, nu .properties jeung data file Yangming pengiriman barang (YAML).",
+                "data Konversi (YAML) file antara pangrojong JSON, XML, CSV, PLIST, INI, nu .properties jeung YML.",
                 "Rojongan konversi angkatan",
                 "Rojongan ngaropéa parameter konversi",
                 "Ngarojong processing file data kompléks, hususna converter nested payil JSON ka CSV",

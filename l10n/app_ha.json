@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Product main siffofin",
             "list": [
-                "Support JSON, maida XML, CSV, PLIST, Ini, da .properties da Yangming Shipping (YAML) file data.",
+                "Chanza (YAML) file bayanai tsakanin goyon bayan JSON, XML, CSV, PLIST, Ini, da .properties da YML.",
                 "Support tsari hira",
                 "Support musamman hira sigogi",
                 "Goyi bayan hadaddun data fayil aiki, musamman Converter nested JSON fayiloli zuwa CSV",

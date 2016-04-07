@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Ọja akọkọ awọn ẹya ara ẹrọ",
             "list": [
-                "Support JSON, iyipada XML, CSV, PLIST, yi, awọn .properties ati Yangming Ako (YAML) faili data.",
+                "Iyipada (YAML) file data laarin awọn support JSON, XML, CSV, PLIST, yi, awọn .properties ati YML.",
                 "Support ipele iyipada",
                 "Support ti adani iyipada sile",
                 "Atilẹyin eka data faili processing, ni pato converter iteeye JSON awọn faili to CSV",

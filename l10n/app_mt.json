@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Karatteristiċi ewlenin tal-prodott",
             "list": [
-                "Appoġġ JSON, jikkonvertu XML, CSV, PLIST, INI, il .properties u Yangming Bastimenti (YAML) fajl tad-data.",
+                "data Konverżjoni (YAML) fajl bejn JSON appoġġ, XML, CSV, PLIST, INI, il .properties u YML.",
                 "konverżjoni tal-lott Appoġġ",
                 "Appoġġ apposta parametri ta 'konverżjoni",
                 "Appoġġ għall-kumpless ipproċessar fajl tad-data, b'mod partikolari konvertitur nested fajls JSON lill CSV",

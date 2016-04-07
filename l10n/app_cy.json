@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Cynnyrch prif nodweddion",
             "list": [
-                "Cymorth JSON, trosi XML, CSV, PLIST, INI, mae'r .properties a data ffeil Yangming Shipping (YAML).",
+                "Data Trosi (YAML) ffeil rhwng JSON cymorth, XML, CSV, PLIST, INI, mae'r .properties a Yml.",
                 "trosi swp Cymorth",
                 "Cymorth customized paramedrau trosi",
                 "Cefnogi prosesu ffeil data cymhleth, yn arbennig trawsnewidydd nythu ffeiliau JSON i CSV",

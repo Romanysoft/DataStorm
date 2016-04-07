@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Produk belangrikste kenmerke",
             "list": [
-                "Ondersteuning into omskep XML, CSV, PLIST, INI, die .properties en YangMing Pos (YAML) lêer data.",
+                "(YAML) lêer omskakeling van data tussen ondersteuning into, XML, CSV, PLIST, INI, die .properties en YML.",
                 "Ondersteuning joernaal sukses",
                 "Ondersteuning persoonlike sukses parameters",
                 "Ondersteun komplekse data lêer verwerking, in die besonder converter geneste into lêers na CSV",

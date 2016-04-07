@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Product isi atụmatụ",
             "list": [
-                "Nkwado JSON, tọghata XML, CSV, PLIST, Ini, ndị .properties na Yangming Mbupu (YAML) file data.",
+                "Akakabarede (YAML) file data n'etiti support JSON, XML, CSV, PLIST, Ini, ndị .properties na YML.",
                 "Nkwado ogbe akakabarede",
                 "Nkwado ahaziri akakabarede parameters",
                 "Akwado mgbagwoju data file nhazi, akpan akpan Ntụgharị kpara akwụ JSON faịlụ CSV",

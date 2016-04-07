@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Caracteristici principale ale produsului",
             "list": [
-                "Suport JSON, converti XML, CSV, Plist, INI, a .properties și fișierul de date Yangming Shipping (YAML).",
+                "date de fișier de conversie (YAML) între JSON suport, XML, CSV, Plist, INI, a .properties și YML.",
                 "Suport de conversie lot",
                 "Parametrii de conversie de sprijin personalizat",
                 "Sprijini complexe de prelucrare a fișierelor de date, convertor cuibărit anumite fișiere JSON CSV",

@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "제품 주요 특징",
             "list": [
-                "지원 JSON은 XML, CSV, PLIST, INI는 .properties 파일과 양명 배송 (YAML) 파일 데이터를 변환합니다.",
+                "지원 JSON, XML, CSV, PLIST, INI의 .properties 파일 및 YML 사이의 변환 (YAML) 파일 데이터.",
                 "지원 일괄 변환",
                 "고객 맞춤형 변환 파라미터",
                 "CSV 특히 변환기 중첩 JSON 파일에 복합 데이터 파일 처리를 지원",

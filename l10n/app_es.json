@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "características principales del producto",
             "list": [
-                "Soporte JSON, XML, CSV convertir, PLIST, INI, los datos del archivo .properties y Yang Ming de envío (YAML).",
+                "Conversión de archivos de datos (YAML) entre JSON apoyo, XML, CSV, PLIST, INI, los .properties y YML.",
                 "Soporta conversión por lotes",
                 "parámetros de conversión de soporte personalizado",
                 "Apoyar el procesamiento de archivos de datos complejos, en particular convertidor anidado archivos JSON a CSV",

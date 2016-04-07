@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Khoom tseem ceeb nta",
             "list": [
-                "Kev them nyiaj yug JSON, hloov XML, CSV, plist, no, lub .properties thiab Yangming Shipping (YAML) cov ntaub ntawv cov ntaub ntawv.",
+                "Conversion (YAML) cov ntaub ntawv cov ntaub ntawv ntawm cov nyiaj them yug JSON, XML, CSV, plist, no, lub .properties thiab YML.",
                 "Kev them nyiaj yug batch hloov dua siab tshiab",
                 "Kev them nyiaj yug Mekas hloov dua siab tshiab tsis",
                 "Txhawb txoj ntaub ntawv cov ntaub ntawv ua, nyob rau hauv particular converter nested JSON ntaub ntawv rau CSV",

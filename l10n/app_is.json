@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Vara Helstu eiginleikar",
             "list": [
-                "Stuðningur JSON, umbreyta XML, CSV, plist, INI, á .properties og Yangming Shipping (Yaml) skrá gögn.",
+                "Ummyndun (Yaml) skrá gögn á milli stuðningi JSON, XML, CSV, plist, ini, sem .properties og YML.",
                 "Stuðningur hópur ummyndun",
                 "Stuðningur sérsniðin ummyndun breytur",
                 "Stuðningur flókin gögn skrá vinnslu, einkum breytir orpið JSON skrá CSV",

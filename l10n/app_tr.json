@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Ürün ana özellikleri",
             "list": [
-                "Destek JSON, XML, CSV, PLIST, INI, .properties ve Yangming taşıtları (YAML) dosyası verileri dönüştürmek.",
+                "destek JSON, XML, CSV, PLIST, INI, .properties ve YML arasındaki dönüşüm (YAML) dosya veri.",
                 "Toplu dönüştürme desteği",
                 "Destek özelleştirilmiş dönüşüm parametreleri",
                 "CSV özellikle dönüştürücü iç içe JSON dosyaları, karmaşık veri dosya işleme Destek",

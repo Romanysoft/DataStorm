@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Product belangrijkste kenmerken",
             "list": [
-                "Ondersteuning JSON, om te zetten XML, CSV, PLIST, INI, de .properties en Yangming Shipping (YAML) file data.",
+                "(YAML) bestand conversie van gegevens tussen ondersteuning JSON, XML, CSV, PLIST, INI, de .properties en YML.",
                 "Ondersteuning batch-conversie",
                 "Ondersteuning aangepast conversieparameters",
                 "Ondersteuning van complexe data-bestand verwerken, in het bijzonder converter genest JSON-bestanden naar CSV",

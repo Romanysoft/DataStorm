@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Umkhiqizo izici eziyinhloko",
             "list": [
-                "Amaprosesa asekelwe JSON, ukuguqula XML, CSV, PLIST, INI, lo .properties kanye nedatha ifayela Yangming Shipping (YAML).",
+                "Idatha Ukuguquka (YAML) ifayela emkhatsini ukwesekwa JSON, XML, CSV, PLIST, INI, lo .properties kanye YML.",
                 "batch nokuguquka ukweseka",
                 "Amaprosesa asekelwe egcizelele ukuguqulwa nemingcele",
                 "Sekela eziyinkimbinkimbi processing ifayela yemininingwane, ikakhulukazi Converter izidleke JSON amafayela kuma CSV",

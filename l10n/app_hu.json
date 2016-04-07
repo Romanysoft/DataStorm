@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "A termék főbb jellemzői",
             "list": [
-                "Support JSON, átalakítani az XML, CSV, PLIST, INI, a .properties és Yangming Szállítási (YAML) fájl adatait.",
+                "Conversion (YAML) fájl adatai között támogatja JSON, XML, CSV, PLIST, INI, a .properties és YML.",
                 "Support batch konverzió",
                 "Support szabott átalakítás paraméterei",
                 "Támogatják a komplex adatállomány feldolgozása, különösen átalakító beágyazott JSON fájlok CSV",

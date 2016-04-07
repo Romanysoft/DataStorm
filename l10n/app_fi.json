@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Tuotteen tärkeimmät ominaisuudet",
             "list": [
-                "Tuki JSON, muuntaa XML, CSV, plist, INI, The .properties ja Yangming Shipping (YAML) tiedostodataa.",
+                "Conversion (YAML) tiedosto dataa tukea JSON, XML, CSV, plist, INI, The .properties ja YML.",
                 "Tuki erän muuntaminen",
                 "Tuki räätälöityjä muuntaminen parametrit",
                 "Tukea monimutkaisia ​​tietoja tiedostojen käsittelyyn, erityisesti muunnin sisäkkäisiä JSON tiedostoja CSV",
