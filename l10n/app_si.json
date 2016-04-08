@@ -5,7 +5,7 @@
         "Documents": "ලිපි ලේඛන",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "නඩු විභාගය",
-        "Buy": "මිලදී",
+        "Buy": "මිලට ගන්න",
         "Roadmap": "මාර්ග සිතියමක්",
         "ReportIssue": "ගැටලු",
         "Languages": "භාෂා"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "පවතින භාෂා (යන්ත්ර භාෂාවට පරිවර්තනය)",
+        "SectionName": "පවතින භාෂා (මෙට්රික් ටොන්)",
         "ChangeAlert": "සම්පූර්ණ කිරීම සඳහා භාෂා මාරු"
     }
 }

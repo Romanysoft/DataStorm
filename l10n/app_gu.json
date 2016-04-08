@@ -5,7 +5,7 @@
         "Documents": "દસ્તાવેજો",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "ટ્રાયલ",
-        "Buy": "ખરીદી",
+        "Buy": "ખરીદો",
         "Roadmap": "RoadMap",
         "ReportIssue": "મુદ્દાઓ",
         "Languages": "ભાષા"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ઉપલબ્ધ ભાષા (મશીન અનુવાદ)",
+        "SectionName": "ઉપલબ્ધ ભાષા (MT)",
         "ChangeAlert": "સ્વિચ ભાષા પૂર્ણ"
     }
 }

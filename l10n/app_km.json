@@ -5,7 +5,7 @@
         "Documents": "ឯកសារ",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "ការជំនុំជម្រះ",
-        "Buy": "ការទិញ",
+        "Buy": "ទិញ",
         "Roadmap": "ផែនទីផ្លូវ",
         "ReportIssue": "បញ្ហា",
         "Languages": "ភាសា"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ភាសាដែលអាចប្រើបាន (ប្រែម៉ាស៊ីន)",
+        "SectionName": "ភាសាដែលអាចប្រើបាន (តោន)",
         "ChangeAlert": "ការផ្លាស់ប្តូរភាសាដើម្បីបញ្ចប់"
     }
 }

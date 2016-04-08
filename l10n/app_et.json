@@ -5,7 +5,7 @@
         "Documents": "dokumendid",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "kohtuprotsess",
-        "Buy": "ostmine",
+        "Buy": "ostma",
         "Roadmap": "Tegevuskavas",
         "ReportIssue": "küsimused",
         "Languages": "keeled"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Saadaval keel (masintõlge)",
+        "SectionName": "Saadaval keel (MT)",
         "ChangeAlert": "Switching keel lõpetada"
     }
 }

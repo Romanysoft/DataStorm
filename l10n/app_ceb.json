@@ -5,7 +5,7 @@
         "Documents": "dokumento",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "Trial",
-        "Buy": "pagpalit",
+        "Buy": "Palita",
         "Roadmap": "roadmap",
         "ReportIssue": "mga isyu",
         "Languages": "Pinulongan"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Anaa pinulongan (machine hubad)",
+        "SectionName": "Anaa pinulongan (MT)",
         "ChangeAlert": "-Ilis pinulongan sa pagkompleto sa"
     }
 }

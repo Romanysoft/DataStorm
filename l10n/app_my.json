@@ -5,7 +5,7 @@
         "Documents": "စာရွက်စာတမ်းများ",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "စမ်းသပ်ခြင်း",
-        "Buy": "အရစ်ကျ",
+        "Buy": "ယ်ယူရန်",
         "Roadmap": "လမ်းပြမြေပုံ",
         "ReportIssue": "ကိစ္စရပ်များကို",
         "Languages": "ဘာသာစကားများ"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ရရှိနိုင်ဘာသာစကား (စက်ဘာသာပြန်ချက်)",
+        "SectionName": "ရရှိနိုင်ဘာသာစကား (MT)",
         "ChangeAlert": "ဖြည့်စွက်ဖို့ဘာသာစကား switching"
     }
 }

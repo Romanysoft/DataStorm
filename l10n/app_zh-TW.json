@@ -5,7 +5,7 @@
         "Documents": "文件",
         "ReleaseNotes": "發行說明",
         "Downloads": "審訊",
-        "Buy": "採購",
+        "Buy": "購買",
         "Roadmap": "路線圖",
         "ReportIssue": "問題",
         "Languages": "語言"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "可用的語言（機器翻譯）",
+        "SectionName": "可用的語言（MT）",
         "ChangeAlert": "切換語言來完成"
     }
 }

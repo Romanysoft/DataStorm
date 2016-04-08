@@ -5,7 +5,7 @@
         "Documents": "Mga dokumento",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "pagsubok",
-        "Buy": "pagbili",
+        "Buy": "bumili",
         "Roadmap": "Roadmap",
         "ReportIssue": "isyu",
         "Languages": "Mga wika"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Magagamit wika (machine translation)",
+        "SectionName": "Magagamit wika (MT)",
         "ChangeAlert": "Ang paglipat wika upang makumpleto"
     }
 }

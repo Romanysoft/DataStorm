@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ಲಭ್ಯವಿರುವ ಭಾಷೆ (ಯಂತ್ರ ಭಾಷಾಂತರ)",
+        "SectionName": "ಲಭ್ಯವಿರುವ ಭಾಷೆ (ಎಂಟಿ)",
         "ChangeAlert": "ಪೂರ್ಣಗೊಳಿಸಲು ಭಾಷೆ ಬದಲಾಯಿಸುವುದು"
     }
 }

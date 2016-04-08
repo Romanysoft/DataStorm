@@ -5,7 +5,7 @@
         "Documents": "কাগজপত্র",
         "ReleaseNotes": "অব্যাহতি পত্র",
         "Downloads": "পরীক্ষা",
-        "Buy": "ক্রয়",
+        "Buy": "কেনা",
         "Roadmap": "রোডম্যাপ",
         "ReportIssue": "সমস্যা",
         "Languages": "ভাষাসমূহ"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "উপলভ্য ভাষা (মেশিন অনুবাদ)",
+        "SectionName": "উপলভ্য ভাষা (এমটি)",
         "ChangeAlert": "স্যুইচিং ভাষা সম্পন্ন করার"
     }
 }

@@ -5,7 +5,7 @@
         "Documents": "баримт бичиг",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "Шүүхийн",
-        "Buy": "Худалдан авах",
+        "Buy": "Одоо худалдаж авах",
         "Roadmap": "чиглэл",
         "ReportIssue": "асуудлууд",
         "Languages": "Хэл"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Боломжит хэл (машин орчуулга)",
+        "SectionName": "Боломжит хэл (MT)",
         "ChangeAlert": "дуусгахын тулд хэл Switching"
     }
 }

@@ -5,7 +5,7 @@
         "Documents": "Doiciméid",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "triail",
-        "Buy": "Ceannach",
+        "Buy": "Ceannaigh",
         "Roadmap": "treochlár",
         "ReportIssue": "Ceisteanna",
         "Languages": "teangacha"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "teanga atá ar fáil (Aistriúchán meaisín)",
+        "SectionName": "teanga atá ar fáil (MT)",
         "ChangeAlert": "Aistriú teanga a chur i gcrích"
     }
 }

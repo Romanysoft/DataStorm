@@ -5,7 +5,7 @@
         "Documents": "Documents",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "fitsapana",
-        "Buy": "Purchase",
+        "Buy": "Buy",
         "Roadmap": "Tondrozotra",
         "ReportIssue": "olana",
         "Languages": "fiteny"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Misy teny (milina fandikan-teny)",
+        "SectionName": "Misy teny (MT)",
         "ChangeAlert": "Ara fiteny hamita"
     }
 }

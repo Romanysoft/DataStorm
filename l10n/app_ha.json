@@ -5,7 +5,7 @@
         "Documents": "takardu",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "Trial",
-        "Buy": "Purchase",
+        "Buy": "buy",
         "Roadmap": "jadawalin",
         "ReportIssue": "batutuwa",
         "Languages": "Languages"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Rasu harshe (machine translation)",
+        "SectionName": "Rasu harshe (MT)",
         "ChangeAlert": "Sauya sheka harshe don kammala"
     }
 }

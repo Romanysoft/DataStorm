@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ngôn ngữ có sẵn (máy dịch)",
+        "SectionName": "ngôn ngữ có sẵn (MT)",
         "ChangeAlert": "Chuyển đổi ngôn ngữ để hoàn thành"
     }
 }

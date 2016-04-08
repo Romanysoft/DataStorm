@@ -5,7 +5,7 @@
         "Documents": "skjöl",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "Trial",
-        "Buy": "kaup",
+        "Buy": "kaupa",
         "Roadmap": "Roadmap",
         "ReportIssue": "Issues",
         "Languages": "Tungumál"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Laus tungumál (vél þýðing)",
+        "SectionName": "Laus tungumál (MT)",
         "ChangeAlert": "Skipt tungumál til að ljúka"
     }
 }

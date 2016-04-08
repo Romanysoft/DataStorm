@@ -5,7 +5,7 @@
         "Documents": "dokumen",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "percubaan",
-        "Buy": "pembelian",
+        "Buy": "Beli",
         "Roadmap": "RoadMap",
         "ReportIssue": "isu-isu",
         "Languages": "bahasa"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Bahasa yang disediakan (terjemahan mesin)",
+        "SectionName": "Bahasa yang disediakan (MT)",
         "ChangeAlert": "Menukar bahasa untuk melengkapkan"
     }
 }

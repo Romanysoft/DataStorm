@@ -5,7 +5,7 @@
         "Documents": "Imibhalo",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "Trial",
-        "Buy": "Ukuthengwa",
+        "Buy": "Thenga",
         "Roadmap": "Luyinkombandlela",
         "ReportIssue": "Issues",
         "Languages": "Izilimi"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ulimi Kuyatholakala (umshini translation)",
+        "SectionName": "ulimi Kuyatholakala (MT)",
         "ChangeAlert": "Ishintshela ulimi ukuqedela"
     }
 }

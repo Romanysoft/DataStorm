@@ -5,7 +5,7 @@
         "Documents": "dokumenty",
         "ReleaseNotes": "Poznámky k vydání",
         "Downloads": "pokus",
-        "Buy": "Nákup",
+        "Buy": "Koupit",
         "Roadmap": "Roadmap",
         "ReportIssue": "problémy",
         "Languages": "jazyky"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "K dispozici jazyk (automatický překlad)",
+        "SectionName": "K dispozici jazyk (MT)",
         "ChangeAlert": "Přepnutí jazyka k dokončení"
     }
 }

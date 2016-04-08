@@ -5,7 +5,7 @@
         "Documents": "Dokumenter",
         "ReleaseNotes": "Udgivelses noter",
         "Downloads": "Forsøg",
-        "Buy": "Køb",
+        "Buy": "Købe",
         "Roadmap": "RoadMap",
         "ReportIssue": "Problemer",
         "Languages": "Sprog"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Tilgængelige sprog (maskinoversættelse)",
+        "SectionName": "Tilgængelige sprog (MT)",
         "ChangeAlert": "Skifte sprog for at fuldføre"
     }
 }

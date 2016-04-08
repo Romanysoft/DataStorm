@@ -5,7 +5,7 @@
         "Documents": "dokumentoj",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "juĝo",
-        "Buy": "aĉeto",
+        "Buy": "aĉeti",
         "Roadmap": "vojmapo",
         "ReportIssue": "temoj",
         "Languages": "Lingvoj"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Havebla lingvo (maŝintraduko)",
+        "SectionName": "Havebla lingvo (MT)",
         "ChangeAlert": "Ŝaltanta lingvo kompletigi"
     }
 }

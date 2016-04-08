@@ -5,7 +5,7 @@
         "Documents": "dokumentet",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "gjykim",
-        "Buy": "blerje",
+        "Buy": "blej",
         "Roadmap": "Udhërrëfyesi",
         "ReportIssue": "çështjet",
         "Languages": "Gjuhë"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Gjuha e disponueshme (përkthim makinë)",
+        "SectionName": "Gjuha e disponueshëm (MT)",
         "ChangeAlert": "Switching gjuhë të përfunduar"
     }
 }

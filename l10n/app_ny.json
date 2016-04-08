@@ -5,7 +5,7 @@
         "Documents": "Documents",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "mlandu",
-        "Buy": "Purchase",
+        "Buy": "kugula",
         "Roadmap": "RoadMap",
         "ReportIssue": "Issues",
         "Languages": "m'zinenero"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "chilankhulo likupezeka (makina yomasulira)",
+        "SectionName": "chilankhulo likupezeka (MT)",
         "ChangeAlert": "Kusintha chinenero kumaliza"
     }
 }

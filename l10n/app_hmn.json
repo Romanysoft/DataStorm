@@ -5,7 +5,7 @@
         "Documents": "Cov ntaub ntawv",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "Mus sib hais",
-        "Buy": "purchase",
+        "Buy": "yuav",
         "Roadmap": "roadmap",
         "ReportIssue": "teeb meem",
         "Languages": "lus"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Qhov lus (tshuab txhais lus)",
+        "SectionName": "Qhov lus (MT)",
         "ChangeAlert": "Switching lus mus ua kom tiav"
     }
 }

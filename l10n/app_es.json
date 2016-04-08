@@ -5,7 +5,7 @@
         "Documents": "Documentos",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "Juicio",
-        "Buy": "Compra",
+        "Buy": "Comprar",
         "Roadmap": "RoadMap",
         "ReportIssue": "Cuestiones",
         "Languages": "idiomas"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "idioma disponible (traducción automática)",
+        "SectionName": "idioma disponible (MT)",
         "ChangeAlert": "Cambio del idioma para completar"
     }
 }

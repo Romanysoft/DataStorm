@@ -5,7 +5,7 @@
         "Documents": "hujjatlar",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "sinov",
-        "Buy": "Sotib olish to'g'risida",
+        "Buy": "sotib",
         "Roadmap": "nima bo'ladi?",
         "ReportIssue": "masalalar",
         "Languages": "tillar"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Mavjud til (mashinasozlik tarjima)",
+        "SectionName": "Mavjud til (MT)",
         "ChangeAlert": "Tilni kommutatsiya bajarish uchun"
     }
 }

@@ -5,7 +5,7 @@
         "Documents": "documente",
         "ReleaseNotes": "Note de lansare",
         "Downloads": "Proces",
-        "Buy": "Cumpărare",
+        "Buy": "A cumpara",
         "Roadmap": "FOAIE DE PARCURS",
         "ReportIssue": "probleme",
         "Languages": "limbi"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Limba disponibilă (traducere automată)",
+        "SectionName": "Limba disponibilă (MT)",
         "ChangeAlert": "Trecerea de limbă pentru a finaliza"
     }
 }

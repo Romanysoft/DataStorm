@@ -5,7 +5,7 @@
         "Documents": "dokumenti",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "suđenje",
-        "Buy": "kupovina",
+        "Buy": "kupiti",
         "Roadmap": "RoadMap",
         "ReportIssue": "pitanja",
         "Languages": "Jezici"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Dostupno jezik (Strojno prevođenje)",
+        "SectionName": "Dostupno jezik (MT)",
         "ChangeAlert": "Prebacivanje jezika za završetak"
     }
 }

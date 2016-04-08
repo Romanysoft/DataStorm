@@ -5,7 +5,7 @@
         "Documents": "ਦਸਤਾਵੇਜ਼",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "ਮੁਕੱਦਮੇ",
-        "Buy": "ਖਰੀਦ",
+        "Buy": "ਖਰੀਦੋ",
         "Roadmap": "ਨਿਸ਼ਾਨੇ",
         "ReportIssue": "ਮੁੱਦੇ",
         "Languages": "ਭਾਸ਼ਾ"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ਉਪਲੱਬਧ ਭਾਸ਼ਾ (ਮਸ਼ੀਨ ਅਨੁਵਾਦ)",
+        "SectionName": "ਉਪਲੱਬਧ ਭਾਸ਼ਾ (MT)",
         "ChangeAlert": "ਤਬਦੀਲ ਭਾਸ਼ਾ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ"
     }
 }

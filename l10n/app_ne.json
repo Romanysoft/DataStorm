@@ -5,7 +5,7 @@
         "Documents": "दस्तावेज",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "परीक्षण",
-        "Buy": "खरिद",
+        "Buy": "किन्न",
         "Roadmap": "Roadmap",
         "ReportIssue": "मुद्दा",
         "Languages": "भाषाहरु"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "उपलब्ध भाषा (मिसिन अनुवाद)",
+        "SectionName": "उपलब्ध भाषा (टन)",
         "ChangeAlert": "पूरा भाषा स्विच गर्न"
     }
 }

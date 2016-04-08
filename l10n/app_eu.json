@@ -5,7 +5,7 @@
         "Documents": "Dokumentuak",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "Trial",
-        "Buy": "Erosketa",
+        "Buy": "Erosi",
         "Roadmap": "Ibilbide Orria",
         "ReportIssue": "Aleak",
         "Languages": "Hizkuntzak"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Hizkuntza erabilgarriak (itzulpen automatikoa)",
+        "SectionName": "Hizkuntza erabilgarriak (MT)",
         "ChangeAlert": "osatzeko hizkuntza konmutadore"
     }
 }

@@ -5,7 +5,7 @@
         "Documents": "документы",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "пробный",
-        "Buy": "покупка",
+        "Buy": "купить",
         "Roadmap": "Дорожная карта",
         "ReportIssue": "вопросы",
         "Languages": "Языки"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Имеющийся язык (машинный перевод)",
+        "SectionName": "Имеющийся язык (MT)",
         "ChangeAlert": "Переключение языка для завершения"
     }
 }

@@ -5,7 +5,7 @@
         "Documents": "ஆவணங்கள்",
         "ReleaseNotes": "வெளியீட்டு குறிப்புகள்",
         "Downloads": "சோதனை",
-        "Buy": "கொள்முதல்",
+        "Buy": "வாங்க",
         "Roadmap": "திட்டத்தை",
         "ReportIssue": "சிக்கல்கள்",
         "Languages": "மொழிகள்"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "கிடைக்கும் மொழி (இயந்திர மொழிபெயர்ப்பு)",
+        "SectionName": "கிடைக்கும் மொழி (எம்டி)",
         "ChangeAlert": "முடிக்க மொழி மாற்றம் செய்ய"
     }
 }

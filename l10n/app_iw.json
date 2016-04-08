@@ -5,7 +5,7 @@
         "Documents": "מסמכים",
         "ReleaseNotes": "מכתבי שחרור",
         "Downloads": "מִשׁפָּט",
-        "Buy": "לִרְכּוֹשׁ",
+        "Buy": "לִקְנוֹת",
         "Roadmap": "מפת הדרכים",
         "ReportIssue": "סוגיות",
         "Languages": "שפות"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "שפה זמינה (תרגום מכונה)",
+        "SectionName": "שפה זמינה (MT)",
         "ChangeAlert": "החלפת שפה כדי להשלים"
     }
 }

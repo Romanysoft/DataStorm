@@ -5,7 +5,7 @@
         "Documents": "서류",
         "ReleaseNotes": "릴리즈 노트",
         "Downloads": "시도",
-        "Buy": "매수",
+        "Buy": "사다",
         "Roadmap": "할일 : 개발 예정표",
         "ReportIssue": "문제",
         "Languages": "언어"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "사용 가능한 언어 (기계 번역)",
+        "SectionName": "사용 가능한 언어 (MT)",
         "ChangeAlert": "언어를 전환 완료"
     }
 }

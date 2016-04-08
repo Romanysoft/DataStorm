@@ -5,7 +5,7 @@
         "Documents": "dokumenti",
         "ReleaseNotes": "ReleaseNotes",
         "Downloads": "izmēģinājums",
-        "Buy": "pirkums",
+        "Buy": "pirkt",
         "Roadmap": "Ceļvedis",
         "ReportIssue": "jautājumi",
         "Languages": "valodas"
@@ -68,7 +68,7 @@
                 "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "description": "{{CSV output files, settings, CSV delimited method (default: \" \").}}",
                         "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Pieejams valoda (mašīntulkošana)",
+        "SectionName": "Pieejams valoda (MT)",
         "ChangeAlert": "Pārslēgšanās valodu, lai pabeigtu"
     }
 }
