@@ -1,19 +1,19 @@
 {
     "TopBar": {
-        "Home": "मुख्यपृष्ठ",
+        "Home": "घर",
         "Feature": "वैशिष्ट्ये",
-        "Documents": "ऑनलाइन मदत",
-        "ReleaseNotes": "प्रकाशन टिपा",
-        "Downloads": "विनामूल्य चाचणी",
+        "Documents": "दस्तऐवज",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "चाचणी",
         "Buy": "खरेदी",
-        "Roadmap": "उत्पादन ओळ",
-        "ReportIssue": "एका समस्येचा अहवाल द्या",
+        "Roadmap": "आराखडा",
+        "ReportIssue": "समस्या",
         "Languages": "भाषा"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "अनेक स्वरूप, विंडोज, लिनक्स व MacOSX ऑपरेटिंग सिस्टम समर्थन डेटा रूपांतरण.",
-        "BtnDownload": "विनामूल्य चाचणी",
+        "ProjectTagline": "डेटा स्वरूप रूपांतरण एक अनेकत्व समर्थन विंडोज, लिनक्स व MacOSX.",
+        "BtnDownload": "चाचणी",
         "BtnBuy": "खरेदी",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "उत्पादन मुख्य वैशिष्ट्ये",
+            "SectionName": "मुख्य वैशिष्ट्ये",
             "list": [
                 "आधार JSON, एक्स एम एल, सी, plist, INI, .properties आणि YML दरम्यान रूपांतरण (YAML) फाइल डेटा.",
                 "समर्थन बॅच रूपांतरण",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "प्रकाशन",
+        "labelVersion": "आवृत्ती",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "प्रकाशन",
+        "labelVersion": "आवृत्ती",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "साइट भाषा उपलब्ध",
+        "SectionName": "उपलब्ध भाषा (मशीन भाषांतर)",
         "ChangeAlert": "पूर्ण भाषा सुरू करणे"
     }
 }

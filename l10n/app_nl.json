@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "thuis",
-        "Feature": "kenmerken",
-        "Documents": "online Help",
-        "ReleaseNotes": "release Notes",
-        "Downloads": "Free Trial",
-        "Buy": "aankoop",
-        "Roadmap": "productlijn",
-        "ReportIssue": "Een probleem melden",
-        "Languages": "taal"
+        "Home": "Huis",
+        "Feature": "Kenmerken",
+        "Documents": "documenten",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "proces",
+        "Buy": "Aankoop",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "kwesties",
+        "Languages": "talen"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Conversie van data in meerdere formaten, ondersteuning voor Windows, Linux en MacOSX besturingssysteem.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "aankoop",
+        "ProjectTagline": "Een veelvoud van data conversie, ondersteunt Windows, Linux en MacOSX.",
+        "BtnDownload": "proces",
+        "BtnBuy": "Kopen",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product belangrijkste kenmerken",
+            "SectionName": "Hoofdlijnen",
             "list": [
                 "(YAML) bestand conversie van gegevens tussen ondersteuning JSON, XML, CSV, PLIST, INI, de .properties en YML.",
                 "Ondersteuning batch-conversie",
@@ -38,14 +38,14 @@
             "SectionName": "Zie wat iedereen het over heeft",
             "list": [
                 {
-                    "reviewContent": "DataStorm is geweldig. Eenvoudig, schoon, perfect. Mooi gedaan.",
+                    "reviewContent": "DataStorm is geweldig. Eenvoudig, schoon, perfect. Keurig gedaan.",
                     "userName": "evanw",
                     "professional": "Database Administrator"
                 },
                 {
                     "reviewContent": "DataStorm doe ik bijna al mijn gereedschap, dit is een geweldige kleine applicatie.",
                     "userName": "Peter Bright",
-                    "professional": "Test Engineer"
+                    "professional": "Test-ingenieur"
                 },
                 {
                     "reviewContent": "Als u dataconversie doen, DataStorm is zeker de moeite waard te downloaden.",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "vrijlating",
+        "labelVersion": "Versie",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -174,18 +174,18 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "eerste release"
+                        "content": "Eerste uitgave"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "eerste release"
+                        "content": "Eerste uitgave"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "vrijlating",
+        "labelVersion": "Versie",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "kopen",
+        "SectionName": "Kopen",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site talen beschikbaar",
+        "SectionName": "Beschikbare taal (automatische vertaling)",
         "ChangeAlert": "Overschakelen taal in te vullen"
     }
 }

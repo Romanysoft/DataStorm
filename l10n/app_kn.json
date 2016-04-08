@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "ಮುಖಪುಟ",
         "Feature": "ವೈಶಿಷ್ಟ್ಯಗಳು",
-        "Documents": "ಆನ್ಲೈನ್ ಸಹಾಯ",
-        "ReleaseNotes": "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳು",
-        "Downloads": "ಉಚಿತ ಟ್ರಯಲ್",
+        "Documents": "ಡಾಕ್ಯುಮೆಂಟ್ಸ್",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "ಟ್ರಯಲ್",
         "Buy": "ಖರೀದಿ",
-        "Roadmap": "ಉತ್ಪನ್ನ",
-        "ReportIssue": "ಸಮಸ್ಯೆ ವರದಿ",
-        "Languages": "ಭಾಷಾ"
+        "Roadmap": "ಮಾರ್ಗಸೂಚಿ",
+        "ReportIssue": "ತೊಂದರೆಗಳು",
+        "Languages": "ಭಾಷೆಗಳು"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "ಅನೇಕ ಮಾದರಿಗಳು, ವಿಂಡೋಸ್, ಲಿನಕ್ಸ್ ಮತ್ತು MacOSX ಆಪರೇಟಿಂಗ್ ಸಿಸ್ಟಮ್ ಬೆಂಬಲವನ್ನು ಡೇಟಾ ಪರಿವರ್ತನೆಗೆ.",
-        "BtnDownload": "ಉಚಿತ ಟ್ರಯಲ್",
+        "ProjectTagline": "ಡೇಟಾ ರೂಪದಲ್ಲಿ ಪರಿವರ್ತನೆ ಒಂದು ಬಹುಸಂಖ್ಯಾ, ವಿಂಡೋಸ್, ಲಿನಕ್ಸ್ ಮತ್ತು MacOSX ಬೆಂಬಲಿಸುತ್ತದೆ.",
+        "BtnDownload": "ಟ್ರಯಲ್",
         "BtnBuy": "ಖರೀದಿ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ಉತ್ಪನ್ನ ಮುಖ್ಯ ಲಕ್ಷಣಗಳು",
+            "SectionName": "ಮುಖ್ಯ ಲಕ್ಷಣಗಳು",
             "list": [
                 "ಬೆಂಬಲ JSON, ಮದುವೆ, CSV, plist, ಐಎನ್ಐ, .properties ಮತ್ತು YML ನಡುವೆ ಪರಿವರ್ತನೆ (YAML) ಕಡತ ದಶಮಾಂಶ.",
                 "ಬೆಂಬಲ ಬ್ಯಾಚ್ ಪರಿವರ್ತನೆ",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ಬಿಡುಗಡೆ",
+        "labelVersion": "ಆವೃತ್ತಿ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ಬಿಡುಗಡೆ",
+        "labelVersion": "ಆವೃತ್ತಿ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ಲಭ್ಯವಿರುವ ಸೈಟ್ ಭಾಷೆಗಳ",
+        "SectionName": "ಲಭ್ಯವಿರುವ ಭಾಷೆ (ಯಂತ್ರ ಭಾಷಾಂತರ)",
         "ChangeAlert": "ಪೂರ್ಣಗೊಳಿಸಲು ಭಾಷೆ ಬದಲಾಯಿಸುವುದು"
     }
 }

@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "nhà",
+        "Home": "Nhà",
         "Feature": "Tính năng",
-        "Documents": "Trợ giúp trực tuyến",
-        "ReleaseNotes": "Ghi chú phát hành",
-        "Downloads": "Dùng thử miễn phí",
-        "Buy": "mua",
-        "Roadmap": "dòng sản phẩm",
-        "ReportIssue": "Báo cáo sự cố",
-        "Languages": "ngôn ngữ"
+        "Documents": "Các tài liệu",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Thử nghiệm",
+        "Buy": "Mua",
+        "Roadmap": "lộ trình",
+        "ReportIssue": "vấn đề",
+        "Languages": "Ngôn ngữ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Chuyển đổi dữ liệu trong nhiều định dạng, hỗ trợ cho Windows, Linux và hệ điều hành MacOSX.",
-        "BtnDownload": "Dùng thử miễn phí",
-        "BtnBuy": "mua",
+        "ProjectTagline": "Một đa số chuyển đổi định dạng dữ liệu, hỗ trợ Windows, Linux và Mac OSX.",
+        "BtnDownload": "Thử nghiệm",
+        "BtnBuy": "Mua",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Các tính năng chính của sản phẩm",
+            "SectionName": "Những đặc điểm chính",
             "list": [
                 "dữ liệu chuyển đổi (YAML) tập tin giữa hỗ trợ JSON, XML, CSV, plist, INI, các .properties và YML.",
                 "Hỗ trợ chuyển đổi hàng loạt",
@@ -40,7 +40,7 @@
                 {
                     "reviewContent": "DataStorm là tuyệt vời. Đơn giản, sạch sẽ, hoàn hảo. Thực hiện độc đáo.",
                     "userName": "evanw",
-                    "professional": "Database Administrator"
+                    "professional": "Quản trị cơ sở dữ liệu"
                 },
                 {
                     "reviewContent": "DataStorm tôi làm hầu như tất cả các công cụ của tôi, đây là một ứng dụng nhỏ tuyệt vời.",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "phóng thích",
+        "labelVersion": "Phiên bản",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -174,18 +174,18 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "phát hành đầu tiên"
+                        "content": "Phát hành đầu tiên"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "phát hành đầu tiên"
+                        "content": "Phát hành đầu tiên"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "phóng thích",
+        "labelVersion": "Phiên bản",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "mua",
+        "SectionName": "Mua",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Ngôn ngữ của website có sẵn",
+        "SectionName": "ngôn ngữ có sẵn (máy dịch)",
         "ChangeAlert": "Chuyển đổi ngôn ngữ để hoàn thành"
     }
 }

@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "maison",
-        "Feature": "traits",
-        "Documents": "Aide en ligne",
-        "ReleaseNotes": "notes de version",
-        "Downloads": "Essai gratuit",
-        "Buy": "achat",
-        "Roadmap": "Gamme de produits",
-        "ReportIssue": "Signaler un problème",
-        "Languages": "langue"
+        "Home": "Accueil",
+        "Feature": "Caractéristiques",
+        "Documents": "Documents",
+        "ReleaseNotes": "Notes de version",
+        "Downloads": "Procès",
+        "Buy": "Achat",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "Problèmes",
+        "Languages": "Langues"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Conversion des données en plusieurs formats, le support pour Windows, Linux et le système d'exploitation MacOSX.",
-        "BtnDownload": "Essai gratuit",
-        "BtnBuy": "achat",
+        "ProjectTagline": "Une pluralité de conversion de format de données, prend en charge Windows, Linux et MacOSX.",
+        "BtnDownload": "Procès",
+        "BtnBuy": "Acheter",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "principales caractéristiques du produit",
+            "SectionName": "Caractéristiques principales",
             "list": [
                 "Conversion des données (YAML) de fichiers entre support JSON, XML, CSV, PLIST, INI, les .properties et YML.",
                 "conversion par lots de soutien",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "libération",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -174,18 +174,18 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Première version"
+                        "content": "Première sortie"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Première version"
+                        "content": "Première sortie"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "libération",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "acheter",
+        "SectionName": "Acheter",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Langues du site disponibles",
+        "SectionName": "Disponible langue (traduction automatique)",
         "ChangeAlert": "langue de commutation pour terminer"
     }
 }

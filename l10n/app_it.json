@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "casa",
-        "Feature": "lineamenti",
-        "Documents": "Guida in linea",
+        "Home": "Casa",
+        "Feature": "Caratteristiche",
+        "Documents": "Documenti",
         "ReleaseNotes": "Note di rilascio",
-        "Downloads": "Prova gratuita",
-        "Buy": "acquisto",
-        "Roadmap": "linea di prodotti",
-        "ReportIssue": "Segnala un problema",
-        "Languages": "lingua"
+        "Downloads": "Prova",
+        "Buy": "Acquista",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "Problemi",
+        "Languages": "Le lingue"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "La conversione dei dati in diversi formati, il supporto per Windows, Linux e il sistema operativo MacOSX.",
-        "BtnDownload": "Prova gratuita",
-        "BtnBuy": "acquisto",
+        "ProjectTagline": "Una pluralità di conversione di formato dei dati, supporta Windows, Linux e MacOSX.",
+        "BtnDownload": "Prova",
+        "BtnBuy": "Acquistare",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Caratteristiche principali del prodotto",
+            "SectionName": "Caratteristiche principali",
             "list": [
                 "dati dei file di conversione (YAML) tra il supporto JSON, XML, CSV, PLIST, INI, i .properties e YML.",
                 "Supporta conversione batch",
@@ -40,7 +40,7 @@
                 {
                     "reviewContent": "Datastorm è grande. Semplice, pulito, perfetto. Ben fatto.",
                     "userName": "evanw",
-                    "professional": "Database Administrator"
+                    "professional": "Amministratore del database"
                 },
                 {
                     "reviewContent": "Datastorm faccio quasi tutti i miei strumenti, questo è un piccolo grande applicazione.",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "rilascio",
+        "labelVersion": "Versione",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -174,18 +174,18 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "Prima versione"
+                        "content": "Prima uscita"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "Prima versione"
+                        "content": "Prima uscita"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "rilascio",
+        "labelVersion": "Versione",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "acquistare",
+        "SectionName": "Acquistare",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Lingue del sito disponibili",
+        "SectionName": "lingua disponibile (traduzione automatica)",
         "ChangeAlert": "Il passaggio lingua per completare"
     }
 }

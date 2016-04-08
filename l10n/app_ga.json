@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Baile",
         "Feature": "gnéithe",
-        "Documents": "Líne Cabhair",
-        "ReleaseNotes": "Nótaí Eisiúna",
-        "Downloads": "Triail Saor",
+        "Documents": "Doiciméid",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "triail",
         "Buy": "Ceannach",
-        "Roadmap": "táirge líne",
-        "ReportIssue": "Tuairiscigh fadhb",
-        "Languages": "teanga"
+        "Roadmap": "treochlár",
+        "ReportIssue": "Ceisteanna",
+        "Languages": "teangacha"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Sonraí a chomhshó i bhformáidí éagsúla, tacaíocht a thabhairt do Windows, Linux agus córas oibriúcháin MacOSX.",
-        "BtnDownload": "Triail Saor",
-        "BtnBuy": "Ceannach",
+        "ProjectTagline": "A iolrachas comhshó fhormáid sonraí, tacaíonn Windows, Linux agus MacOSX.",
+        "BtnDownload": "triail",
+        "BtnBuy": "Ceannaigh",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Gnéithe bpríomhtháirge",
+            "SectionName": "Príomhghnéithe",
             "list": [
                 "Sonraí Comhshó (YAML) comhaid idir JSON tacaíochta, XML, CSV, plist, INI, na .properties agus YML.",
                 "comhshó bhaisc Tacaíocht",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "scaoileadh",
+        "labelVersion": "Leagan",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "scaoileadh",
+        "labelVersion": "Leagan",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Teangacha Site fáil",
+        "SectionName": "teanga atá ar fáil (Aistriúchán meaisín)",
         "ChangeAlert": "Aistriú teanga a chur i gcrích"
     }
 }

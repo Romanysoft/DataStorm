@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "տուն",
-        "Feature": "Հատկանիշներ",
-        "Documents": "առցանց Օգնություն",
-        "ReleaseNotes": "ՕՆԼԱՅՆ Notes",
-        "Downloads": "Ազատ դատավարությունը",
+        "Feature": "Հատկություններ",
+        "Documents": "փաստաթղթերը",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "փորձնական",
         "Buy": "գնում",
-        "Roadmap": "արտադրական գիծը",
-        "ReportIssue": "Հաղորդել խնդիր",
-        "Languages": "լեզու"
+        "Roadmap": "ճանապարհային քարտեզի",
+        "ReportIssue": "Քննարկվել",
+        "Languages": "լեզուներ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Փոխակերպման տվյալների տարբեր ձեւաչափերով, աջակցության համար, Windows, Linux եւ MacOSX օպերացիոն համակարգի.",
-        "BtnDownload": "Ազատ դատավարությունը",
-        "BtnBuy": "գնում",
+        "ProjectTagline": "A բազմազանության տվյալների ֆորմատով դարձի, աջակցում է Windows, Linux եւ MacOSX.",
+        "BtnDownload": "փորձնական",
+        "BtnBuy": "գնել",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product հիմնական հատկանիշները",
+            "SectionName": "հիմնական Նկարագրություն",
             "list": [
                 "Փոխակերպումը (YAML) ֆայլի տվյալների միջեւ աջակցության JSON, XML, CSV, plist, ini, որ .Փրոփըրթիզ եւ YML:",
                 "Աջակցության խմբաքանակի դարձի",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ազատում",
+        "labelVersion": "տարբերակ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ազատում",
+        "labelVersion": "տարբերակ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Կայքի հասանելի լեզուներ",
+        "SectionName": "Դուք փնտրել էք - լեզու (մեքենա թարգմանություն)",
         "ChangeAlert": "Անցման լեզուն լրացնել"
     }
 }

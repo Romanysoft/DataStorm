@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "fitur",
-        "Documents": "Pitulung online",
-        "ReleaseNotes": "release Cathetan",
-        "Downloads": "Trial free",
+        "Documents": "dokumen",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "trial",
         "Buy": "tuku",
-        "Roadmap": "line Product",
-        "ReportIssue": "Laporan masalah",
-        "Languages": "Language"
+        "Roadmap": "roadmap",
+        "ReportIssue": "masalah",
+        "Languages": "Basa"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konversi data ing macem-macem format, support kanggo Windows, Linux lan sistem operasi MacOSX.",
-        "BtnDownload": "Trial free",
+        "ProjectTagline": "A majemuk saka konversi format data, ndhukung Windows, Linux lan MacOSX.",
+        "BtnDownload": "trial",
         "BtnBuy": "tuku",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "fitur utama Product",
+            "SectionName": "Fitur utama",
             "list": [
                 "data konversi (YAML) file antarane support JSON, XML, CSV, plist, INI, ing .properties lan YML.",
                 "Dhukungan konversi kumpulan",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "release",
+        "labelVersion": "versi",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "release",
+        "labelVersion": "versi",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "basa situs kasedhiya",
+        "SectionName": "basa kasedhiya (machine translation)",
         "ChangeAlert": "Ngoper basa kanggo ngrampungake"
     }
 }

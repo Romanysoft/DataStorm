@@ -1,19 +1,19 @@
 {
     "TopBar": {
         "Home": "บ้าน",
-        "Feature": "คุณสมบัติ",
-        "Documents": "ความช่วยเหลือออนไลน์",
-        "ReleaseNotes": "บันทึกประจำรุ่น",
-        "Downloads": "ทดลองใช้ฟรี",
+        "Feature": "คุณลักษณะเด่น",
+        "Documents": "เอกสาร",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "การทดลอง",
         "Buy": "ซื้อ",
-        "Roadmap": "สายผลิตภัณฑ์",
-        "ReportIssue": "รายงานปัญหา",
+        "Roadmap": "แผนงาน",
+        "ReportIssue": "ปัญหา",
         "Languages": "ภาษา"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "การแปลงข้อมูลในรูปแบบต่างๆ, การสนับสนุนสำหรับ Windows, Linux และระบบปฏิบัติการ MacOSX",
-        "BtnDownload": "ทดลองใช้ฟรี",
+        "ProjectTagline": "ส่วนใหญ่ของการแปลงรูปแบบข้อมูลสนับสนุน Windows, Linux และ MacOSX",
+        "BtnDownload": "การทดลอง",
         "BtnBuy": "ซื้อ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "คุณสมบัติหลักสินค้า",
+            "SectionName": "คุณสมบัติหลัก",
             "list": [
                 "การแปลงข้อมูล (YAML) ไฟล์ระหว่างการสนับสนุน JSON, XML, CSV plist, INI ที่ .properties และ YML",
                 "การแปลงชุดสนับสนุน",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ปล่อย",
+        "labelVersion": "รุ่น",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ปล่อย",
+        "labelVersion": "รุ่น",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ภาษาเว็บไซต์ที่มีอยู่",
+        "SectionName": "ภาษาที่มีจำหน่าย (เครื่องแปลภาษา)",
         "ChangeAlert": "การสลับภาษาที่จะเสร็จสมบูรณ์"
     }
 }

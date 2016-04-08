@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "මුල් පිටුව",
+        "Home": "ගෙදර",
         "Feature": "විශේෂාංග",
-        "Documents": "ඔන්ලයින් උදවු",
-        "ReleaseNotes": "මුදා හැරීමේ සටහන්",
-        "Downloads": "නිදහස් ට්රයල්",
-        "Buy": "මිලදී ගැනීම",
-        "Roadmap": "නිෂ්පාදන පෙළ",
-        "ReportIssue": "ගැටලුවක් වාර්තා",
+        "Documents": "ලිපි ලේඛන",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "නඩු විභාගය",
+        "Buy": "මිලදී",
+        "Roadmap": "මාර්ග සිතියමක්",
+        "ReportIssue": "ගැටලු",
         "Languages": "භාෂා"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "බහු ආකෘති දත්ත පරිවර්තනය කිරීම, වින්ඩෝස්, ලිනක්ස් සහ MacOSX මෙහෙයුම් පද්ධතිය සඳහා සහාය.",
-        "BtnDownload": "නිදහස් ට්රයල්",
-        "BtnBuy": "මිලදී ගැනීම",
+        "ProjectTagline": "දත්ත ආකෘතිය බවට පරිවර්තනය පිළිබඳ බහුත්ව, වින්ඩෝස්, ලිනක්ස් සහ MacOSX සඳහා සහය දක්වයි.",
+        "BtnDownload": "නඩු විභාගය",
+        "BtnBuy": "මිලට ගන්න",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "නිෂ්පාදන ප්රධාන ලක්ෂණ",
+            "SectionName": "ප්රධාන විශේෂාංග",
             "list": [
                 "පරිවර්තනය (YAML) සහයෝගය JSON, XML, CSV, PLIST, INI එම .properties හා YML අතර ගොනුව දත්ත.",
                 "සහාය කණ්ඩායම බවට පරිවර්තනය",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "නිකුතු",
+        "labelVersion": "පිටපත",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "නිකුතු",
+        "labelVersion": "පිටපත",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ලබා ගත හැකි වෙබ් අඩවිය භාෂා",
+        "SectionName": "පවතින භාෂා (යන්ත්ර භාෂාවට පරිවර්තනය)",
         "ChangeAlert": "සම්පූර්ණ කිරීම සඳහා භාෂා මාරු"
     }
 }

@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "મુખ્ય પૃષ્ઠ",
-        "Feature": "લક્ષણો",
-        "Documents": "ઓનલાઇન મદદ",
-        "ReleaseNotes": "પ્રકાશન નોંધો",
-        "Downloads": "મફત ટ્રાયલ",
+        "Feature": "વિશેષતા",
+        "Documents": "દસ્તાવેજો",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "ટ્રાયલ",
         "Buy": "ખરીદી",
-        "Roadmap": "ઉત્પાદન રેખા",
-        "ReportIssue": "સમસ્યાની જાણ કરો",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "મુદ્દાઓ",
         "Languages": "ભાષા"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "બહુવિધ બંધારણો, વિન્ડોઝ, લિનક્સ અને MacOSX ઓપરેટિંગ સિસ્ટમ માટે આધાર કન્વર્ઝન ઓફ ડેટા.",
-        "BtnDownload": "મફત ટ્રાયલ",
-        "BtnBuy": "ખરીદી",
+        "ProjectTagline": "માહિતી બંધારણ રૂપાંતર એક બહુમતી, વિન્ડોઝ, લિનક્સ અને MacOSX આધાર આપે છે.",
+        "BtnDownload": "ટ્રાયલ",
+        "BtnBuy": "ખરીદો",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ઉત્પાદન મુખ્ય લક્ષણો",
+            "SectionName": "મુખ્ય લક્ષણો",
             "list": [
                 "આધાર JSON, એક્સએમએલ, CSV, plist, ini, ગુણધર્મો અને yml વચ્ચે રૂપાંતર (YAML) ફાઈલ માહિતી.",
                 "આધાર બેચ રૂપાંતર",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "પ્રકાશન",
+        "labelVersion": "આવૃત્તિ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "પ્રકાશન",
+        "labelVersion": "આવૃત્તિ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "સાઇટ ભાષાઓ પ્રાપ્ત",
+        "SectionName": "ઉપલબ્ધ ભાષા (મશીન અનુવાદ)",
         "ChangeAlert": "સ્વિચ ભાષા પૂર્ણ"
     }
 }

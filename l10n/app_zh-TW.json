@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "首頁",
-        "Feature": "功能特性",
-        "Documents": "聯機幫助",
+        "Home": "家",
+        "Feature": "特徵",
+        "Documents": "文件",
         "ReleaseNotes": "發行說明",
-        "Downloads": "免費試用",
-        "Buy": "購買",
-        "Roadmap": "產品路線",
-        "ReportIssue": "報告問題",
+        "Downloads": "審訊",
+        "Buy": "採購",
+        "Roadmap": "路線圖",
+        "ReportIssue": "問題",
         "Languages": "語言"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "多種格式數據相互轉換，支持Windows，Linux及MacOSX操作系統。",
-        "BtnDownload": "免費試用",
-        "BtnBuy": "採購",
+        "ProjectTagline": "多個數據格式轉換，支持Windows，Linux和MacOSX上。",
+        "BtnDownload": "審訊",
+        "BtnBuy": "購買",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,38 +24,38 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "產品主要功能特性",
+            "SectionName": "主要特點",
             "list": [
-                "支持JSON，XML，CSV，PLIST，INI，的.properties和YML（YAML）文件數據之間的轉換。",
+                "支持JSON，XML，CSV，PLIST，INI的的.properties和陽明海運之間的轉換（YAML）文件數據。",
                 "支持批量轉換",
-                "支持定制轉換參數",
-                "支持複雜數據的文件處理，特別是嵌套JSON文件轉換成CSV",
-                "支持轉換到CSV，設置CSV的字段排序及分隔符設置",
-                "多語言支持（採用TryToTranslate工具翻譯）。"
+                "支持自定義轉換參數",
+                "支持複雜的數據文件處理，特別是變流器嵌套JSON文件到CSV",
+                "支持轉換到CSV，CSV字段進行排序，並設置分隔符設置",
+                "多語言支持（使用TryToTranslate翻譯工具）。"
             ]
         },
         "UserReviews": {
-            "SectionName": "看看大家都在說什麼",
+            "SectionName": "看看大家都在談論",
             "list": [
                 {
-                    "reviewContent": "DataStorm是非常棒的。簡單，清潔，完善。幹得漂亮。",
+                    "reviewContent": "DataStorm是偉大的。簡單，乾淨，完美。做得很好。",
                     "userName": "evanw",
                     "professional": "數據庫管理員"
                 },
                 {
-                    "reviewContent": "DataStorm是我做的幾乎我所有的工具，這是一個偉大的小應用程序。",
+                    "reviewContent": "DataStorm我做的幾乎所有的工具，這是一個偉大的小應用程序。",
                     "userName": "彼得·光明",
                     "professional": "測試工程師"
                 },
                 {
-                    "reviewContent": "如果您需要做數據轉換，DataStorm是絕對值得下載。",
-                    "userName": "Lifehacker的",
-                    "professional": "網頁開發者和設計師"
+                    "reviewContent": "如果你需要做數據轉換，DataStorm是絕對值得下載。",
+                    "userName": "Lifehacker的的",
+                    "professional": "Web開發人員和設計人員"
                 },
                 {
-                    "reviewContent": "我真的很喜歡DataStorm，給我的工作帶來太多的方便。",
+                    "reviewContent": "我真的很喜歡DataStorm，給我的工作帶來了很大的方便。",
                     "userName": "jeruss",
-                    "professional": "PHP框架開發"
+                    "professional": "PHP開發框架"
                 }
             ]
         }
@@ -65,38 +65,38 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "輸出CSV - 設置分隔符",
+                "section": "輸出CSV  - 符集",
                 "videos": [
                     {
-                        "description": "輸出的CSV文件, 設置CSV分隔符的方法. (默認值: ',')",
-                        "url": "videos/docs/it2csv_separator.mp4"
+                        "description": "CSV輸出文件，設置CSV分隔方式（默認：''）。",
+                        "url": "視頻/文檔/ it2csv_separator.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "輸出CSV - 設置排序字段",
+                "section": "輸出CSV  - 設置排序字段",
                 "videos": [
                     {
-                        "description": "輸出的CSV文件, 設置CSV字段排序簡單方法.",
-                        "url": "videos/docs/it2csv_sortFields.mp4"
+                        "description": "CSV文件輸出，設置CSV字段進行排序的簡單方法。",
+                        "url": "視頻/文檔/ it2csv_sortFields.mp4"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "輸出CSV - 設置使用複雜對象引擎",
+                "section": "輸出CSV  - 設置引擎使用複雜的對象",
                 "videos": [
                     {
-                        "description": "輸出的CSV文件, 設置使用複雜對象引擎處理複雜的輸入文件。默認值：開啟.",
-                        "url": "videos/docs/it2csv_useComplexJSONEngine.mp4"
+                        "description": "CSV文件輸出，設置引擎使用複雜的輸入文件來處理複雜的對象。默認：打開。",
+                        "url": "視頻/文檔/ it2csv_useComplexJSONEngine.mp4"
                     }
                 ]
             }
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "版本",
+        "labelVersion": "版",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -174,18 +174,18 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "第一次發布"
+                        "content": "首次發行"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "第一次發布"
+                        "content": "首次發行"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "版本",
+        "labelVersion": "版",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "購買方式",
+        "SectionName": "購買",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "網站可用語言",
-        "ChangeAlert": "切換語言完成"
+        "SectionName": "可用的語言（機器翻譯）",
+        "ChangeAlert": "切換語言來完成"
     }
 }

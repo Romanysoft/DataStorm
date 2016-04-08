@@ -1,19 +1,19 @@
 {
     "TopBar": {
         "Home": "imah",
-        "Feature": "fitur",
-        "Documents": "Pitulung online",
-        "ReleaseNotes": "release Catetan",
-        "Downloads": "sidang Free",
+        "Feature": "Fitur",
+        "Documents": "dokumén",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "pangadilan",
         "Buy": "meuli",
-        "Roadmap": "garis produk",
-        "ReportIssue": "Wartoskeun masalah",
-        "Languages": "basa"
+        "Roadmap": "RoadMap",
+        "ReportIssue": "isu",
+        "Languages": "Basa"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konversi data di sababaraha format, pangrojong pikeun Windows, Linux jeung sistem operasi MacOSX.",
-        "BtnDownload": "sidang Free",
+        "ProjectTagline": "A pluralitas konversi format data, ngarojong Windows, Linux jeung MacOSX.",
+        "BtnDownload": "pangadilan",
         "BtnBuy": "meuli",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "fitur utama produk",
+            "SectionName": "Fitur utama",
             "list": [
                 "data Konversi (YAML) file antara pangrojong JSON, XML, CSV, PLIST, INI, nu .properties jeung YML.",
                 "Rojongan konversi angkatan",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ngabebaskeun",
+        "labelVersion": "Vérsi",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ngabebaskeun",
+        "labelVersion": "Vérsi",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "basa Loka sadia",
+        "SectionName": "basa aya (mesin tarjamahan)",
         "ChangeAlert": "Ngalihkeun basa pikeun ngarengsekeun"
     }
 }

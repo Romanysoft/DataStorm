@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "ہوم",
         "Feature": "خصوصیات",
-        "Documents": "آن لائن مدد",
-        "ReleaseNotes": "ریلیز نوٹس",
-        "Downloads": "مفت ٹیسٹ کی",
-        "Buy": "خریدیں",
-        "Roadmap": "پروڈکٹ لائن",
-        "ReportIssue": "ایک مسئلہ کی رپورٹ کریں",
-        "Languages": "زبان"
+        "Documents": "دستاویزات",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "آزمائشی",
+        "Buy": "خریداری",
+        "Roadmap": "روڈ میپ",
+        "ReportIssue": "مسائل",
+        "Languages": "زبانیں"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "متعدد انداز، ونڈوز، لینکس اور MacOSX آپریٹنگ سسٹم کے لئے حمایت میں اعداد و شمار کے تبادلوں سے.",
-        "BtnDownload": "مفت ٹیسٹ کی",
-        "BtnBuy": "خریدیں",
+        "ProjectTagline": "ڈیٹا کی شکل کے تبادلوں کی ایک بہسنکھیا، ونڈوز، لینکس اور MacOSX حمایت.",
+        "BtnDownload": "آزمائشی",
+        "BtnBuy": "خریدنے",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "مصنوعات کی اہم خصوصیات",
+            "SectionName": "اہم خصوصیات",
             "list": [
                 "حمایت JSON، XML، CSV، PLIST، INI، .پراپرٹیز اور YML درمیان تبادلوں (YAML) فائل کی ڈیٹا.",
                 "سپورٹ بیچ تبادلوں",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ریلیز",
+        "labelVersion": "ورژن",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ریلیز",
+        "labelVersion": "ورژن",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "خریدیں",
+        "SectionName": "خریدنے",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "آپ اس سائٹ سے زبانوں",
+        "SectionName": "زبان دستیاب (مشینی ترجمہ)",
         "ChangeAlert": "مکمل کرنے کے لئے زبان سوئچنگ"
     }
 }

@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "namo",
-        "Feature": "Įranga",
-        "Documents": "Pagalba",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Nemokama bandomoji versija",
+        "Feature": "funkcijos",
+        "Documents": "Dokumentai",
+        "ReleaseNotes": "releasenotes",
+        "Downloads": "bandomasis",
         "Buy": "pirkti",
-        "Roadmap": "Produktų linija",
-        "ReportIssue": "Pranesti apie iskilusia problema",
-        "Languages": "kalba"
+        "Roadmap": "PLANAS",
+        "ReportIssue": "Problemos",
+        "Languages": "kalbos"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konversijos Duomenų keliais formatais, parama \"Windows\", \"Linux\" ir macosx operacinę sistemą.",
-        "BtnDownload": "Nemokama bandomoji versija",
-        "BtnBuy": "pirkti",
+        "ProjectTagline": "Duomenų formato konvertavimo pliuralizmas, palaiko Windows, Linux ir macosx.",
+        "BtnDownload": "bandomasis",
+        "BtnBuy": "nupirkti",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Produkto pagrindiniai bruožai",
+            "SectionName": "Pagrindinės funkcijos",
             "list": [
                 "Konversijos (yaml) failo duomenys tarp paramos JSON, XML, CSV, plist, INI, iš Properties ir YML.",
                 "Remti partiją konversiją",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "paleidimas",
+        "labelVersion": "versija",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "paleidimas",
+        "labelVersion": "versija",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Svetainės kalbomis",
+        "SectionName": "Turimas kalba (mašininis vertimas)",
         "ChangeAlert": "Perjungimas kalbą užbaigti"
     }
 }

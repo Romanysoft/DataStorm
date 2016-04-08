@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "domov",
-        "Feature": "rysy",
-        "Documents": "online nápoveda",
-        "ReleaseNotes": "Poznámky k vydaniu",
-        "Downloads": "skúšobná verzia zdarma",
+        "Feature": "Vlastnosti",
+        "Documents": "Dokumenty",
+        "ReleaseNotes": "releasenotes",
+        "Downloads": "pokus",
         "Buy": "nákup",
-        "Roadmap": "Produktový rad",
-        "ReportIssue": "nahlásiť problém",
-        "Languages": "jazyk"
+        "Roadmap": "Roadmap",
+        "ReportIssue": "problémy",
+        "Languages": "jazyky"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Prevod dát v rôznych formátoch, podporu pre Windows, Linux a operačným systémom MacOSX.",
-        "BtnDownload": "skúšobná verzia zdarma",
-        "BtnBuy": "nákup",
+        "ProjectTagline": "Množina konverziu formátu dát, podporuje Windows, Linux a MacOSX.",
+        "BtnDownload": "pokus",
+        "BtnBuy": "kúpiť",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Účinky",
+            "SectionName": "Hlavné rysy",
             "list": [
                 "Dáta súboru konverzie (Yamli) medzi podporou JSON, XML, CSV, plist, INI, v .properties a YML.",
                 "Podpora dávkové konverzie",
@@ -38,7 +38,7 @@
             "SectionName": "Pozrite sa, čo všetci o tom hovoria",
             "list": [
                 {
-                    "reviewContent": "DataStore je skvelý. Jednoduché, čisté, dokonalé. Dobrá práca.",
+                    "reviewContent": "DataStore je skvelý. Jednoduché, čisté, dokonalé. Dobre spravené.",
                     "userName": "evanw",
                     "professional": "správca databázy"
                 },
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "uvoľnenie",
+        "labelVersion": "verzia",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "uvoľnenie",
+        "labelVersion": "verzia",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "jazyky,",
+        "SectionName": "K dispozícii jazyk (automatický preklad)",
         "ChangeAlert": "Prepnutie jazyka na dokončenie"
     }
 }

@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "tsev",
         "Feature": "nta",
-        "Documents": "online Pab",
-        "ReleaseNotes": "sau ntawv tso lus",
-        "Downloads": "dawb mus sib hais",
+        "Documents": "Cov ntaub ntawv",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Mus sib hais",
         "Buy": "purchase",
-        "Roadmap": "khoom kab",
-        "ReportIssue": "Qhia ib qho teeb meem",
+        "Roadmap": "roadmap",
+        "ReportIssue": "teeb meem",
         "Languages": "lus"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Conversion ntawm cov ntaub ntawv nyob rau hauv ntau yam tawm tswv yim, them nyiaj yug rau lub qhov rais, Linux thiab MacOSX operating system.",
-        "BtnDownload": "dawb mus sib hais",
-        "BtnBuy": "purchase",
+        "ProjectTagline": "Ib tug plurality ntawm cov ntaub ntawv hom ntawv hloov dua siab tshiab, txhawb lub qhov rais, Linux thiab MacOSX.",
+        "BtnDownload": "Mus sib hais",
+        "BtnBuy": "yuav",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Khoom tseem ceeb nta",
+            "SectionName": "Main nta",
             "list": [
                 "Conversion (YAML) cov ntaub ntawv cov ntaub ntawv ntawm cov nyiaj them yug JSON, XML, CSV, plist, no, lub .properties thiab YML.",
                 "Kev them nyiaj yug batch hloov dua siab tshiab",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Tso",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Tso",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site lus",
+        "SectionName": "Qhov lus (tshuab txhais lus)",
         "ChangeAlert": "Switching lus mus ua kom tiav"
     }
 }

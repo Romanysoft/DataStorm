@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "hejmo",
-        "Feature": "karakterizaĵoj",
-        "Documents": "rete Helpo",
-        "ReleaseNotes": "Release Notoj",
-        "Downloads": "libera Elprovo",
+        "Feature": "Trajtoj",
+        "Documents": "dokumentoj",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "juĝo",
         "Buy": "aĉeto",
-        "Roadmap": "produktserio",
-        "ReportIssue": "Raportu problemo",
-        "Languages": "lingvo"
+        "Roadmap": "vojmapo",
+        "ReportIssue": "temoj",
+        "Languages": "Lingvoj"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konvertiĝo de datumoj en multnombraj formatoj, apogo por Windows, Linukso kaj MacOSX mastruma sistemo.",
-        "BtnDownload": "libera Elprovo",
-        "BtnBuy": "aĉeto",
+        "ProjectTagline": "Al plureco de datuma formato konvertiĝo, subtenas Vindozo, Linukso kaj MacOSX.",
+        "BtnDownload": "juĝo",
+        "BtnBuy": "aĉeti",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Produkto ĉefaj karakterizaĵoj",
+            "SectionName": "ĉefa Elstaraĵoj",
             "list": [
                 "Konvertiĝo (YAML) dosiero datumoj inter subteno JSON, XML, CSV, plist, INI, la .properties kaj YML.",
                 "Subteno batch konvertiĝo",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ĵeto",
+        "labelVersion": "versio",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ĵeto",
+        "labelVersion": "versio",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Ejo lingvoj disponeblaj",
+        "SectionName": "Havebla lingvo (maŝintraduko)",
         "ChangeAlert": "Ŝaltanta lingvo kompletigi"
     }
 }

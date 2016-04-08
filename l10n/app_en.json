@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Online Help",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Free Trial",
-        "Buy": "buy",
-        "Roadmap": "Product line",
-        "ReportIssue": "Report a problem",
-        "Languages": "Language"
+        "Documents": "Documents",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
+        "Buy": "Purchase",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Conversion of data in multiple formats, support for Windows, Linux and MacOSX operating system.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "purchase",
+        "ProjectTagline": "A plurality of data format conversion, supports Windows, Linux and MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "Buy",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product main features",
+            "SectionName": "Main Features",
             "list": [
                 "Conversion (YAML) file data between support JSON, XML, CSV, PLIST, INI, the .properties and YML.",
                 "Support batch conversion",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "version",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "version",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Method of purchase",
+        "SectionName": "Buy",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site languages ​​available",
+        "SectionName": "Available language (machine translation)",
         "ChangeAlert": "Switching language to complete"
     }
 }

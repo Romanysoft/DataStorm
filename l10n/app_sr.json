@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "кући",
-        "Feature": "karakteristike",
-        "Documents": "Онлине помоћ",
-        "ReleaseNotes": "Релеасе Нотес",
-        "Downloads": "Пробна верзија",
+        "Home": "Дом",
+        "Feature": "Карактеристике",
+        "Documents": "Документи",
+        "ReleaseNotes": "РелеасеНотес",
+        "Downloads": "суђење",
         "Buy": "куповина",
-        "Roadmap": "Производна линија",
-        "ReportIssue": "Пријавите проблем",
-        "Languages": "језик"
+        "Roadmap": "РоадМап",
+        "ReportIssue": "pitanja",
+        "Languages": "Језици"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Конверзија података у више формата, подршка за Виндовс, Линук и оперативни систем МацОСКС.",
-        "BtnDownload": "Пробна верзија",
-        "BtnBuy": "куповина",
+        "ProjectTagline": "Већи број формата података конверзије, подржава Виндовс, Линук и МацОСКС.",
+        "BtnDownload": "суђење",
+        "BtnBuy": "купити",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Продуцт главне карактеристике",
+            "SectionName": "Главне карактеристике",
             "list": [
                 "Конверзија (ЈУМП) чување података између подршке ЈСОН, КСМЛ, ЦСВ, плист, ИНИ, на .пропертиес и ИМЛ.",
                 "Подршка серија претворбе",
@@ -40,7 +40,7 @@
                 {
                     "reviewContent": "ДатаСторм је супер. Једноставно, чисто, савршено. Лепо урађено.",
                     "userName": "еванв",
-                    "professional": "датабасе администратор"
+                    "professional": "Администратор базе"
                 },
                 {
                     "reviewContent": "ДатаСторм радим скоро све алат, ово је велика мало апликација.",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "пуштање",
+        "labelVersion": "верзија",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "пуштање",
+        "labelVersion": "верзија",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Сите језици на располагању",
+        "SectionName": "Доступно језика (машина превод)",
         "ChangeAlert": "Пребацивање језика да заврши"
     }
 }

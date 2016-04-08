@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "Hjem",
-        "Feature": "funksjoner",
-        "Documents": "elektronisk hjelp",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Gratis prøve",
-        "Buy": "kjøp",
-        "Roadmap": "Produktlinje linje~~POS=HEADCOMP",
-        "ReportIssue": "Rapporter et problem",
+        "Feature": "Egenskaper",
+        "Documents": "dokumenter",
+        "ReleaseNotes": "versjonsmerknadene",
+        "Downloads": "Prøve",
+        "Buy": "Kjøpe",
+        "Roadmap": "veikart",
+        "ReportIssue": "problemer",
         "Languages": "språk"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konvertering av data i flere formater, støtte for Windows, Linux og MacOSX operativsystem.",
-        "BtnDownload": "Gratis prøve",
-        "BtnBuy": "kjøp",
+        "ProjectTagline": "Et flertall av data format konvertering, støtter Windows, Linux og MacOSX.",
+        "BtnDownload": "Prøve",
+        "BtnBuy": "Kjøpe",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Produkthovedtrekkene",
+            "SectionName": "Hovedtrekkene",
             "list": [
                 "Konvertering (YAML) fildata mellom støtte JSON, XML, CSV, plist, INI, de .properties og YML.",
                 "Støtte batch konvertering",
@@ -38,7 +38,7 @@
             "SectionName": "Se hva alle snakker om",
             "list": [
                 {
-                    "reviewContent": "DataStorm er stor. Enkelt, rent, perfekt. Pent gjort.",
+                    "reviewContent": "DataStorm er stor. Enkelt, rent, perfekt. Bra gjort.",
                     "userName": "evanw",
                     "professional": "database Administrator"
                 },
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Slipp",
+        "labelVersion": "Versjon",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Slipp",
+        "labelVersion": "Versjon",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "kjøpe",
+        "SectionName": "Kjøpe",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Språk er tilgjengelige",
+        "SectionName": "Tilgjengelig språk (Maskin oversettelse)",
         "ChangeAlert": "Bytte språk for å fullføre"
     }
 }

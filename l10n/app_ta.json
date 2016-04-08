@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "முகப்பு",
         "Feature": "அம்சங்கள்",
-        "Documents": "ஆன்லைன் உதவி",
-        "ReleaseNotes": "வெளியீட்டு அறிக்கை",
-        "Downloads": "இலவச சோதனை",
+        "Documents": "ஆவணங்கள்",
+        "ReleaseNotes": "வெளியீட்டு குறிப்புகள்",
+        "Downloads": "சோதனை",
         "Buy": "கொள்முதல்",
-        "Roadmap": "தயாரிப்பு வரி",
-        "ReportIssue": "ஒரு பிரச்சனை தெரிவியுங்கள்",
-        "Languages": "மொழி"
+        "Roadmap": "திட்டத்தை",
+        "ReportIssue": "சிக்கல்கள்",
+        "Languages": "மொழிகள்"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "பல வடிவங்களில், விண்டோஸ், லினக்ஸ் மற்றும் MacOSX இயங்கு ஆதரவு தரவு மாற்றம்.",
-        "BtnDownload": "இலவச சோதனை",
-        "BtnBuy": "கொள்முதல்",
+        "ProjectTagline": "தரவு வடிவம் மாற்றம் ஒரு பன்முக, விண்டோஸ், லினக்ஸ் மற்றும் MacOSX ஆதரிக்கிறது.",
+        "BtnDownload": "சோதனை",
+        "BtnBuy": "வாங்க",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "தயாரிப்பு முக்கிய அம்சங்கள்",
+            "SectionName": "முக்கிய அம்சங்கள்",
             "list": [
                 "ஆதரவு எஞ்சினியரிங், பிற CSV, pList, Ini, .properties மற்றும் yml இடையில் மாற்றீடு (YAML) கோப்பு தரவு.",
                 "ஆதரவு தொகுதி மாற்றம்,",
@@ -38,7 +38,7 @@
             "SectionName": "அனைவருக்கும் பற்றி என்ன பார்க்க",
             "list": [
                 {
-                    "reviewContent": "DataStorm பெரும் உள்ளது. சரியான, எளிய சுத்தமான,. நேர்த்தியாக செய்து.",
+                    "reviewContent": "DataStorm பெரும் உள்ளது. சரியான, எளிய சுத்தமான,. நோ்த்தியாக செய்யப்பட்டது.",
                     "userName": "evanw",
                     "professional": "தரவுத்தள நிர்வாகி"
                 },
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "வெளியீட்டு",
+        "labelVersion": "பதிப்பு",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "வெளியீட்டு",
+        "labelVersion": "பதிப்பு",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "கிடைக்கும் தள மொழிகளை",
+        "SectionName": "கிடைக்கும் மொழி (இயந்திர மொழிபெயர்ப்பு)",
         "ChangeAlert": "முடிக்க மொழி மாற்றம் செய்ய"
     }
 }

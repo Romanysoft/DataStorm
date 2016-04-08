@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "home",
         "Feature": "karatteristiċi",
-        "Documents": "online Għajnuna",
-        "ReleaseNotes": "Noti Rilaxx",
-        "Downloads": "Free Trial",
+        "Documents": "dokumenti",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "prova",
         "Buy": "xiri",
-        "Roadmap": "linja tal-prodott",
-        "ReportIssue": "Rapport problema",
-        "Languages": "lingwa"
+        "Roadmap": "PJAN DIREZZJONALI",
+        "ReportIssue": "kwistjonijiet",
+        "Languages": "lingwi"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konverżjoni ta 'data fil-formati multipli, l-appoġġ għall-Windows, Linux u sistema operattiva MacOSX.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "xiri",
+        "ProjectTagline": "A pluralità ta 'konverżjoni format tad-dejta, jappoġġja Windows, Linux u MacOSX.",
+        "BtnDownload": "prova",
+        "BtnBuy": "Buy",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Karatteristiċi ewlenin tal-prodott",
+            "SectionName": "Karatteristiċi prinċipali",
             "list": [
                 "data Konverżjoni (YAML) fajl bejn JSON appoġġ, XML, CSV, PLIST, INI, il .properties u YML.",
                 "konverżjoni tal-lott Appoġġ",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "rilaxx",
+        "labelVersion": "verżjoni",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "rilaxx",
+        "labelVersion": "verżjoni",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "lingwi Site disponibbli",
+        "SectionName": "lingwa disponibbli (traduzzjoni awtomatika)",
         "ChangeAlert": "lingwa Qlib biex jitlesta"
     }
 }

@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "বাড়ি",
         "Feature": "বৈশিষ্ট্য",
-        "Documents": "অনলাইন সহায়তা",
-        "ReleaseNotes": "রিলিজ নোট",
-        "Downloads": "বিনামূল্যে ট্রায়াল",
+        "Documents": "কাগজপত্র",
+        "ReleaseNotes": "অব্যাহতি পত্র",
+        "Downloads": "পরীক্ষা",
         "Buy": "ক্রয়",
-        "Roadmap": "প্রোডাক্ট লাইন",
-        "ReportIssue": "একটি সমস্যার প্রতিবেদন লিখুন",
-        "Languages": "ভাষা"
+        "Roadmap": "রোডম্যাপ",
+        "ReportIssue": "সমস্যা",
+        "Languages": "ভাষাসমূহ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "একাধিক ফরম্যাটের উইন্ডোজ, লিনাক্স এবং MacOSX অপারেটিং সিস্টেমের জন্য সমর্থন ডাটা রূপান্তর.",
-        "BtnDownload": "বিনামূল্যে ট্রায়াল",
-        "BtnBuy": "ক্রয়",
+        "ProjectTagline": "তথ্য ফরম্যাটে রূপান্তর একটি বহুবচন, উইন্ডোজ, লিনাক্স এবং MacOSX সমর্থন.",
+        "BtnDownload": "পরীক্ষা",
+        "BtnBuy": "কেনা",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "পণ্য প্রধান বৈশিষ্ট্য",
+            "SectionName": "প্রধান বৈশিষ্ট্য",
             "list": [
                 "সমর্থন JSON, এক্সএমএল, CSV, plist, INI এ, .properties এবং YML মধ্যে রূপান্তর (YAML) ফাইলের তথ্য.",
                 "সাপোর্ট ব্যাচ রূপান্তর",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "মুক্তি",
+        "labelVersion": "সংস্করণ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -174,18 +174,18 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "প্রথম প্রকাশ"
+                        "content": "প্রথম রিলিজ"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "প্রথম প্রকাশ"
+                        "content": "প্রথম রিলিজ"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "মুক্তি",
+        "labelVersion": "সংস্করণ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "কিনুন",
+        "SectionName": "কেনা",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "সাইট ভাষা শেখা যায়",
+        "SectionName": "উপলভ্য ভাষা (মেশিন অনুবাদ)",
         "ChangeAlert": "স্যুইচিং ভাষা সম্পন্ন করার"
     }
 }

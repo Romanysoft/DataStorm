@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "Home",
-        "Feature": "Features",
-        "Documents": "Online Help",
-        "ReleaseNotes": "kumasulidwa Mfundo",
-        "Downloads": "Free Mayesero",
+        "Feature": "Mawonekedwe",
+        "Documents": "Documents",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "mlandu",
         "Buy": "Purchase",
-        "Roadmap": "mankhwala mzere",
-        "ReportIssue": "Nenani vuto",
-        "Languages": "Language"
+        "Roadmap": "RoadMap",
+        "ReportIssue": "Issues",
+        "Languages": "m'zinenero"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Kutembenuka deta mu akamagwiritsa angapo, kuthandiza Windows, Linux ndi MacOSX opaleshoni dongosolo.",
-        "BtnDownload": "Free Mayesero",
-        "BtnBuy": "Purchase",
+        "ProjectTagline": "A kuchuluka kwa deta mtundu kutembenuka, amathandiza Windows, Linux ndi MacOSX.",
+        "BtnDownload": "mlandu",
+        "BtnBuy": "kugula",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Mankhwala zinthu zofunika",
+            "SectionName": "Main Features",
             "list": [
                 "deta kutembenuka (YAML) file pakati thandizo JSON, XML, CSV, PLIST, INI, ndi .properties ndi YML.",
                 "Support kutembenuka mtanda",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "kumasulidwa",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "kumasulidwa",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "m'zinenero Site zilipo",
+        "SectionName": "chilankhulo likupezeka (makina yomasulira)",
         "ChangeAlert": "Kusintha chinenero kumaliza"
     }
 }

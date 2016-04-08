@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Нүүр хуудас",
         "Feature": "онцлог",
-        "Documents": "Онлайн тусламж",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Чөлөөт Шүүхийн",
+        "Documents": "баримт бичиг",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Шүүхийн",
         "Buy": "Худалдан авах",
-        "Roadmap": "Бүтээгдэхүүний шугам",
-        "ReportIssue": "Асуудлыг мэдээлэх",
-        "Languages": "хэл"
+        "Roadmap": "чиглэл",
+        "ReportIssue": "асуудлууд",
+        "Languages": "Хэл"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "олон формат, Windows, Linux болон ав үйлдлийн систем дэмжлэгийг мэдээллийг хувиргах.",
-        "BtnDownload": "Чөлөөт Шүүхийн",
-        "BtnBuy": "Худалдан авах",
+        "ProjectTagline": "өгөгдлийн формат хувиргах нь олон ургальч, Windows, Linux болон ав дэмждэг.",
+        "BtnDownload": "Шүүхийн",
+        "BtnBuy": "Одоо худалдаж авах",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Бүтээгдэхүүний гол онцлог",
+            "SectionName": "гол онцлог",
             "list": [
                 "дэмжлэг JSON, XML, CSV, PLIST, INI, .properties болон YML хооронд хувиргах (YAML) файлын өгөгдөл.",
                 "Дэмжлэг багц хувиргах",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Хувилбарын",
+        "labelVersion": "хувилбар",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Хувилбарын",
+        "labelVersion": "хувилбар",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "боломжтой Сайтын хэл",
+        "SectionName": "Боломжит хэл (машин орчуулга)",
         "ChangeAlert": "дуусгахын тулд хэл Switching"
     }
 }

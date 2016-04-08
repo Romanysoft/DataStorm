@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "үй",
-        "Feature": "ерекшеліктері",
-        "Documents": "Онлайн анықтама",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Тегін Trial",
+        "Feature": "Мүмкіндіктер",
+        "Documents": "құжаттар",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "сот",
         "Buy": "сатып алу",
-        "Roadmap": "Өнім желісі",
-        "ReportIssue": "Мәселе туралы хабарлау",
-        "Languages": "тіл"
+        "Roadmap": "жол картасы",
+        "ReportIssue": "мәселелері",
+        "Languages": "Тілдер"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "бірнеше форматта деректер Айырбастау, Windows, Linux және MacOSX операциялық жүйесі үшін қолдау.",
-        "BtnDownload": "Тегін Trial",
-        "BtnBuy": "сатып алу",
+        "ProjectTagline": "деректер пішімі конверсия көптеген, Windows, Linux және MacOSX қолдайды.",
+        "BtnDownload": "сот",
+        "BtnBuy": "сатып",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Өнім негізгі белгілері",
+            "SectionName": "басты ерекшеліктері",
             "list": [
                 "Айырбастау (YAML) қолдау JSON, XML, CSV, PLIST, INI, .properties және YML арасындағы файл деректер.",
                 "Қолдау пакеттік айырбастау",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "босату",
+        "labelVersion": "нұсқа",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "босату",
+        "labelVersion": "нұсқа",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Қол жетімді тілдер Сайт",
+        "SectionName": "Қол жетімді тілі (машиналық аударма)",
         "ChangeAlert": "аяқтау үшін тілді ауысу"
     }
 }

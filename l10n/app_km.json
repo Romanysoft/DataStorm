@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "ទំព័រដើម",
         "Feature": "លក្ខណៈពិសេស",
-        "Documents": "ជំនួយលើបណ្តាញ",
-        "ReleaseNotes": "កំណត់ចំណាំការចេញផ្សាយ",
-        "Downloads": "សវនាការដោយឥតគិតថ្លៃ",
+        "Documents": "ឯកសារ",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "ការជំនុំជម្រះ",
         "Buy": "ការទិញ",
-        "Roadmap": "បន្ទាត់ផលិតផល",
-        "ReportIssue": "រាយការណ៍បញ្ហា",
+        "Roadmap": "ផែនទីផ្លូវ",
+        "ReportIssue": "បញ្ហា",
         "Languages": "ភាសា"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "ការបម្លែងនៃទិន្នន័យនៅក្នុងទ្រង់ទ្រាយច្រើន, ការគាំទ្រសម្រាប់ Windows, Linux និងប្រព័ន្ធប្រតិបត្តិការ MacOSX ។",
-        "BtnDownload": "សវនាការដោយឥតគិតថ្លៃ",
-        "BtnBuy": "ការទិញ",
+        "ProjectTagline": "ពហុភាពនៃការប្រែចិត្តជឿទ្រង់ទ្រាយទិន្នន័យគាំទ្រប្រព័ន្ធប្រតិបត្តិការ Windows, Linux និង MacOSX ។",
+        "BtnDownload": "ការជំនុំជម្រះ",
+        "BtnBuy": "ទិញ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "លក្ខណៈពិសេសចម្បងផលិតផល",
+            "SectionName": "លក្ខណៈ​ពិសេស​ចម្បង",
             "list": [
                 "ទិន្នន័យការប្រែចិត្តជឿឯកសារ (YAML) រវាង JSON ការគាំទ្រ, XML មាន, ជា CSV, plist, ini, បើកដំណើរការនិង YML ។",
                 "ការបម្លែងបាច់ការគាំទ្រ",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ការចេញផ្សាយ",
+        "labelVersion": "កំណែ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ការចេញផ្សាយ",
+        "labelVersion": "កំណែ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "តំបន់បណ្តាញដែលអាចប្រើបានភាសា",
+        "SectionName": "ភាសាដែលអាចប្រើបាន (ប្រែម៉ាស៊ីន)",
         "ChangeAlert": "ការផ្លាស់ប្តូរភាសាដើម្បីបញ្ចប់"
     }
 }

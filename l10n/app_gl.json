@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "casa",
         "Feature": "características",
-        "Documents": "Axuda en liña",
-        "ReleaseNotes": "release Notes",
-        "Downloads": "Free Trial",
+        "Documents": "documentos",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "xuízo",
         "Buy": "compra",
-        "Roadmap": "liña de produtos",
-        "ReportIssue": "Informar dun problema",
-        "Languages": "idioma"
+        "Roadmap": "roadmap",
+        "ReportIssue": "Issues",
+        "Languages": "idiomas"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Conversión de datos en varios formatos, soporte para Windows, Linux e sistema operativo MacOSX.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "compra",
+        "ProjectTagline": "Unha pluralidade de conversión de formato de datos, soporta Windows, Linux e MacOSX.",
+        "BtnDownload": "xuízo",
+        "BtnBuy": "comprar",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "características principais produtos",
+            "SectionName": "Características",
             "list": [
                 "datos do arquivo de conversión (YAML) entre JSON soporte, XML, CSV, PLIST, INI, os .properties e YML.",
                 "Soporte conversión de lote",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "lanzamento",
+        "labelVersion": "versión",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "lanzamento",
+        "labelVersion": "versión",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Idiomas do web dispoñibles",
+        "SectionName": "Dispoñible lingua (tradución automática)",
         "ChangeAlert": "Cambiando a linguaxe para completar"
     }
 }

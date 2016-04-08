@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "Home",
-        "Feature": "endri-javatra",
-        "Documents": "Online Help",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Free Trial",
+        "Feature": "Toetoetra",
+        "Documents": "Documents",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "fitsapana",
         "Buy": "Purchase",
-        "Roadmap": "Product tsipika",
-        "ReportIssue": "Hampahafantatra olana",
+        "Roadmap": "Tondrozotra",
+        "ReportIssue": "olana",
         "Languages": "fiteny"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Fiovam-po ny tahirin-kevitra amin'ny endrika maro, fanohanana ho an'ny Windows, Linux sy MacOSX rafitra fandidiana.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "Purchase",
+        "ProjectTagline": "Ny plurality ny angona endrika fiovam-po, manohana Windows, Linux sy MacOSX.",
+        "BtnDownload": "fitsapana",
+        "BtnBuy": "Buy",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product tena endri-javatra",
+            "SectionName": "Main Features",
             "list": [
                 "Fiovam-po (YAML) rakitra tahirin-kevitra eo amin'ny fanohanana JSON, XML, CSV, PLIST, Ini, ny .properties sy YML.",
                 "Support batch fiovam-po",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site teny misy",
+        "SectionName": "Misy teny (milina fandikan-teny)",
         "ChangeAlert": "Ara fiteny hamita"
     }
 }

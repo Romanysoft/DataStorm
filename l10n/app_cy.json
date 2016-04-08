@@ -1,19 +1,19 @@
 {
     "TopBar": {
         "Home": "Cartref",
-        "Feature": "nodweddion",
-        "Documents": "Help ar-lein",
-        "ReleaseNotes": "Nodiadau Rhyddhau",
-        "Downloads": "Treial am ddim",
+        "Feature": "Nodweddion",
+        "Documents": "dogfennau",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "treial",
         "Buy": "prynu",
-        "Roadmap": "cynnyrch llinell",
-        "ReportIssue": "Rhoi gwybod am broblem",
-        "Languages": "iaith"
+        "Roadmap": "map ffordd",
+        "ReportIssue": "Materion",
+        "Languages": "ieithoedd"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Trosi data mewn fformatau lluosog, cefnogaeth ar gyfer Windows, Linux a system weithredu MacOSX.",
-        "BtnDownload": "Treial am ddim",
+        "ProjectTagline": "Mae lluosogrwydd trosi fformat data, yn cefnogi Windows, Linux a MacOSX.",
+        "BtnDownload": "treial",
         "BtnBuy": "prynu",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Cynnyrch prif nodweddion",
+            "SectionName": "prif Nodweddion",
             "list": [
                 "Data Trosi (YAML) ffeil rhwng JSON cymorth, XML, CSV, PLIST, INI, mae'r .properties a Yml.",
                 "trosi swp Cymorth",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Rhyddhau",
+        "labelVersion": "fersiwn",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Rhyddhau",
+        "labelVersion": "fersiwn",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ieithoedd safle sydd ar gael",
+        "SectionName": "iaith sydd ar gael (cyfieithu peirianyddol)",
         "ChangeAlert": "Newid iaith i gwblhau"
     }
 }

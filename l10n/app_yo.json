@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Awọn ẹya ara ẹrọ",
-        "Documents": "online Help",
-        "ReleaseNotes": "Tu Awọn akọsilẹ",
-        "Downloads": "free Trial",
+        "Documents": "awọn iwe aṣẹ",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "iwadii",
         "Buy": "ra",
-        "Roadmap": "ọja laini",
-        "ReportIssue": "Jabo a isoro",
+        "Roadmap": "Roadmap",
+        "ReportIssue": "oran",
         "Languages": "ede"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Iyipada ti data ni ọpọ ọna kika, support fun Windows, Lainos ati MacOSX ẹrọ.",
-        "BtnDownload": "free Trial",
+        "ProjectTagline": "A ọpọ of data kika iyipada, atilẹyin Windows, Lainos ati MacOSX.",
+        "BtnDownload": "iwadii",
         "BtnBuy": "ra",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Ọja akọkọ awọn ẹya ara ẹrọ",
+            "SectionName": "Main Awọn ẹya ara ẹrọ",
             "list": [
                 "Iyipada (YAML) file data laarin awọn support JSON, XML, CSV, PLIST, yi, awọn .properties ati YML.",
                 "Support ipele iyipada",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Tu",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Tu",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Aye ede wa",
+        "SectionName": "Wa ede (ẹrọ translation)",
         "ChangeAlert": "Yi pada ede lati pari"
     }
 }

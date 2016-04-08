@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "ਮੁੱਖ",
         "Feature": "ਫੀਚਰ",
-        "Documents": "ਆਨਲਾਈਨ ਮਦਦ",
-        "ReleaseNotes": "ਜਾਰੀ ਸੂਚਨਾ",
-        "Downloads": "ਮੁਫ਼ਤ ਮੁਕੱਦਮੇ",
+        "Documents": "ਦਸਤਾਵੇਜ਼",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "ਮੁਕੱਦਮੇ",
         "Buy": "ਖਰੀਦ",
-        "Roadmap": "ਉਤਪਾਦ ਲਾਈਨ",
-        "ReportIssue": "ਇੱਕ ਸਮੱਸਿਆ ਦੀ ਰਿਪੋਰਟ ਕਰੋ",
+        "Roadmap": "ਨਿਸ਼ਾਨੇ",
+        "ReportIssue": "ਮੁੱਦੇ",
         "Languages": "ਭਾਸ਼ਾ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "ਮਲਟੀਪਲ ਫਾਰਮੈਟ, ਵਿੰਡੋਜ਼, ਲੀਨਕਸ ਅਤੇ MacOSX ਓਪਰੇਟਿੰਗ ਸਿਸਟਮ ਲਈ ਸਹਿਯੋਗ ਵਿੱਚ ਡਾਟਾ ਦੇ ਤਬਦੀਲੀ.",
-        "BtnDownload": "ਮੁਫ਼ਤ ਮੁਕੱਦਮੇ",
-        "BtnBuy": "ਖਰੀਦ",
+        "ProjectTagline": "ਡਾਟਾ ਫਾਰਮੈਟ ਨੂੰ ਬਦਲਣ ਦੀ ਇੱਕ plurality, ਵਿੰਡੋਜ਼, ਲੀਨਕਸ ਅਤੇ MacOSX ਨੂੰ ਸਹਿਯੋਗ ਦਿੰਦਾ ਹੈ.",
+        "BtnDownload": "ਮੁਕੱਦਮੇ",
+        "BtnBuy": "ਖਰੀਦੋ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ਉਤਪਾਦ ਮੁੱਖ ਫੀਚਰ",
+            "SectionName": "ਮੁੱਖ ਫੀਚਰ",
             "list": [
                 "ਸਹਿਯੋਗ ਨੂੰ JSON, XML, CSV, plist, INI, .properties ਅਤੇ YML ਵਿਚਕਾਰ ਤਬਦੀਲੀ (YAML) ਫਾਇਲ ਨੂੰ ਡਾਟਾ.",
                 "ਸਹਿਯੋਗ ਬੈਚ ਤਬਦੀਲੀ",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ਜਾਰੀ",
+        "labelVersion": "ਵਰਜਨ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ਜਾਰੀ",
+        "labelVersion": "ਵਰਜਨ",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ਸਾਈਟ ਭਾਸ਼ਾ ਉਪਲੱਬਧ",
+        "SectionName": "ਉਪਲੱਬਧ ਭਾਸ਼ਾ (ਮਸ਼ੀਨ ਅਨੁਵਾਦ)",
         "ChangeAlert": "ਤਬਦੀਲ ਭਾਸ਼ਾ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ"
     }
 }

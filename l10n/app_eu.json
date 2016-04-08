@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Hasiera",
         "Feature": "Ezaugarriak",
-        "Documents": "Online Laguntza",
-        "ReleaseNotes": "Bertsio-oharrak",
-        "Downloads": "Free Trial",
+        "Documents": "Dokumentuak",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "Erosketa",
-        "Roadmap": "Produktu linea",
-        "ReportIssue": "Arazo baten berri",
-        "Languages": "Hizkuntza"
+        "Roadmap": "Ibilbide Orria",
+        "ReportIssue": "Aleak",
+        "Languages": "Hizkuntzak"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "hainbat formatutan, Windows, Linux eta MacOSX sistema eragilearen laguntza datuen Conversion.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "Erosketa",
+        "ProjectTagline": "Datu formatuak bihurtzea pluraltasuna, Windows, Linux eta MacOSX onartzen.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "Erosi",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Produktuen ezaugarri nagusiak",
+            "SectionName": "Ezaugarri nagusiak",
             "list": [
                 "laguntza JSON, XML, CSV, plist, INE, .properties eta YML arteko bihurketa (YAML) fitxategia datuak.",
                 "batch conversion laguntza",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "oharra",
+        "labelVersion": "Bertsio",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "oharra",
+        "labelVersion": "Bertsio",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Gunearen hizkuntzak eskuragarri",
+        "SectionName": "Hizkuntza erabilgarriak (itzulpen automatikoa)",
         "ChangeAlert": "osatzeko hizkuntza konmutadore"
     }
 }

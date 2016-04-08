@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "хона",
-        "Feature": "Хусусиятҳое,",
-        "Documents": "Кӯмаки онлайн",
-        "ReleaseNotes": "Заметки Release",
-        "Downloads": "мурофиаи Free",
+        "Feature": "Вижагиҳо",
+        "Documents": "Ҳуҷҷатҳои",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "мурофиаи",
         "Buy": "Харид",
-        "Roadmap": "хати Маҳсулоти",
-        "ReportIssue": "Гузориши мушкилоти",
-        "Languages": "забон"
+        "Roadmap": "харитаи роҳ",
+        "ReportIssue": "Масъалаҳои",
+        "Languages": "Бо забонҳои дигар"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Мубодилаи маълумот дар форматҳои гуногун, дастгирии Windows, Linux ва системаи омили MacOSX.",
-        "BtnDownload": "мурофиаи Free",
-        "BtnBuy": "Харид",
+        "ProjectTagline": "Як plurality баргардонидани формати маълумот, дастгирӣ Windows, Linux ва MacOSX.",
+        "BtnDownload": "мурофиаи",
+        "BtnBuy": "харидан",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Маҳсулоти хусусиятҳои асосии",
+            "SectionName": "Хусусиятҳои асосӣ",
             "list": [
                 "маълумот (YAML) файли асъор байни дастгирии JSON, XML, CSV, PLIST, INI, ки .properties ва YML.",
                 "табдили партияи Дастгирии",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "озод кардан",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "озод кардан",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "забонҳои сайт дастрас",
+        "SectionName": "забони дастрас (тарҷумаи мошин)",
         "ChangeAlert": "Гузаштан ба забони ба анҷом"
     }
 }

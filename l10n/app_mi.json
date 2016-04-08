@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "Kāinga",
         "Feature": "āhuatanga",
-        "Documents": "Āwhina online",
-        "ReleaseNotes": "tuku Notes",
-        "Downloads": "Whakamātau Free",
+        "Documents": "tuhinga",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "hoko",
-        "Roadmap": "raina hua",
-        "ReportIssue": "Pūrongo i te raruraru",
+        "Roadmap": "mape",
+        "ReportIssue": "take",
         "Languages": "reo"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Te faafariuraa o te raraunga i roto i ngā hōputu maha, tautoko hoki Windows, Linux me te pūnaha whakahaere MacOSX.",
-        "BtnDownload": "Whakamātau Free",
+        "ProjectTagline": "He plurality o faafariuraa hōputu raraunga, tautoko Windows, Linux ko MacOSX.",
+        "BtnDownload": "Trial",
         "BtnBuy": "hoko",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "āhuatanga matua Hua",
+            "SectionName": "Āhuatanga Main",
             "list": [
                 "raraunga faafariuraa kōnae (YAML) i waenganui i te tautoko JSON, XML, CSV, PLIST, INI, nga whakaratonga ko YML.",
                 "faafariuraa puranga tautoko",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "tuku",
+        "labelVersion": "putanga",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "tuku",
+        "labelVersion": "putanga",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "reo Pae wātea",
+        "SectionName": "reo e wātea ana (translation mīhini)",
         "ChangeAlert": "Whakawhiti reo ki te whakaoti"
     }
 }

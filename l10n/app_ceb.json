@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Panimalay",
         "Feature": "Features",
-        "Documents": "Online Tabang",
-        "ReleaseNotes": "release Mubo nga mga sulat",
-        "Downloads": "free Trial",
+        "Documents": "dokumento",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "pagpalit",
-        "Roadmap": "linya Product",
-        "ReportIssue": "Itaho sa usa ka problema",
+        "Roadmap": "roadmap",
+        "ReportIssue": "mga isyu",
         "Languages": "Pinulongan"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Pagkakabig sa mga data sa daghang format, suporta alang sa Windows, Linux ug MacOSX operating system.",
-        "BtnDownload": "free Trial",
-        "BtnBuy": "pagpalit",
+        "ProjectTagline": "Ang usa ka dinaghan nga sa data format pagkakabig, nagsuporta Windows, Linux ug MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "Palita",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product nag-unang mga bahin",
+            "SectionName": "Panguna nga Features",
             "list": [
                 "data sa pagkakabig (YAML) file sa taliwala sa suporta JSON, XML, CSV, PLIST, ini, ang mga .properties ug YML.",
                 "Support batch pagkakabig",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site pinulongan anaa",
+        "SectionName": "Anaa pinulongan (machine hubad)",
         "ChangeAlert": "-Ilis pinulongan sa pagkompleto sa"
     }
 }

@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "ev",
-        "Feature": "Features",
-        "Documents": "Online Help",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Free Trial",
+        "Feature": "Xüsusiyyətləri",
+        "Documents": "Sənədlər",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "sınaq",
         "Buy": "alış",
-        "Roadmap": "Product line",
-        "ReportIssue": "Bir problem hesabat",
-        "Languages": "dil"
+        "Roadmap": "Yol",
+        "ReportIssue": "Issues",
+        "Languages": "Dillər"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "çox formatları, Windows, Linux və MacOSX əməliyyat sistemi üçün dəstək məlumatların Dönüşüm.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "alış",
+        "ProjectTagline": "data format dönüşüm bir plüralizmi, Windows, Linux və MacOSX dəstəkləyir.",
+        "BtnDownload": "sınaq",
+        "BtnBuy": "almaq",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product əsas xüsusiyyətləri",
+            "SectionName": "əsas Xüsusiyyətlər",
             "list": [
                 "dəstək JSON, XML, CSV, plist, ını, xassələri və İML arasında Dönüşüm (YAML) fayl data.",
                 "Support batch dönüşüm",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "Versiya",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "Versiya",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Mövcud Site languages",
+        "SectionName": "Mövcud dili (maşın tərcüməsi)",
         "ChangeAlert": "dil keçid başa çatdırmaq üçün"
     }
 }

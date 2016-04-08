@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "дом",
-        "Feature": "Удобства",
-        "Documents": "Онлайн помощ",
-        "ReleaseNotes": "Бележки по изданието",
-        "Downloads": "Пробен",
+        "Home": "У дома",
+        "Feature": "Характеристика",
+        "Documents": "Документи",
+        "ReleaseNotes": "Бележки към изданието",
+        "Downloads": "Пробен период",
         "Buy": "покупка",
-        "Roadmap": "Продуктова линия",
-        "ReportIssue": "Съобщи за проблем",
-        "Languages": "език"
+        "Roadmap": "Пътната карта",
+        "ReportIssue": "въпроси",
+        "Languages": "Езици"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Преобразуване на данни в множество формати, поддръжка на Windows, Linux и MacOSX операционна система.",
-        "BtnDownload": "Пробен",
-        "BtnBuy": "покупка",
+        "ProjectTagline": "Множество преобразуване формат данни, поддържа Windows, Linux и MacOSX.",
+        "BtnDownload": "Пробен период",
+        "BtnBuy": "купувам",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Продуктови основни функции",
+            "SectionName": "Основните функции",
             "list": [
                 "данни за реализациите (YAML) файлове между подкрепа JSON, XML, CSV, Plist, INI, на .properties и YML.",
                 "Подкрепа пакетно преобразуване",
@@ -38,7 +38,7 @@
             "SectionName": "Вижте какво всеки говори за",
             "list": [
                 {
-                    "reviewContent": "DataStorm е голяма. Обикновено, чист, перфектен. Браво.",
+                    "reviewContent": "DataStorm е голяма. Обикновено, чист, перфектен. Добре свършено.",
                     "userName": "evanw",
                     "professional": "администратор на база данни"
                 },
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "изпускане",
+        "labelVersion": "версия",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "изпускане",
+        "labelVersion": "версия",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Езици на сайта на разположение",
+        "SectionName": "Наличен език (машинен превод)",
         "ChangeAlert": "Превключването език, за да завършите"
     }
 }

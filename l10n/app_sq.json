@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "shtëpi",
-        "Feature": "Features",
-        "Documents": "online Ndihmë",
-        "ReleaseNotes": "Shënime Versioni",
-        "Downloads": "Trial pa pagesë",
+        "Feature": "karakteristika",
+        "Documents": "dokumentet",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "gjykim",
         "Buy": "blerje",
-        "Roadmap": "Programi i prodhimit",
-        "ReportIssue": "Raporto një problem",
-        "Languages": "gjuhë"
+        "Roadmap": "Udhërrëfyesi",
+        "ReportIssue": "çështjet",
+        "Languages": "Gjuhë"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konvertimi i të dhënave në formate të shumta, mbështetje për Windows, Linux dhe të sistemit operativ MacOSX.",
-        "BtnDownload": "Trial pa pagesë",
-        "BtnBuy": "blerje",
+        "ProjectTagline": "Një shumicë e të dhënave format konvertimit, mbështet Windows, Linux dhe MacOSX.",
+        "BtnDownload": "gjykim",
+        "BtnBuy": "blej",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Karakteristika të produktit kryesore",
+            "SectionName": "Karakteristikat kryesore",
             "list": [
                 "të dhënat e konvertimit (YAML) fotografi mes mbështetje JSON, XML, CSV, plist, INI, të .properties dhe YML.",
                 "Mbështetje grumbull konvertimit",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "lirim",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "lirim",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Gjuhët e sitit dispozicion",
+        "SectionName": "Gjuha e disponueshme (përkthim makinë)",
         "ChangeAlert": "Switching gjuhë të përfunduar"
     }
 }

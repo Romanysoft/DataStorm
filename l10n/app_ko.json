@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "홈",
-        "Feature": "특징",
-        "Documents": "온라인 도움말",
-        "ReleaseNotes": "릴리스 노트",
-        "Downloads": "무료 평가판",
+        "Home": "집",
+        "Feature": "풍모",
+        "Documents": "서류",
+        "ReleaseNotes": "릴리즈 노트",
+        "Downloads": "시도",
         "Buy": "매수",
-        "Roadmap": "제품 라인",
-        "ReportIssue": "문제 신고",
+        "Roadmap": "할일 : 개발 예정표",
+        "ReportIssue": "문제",
         "Languages": "언어"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "여러 형식, 윈도우, 리눅스 및에서라도 운영 체제에 대한 지원 데이터의 변환.",
-        "BtnDownload": "무료 평가판",
-        "BtnBuy": "매수",
+        "ProjectTagline": "데이터 포맷으로 변환하는 복수의 윈도우, 리눅스 및에서라도을 지원한다.",
+        "BtnDownload": "시도",
+        "BtnBuy": "사다",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "제품 주요 특징",
+            "SectionName": "주요 특징",
             "list": [
                 "지원 JSON, XML, CSV, PLIST, INI의 .properties 파일 및 YML 사이의 변환 (YAML) 파일 데이터.",
                 "지원 일괄 변환",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "해제",
+        "labelVersion": "번역",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "해제",
+        "labelVersion": "번역",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "사기",
+        "SectionName": "사다",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "사용 가능한 사이트 언어",
+        "SectionName": "사용 가능한 언어 (기계 번역)",
         "ChangeAlert": "언어를 전환 완료"
     }
 }

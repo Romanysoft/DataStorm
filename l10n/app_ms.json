@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Laman",
         "Feature": "ciri-ciri",
-        "Documents": "Bantuan Dalam talian",
-        "ReleaseNotes": "Nota keluaran",
-        "Downloads": "Percubaan percuma",
+        "Documents": "dokumen",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "percubaan",
         "Buy": "pembelian",
-        "Roadmap": "barisan produk",
-        "ReportIssue": "Laporkan masalah",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "isu-isu",
         "Languages": "bahasa"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Penukaran data dalam pelbagai format, sokongan untuk Windows, Linux dan sistem operasi MacOSX.",
-        "BtnDownload": "Percubaan percuma",
-        "BtnBuy": "pembelian",
+        "ProjectTagline": "A kepelbagaian format data penukaran, menyokong Windows, Linux dan MacOSX.",
+        "BtnDownload": "percubaan",
+        "BtnBuy": "Beli",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Ciri-ciri utama produk",
+            "SectionName": "Ciri-ciri utama",
             "list": [
                 "Data penukaran (YAML) fail antara sokongan JSON, XML, CSV, plist, INI, yang .properties dan YML.",
                 "Sokongan penukaran kumpulan",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Akhbar",
+        "labelVersion": "versi",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Akhbar",
+        "labelVersion": "versi",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "Membeli",
+        "SectionName": "Beli",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "bahasa tapak tersedia",
+        "SectionName": "Bahasa yang disediakan (terjemahan mesin)",
         "ChangeAlert": "Menukar bahasa untuk melengkapkan"
     }
 }

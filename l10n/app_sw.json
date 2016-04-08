@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "nyumbani",
-        "Feature": "makala",
-        "Documents": "online Msaada",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "bure kesi",
+        "Feature": "Vipengele",
+        "Documents": "nyaraka",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "kesi",
         "Buy": "Ununuzi",
-        "Roadmap": "bidhaa line",
-        "ReportIssue": "Ripoti tatizo",
+        "Roadmap": "mpango",
+        "ReportIssue": "masuala",
         "Languages": "lugha"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Wongofu wa data katika miundo mbalimbali, msaada kwa ajili ya Windows, Linux na MacOSX mfumo wa uendeshaji.",
-        "BtnDownload": "bure kesi",
-        "BtnBuy": "Ununuzi",
+        "ProjectTagline": "wingi wa data format uongofu, inasaidia Windows, Linux na MacOSX.",
+        "BtnDownload": "kesi",
+        "BtnBuy": "kununua",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Bidhaa sifa kuu",
+            "SectionName": "Sifa kuu",
             "list": [
                 "data uongofu (YAML) file kati ya msaada JSON, XML, CSV, plist, INI, .properties na YML.",
                 "Support uongofu kundi",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "kutolewa",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "kutolewa",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Lugha tovuti inapatikana",
+        "SectionName": "Lugha inapatikana (mashine ya tafsiri)",
         "ChangeAlert": "Byte lugha kukamilisha"
     }
 }

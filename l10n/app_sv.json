@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "hem",
-        "Feature": "särdrag",
-        "Documents": "Onlinehjälp",
-        "ReleaseNotes": "utgåvan",
-        "Downloads": "Free Trial",
-        "Buy": "inköp",
-        "Roadmap": "produktlinje",
-        "ReportIssue": "Rapportera ett problem",
+        "Home": "Hem",
+        "Feature": "Funktioner",
+        "Documents": "Dokument",
+        "ReleaseNotes": "releasenotes",
+        "Downloads": "Rättegång",
+        "Buy": "Inköp",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "frågor",
         "Languages": "språk"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konvertering av data i olika format, stöd för Windows, Linux och MacOSX operativsystem.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "inköp",
+        "ProjectTagline": "Ett flertal dataformat konvertering, stöder Windows, Linux och MacOSX.",
+        "BtnDownload": "Rättegång",
+        "BtnBuy": "Köpa",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Produkthuvuddrag",
+            "SectionName": "Huvuddrag",
             "list": [
                 "Omvandling (YAML) fildata mellan stöd JSON, XML, CSV, PLIST, INI, de .properties och YML.",
                 "Stöd baken omvandlingen",
@@ -40,7 +40,7 @@
                 {
                     "reviewContent": "DataStorm är stor. Enkelt, rent, perfekt. Snyggt gjort.",
                     "userName": "evanw",
-                    "professional": "Databasadministratör administratör~~POS=HEADCOMP"
+                    "professional": "Databasadministratör"
                 },
                 {
                     "reviewContent": "DataStorm jag gör nästan alla mina verktyg, är detta en stor liten applikation.",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "frisättning",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "frisättning",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "köpa",
+        "SectionName": "Köpa",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Sajtens språk tillgängliga",
+        "SectionName": "Tillgängliga språk (datoröversättning)",
         "ChangeAlert": "Omkopplings språk för att slutföra"
     }
 }

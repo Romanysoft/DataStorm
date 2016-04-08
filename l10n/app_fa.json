@@ -1,19 +1,19 @@
 {
     "TopBar": {
         "Home": "خانه",
-        "Feature": "ویژگی های",
-        "Documents": "کمک آنلاین",
-        "ReleaseNotes": "یادداشتهای انتشار",
-        "Downloads": "محاکمه آزاد",
+        "Feature": "امکانات",
+        "Documents": "اسناد",
+        "ReleaseNotes": "به ReleaseNotes",
+        "Downloads": "آزمایش",
         "Buy": "خرید",
-        "Roadmap": "خط تولید",
-        "ReportIssue": "گزارش یک مشکل",
-        "Languages": "زبان"
+        "Roadmap": "نقشه راه",
+        "ReportIssue": "مسائل",
+        "Languages": "زبان ها"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "تبدیل داده ها در فرمت های مختلف، پشتیبانی از ویندوز، لینوکس و سیستم عامل MacOSX برای.",
-        "BtnDownload": "محاکمه آزاد",
+        "ProjectTagline": "تکثر تبدیل فرمت داده ها، پشتیبانی از ویندوز، لینوکس و MacOSX.",
+        "BtnDownload": "آزمایش",
         "BtnBuy": "خرید",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "محصولات ویژگی های اصلی",
+            "SectionName": "ویژگی های اصلی",
             "list": [
                 "داده ها (YAML) فایل تبدیل بین پشتیبانی از JSON، XML، CSV، به plist، INI از .properties و YML.",
                 "پشتیبانی از تبدیل دسته",
@@ -38,7 +38,7 @@
             "SectionName": "چه هر کس صحبت کردن در مورد",
             "list": [
                 {
-                    "reviewContent": "DataStorm بزرگ است. ساده، تمیز، کامل است. سادگی انجام می شود.",
+                    "reviewContent": "DataStorm بزرگ است. ساده، تمیز، کامل است. به خوبی انجام شد.",
                     "userName": "evanw",
                     "professional": "مدیر پایگاه داده"
                 },
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "رهایی",
+        "labelVersion": "نسخه",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "رهایی",
+        "labelVersion": "نسخه",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "زبان سایت، در دسترس",
+        "SectionName": "زبان های موجود (ترجمه ماشینی)",
         "ChangeAlert": "تعویض زبان به تکمیل"
     }
 }

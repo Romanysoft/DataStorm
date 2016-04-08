@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "atụmatụ",
-        "Documents": "online Help",
-        "ReleaseNotes": "Hapụ ndị edeturu",
-        "Downloads": "Free Trial",
+        "Documents": "Documents",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "zuo",
-        "Roadmap": "ngwaahịa akara",
-        "ReportIssue": "-Akọ a nsogbu",
-        "Languages": "asụsụ"
+        "Roadmap": "RoadMap",
+        "ReportIssue": "Issues",
+        "Languages": "Asụsụ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Akakabarede nke data na otutu formats, nkwado maka Windows, Linux na MacOSX sistemụ.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "zuo",
+        "ProjectTagline": "A plurality nke data format akakabarede, na-akwado Windows, Linux na MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "ịzụta",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product isi atụmatụ",
+            "SectionName": "isi atụmatụ",
             "list": [
                 "Akakabarede (YAML) file data n'etiti support JSON, XML, CSV, PLIST, Ini, ndị .properties na YML.",
                 "Nkwado ogbe akakabarede",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ntọhapụ",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ntọhapụ",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site asụsụ dị",
+        "SectionName": "Dị asụsụ (igwe translation)",
         "ChangeAlert": "Ịmafe asụsụ iji wuchaa"
     }
 }

@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "היים",
         "Feature": "פֿעיִקייטן",
-        "Documents": "אָנליין הילף",
-        "ReleaseNotes": "ריליס נאָטעס",
-        "Downloads": "פּאָטער פּראָצעס",
+        "Documents": "דאָקומענץ",
+        "ReleaseNotes": "רעלעאַסענאָטעס",
+        "Downloads": "פּראָצעס",
         "Buy": "קויפן",
-        "Roadmap": "פּראָדוקט שורה",
-        "ReportIssue": "באריכט אַ פּראָבלעם",
-        "Languages": "שפּראַך"
+        "Roadmap": "ראָאַדמאַפּ",
+        "ReportIssue": "יססועס",
+        "Languages": "שפּראַכן"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "קאָנווערסיאָן פון דאַטן אין קייפל פֿאָרמאַטירונגען, שטיצן פֿאַר ווינדאָוז, לינוקס און מאַקאָסקס אָפּערייטינג סיסטעם.",
-        "BtnDownload": "פּאָטער פּראָצעס",
+        "ProjectTagline": "אַ פּלוראַליטעט פון דאַטן פֿאָרמאַט קאַנווערזשאַן, שטיצט ווינדאָוז, לינוקס און מאַקאָסקס.",
+        "BtnDownload": "פּראָצעס",
         "BtnBuy": "קויפן",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "פּראָדוקט הויפּט פֿעיִקייטן",
+            "SectionName": "הויפּט פֿעיִקייטן",
             "list": [
                 "קאָנווערסיאָן (יאַמל) טעקע דאַטע צווישן שטיצן דזשסאָן, קסמל, קסוו, פּליסט, יני, די .פּראָפּערטיעס און ימל.",
                 "שטיצן באַטש קאַנווערזשאַן",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "מעלדונג",
+        "labelVersion": "ווערסיע",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "מעלדונג",
+        "labelVersion": "ווערסיע",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "מאַפּע שפּראַכן פאַראַנען",
+        "SectionName": "בנימצא שפּראַך (מאַשין איבערזעצונג)",
         "ChangeAlert": "סוויטטשינג שפּראַך צו פאַרענדיקן"
     }
 }

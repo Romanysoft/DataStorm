@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "uy",
-        "Feature": "Xususiyatlar",
-        "Documents": "Online Yordam",
-        "ReleaseNotes": "Versiya eslatmalar",
-        "Downloads": "Free Trial",
+        "Feature": "Xususiyatlari",
+        "Documents": "hujjatlar",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "sinov",
         "Buy": "Sotib olish to'g'risida",
-        "Roadmap": "Mahsulot liniyasi",
-        "ReportIssue": "Muammo haqida xabar",
-        "Languages": "til"
+        "Roadmap": "nima bo'ladi?",
+        "ReportIssue": "masalalar",
+        "Languages": "tillar"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "bir necha shakllari, Windows, Linux va MacOSX operatsion tizimi uchun qo'llab-quvvatlash ma'lumotlarni o'tkazish.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "Sotib olish to'g'risida",
+        "ProjectTagline": "ma'lumotlar formati aylantirish A ko'pchilik, Windows, Linux va MacOSX qo'llab-quvvatlaydi.",
+        "BtnDownload": "sinov",
+        "BtnBuy": "sotib",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Mahsulot asosiy xususiyatlari",
+            "SectionName": "Asosiy xususiyatlari",
             "list": [
                 "qo'llab-quvvatlash JSON, XML, CSV, plist, ini, suvoqli va YML bilan ishlash (YAML) fayl ma'lumotlar.",
                 "Ko'mak ommaviy o'tkazish",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ozod qilish",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ozod qilish",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "mavjud Sayt tillari",
+        "SectionName": "Mavjud til (mashinasozlik tarjima)",
         "ChangeAlert": "Tilni kommutatsiya bajarish uchun"
     }
 }

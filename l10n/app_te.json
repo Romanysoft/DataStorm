@@ -1,19 +1,19 @@
 {
     "TopBar": {
         "Home": "హోమ్",
-        "Feature": "ఫీచర్స్",
-        "Documents": "ఆన్లైన్ సహాయం",
+        "Feature": "లక్షణాలు",
+        "Documents": "పత్రాలు",
         "ReleaseNotes": "విడుదల గమనికలు",
-        "Downloads": "ఉచిత ట్రయల్",
+        "Downloads": "ట్రయల్",
         "Buy": "కొనుగోలు",
-        "Roadmap": "ఉత్పత్తి లైన్",
-        "ReportIssue": "ఒక సమస్యను నివేదించండి",
-        "Languages": "భాషా"
+        "Roadmap": "రోడ్మ్యాప్",
+        "ReportIssue": "సమస్యలు",
+        "Languages": "భాషలు"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "బహుళ ఫార్మాట్లలో, విండోస్, లినక్స్ మరియు MacOSX ఆపరేటింగ్ సిస్టమ్ కోసం మద్దతుగా డేటా మార్పిడి.",
-        "BtnDownload": "ఉచిత ట్రయల్",
+        "ProjectTagline": "డేటా ఫార్మాట్ మార్పిడి బహుత్వ, విండోస్, లినక్స్ మరియు MacOSX మద్దతు.",
+        "BtnDownload": "ట్రయల్",
         "BtnBuy": "కొనుగోలు",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ఉత్పత్తి ప్రధాన లక్షణాలు",
+            "SectionName": "ప్రధాన లక్షణాలు",
             "list": [
                 "మద్దతు JSON, XML, CSV plist, INI, .గుణాలు మరియు yml మధ్య బదలాయింపు (YAML) ఫైలు డేటా.",
                 "మద్దతు బ్యాచ్ మార్పిడి",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "విడుదల",
+        "labelVersion": "వెర్షన్",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "విడుదల",
+        "labelVersion": "వెర్షన్",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "అందుబాటులో సైటు భాషలు",
+        "SectionName": "లభ్యమయ్యే భాషలు (యాంత్రిక అనువాదం)",
         "ChangeAlert": "పూర్తి భాష మారినప్పుడు"
     }
 }

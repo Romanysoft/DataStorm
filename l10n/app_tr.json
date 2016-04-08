@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "ev",
         "Feature": "Özellikler",
-        "Documents": "çevrimiçi Yardım",
-        "ReleaseNotes": "Sürüm Notları",
-        "Downloads": "Ücretsiz Deneme",
-        "Buy": "satın alma",
-        "Roadmap": "Ürün çeşitleri",
-        "ReportIssue": "Bir sorunu bildirmek",
-        "Languages": "dil"
+        "Documents": "evraklar",
+        "ReleaseNotes": "Sürüm notları",
+        "Downloads": "Deneme",
+        "Buy": "Satın alma",
+        "Roadmap": "Yolharitası",
+        "ReportIssue": "Sorunlar",
+        "Languages": "Diller"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "birden fazla formatta, Windows, Linux ve MacOSX işletim sistemi için destek verilerin dönüştürülmesi.",
-        "BtnDownload": "Ücretsiz Deneme",
-        "BtnBuy": "satın alma",
+        "ProjectTagline": "veri formatı dönüştürme Çok sayıda, Windows, Linux ve MacOSX destekler.",
+        "BtnDownload": "Deneme",
+        "BtnBuy": "satın almak",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Ürün ana özellikleri",
+            "SectionName": "Ana Özellikler",
             "list": [
                 "destek JSON, XML, CSV, PLIST, INI, .properties ve YML arasındaki dönüşüm (YAML) dosya veri.",
                 "Toplu dönüştürme desteği",
@@ -40,12 +40,12 @@
                 {
                     "reviewContent": "DataStorm harika. mükemmel, temiz, basit. Güzel yapılır.",
                     "userName": "evanw",
-                    "professional": "veritabanı Yöneticisi"
+                    "professional": "Veritabanı yöneticisi"
                 },
                 {
                     "reviewContent": "Neredeyse tüm araçları yapmak DataStorm, bu harika bir küçük bir uygulamadır.",
                     "userName": "Peter Bright",
-                    "professional": "Test Mühendisi"
+                    "professional": "Test mühendisi"
                 },
                 {
                     "reviewContent": "veri dönüşüm yapmak gerekirse, DataStorm indirirken kesinlikle değer.",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "serbest bırakma",
+        "labelVersion": "versiyon",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -174,18 +174,18 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "ilk sürüm"
+                        "content": "İlk sürüm"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "ilk sürüm"
+                        "content": "İlk sürüm"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "serbest bırakma",
+        "labelVersion": "versiyon",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Kullanılabilir site dilleri",
+        "SectionName": "Mevcut dil (makine çevirisi)",
         "ChangeAlert": "dilinin değiştirilmesi tamamlamak için"
     }
 }

@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Online Hjálp",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Free Trial",
+        "Documents": "skjöl",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "kaup",
-        "Roadmap": "vara lína",
-        "ReportIssue": "Tilkynna vandamál",
+        "Roadmap": "Roadmap",
+        "ReportIssue": "Issues",
         "Languages": "Tungumál"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Umbreytingar gagna í mörgum sniðum, stuðning fyrir Windows, Linux og MacOSX stýrikerfinu.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "kaup",
+        "ProjectTagline": "Mörgum gögn snið ummyndun, styður Windows, Linux og MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "kaupa",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Vara Helstu eiginleikar",
+            "SectionName": "Aðalatriði",
             "list": [
                 "Ummyndun (Yaml) skrá gögn á milli stuðningi JSON, XML, CSV, plist, ini, sem .properties og YML.",
                 "Stuðningur hópur ummyndun",
@@ -38,7 +38,7 @@
             "SectionName": "Sjá hvað allir eru að tala um",
             "list": [
                 {
-                    "reviewContent": "DataStorm er mikill. Einfalt, hreint, fullkominn. Fallega gert.",
+                    "reviewContent": "DataStorm er mikill. Einfalt, hreint, fullkominn. Vel gert.",
                     "userName": "evanw",
                     "professional": "Database Administrator"
                 },
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "útgáfa",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "útgáfa",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site tungumál í boði",
+        "SectionName": "Laus tungumál (vél þýðing)",
         "ChangeAlert": "Skipt tungumál til að ljúka"
     }
 }

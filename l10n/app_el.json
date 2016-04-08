@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "σπίτι",
-        "Feature": "χαρακτηριστικά",
-        "Documents": "ηλεκτρονική Βοήθεια",
+        "Home": "Σπίτι",
+        "Feature": "Χαρακτηριστικά",
+        "Documents": "Έγγραφα",
         "ReleaseNotes": "Σημειώσεις έκδοσης",
-        "Downloads": "δωρεάν δοκιμή",
-        "Buy": "αγορά",
-        "Roadmap": "Γκάμα προϊόντων",
-        "ReportIssue": "Αναφέρετε ένα πρόβλημα",
-        "Languages": "γλώσσα"
+        "Downloads": "Δίκη",
+        "Buy": "Αγορά",
+        "Roadmap": "οδικός χάρτης",
+        "ReportIssue": "ζητήματα",
+        "Languages": "γλώσσες"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Μετατροπή των δεδομένων σε πολλαπλές μορφές, υποστήριξη για τα Windows, Linux και το λειτουργικό σύστημα MacOSX.",
-        "BtnDownload": "δωρεάν δοκιμή",
-        "BtnBuy": "αγορά",
+        "ProjectTagline": "Ένα πλήθος μετατροπής μορφή δεδομένων, υποστηρίζει τα Windows, Linux και MacOSX.",
+        "BtnDownload": "Δίκη",
+        "BtnBuy": "Αγορά",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Τα κύρια χαρακτηριστικά του προϊόντος",
+            "SectionName": "Κύρια χαρακτηριστικά",
             "list": [
                 "δεδομένα μετατροπής (YAML) αρχείων μεταξύ JSON υποστήριξη, XML, CSV, plist, INI, τα .properties και YML.",
                 "Υποστήριξη μετατροπής παρτίδα",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ελευθέρωση",
+        "labelVersion": "Εκδοχή",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ελευθέρωση",
+        "labelVersion": "Εκδοχή",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "αγοράζω",
+        "SectionName": "Αγορά",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Γλώσσες ιστοχώρου διαθέσιμη",
+        "SectionName": "Διαθέσιμη γλώσσα (αυτόματη μετάφραση)",
         "ChangeAlert": "Εναλλαγή γλώσσας για να ολοκληρωθεί"
     }
 }

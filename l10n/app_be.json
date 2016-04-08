@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "дома",
-        "Feature": "рысы",
-        "Documents": "Дапамога онлайн",
-        "ReleaseNotes": "Заўвагі да выпуску",
-        "Downloads": "Бясплатная пробная версія",
+        "Feature": "Асаблівасці",
+        "Documents": "дакументы",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "пробны",
         "Buy": "купля",
-        "Roadmap": "лінейка прадуктаў",
-        "ReportIssue": "Паведаміць аб праблеме",
-        "Languages": "мова"
+        "Roadmap": "RoadMap",
+        "ReportIssue": "пытанняў",
+        "Languages": "Мовы"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Пераўтварэнне дадзеных у розных фарматах, падтрымка Windows, Linux і аперацыйнай сістэмы MacOSX.",
-        "BtnDownload": "Бясплатная пробная версія",
-        "BtnBuy": "купля",
+        "ProjectTagline": "Мноства пераўтварэнні фармату дадзеных, падтрымлівае Windows, Linux і MacOSX.",
+        "BtnDownload": "пробны",
+        "BtnBuy": "купіць",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Галоўныя асаблівасці прадукту",
+            "SectionName": "Асноўныя рысы",
             "list": [
                 "Дадзеныя пераўтварэння файлаў (YAML) паміж падтрымкай JSON, XML, CSV, PLIST, INI, у .properties і YML.",
                 "Падтрымка пакетнага пераўтварэнні",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "рэліз",
+        "labelVersion": "версія",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "рэліз",
+        "labelVersion": "версія",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Мовы сайта даступна",
+        "SectionName": "Існуючы мова (машынны пераклад)",
         "ChangeAlert": "Пераключэнне мовы для завяршэння"
     }
 }

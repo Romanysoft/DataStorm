@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "მთავარი",
         "Feature": "მახასიათებლები",
-        "Documents": "ონლაინ დახმარება",
+        "Documents": "დოკუმენტები",
         "ReleaseNotes": "გამოშვების შენიშვნები",
-        "Downloads": "უფასო Trial",
-        "Buy": "შეძენა",
-        "Roadmap": "პროდუქციის ხაზი",
-        "ReportIssue": "ანგარიშს პრობლემა",
-        "Languages": "ენა"
+        "Downloads": "Trial",
+        "Buy": "შესყიდვა",
+        "Roadmap": "საგზაო რუკა",
+        "ReportIssue": "საკითხები",
+        "Languages": "ენები"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "კონვერტაციის მონაცემების სხვადასხვა ფორმატში, მხარდაჭერა Windows, Linux და MacOSX ოპერაციული სისტემა.",
-        "BtnDownload": "უფასო Trial",
-        "BtnBuy": "შეძენა",
+        "ProjectTagline": "გავურბივარ მონაცემების ფორმატში კონვერტაციის, მხარს უჭერს Windows, Linux და MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "ყიდვა",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "პროდუქტის ძირითადი მახასიათებლები",
+            "SectionName": "ძირითადი მახასიათებლები",
             "list": [
                 "Conversion (YAML) ფაილის მონაცემების შორის მხარდაჭერა JSON, XML, CSV, plist, INI, რომ .თვისებების და YML.",
                 "მხარდაჭერა სურათების კონვერტაცია",
@@ -38,7 +38,7 @@
             "SectionName": "იხილეთ რა ყველას ლაპარაკი",
             "list": [
                 {
-                    "reviewContent": "DataStorm არის დიდი. მარტივი, სუფთა, სრულყოფილი. ლამაზად კეთდება.",
+                    "reviewContent": "DataStorm არის დიდი. მარტივი, სუფთა, სრულყოფილი. კარგათ შესრულებული.",
                     "userName": "evanw",
                     "professional": "მონაცემთა ბაზის ადმინისტრატორი"
                 },
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "გამოსვლის",
+        "labelVersion": "მობილური",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "გამოსვლის",
+        "labelVersion": "მობილური",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "საიტის ენები ხელმისაწვდომია",
+        "SectionName": "ხელმისაწვდომი ენა (მანქანური თარგმანი)",
         "ChangeAlert": "გადართვის ენის დაასრულებს"
     }
 }

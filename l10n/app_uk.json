@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "будинки",
         "Feature": "риси",
-        "Documents": "Допомога онлайн",
-        "ReleaseNotes": "Примітки до випуску",
-        "Downloads": "Безкоштовна пробна версія",
+        "Documents": "документи",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "пробний",
         "Buy": "покупка",
-        "Roadmap": "лінійка продуктів",
-        "ReportIssue": "Повідомити про проблему",
-        "Languages": "мова"
+        "Roadmap": "RoadMap",
+        "ReportIssue": "питань",
+        "Languages": "мови"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Перетворення даних в різних форматах, підтримка Windows, Linux і операційної системи MacOSX.",
-        "BtnDownload": "Безкоштовна пробна версія",
-        "BtnBuy": "покупка",
+        "ProjectTagline": "Безліч перетворення формату даних, підтримує Windows, Linux і MacOSX.",
+        "BtnDownload": "пробний",
+        "BtnBuy": "купити",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Головні особливості продукту",
+            "SectionName": "Основні риси",
             "list": [
                 "Дані перетворення файлів (YAML) між підтримкою JSON, XML, CSV, PLIST, INI, в .properties і YML.",
                 "Підтримка пакетного перетворення",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "реліз",
+        "labelVersion": "версія",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "реліз",
+        "labelVersion": "версія",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Мови сайту є",
+        "SectionName": "Наявний мову (машинний переклад)",
         "ChangeAlert": "Перемикання мови для завершення"
     }
 }

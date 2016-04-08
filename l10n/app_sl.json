@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "Domov",
-        "Feature": "lastnosti",
-        "Documents": "Spletna pomoč",
-        "ReleaseNotes": "Opombe k izdaji",
-        "Downloads": "Free Trial",
+        "Feature": "Lastnosti",
+        "Documents": "dokumenti",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "nakup",
-        "Roadmap": "linija izdelkov",
-        "ReportIssue": "Prijavi težavo",
-        "Languages": "Jezik"
+        "Roadmap": "NAČRT",
+        "ReportIssue": "vprašanja",
+        "Languages": "jeziki"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Pretvorba podatkov v različnih oblikah, podpora za Windows, Linux in operacijski sistem MacOSX.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "nakup",
+        "ProjectTagline": "Množica pretvorbo format podatkov, podpira Windows, Linux in MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "Nakup",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Izdelek glavne značilnosti",
+            "SectionName": "Glavne značilnosti",
             "list": [
                 "Podatki pretvorbe (YAML) datotek med podporo JSON, XML, CSV, PLIST, INI, na .properties in YML.",
                 "Podpora pretvorbo serije",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "različica",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "različica",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Jezik strani na voljo",
+        "SectionName": "Na voljo jezik (strojno prevajanje)",
         "ChangeAlert": "Preklop jezika za dokončanje"
     }
 }

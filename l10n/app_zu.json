@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Ikhaya",
         "Feature": "Izici",
-        "Documents": "Online Usizo",
-        "ReleaseNotes": "release Notes",
-        "Downloads": "Isivivinyo samahhala",
+        "Documents": "Imibhalo",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "Ukuthengwa",
-        "Roadmap": "umugqa Product",
-        "ReportIssue": "Bika inkinga",
-        "Languages": "Ulimi"
+        "Roadmap": "Luyinkombandlela",
+        "ReportIssue": "Issues",
+        "Languages": "Izilimi"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Ukuguquka kwemininingwane in takhiwo amaningi, ukwesekwa i-Windows, i-Linux kanye yesistimu yokusebenza MacOSX.",
-        "BtnDownload": "Isivivinyo samahhala",
-        "BtnBuy": "Ukuthengwa",
+        "ProjectTagline": "A sebuningini idatha yohlelo ukuguqulwa, isekela Windows, Linux kanye MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "Thenga",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Umkhiqizo izici eziyinhloko",
+            "SectionName": "Izici Main",
             "list": [
                 "Idatha Ukuguquka (YAML) ifayela emkhatsini ukwesekwa JSON, XML, CSV, PLIST, INI, lo .properties kanye YML.",
                 "batch nokuguquka ukweseka",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "release",
+        "labelVersion": "Inguqulo",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "release",
+        "labelVersion": "Inguqulo",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "izilimi Site kuyatholakala",
+        "SectionName": "ulimi Kuyatholakala (umshini translation)",
         "ChangeAlert": "Ishintshela ulimi ukuqedela"
     }
 }

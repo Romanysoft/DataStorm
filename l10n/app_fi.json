@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "koti",
-        "Feature": "piirteet",
-        "Documents": "Online-ohje",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "free Trial",
-        "Buy": "hankinta",
-        "Roadmap": "Tuotantolinja",
-        "ReportIssue": "Ilmoita ongelmasta",
-        "Languages": "kieli"
+        "Home": "Kotiin",
+        "Feature": "ominaisuudet",
+        "Documents": "asiakirjat",
+        "ReleaseNotes": "Julkaisutiedot",
+        "Downloads": "oikeudenkäynti",
+        "Buy": "Ostaa",
+        "Roadmap": "Tiekartta",
+        "ReportIssue": "kysymykset",
+        "Languages": "kielet"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Muuntaminen tietoja eri muodoissa, tuki Windows, Linux ja MacOSX käyttöjärjestelmä.",
-        "BtnDownload": "free Trial",
-        "BtnBuy": "hankinta",
+        "ProjectTagline": "Useita tietojen muuntaminen, tukee Windows, Linux ja MacOSX.",
+        "BtnDownload": "oikeudenkäynti",
+        "BtnBuy": "Ostaa",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Tuotteen tärkeimmät ominaisuudet",
+            "SectionName": "Pääpiirteet",
             "list": [
                 "Conversion (YAML) tiedosto dataa tukea JSON, XML, CSV, plist, INI, The .properties ja YML.",
                 "Tuki erän muuntaminen",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "julkaisu",
+        "labelVersion": "Versio",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "julkaisu",
+        "labelVersion": "Versio",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "ostaa",
+        "SectionName": "Ostaa",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Sivuston kielet",
+        "SectionName": "Käytettävissä kieli (konekäännös)",
         "ChangeAlert": "Vaihtaminen kieli loppuun"
     }
 }

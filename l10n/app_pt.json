@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "casa",
-        "Feature": "características",
-        "Documents": "Ajuda on-line",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Free Trial",
-        "Buy": "compra",
-        "Roadmap": "linha de produtos",
-        "ReportIssue": "Comunicar um problema",
-        "Languages": "idioma"
+        "Home": "Casa",
+        "Feature": "Características",
+        "Documents": "documentos",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Tentativas",
+        "Buy": "Compra",
+        "Roadmap": "Roteiro",
+        "ReportIssue": "Problemas",
+        "Languages": "idiomas"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Conversão de dados em vários formatos, suporte para Windows, Linux e sistema operacional MacOSX.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "compra",
+        "ProjectTagline": "Uma pluralidade de conversão de formato de dados, suporta o Windows, Linux e MacOSX.",
+        "BtnDownload": "Tentativas",
+        "BtnBuy": "Comprar",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "características principais produtos",
+            "SectionName": "Principais características",
             "list": [
                 "dados do arquivo de conversão (YAML) entre JSON suporte, XML, CSV, PLIST, INI, os .properties e YML.",
                 "Suporte conversão de lote",
@@ -45,7 +45,7 @@
                 {
                     "reviewContent": "Datastorm eu faço quase todas as minhas ferramentas, esta é uma grande aplicação pouco.",
                     "userName": "Peter brilhante",
-                    "professional": "Engenheiro de teste"
+                    "professional": "Engenheiro de testes"
                 },
                 {
                     "reviewContent": "Se você precisa fazer a conversão de dados, Datastorm é definitivamente vale o download.",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "lançamento",
+        "labelVersion": "Versão",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -174,18 +174,18 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "primeira versão"
+                        "content": "Primeiro lançamento"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "primeira versão"
+                        "content": "Primeiro lançamento"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "lançamento",
+        "labelVersion": "Versão",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "comprar",
+        "SectionName": "Comprar",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Idiomas do site disponíveis",
+        "SectionName": "Disponível língua (tradução automática)",
         "ChangeAlert": "Mudando a linguagem para completar"
     }
 }

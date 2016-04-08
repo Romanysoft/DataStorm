@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Насловна",
         "Feature": "карактеристики",
-        "Documents": "онлајн помош",
-        "ReleaseNotes": "Белешки за изданието",
-        "Downloads": "Пробен",
+        "Documents": "документи",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Судскиот",
         "Buy": "купување",
-        "Roadmap": "продуктната линија",
-        "ReportIssue": "Пријави проблем",
-        "Languages": "јазик"
+        "Roadmap": "патоказот",
+        "ReportIssue": "прашања",
+        "Languages": "јазици"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Конверзија на податоците во повеќе формати, поддршка за Windows, Linux и MacOSX оперативен систем.",
-        "BtnDownload": "Пробен",
-        "BtnBuy": "купување",
+        "ProjectTagline": "Плурализмот на формат на податоци конверзија, го поддржува Windows, Linux и MacOSX.",
+        "BtnDownload": "Судскиот",
+        "BtnBuy": "Размислете за купување",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Главните карактеристики на производот",
+            "SectionName": "главни карактеристики",
             "list": [
                 "конверзија на податоците (YAML) датотеки помеѓу поддршка JSON, XML, CSV, plist, ИНИ, .properties и YML.",
                 "Поддршка серија конверзија",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ослободување",
+        "labelVersion": "верзија",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ослободување",
+        "labelVersion": "верзија",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Мапа на достапни јазици",
+        "SectionName": "Достапен јазик (машински превод)",
         "ChangeAlert": "Вклучување јазик за да се заврши"
     }
 }

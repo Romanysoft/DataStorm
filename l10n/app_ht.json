@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "Kay",
         "Feature": "Karakteristik",
-        "Documents": "En jwèt ede",
-        "ReleaseNotes": "Nòt Release",
-        "Downloads": "gratis jijman",
+        "Documents": "Dokiman",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Jijman",
         "Buy": "Achte",
-        "Roadmap": "pwodwi liy",
-        "ReportIssue": "Rapòte yon pwoblèm",
-        "Languages": "Lang"
+        "Roadmap": "Roadmap",
+        "ReportIssue": "Pwoblèm",
+        "Languages": "lang"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konvèsyon nan done nan fòma miltip, sipò pou Windows, Linux ak sistèm opere makoo.",
-        "BtnDownload": "gratis jijman",
+        "ProjectTagline": "Yon plusieurs nan konvèsyon fòma done, sipòte Windows, Linux ak makoo.",
+        "BtnDownload": "Jijman",
         "BtnBuy": "Achte",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Pwodwi karakteristik prensipal",
+            "SectionName": "Karakteristik prensipal",
             "list": [
                 "done Konvèsyon (YAML) dosye ant JSON sipò, XML, CSV, plist, INI, .Pwopriyete yo ak YML.",
                 "Sipò konvèsyon pakèt",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Sit Lang ki disponib",
+        "SectionName": "lang ki disponib (tradiksyon machin)",
         "ChangeAlert": "Oblije chanje ak lang ranpli"
     }
 }

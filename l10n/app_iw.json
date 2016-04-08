@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "בית",
-        "Feature": "תכונות",
-        "Documents": "עזרה מקוונת",
-        "ReleaseNotes": "הערות מוצר",
-        "Downloads": "נסיון חינם",
-        "Buy": "רכישה",
-        "Roadmap": "קו מוצרים",
-        "ReportIssue": "דווח על בעיה",
-        "Languages": "שפה"
+        "Feature": "מאפיינים",
+        "Documents": "מסמכים",
+        "ReleaseNotes": "מכתבי שחרור",
+        "Downloads": "מִשׁפָּט",
+        "Buy": "לִרְכּוֹשׁ",
+        "Roadmap": "מפת הדרכים",
+        "ReportIssue": "סוגיות",
+        "Languages": "שפות"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "המרה של נתונים בפורמטים מרובים, תמיכה עבור Windows, Linux ומערכת ההפעלה MacOSX.",
-        "BtnDownload": "נסיון חינם",
-        "BtnBuy": "רכישה",
+        "ProjectTagline": "ריבוי של פורמט המרת נתונים, תומך ב- Windows, Linux ו- MacOSX.",
+        "BtnDownload": "מִשׁפָּט",
+        "BtnBuy": "לִקְנוֹת",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "תכונות מוצר עיקריות",
+            "SectionName": "תכונות עיקריות",
             "list": [
                 "המרה (YAML) קובץ נתונים בין תמיכה JSON, XML, CSV, plist, INI, .properties ו YML.",
                 "תמיכה אצווה המרה",
@@ -38,9 +38,9 @@
             "SectionName": "ראה מה כולם מדברים על",
             "list": [
                 {
-                    "reviewContent": "DataStorm הוא נהדר. פשוט, נקי, מושלם. עבודה יפה.",
+                    "reviewContent": "DataStorm הוא נהדר. פשוט, נקי, מושלם. נעשה באופן יפה.",
                     "userName": "evanw",
-                    "professional": "מנהל מסדי נתונים"
+                    "professional": "מנהל מסד נתונים"
                 },
                 {
                     "reviewContent": "DataStorm שאני עושה כמעט את כל הכלים שלי, זה הוא יישום קטן גדול.",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "שחרור",
+        "labelVersion": "גִרְסָה",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "שחרור",
+        "labelVersion": "גִרְסָה",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "קנה",
+        "SectionName": "לִקְנוֹת",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "שפות אתר זמינות",
+        "SectionName": "שפה זמינה (תרגום מכונה)",
         "ChangeAlert": "החלפת שפה כדי להשלים"
     }
 }

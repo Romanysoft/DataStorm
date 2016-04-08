@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "Tuis",
-        "Feature": "kenmerke",
-        "Documents": "Online Hulp",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Free Trial",
+        "Feature": "Kenmerke",
+        "Documents": "dokumente",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "verhoor",
         "Buy": "aankoop",
-        "Roadmap": "produk lyn",
-        "ReportIssue": "Rapporteer 'n probleem",
-        "Languages": "taal"
+        "Roadmap": "padkaart",
+        "ReportIssue": "kwessies",
+        "Languages": "Tale"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Omskakeling van data in verskeie formate, ondersteuning vir Windows, Linux en MacOSX bedryfstelsel.",
-        "BtnDownload": "Free Trial",
-        "BtnBuy": "aankoop",
+        "ProjectTagline": "'N pluraliteit van data formaat omskakeling, ondersteun Windows, Linux en MacOSX.",
+        "BtnDownload": "verhoor",
+        "BtnBuy": "koop",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Produk belangrikste kenmerke",
+            "SectionName": "Belangrikste kenmerke",
             "list": [
                 "(YAML) lêer omskakeling van data tussen ondersteuning into, XML, CSV, PLIST, INI, die .properties en YML.",
                 "Ondersteuning joernaal sukses",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "vrylating",
+        "labelVersion": "weergawe",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "vrylating",
+        "labelVersion": "weergawe",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Tale van die webwerf beskikbaar",
+        "SectionName": "Beskikbare tale (masjienvertaling)",
         "ChangeAlert": "Skakel taal om te voltooi"
     }
 }

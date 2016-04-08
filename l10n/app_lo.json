@@ -1,19 +1,19 @@
 {
     "TopBar": {
         "Home": "ຫນ້າທໍາອິດ",
-        "Feature": "ຄຸນນະສົມບັດ",
-        "Documents": "ຊ່ວຍເຫຼືອອອນໄລນ໌",
-        "ReleaseNotes": "ບັນທຶກປະຈໍາ",
-        "Downloads": "ການທົດລອງຟຣີ",
+        "Feature": "ຄຸນ​ລັກ​ສະ​ນະ",
+        "Documents": "ເອກະສານ",
+        "ReleaseNotes": "releasenotes",
+        "Downloads": "ການທົດລອງ",
         "Buy": "ຊື້",
-        "Roadmap": "ອອນໄລນ໌ຜະລິດຕະພັນ",
-        "ReportIssue": "ລາຍງານບັນຫາ",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "ບັນຫາ",
         "Languages": "ພາສາ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "ການປ່ຽນແປງຂອງຂໍ້ມູນໃນຮູບແບບທີ່ຫຼາກຫຼາຍ, ສະຫນັບສະຫນູນສໍາລັບ Windows, Linux ແລະລະບົບປະຕິບັດການ MacOSX.",
-        "BtnDownload": "ການທົດລອງຟຣີ",
+        "ProjectTagline": "A ນາຂອງການປ່ຽນແປງຮູບແບບຂໍ້ມູນ, ສະຫນັບສະຫນູນ Windows, Linux ແລະ MacOSX.",
+        "BtnDownload": "ການທົດລອງ",
         "BtnBuy": "ຊື້",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ຄຸນນະສົມບັດຕົ້ນຕໍຂອງຜະລິດຕະພັນ",
+            "SectionName": "ຄຸນນະສົມບັດຕົ້ນຕໍ",
             "list": [
                 "ຂໍ້ມູນການປ່ຽນແປງ (YAML) ເອກະສານລະຫວ່າງ JSON ສະຫນັບສະຫນູນ, XML, CSV, ໄຟລ໌ plist, INI, .properties ແລະ YML.",
                 "ການແປງຊຸດສະຫນັບສະຫນູນ",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "ການປ່ອຍ",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "ການປ່ອຍ",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ພາສາເວັບໄຊສາມາດໃຊ້ໄດ້",
+        "SectionName": "ພາສາທີ່ມີ (ການແປພາສາເຄື່ອງ)",
         "ChangeAlert": "ສະຫລັບພາສາເພື່ອໃຫ້ສໍາເລັດ"
     }
 }

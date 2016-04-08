@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "Home",
-        "Feature": "Features",
-        "Documents": "Online Help",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Free Nyeoe",
+        "Feature": "Likaroloana",
+        "Documents": "litokomane tse itseng",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "nyeoe ea",
         "Buy": "theko",
-        "Roadmap": "Product moleng oa",
-        "ReportIssue": "Tlaleha bothata",
-        "Languages": "puo"
+        "Roadmap": "RoadMap",
+        "ReportIssue": "litokollo",
+        "Languages": "lipuo"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Sokoloha ya data a rulaganya multiple, tšehetso bakeng sa Windows, Linux le MacOSX tshebetso ya ho sebetsa.",
-        "BtnDownload": "Free Nyeoe",
-        "BtnBuy": "theko",
+        "ProjectTagline": "A plurality ya data fomate sokoloha, o tšehetsa Windows, Linux le MacOSX.",
+        "BtnDownload": "nyeoe ea",
+        "BtnBuy": "Buy",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product ditshebetso tse ka sehloohong",
+            "SectionName": "Main Features",
             "list": [
                 "ya data sokoloha (YAML) faele pakeng tsa tshehetso JSON, xML, CSV, PLIST, Krrish, e .properties le YML.",
                 "Support sokoloha methaka",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "lipuo Site fumaneha",
+        "SectionName": "puo tse fumanehang (mochine phetolelo)",
         "ChangeAlert": "Ho switjha puo ho tlatsa"
     }
 }

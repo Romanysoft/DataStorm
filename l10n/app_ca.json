@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "casa",
-        "Feature": "característiques",
-        "Documents": "Ajuda en línia",
-        "ReleaseNotes": "Notes de la versió",
-        "Downloads": "de prova gratis",
+        "Feature": "Característiques",
+        "Documents": "documents",
+        "ReleaseNotes": "releasenotes",
+        "Downloads": "judici",
         "Buy": "compra",
-        "Roadmap": "línia de productes",
-        "ReportIssue": "Avisa d'un error",
-        "Languages": "idioma"
+        "Roadmap": "RoadMap",
+        "ReportIssue": "qüestions",
+        "Languages": "idiomes"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "La conversió de dades en diversos formats, suport per a Windows, Linux i el sistema operatiu MacOSX.",
-        "BtnDownload": "de prova gratis",
-        "BtnBuy": "compra",
+        "ProjectTagline": "Una pluralitat de conversió de format de dades, compatible amb Windows, Linux i MacOSX.",
+        "BtnDownload": "judici",
+        "BtnBuy": "comprar",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "característiques principals del producte",
+            "SectionName": "Principals característiques",
             "list": [
                 "Conversió d'arxius de dades (YAML) entre JSON suport, XML, CSV, plist, INI, els .properties i YML.",
                 "Suporta conversió per lots",
@@ -38,7 +38,7 @@
             "SectionName": "Mireu el que tothom parla",
             "list": [
                 {
-                    "reviewContent": "Datastorm és gran. Senzill, net, perfecte. Molt ben fet.",
+                    "reviewContent": "Datastorm és gran. Senzill, net, perfecte. Ben fet.",
                     "userName": "evanw",
                     "professional": "Administrador de Base de Dades"
                 },
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "alliberament",
+        "labelVersion": "versió",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "alliberament",
+        "labelVersion": "versió",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Idiomes del lloc disponibles",
+        "SectionName": "idioma disponible (traducció automàtica)",
         "ChangeAlert": "Canvi de l'idioma per completar"
     }
 }

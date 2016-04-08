@@ -1,20 +1,20 @@
 {
     "TopBar": {
         "Home": "घर",
-        "Feature": "सुविधाहरू",
-        "Documents": "अनलाइन सहायता",
-        "ReleaseNotes": "रिलिज टिप्पणीहरू",
-        "Downloads": "निःशुल्क परीक्षण",
+        "Feature": "विशेषताहरु",
+        "Documents": "दस्तावेज",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "परीक्षण",
         "Buy": "खरिद",
-        "Roadmap": "उत्पादन लाइन",
-        "ReportIssue": "समस्या रिपोर्ट",
-        "Languages": "भाषा"
+        "Roadmap": "Roadmap",
+        "ReportIssue": "मुद्दा",
+        "Languages": "भाषाहरु"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "धेरै स्वरूप, विन्डोज, लिनक्स र MacOSX सञ्चालन प्रणालीको लागि समर्थन डाटा को रूपान्तरण।",
-        "BtnDownload": "निःशुल्क परीक्षण",
-        "BtnBuy": "खरिद",
+        "ProjectTagline": "डाटा ढाँचा रूपान्तरण एक अधिकता, विन्डोज, लिनक्स र MacOSX समर्थन गर्दछ।",
+        "BtnDownload": "परीक्षण",
+        "BtnBuy": "किन्न",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "उत्पादन मुख्य विशेषताहरु",
+            "SectionName": "मुख्य विशेषताहरु",
             "list": [
                 "समर्थन JSON, XML, CSV, plist, मा, को .properties र YML बीच रूपान्तरण (YAML) फाइल डाटा।",
                 "समर्थन ब्याच रूपान्तरण",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "जारी",
+        "labelVersion": "संस्करण",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "जारी",
+        "labelVersion": "संस्करण",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "साइट भाषा उपलब्ध",
+        "SectionName": "उपलब्ध भाषा (मिसिन अनुवाद)",
         "ChangeAlert": "पूरा भाषा स्विच गर्न"
     }
 }

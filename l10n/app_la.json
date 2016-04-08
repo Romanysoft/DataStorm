@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "domum",
         "Feature": "Features",
-        "Documents": "Help",
-        "ReleaseNotes": "Notes Release",
-        "Downloads": "free Trial",
+        "Documents": "Documents",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "Purchase",
-        "Roadmap": "product line",
-        "ReportIssue": "Report a Problem",
-        "Languages": "Language"
+        "Roadmap": "roadmap",
+        "ReportIssue": "exitus",
+        "Languages": "Latin"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Data in forma multiplici conversionis studium pro Fenestra, Linux MacOSX operating ratio.",
-        "BtnDownload": "free Trial",
-        "BtnBuy": "Purchase",
+        "ProjectTagline": "Quod pluralitas data format conversionis suscipio Fenestra, Linux MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "Buy",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Featured Product Main",
+            "SectionName": "Marisque",
             "list": [
                 "Conversion (YAML) file data firmamentum inter JSON, XML, CSV, PLIST, ini, et in .properties yml.",
                 "Batch conversionem Support",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site linguis available",
+        "SectionName": "Latin Available (apparatus Latin)",
         "ChangeAlert": "Switching ad universa lingua"
     }
 }

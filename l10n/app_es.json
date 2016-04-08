@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "casa",
-        "Feature": "características",
-        "Documents": "Ayuda en línea",
-        "ReleaseNotes": "Notas de la versión",
-        "Downloads": "de prueba gratis",
-        "Buy": "compra",
-        "Roadmap": "línea de productos",
-        "ReportIssue": "Informar de un error",
-        "Languages": "idioma"
+        "Home": "Casa",
+        "Feature": "Caracteristicas",
+        "Documents": "Documentos",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Juicio",
+        "Buy": "Compra",
+        "Roadmap": "RoadMap",
+        "ReportIssue": "Cuestiones",
+        "Languages": "idiomas"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "La conversión de datos en varios formatos, soporte para Windows, Linux y el sistema operativo MacOSX.",
-        "BtnDownload": "de prueba gratis",
-        "BtnBuy": "compra",
+        "ProjectTagline": "Una pluralidad de conversión de formato de datos, compatible con Windows, Linux y MacOSX.",
+        "BtnDownload": "Juicio",
+        "BtnBuy": "Comprar",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "características principales del producto",
+            "SectionName": "Principales características",
             "list": [
                 "Conversión de archivos de datos (YAML) entre JSON apoyo, XML, CSV, PLIST, INI, los .properties y YML.",
                 "Soporta conversión por lotes",
@@ -38,14 +38,14 @@
             "SectionName": "Vea lo que todo el mundo habla",
             "list": [
                 {
-                    "reviewContent": "Datastorm es grande. Sencillo, limpio, perfecto. Muy bien hecho.",
+                    "reviewContent": "Datastorm es grande. Sencillo, limpio, perfecto. Bien hecho.",
                     "userName": "evanw",
-                    "professional": "Administrador de Base de Datos"
+                    "professional": "Administrador de base de datos"
                 },
                 {
                     "reviewContent": "Datastorm hago casi todas mis herramientas, este es un pequeño gran aplicación.",
                     "userName": "Peter Bright",
-                    "professional": "Test Engineer"
+                    "professional": "Ingeniero de pruebas"
                 },
                 {
                     "reviewContent": "Si lo que necesita hacer la conversión de datos, Datastorm es definitivamente vale la pena descargar.",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "liberación",
+        "labelVersion": "Versión",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -174,18 +174,18 @@
                     },
                     {
                         "platform": "{{Windows}}",
-                        "content": "primera versión"
+                        "content": "Primer lanzamiento"
                     },
                     {
                         "platform": "{{Linux}}",
-                        "content": "primera versión"
+                        "content": "Primer lanzamiento"
                     }
                 ]
             }
         ]
     },
     "VersionPage": {
-        "labelVersion": "liberación",
+        "labelVersion": "Versión",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "comprar",
+        "SectionName": "Comprar",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Idiomas del sitio disponibles",
+        "SectionName": "idioma disponible (traducción automática)",
         "ChangeAlert": "Cambio del idioma para completar"
     }
 }

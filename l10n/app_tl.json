@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "bahay",
         "Feature": "Mga tampok",
-        "Documents": "online Help",
-        "ReleaseNotes": "release Notes",
-        "Downloads": "Libreng Pagsubok",
+        "Documents": "Mga dokumento",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "pagsubok",
         "Buy": "pagbili",
-        "Roadmap": "linya ng produkto",
-        "ReportIssue": "Mag-ulat ng problema",
-        "Languages": "wika"
+        "Roadmap": "Roadmap",
+        "ReportIssue": "isyu",
+        "Languages": "Mga wika"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Conversion ng data sa maramihang mga format, suporta para sa Windows, Linux at MacOSX operating system.",
-        "BtnDownload": "Libreng Pagsubok",
-        "BtnBuy": "pagbili",
+        "ProjectTagline": "A mayorya ng data format ng conversion, ay sumusuporta sa Windows, Linux at MacOSX.",
+        "BtnDownload": "pagsubok",
+        "BtnBuy": "bumili",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Produkto pangunahing tampok",
+            "SectionName": "pangunahing Mga Tampok",
             "list": [
                 "data ng conversion (YAML) file sa pagitan ng suporta JSON, XML, CSV, plist, INI, ang .properties at YML.",
                 "Support batch conversion",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "paglaya",
+        "labelVersion": "bersyon",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "paglaya",
+        "labelVersion": "bersyon",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site wika na magagamit",
+        "SectionName": "Magagamit wika (machine translation)",
         "ChangeAlert": "Ang paglipat wika upang makumpleto"
     }
 }

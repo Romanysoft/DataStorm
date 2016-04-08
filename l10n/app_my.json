@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "နေအိမ်",
         "Feature": "အင်္ဂါရပ်များ",
-        "Documents": "အွန်လိုင်းအကူအညီ",
-        "ReleaseNotes": "ဖြန့်ချိမှတ်စုများ",
-        "Downloads": "အခမဲ့စမ်းသပ်",
+        "Documents": "စာရွက်စာတမ်းများ",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "စမ်းသပ်ခြင်း",
         "Buy": "အရစ်ကျ",
-        "Roadmap": "ကုန်ထုတ်ရေးလိုင်း",
-        "ReportIssue": "ပြဿနာတစ်ခုတိုင်ကြားရန်",
-        "Languages": "ဘာသာစကား"
+        "Roadmap": "လမ်းပြမြေပုံ",
+        "ReportIssue": "ကိစ္စရပ်များကို",
+        "Languages": "ဘာသာစကားများ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "မျိုးစုံသောပုံစံများအတွက်အချက်အလက်များ၏ကူးပြောင်းခြင်း, Windows, Linux နဲ့ MacOSX operating system အတွက်ထောက်ခံမှု။",
-        "BtnDownload": "အခမဲ့စမ်းသပ်",
-        "BtnBuy": "အရစ်ကျ",
+        "ProjectTagline": "ဒေတာ format ကိုကူးပြောင်းတစ်ဗဟု, Windows, Linux နဲ့ MacOSX ထောက်ခံပါတယ်။",
+        "BtnDownload": "စမ်းသပ်ခြင်း",
+        "BtnBuy": "ယ်ယူရန်",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ကုန်ပစ္စည်းအဓိက features တွေ",
+            "SectionName": "အဓိကအင်္ဂါရပ်များ",
             "list": [
                 "ကူးပြောင်းခြင်း (YAML) ထောက်ခံမှု JSON, XML ကို, CSV ဖိုင်, PLIST, INI, အ .properties နှင့် YML အကြား file ကိုဒေတာ။",
                 "ပံ့ပိုးမှုအသုတ်ကူးပြောင်း",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "လွှတ်ပေး",
+        "labelVersion": "ဗားရှင်း",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "လွှတ်ပေး",
+        "labelVersion": "ဗားရှင်း",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ရရှိနိုင်ဆိုက်ကိုဘာသာစကား",
+        "SectionName": "ရရှိနိုင်ဘာသာစကား (စက်ဘာသာပြန်ချက်)",
         "ChangeAlert": "ဖြည့်စွက်ဖို့ဘာသာစကား switching"
     }
 }

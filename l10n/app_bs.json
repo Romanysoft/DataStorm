@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "kući",
         "Feature": "Značajke",
-        "Documents": "online pomoć",
-        "ReleaseNotes": "Napomene o izdanju",
-        "Downloads": "free Trial",
+        "Documents": "dokumenti",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "suđenje",
         "Buy": "kupovina",
-        "Roadmap": "Asortiman proizvoda",
-        "ReportIssue": "Prijavi problem",
-        "Languages": "jezik"
+        "Roadmap": "RoadMap",
+        "ReportIssue": "pitanja",
+        "Languages": "Jezici"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Konverzija podataka u više formata, podrška za Windows, Linux i MacOSX operativni sistem.",
-        "BtnDownload": "free Trial",
-        "BtnBuy": "kupovina",
+        "ProjectTagline": "A pluralitet konverzije formata podataka, podržava Windows, Linux i MacOSX.",
+        "BtnDownload": "suđenje",
+        "BtnBuy": "kupiti",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Proizvod glavne karakteristike",
+            "SectionName": "Glavne karakteristike",
             "list": [
                 "Podaci o pretvorbi (JUMP) datoteka između podrška JSON, XML, CSV, PLIST, INI, u .properties i YML.",
                 "Podrška batch konverziju",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "puštanje",
+        "labelVersion": "verzija",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "puštanje",
+        "labelVersion": "verzija",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "jezika Site dostupan",
+        "SectionName": "Dostupno jezik (Strojno prevođenje)",
         "ChangeAlert": "Prebacivanje jezika za završetak"
     }
 }

@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "വീട്",
         "Feature": "സവിശേഷതകൾ",
-        "Documents": "ഓൺലൈൻ സഹായം",
-        "ReleaseNotes": "പ്രകാശന കുറിപ്പുകൾ",
-        "Downloads": "സൗജന്യ ട്രയൽ",
+        "Documents": "പ്രമാണങ്ങൾ",
+        "ReleaseNotes": "പ്രകാശന കുറിപ്പ്",
+        "Downloads": "വിചാരണ",
         "Buy": "വാങ്ങൽ",
-        "Roadmap": "പ്രൊഡക്ട് ലൈൻ",
-        "ReportIssue": "ഒരു പ്രശ്നം റിപ്പോർട്ട്",
-        "Languages": "ഭാഷ"
+        "Roadmap": "റോഡ്മാപ്പിലേക്ക്",
+        "ReportIssue": "പ്രശ്നങ്ങൾ",
+        "Languages": "ഭാഷകൾ"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "ഒന്നിലധികം ഫോർമാറ്റുകളിൽ ഡാറ്റ പരിവർത്തനം, വിൻഡോസ്, ലിനക്സ്, MacOSX ഓപ്പറേറ്റിങ് സിസ്റ്റം പിന്തുണ.",
-        "BtnDownload": "സൗജന്യ ട്രയൽ",
-        "BtnBuy": "വാങ്ങൽ",
+        "ProjectTagline": "ഡാറ്റ ഫോർമാറ്റ് പരിവർത്തനത്തിന്റെ plurality, വിൻഡോസ്, ലിനക്സ്, MacOSX പിന്തുണയ്ക്കുന്നു.",
+        "BtnDownload": "വിചാരണ",
+        "BtnBuy": "വാങ്ങാൻ",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "ഉൽപ്പന്ന പ്രധാന സവിശേഷതകൾ",
+            "SectionName": "പ്രധാന സവിശേഷതകൾ",
             "list": [
                 "പരിവർത്തന (YAML) പിന്തുണ JSON, എക്സ്എംഎൽ, CSV, plist, എൻ, ലക്ഷ്യം, ഒപ്പം YML തമ്മിലുള്ള ഫയൽ ഡാറ്റ.",
                 "പിന്തുണ ബാച്ച് പരിവർത്തനം",
@@ -38,7 +38,7 @@
             "SectionName": "എല്ലാവർക്കും സംസാരിക്കുന്നത് എന്താണെന്ന് കാണുക",
             "list": [
                 {
-                    "reviewContent": "DataStorm വലിയ ആണ്. , ലളിത ശുദ്ധിയുള്ള, തികഞ്ഞ. കൊള്ളാം.",
+                    "reviewContent": "DataStorm വലിയ ആണ്. , ലളിത ശുദ്ധിയുള്ള, തികഞ്ഞ. നന്നായി ചെയ്തു.",
                     "userName": "evanw",
                     "professional": "ഡാറ്റാബേസ് അഡ്മിനിസ്ട്രേറ്റർ"
                 },
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "റിലീസ്",
+        "labelVersion": "പതിപ്പ്",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "റിലീസ്",
+        "labelVersion": "പതിപ്പ്",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -318,7 +318,7 @@
         ]
     },
     "BuyPage": {
-        "SectionName": "വാങ്ങുക",
+        "SectionName": "വാങ്ങാൻ",
         "list": [
             {
                 "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "ലഭ്യമായ സൈറ്റ് ഭാഷകളിൽ",
+        "SectionName": "ലഭ്യമായ ഭാഷ (മെഷീൻ പരിഭാഷ)",
         "ChangeAlert": "പൂർത്തിയാക്കാൻ ഭാഷ സ്വിച്ചിംഗ്"
     }
 }

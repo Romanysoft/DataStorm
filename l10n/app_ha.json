@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Online Help",
-        "ReleaseNotes": "release Notes",
-        "Downloads": "free Trial",
+        "Documents": "takardu",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "Purchase",
-        "Roadmap": "Product line",
-        "ReportIssue": "Rahoto matsala",
-        "Languages": "Harshe"
+        "Roadmap": "jadawalin",
+        "ReportIssue": "batutuwa",
+        "Languages": "Languages"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Chanza of data a mahara Formats, goyon baya ga Windows, Linux da MacOSX tsarin aiki.",
-        "BtnDownload": "free Trial",
-        "BtnBuy": "Purchase",
+        "ProjectTagline": "A jam'i na data format hira, tana goyon bayan Windows, Linux da MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "buy",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product main siffofin",
+            "SectionName": "Main Features",
             "list": [
                 "Chanza (YAML) file bayanai tsakanin goyon bayan JSON, XML, CSV, PLIST, Ini, da .properties da YML.",
                 "Support tsari hira",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "release",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "release",
+        "labelVersion": "version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Site harsuna available",
+        "SectionName": "Rasu harshe (machine translation)",
         "ChangeAlert": "Sauya sheka harshe don kammala"
     }
 }

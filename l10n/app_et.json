@@ -1,20 +1,20 @@
 {
     "TopBar": {
-        "Home": "kodus",
+        "Home": "Kodu",
         "Feature": "Omadused",
-        "Documents": "Hetkel Abi",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Tasuta prooviversioon",
+        "Documents": "dokumendid",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "kohtuprotsess",
         "Buy": "ostmine",
-        "Roadmap": "tootevalik",
-        "ReportIssue": "Teavita probleemist",
-        "Languages": "keel"
+        "Roadmap": "Tegevuskavas",
+        "ReportIssue": "küsimused",
+        "Languages": "keeled"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Tulemus andmete mitmes vormingus toetus Windows, Linux ja MacOSX operatsioonisüsteemi.",
-        "BtnDownload": "Tasuta prooviversioon",
-        "BtnBuy": "ostmine",
+        "ProjectTagline": "Arvukad andmete formaadi konverteerimise toetab Windows, Linux ja MacOSX.",
+        "BtnDownload": "kohtuprotsess",
+        "BtnBuy": "ostma",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Toote põhijooned",
+            "SectionName": "Põhijooned",
             "list": [
                 "Tulemus (YAML) faili andmete vahel toetus JSON, XML, CSV, plist, INI, siis .atribuudid ja YML.",
                 "Toetus partii tulemus",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "vabastamine",
+        "labelVersion": "versioon",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "vabastamine",
+        "labelVersion": "versioon",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "Saidi keeles kättesaadav",
+        "SectionName": "Saadaval keel (masintõlge)",
         "ChangeAlert": "Switching keel lõpetada"
     }
 }

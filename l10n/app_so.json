@@ -2,19 +2,19 @@
     "TopBar": {
         "Home": "Home",
         "Feature": "Features",
-        "Documents": "Help Online",
-        "ReleaseNotes": "Release Notes",
-        "Downloads": "Trial Free",
+        "Documents": "Waraaqaha",
+        "ReleaseNotes": "ReleaseNotes",
+        "Downloads": "Trial",
         "Buy": "Iibso",
-        "Roadmap": "line Product",
-        "ReportIssue": "Ka warbixi dhibaato",
-        "Languages": "Language"
+        "Roadmap": "Roadmap-",
+        "ReportIssue": "Arrimaha",
+        "Languages": "Languages"
     },
     "Footer": {},
     "HomePage": {
-        "ProjectTagline": "Badalidda xogta qaabab kala duwan, oo taageero u Windows, Linux iyo nidaamka qalliinka MacOSX.",
-        "BtnDownload": "Trial Free",
-        "BtnBuy": "Iibso",
+        "ProjectTagline": "hannaanka A of diinta format xogta, taageertaa Windows, Linux iyo MacOSX.",
+        "BtnDownload": "Trial",
+        "BtnBuy": "iibso",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
@@ -24,7 +24,7 @@
             "{{images/screens/common/c6.jpg}}"
         ],
         "Features": {
-            "SectionName": "Product qaababka ugu muhiimsan ee",
+            "SectionName": "Features Main",
             "list": [
                 "data Conversion (YAML) file dhexeeya JSON taageero, XML, CSV, PLIST, INI, .properties iyo YML.",
                 "diinta Dufcaddii Support",
@@ -96,7 +96,7 @@
         ]
     },
     "ReleaseNotePage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -185,7 +185,7 @@
         ]
     },
     "VersionPage": {
-        "labelVersion": "Release",
+        "labelVersion": "Version",
         "list": [
             {
                 "version": "{{4.23}}",
@@ -348,7 +348,7 @@
     },
     "RoadMapPage": {},
     "LanguagesPage": {
-        "SectionName": "luqadaha Site heli karaa",
+        "SectionName": "luqadda Available (turjumaad mashiinka)",
         "ChangeAlert": "Mase luqad si ay u dhamaystiraan"
     }
 }
