@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Излаз ЦСВ - комплет граничник",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "ЦСВ излазне датотеке, поставке, ЦСВ делимитед метод (уобичајено: '').",
-                        "url": "Видео / доцс / ит2цсв_сепаратор.мп4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Излаз ЦСВ - да подесите сорт поље",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "ЦСВ датотека излаз, поставите ЦСВ поља за сортирање једноставан начин.",
-                        "url": "Видео / доцс / ит2цсв_сортФиелдс.мп4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Излаз ЦСВ - Постављање мотори користе сложене предмете",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "ЦСВ датотека излаз, постављен мотор да се бави сложене објекте користе сложене улазних датотека. Уобичајено Опен.",
-                        "url": "Видео / доцс / ит2цсв_усеЦомплекЈСОНЕнгине.мп4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

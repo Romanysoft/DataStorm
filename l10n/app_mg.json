@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Output CSV - napetraka delimiter",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV output raki-daza, toe-javatra, CSV delimited fomba (toerana misy anao: '').",
-                        "url": "horonan-tsary / Docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Output CSV - mba hametraka an-tsaha ny karazana",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV rakitra output, nametraka ny CSV tsaha ny manatsara ny fomba tsotra.",
-                        "url": "horonan-tsary / Docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Output CSV - fametrahana fitaovana mampiasa zavatra sarotra",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV rakitra output, nametraka ny maotera mba hiatrehana zavatra sarotra mampiasa sarotra fahan'ny raki-daza. Toerana misy anao: Open.",
-                        "url": "horonan-tsary / Docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

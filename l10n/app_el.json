@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Έξοδος CSV - σύνολο διαχωριστικό",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "αρχεία εξόδου CSV, ρυθμίσεις, CSV οριοθετημένο μέθοδος (προεπιλογή: '').",
-                        "url": "βίντεο / docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Έξοδος CSV - για να ορίσετε το πεδίο ταξινόμησης",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV αρχείο εξόδου, ρυθμίστε τα πεδία CSV για να ταξινομήσετε μια απλή μέθοδο.",
-                        "url": "βίντεο / docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Έξοδος CSV - μηχανές Ρύθμιση χρήση πολύπλοκων αντικειμένων",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV αρχείο εξόδου, που τον κινητήρα για να χειριστεί πολύπλοκα αντικείμενα που χρησιμοποιούν πολύπλοκα αρχεία εισόδου. Προεπιλογή: Ανοικτή.",
-                        "url": "βίντεο / docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

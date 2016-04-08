@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Eligo CSV - aro delimitador",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV eligo dosierojn, agordojn, CSV limigita metodo (defaŭlte: '').",
-                        "url": "filmetoj / dokumentojn / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Eligo CSV - agordi la speco kampo",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV-dosiero eligo, starigis la CSV kampoj ordigi simpla metodo.",
-                        "url": "filmetoj / dokumentojn / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Eligo CSV - ĝustigado motoroj uzi kompleksajn objektojn",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV-dosiero eligo, starigis la motoro por manipuli kompleksaj objektoj uzante kompleksan enigo dosierojn. Defaŭlte: Open.",
-                        "url": "filmetoj / dokumentojn / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "רעזולטאַט קסוו - שטעלן דעלימיטער",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "קסוו רעזולטאַט טעקעס, סעטטינגס, קסוו דעלימיטעד אופֿן (ניט ויסצאָלן: '').",
-                        "url": "ווידיאס / דאָקס / יט2קסוו_סעפּאַראַטאָר.מפּ4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "רעזולטאַט קסוו - צו שטעלן די סאָרט פעלד",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "קסוו טעקע רעזולטאַט, שטעלן די קסוו fields צו סאָרט אַ פּשוט אופֿן.",
-                        "url": "ווידיאס / דאָקס / יט2קסוו_סאָרטפיעלדס.מפּ4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "רעזולטאַט קסוו - באַשטעטיקן ענדזשאַנז נוצן קאָמפּלעקס אַבדזשעקס",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "קסוו טעקע רעזולטאַט, שטעלן די מאָטאָר צו שעפּן קאָמפּלעקס אַבדזשעקץ ניצן קאָמפּלעקס ינפּוט טעקעס. ניט ויסצאָלן: עפֿן.",
-                        "url": "ווידיאס / דאָקס / יט2קסוו_וסעקאָמפּלעקסדזשסאָנענגינע.מפּ4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

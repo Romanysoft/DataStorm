@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Вихід CSV - набір роздільник",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "Вихідні файли CSV, настройки, CSV, розділених метод (за замовчуванням: '').",
-                        "url": "відео / Docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Вихід CSV - встановити поле сортування",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "вихідний файл CSV, встановіть поля CSV для сортування простий метод.",
-                        "url": "відео / Docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Вихід CSV - Налаштування системи використовують складні об'єкти",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV вихідний файл, встановити двигун для обробки складних об'єктів з використанням складних вхідних файлів. За замовчуванням: Open.",
-                        "url": "відео / Docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Tso zis CSV - set delimiter",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV tso zis ntaub ntawv, cov chaw, CSV delimited txoj kev (neej ntawd hais: '').",
-                        "url": "cov yeeb yaj duab / docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Tso zis CSV - mus teem lub tsi teb",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV cov ntaub ntawv tso zis, muab lub CSV teb rau xaiv ib tug yooj yim txoj kev.",
-                        "url": "cov yeeb yaj duab / docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Tso zis CSV - Qhov chaw kawm xyaw siv txoj khoom",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV cov ntaub ntawv tso zis, muab lub cav lis txoj khoom siv complex tswv yim ntaub ntawv. Default: Qhib.",
-                        "url": "cov yeeb yaj duab / docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

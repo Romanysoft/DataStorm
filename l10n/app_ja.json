@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "出力CSV  - 設定デリミタ",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV出力ファイル、設定、CSVは、メソッド（デフォルト： ''）で区切ら。",
-                        "url": "ビデオ/ドキュメント/ it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "出力CSV  - ソートフィールドを設定します",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSVファイル出力は、簡単な方法をソートするために、CSVフィールドを設定します。",
-                        "url": "ビデオ/ドキュメント/ it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "出力CSV  - 設定エンジンは、複雑なオブジェクトを使用します",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSVファイル出力、複雑な入力ファイルを使用して、複雑なオブジェクトを処理するようにエンジンを設定します。デフォルト：オープン。",
-                        "url": "ビデオ/ドキュメント/ it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

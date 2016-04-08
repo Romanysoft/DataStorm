@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Putanga CSV - huinga kaiwehe",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV kōnae putanga, tautuhinga, whakawehe CSV tikanga (taunoa: '').",
-                        "url": "ataata / tuhinga / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Putanga CSV - ki te whakaturia te mara ahua",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV kōnae putanga, whakaturia nga mara CSV ki te kōmaka te tikanga ohie.",
-                        "url": "ataata / tuhinga / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Putanga CSV - Tautuhi engines whakamahi taonga matatini",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV kōnae putanga, whakaturia te pūkaha ki te hapai i ngā ahanoa matatini te whakamahi i ngā kōnae tāuru matatini. Taunoa: Open.",
-                        "url": "ataata / tuhinga / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

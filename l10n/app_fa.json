@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "خروجی CSV - مجموعه ای حائل",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "فایل های CSV خروجی، تنظیمات، CSV روش محدود (به طور پیش فرض: '').",
-                        "url": "فیلم / اسناد / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "خروجی CSV - برای تنظیم درست مرتب کردن بر اساس",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "خروجی فایل CSV، مجموعه ای در زمینه های CSV برای مرتب کردن یک روش ساده.",
-                        "url": "فیلم / اسناد / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "خروجی CSV - موتورهای تنظیم استفاده از اشیاء پیچیده",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "خروجی فایل CSV، تنظیم موتور که مسئولیت رسیدگی به اشیاء پیچیده با استفاده از فایل های ورودی پیچیده است. به طور پیش فرض: گسترش.",
-                        "url": "فیلم / اسناد / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

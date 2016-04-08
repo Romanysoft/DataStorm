@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ຜົນຜະລິດ CSV - ທີ່ກໍານົດໄວ້ຄັ່ນ",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "ໄຟລ໌ຜົນຜະລິດ CSV, ການຕັ້ງຄ່າ, CSV ຄັ່ນວິທີການ (ໃນຕອນຕົ້ນ: '').",
-                        "url": "ວິດີໂອ / ເອກະສານ / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ຜົນຜະລິດ CSV - ການສ້າງຕັ້ງພາກສະຫນາມການຈັດລຽງ",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV ໄຟລ໌ຜົນຜະລິດ, ກໍານົດຂໍ້ມູນໃນຊ່ອງ CSV ການຮຽງລໍາດັບວິທີການງ່າຍດາຍ.",
-                        "url": "ວິດີໂອ / ເອກະສານ / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ຜົນຜະລິດ CSV - ເຄື່ອງມືການຕັ້ງຄ່າການນໍາໃຊ້ວັດຖຸສະລັບສັບຊ້ອນ",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV ໄຟລ໌ຜົນຜະລິດ, ທີ່ກໍານົດໄວ້ຂອງເຄື່ອງຈັກໃນການຈັດການວັດຖຸສະລັບສັບຊ້ອນການນໍາໃຊ້ໄຟລ໌ປະກອບສະລັບສັບຊ້ອນ. ມາດຕະຖານ: ເປີດ.",
-                        "url": "ວິດີໂອ / ເອກະສານ / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

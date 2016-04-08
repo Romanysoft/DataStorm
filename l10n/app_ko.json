@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "출력 CSV - 세트 분리",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV 출력 파일, 설정, CSV는 ( ''기본) 메소드를 구분.",
-                        "url": "동영상 / 문서 / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "출력 CSV는 - 정렬 필드를 설정합니다",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV 파일 출력, 간단한 방법을 정렬 할 CSV 필드를 설정합니다.",
-                        "url": "동영상 / 문서 / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "출력 CSV - 설정 엔진은 복잡한 객체를 사용",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV 파일 출력 복잡한 입력 파일을 사용하여 복잡한 오브젝트를 처리하기 위해 엔진을 설정한다. 기본값 : 엽니 다.",
-                        "url": "동영상 / 문서 / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

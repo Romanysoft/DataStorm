@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "అవుట్పుట్ CSV - సెట్ డీలిమిటర్",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV అవుట్పుట్ ఫైళ్లు, సెట్టింగులు, CSV (: 'డిఫాల్ట్) పద్దతి వేరు.",
-                        "url": "వీడియోలను / డాక్స్ / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "అవుట్పుట్ CSV - విధమైన రంగంలో సెట్",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV ఫైల్ అవుట్పుట్, ఒక సాధారణ పద్ధతి క్రమం కు CSV ఖాళీలను సెట్.",
-                        "url": "వీడియోలను / డాక్స్ / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "అవుట్పుట్ CSV - చేస్తోంది ఇంజిన్లు క్లిష్టమైన వస్తువులు ఉపయోగించడానికి",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV ఫైల్ అవుట్పుట్, క్లిష్టమైన ఇన్పుట్ ఫైళ్లు ఉపయోగించి క్లిష్టమైన వస్తువులు నిర్వహించడానికి ఇంజిన్ సెట్. డిఫాల్ట్: తెరవండి.",
-                        "url": "వీడియోలను / డాక్స్ / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

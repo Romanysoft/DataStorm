@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Шығыс CSV - орнату бөлгіш",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV файлдар, параметрлер, CSV әдісін (әдепкі: '') бөлінген.",
-                        "url": "бейнелер / Docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Шығыс CSV - сұрыптау өрісін орнату үшін",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV файлы шығару, қарапайым әдісін сұрыптау үшін CSV өрістерді орнату.",
-                        "url": "бейнелер / Docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Шығыс CSV - орнату қозғалтқыштар кешені объектілерін пайдалануға",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV файлы шығу, күрделі Кіріс файлдарды пайдаланып күрделі нысандарды өңдеуге қозғалтқышты орнату. Әдепкі: Ашық.",
-                        "url": "бейнелер / Docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

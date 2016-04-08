@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Saída CSV - conxunto delimitador",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "arquivos de saída CSV, configuración, CSV método delimitado (por defecto: '').",
-                        "url": "videos / docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Saída CSV - para axustar o campo de clasificación",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "saída do ficheiro CSV, definir os campos de CSV para clasificar un método sinxelo.",
-                        "url": "videos / docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Saída CSV - motores de configuración usa obxectos complexos",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "saída do ficheiro CSV, axuste o motor para xestionar obxectos complexos utilizando ficheiros de entrada complexos. Estándar: Open.",
-                        "url": "videos / docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

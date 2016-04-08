@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Aschur CSV - leagtha Teormharcóir",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "aschomhaid CSV, suímh, theorainneacha socraithe CSV modh (réamhshocrú: '').",
-                        "url": "Físeáin / docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Aschur CSV - a shocrú ar an réimse saghas",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "aschur comhad CSV, leagtar na réimsí CSV a shórtáil modh simplí.",
-                        "url": "Físeáin / docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Aschur CSV - inneall Socrú úsáid rudaí casta",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "aschur comhad CSV, leagtar an t-inneall a láimhseáil rudaí casta ag baint úsáide as comhaid ionchur casta. Réamhshocrú: Oscailte.",
-                        "url": "Físeáin / docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

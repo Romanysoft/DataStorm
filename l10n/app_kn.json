@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "ಔಟ್ಪುಟ್ ಜಿನ್ಯೂಮರಿಕ್ CSV - ಸೆಟ್ ಡಿಲಿಮಿಟರ್",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "ಜಿನ್ಯೂಮರಿಕ್ CSV ಔಟ್ಪುಟ್ ಫೈಲ್ಗಳು, ಸೆಟ್ಟಿಂಗ್ಗಳು, CSV (: '' ಡೀಫಾಲ್ಟ್) ವಿಧಾನ ಲಿಮಿಟೆಡ್.",
-                        "url": "ವೀಡಿಯೊಗಳನ್ನು / ಡಾಕ್ಸ್ / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "ಔಟ್ಪುಟ್ ಜಿನ್ಯೂಮರಿಕ್ CSV - ರೀತಿಯ ಕ್ಷೇತ್ರದಲ್ಲಿ ಹೊಂದಿಸ",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV ಫೈಲ್ ಔಟ್ಪುಟ್, ಒಂದು ಸರಳ ವಿಧಾನ ವಿಂಗಡಿಸಲು ಗೆ CSV ಜಾಗ ಸೆಟ್.",
-                        "url": "ವೀಡಿಯೊಗಳನ್ನು / ಡಾಕ್ಸ್ / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "ಔಟ್ಪುಟ್ ಜಿನ್ಯೂಮರಿಕ್ CSV - ಹೊಂದಿಸಲಾಗುತ್ತಿದೆ ಎಂಜಿನ್ ಸಂಕೀರ್ಣ ವಸ್ತುಗಳನ್ನು ಬಳಸಲು",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV ಫೈಲ್ ಔಟ್ಪುಟ್, ಸಂಕೀರ್ಣ ಇನ್ಪುಟ್ ಕಡತಗಳನ್ನು ಬಳಸಿ ಜಟಿಲ ವಸ್ತುಗಳ ನಿರ್ವಹಿಸಲು ಎಂಜಿನ್ ಸೆಟ್. ಡೀಫಾಲ್ಟ್: ತೆರೆಯಿರಿ.",
-                        "url": "ವೀಡಿಯೊಗಳನ್ನು / ಡಾಕ್ಸ್ / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

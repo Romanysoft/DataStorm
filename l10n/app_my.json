@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "output CSV - set ကိုအနားသတ်မျဉ်း",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV ကို output ကိုဖိုင်တွေ, ဆက်တင် CSV ကိုနည်းလမ်း (default အနေနဲ့: '') delimited ။",
-                        "url": "ဗီဒီယိုများ / docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "output CSV - မျိုးလယ်ကွင်းတင်ထားရန်",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV ဖိုင် output ကို, တစ်ဦးရိုးရှင်းသောနည်းလမ်း sort ဖို့ CSV ကိုလယ်ကွင်းထားကြ၏။",
-                        "url": "ဗီဒီယိုများ / docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "output CSV - ချိန်ညှိခြင်းအင်ဂျင်ရှုပ်ထွေးတဲ့တ္ထုကိုသုံး",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV ဖိုင်ထုတ်လုပ်မှု, ရှုပ်ထွေးသော input ကိုဖိုငျကို အသုံးပြု. ရှုပ်ထွေးတဲ့တ္ထုကိုင်တွယ်ရန်အင်ဂျင်ထားကြ၏။ Default: ပွင့်လင်း။",
-                        "url": "ဗီဒီယိုများ / docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

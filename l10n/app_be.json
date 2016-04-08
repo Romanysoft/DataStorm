@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Выхад CSV - набор падзельнік",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "Выходныя файлы CSV, налады, CSV з падзельнікамі метад (па змаўчанні: '').",
-                        "url": "відэа / Docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Выхад CSV - усталяваць поле сартавання",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "выхадны файл CSV, усталюйце поля CSV для сартавання просты метад.",
-                        "url": "відэа / Docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Выхад CSV - Налада сістэмы выкарыстоўваюць складаныя аб'екты",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV выхадны файл, ўсталяваць рухавік для апрацоўкі складаных аб'ектаў з выкарыстаннем складаных ўваходных файлаў. Па змаўчанні: Open.",
-                        "url": "відэа / Docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

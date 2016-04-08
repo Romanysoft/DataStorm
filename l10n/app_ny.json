@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Linanena bungwe CSV - amaika delimiter",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV owona linanena bungwe, zoikamo, CSV delimited njira (kusakhulupirika: '').",
-                        "url": "mavidiyo / madotolo / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Linanena bungwe CSV - kukhazikitsa munda mtundu",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV wapamwamba linanena bungwe, anapereka minda CSV kuthetsa njira yosavuta.",
-                        "url": "mavidiyo / madotolo / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Linanena bungwe CSV - Kukhazikitsa injini ntchito zinthu zovuta",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV wapamwamba linanena bungwe, anapereka injini kusamalira zinthu zovuta ntchito owona athandizira zovuta. Kusakhulupirika: Open.",
-                        "url": "mavidiyo / madotolo / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

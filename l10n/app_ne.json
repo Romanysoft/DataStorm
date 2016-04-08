@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "उत्पादन CSV - सेट DELIMITER",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV उत्पादन फाइल, सेटिङ, CSV विधि सीमाङ्कन (पूर्वनिर्धारित: '')।",
-                        "url": "भिडियो / कागजात / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "उत्पादन CSV - क्रमबद्ध क्षेत्र सेट गर्न",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV फाइल उत्पादन, एक सरल विधि क्रमबद्ध गर्न CSV क्षेत्रहरू सेट।",
-                        "url": "भिडियो / कागजात / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "उत्पादन CSV - सेट इन्जिन जटिल वस्तुहरु प्रयोग",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV फाइल उत्पादन, जटिल इनपुट फाइल प्रयोग जटिल वस्तुहरु ह्यान्डल गर्न इन्जिन सेट। पूर्वनिर्धारित: खोल्नुहोस्।",
-                        "url": "भिडियो / कागजात / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

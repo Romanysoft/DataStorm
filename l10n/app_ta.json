@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "வெளியீடு கோப்பை - தொகுப்பு வரம்புச்",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "கோப்பை வெளியீடு கோப்புகள், அமைப்புகள், கோப்பை முறை பிரிக்கப்பட்ட (இயல்புநிலை: '').",
-                        "url": "வீடியோக்கள் / டாக்ஸ் / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "வெளியீடு கோப்பை - வகையான துறையில் அமைக்க",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV கோப்பு வெளியீடு, ஒரு எளிய முறையை வரிசைப்படுத்த, CSV துறைகள் அமைக்க.",
-                        "url": "வீடியோக்கள் / டாக்ஸ் / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "வெளியீடு கோப்பை - அமைத்தல் இயந்திரங்கள் சிக்கலான பொருட்களை பயன்படுத்த",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV கோப்பு வெளியீடு, சிக்கலான உள்ளீடு கோப்புகளை பயன்படுத்தி சிக்கலான பொருட்களை கையாள இயந்திரம் அமைக்க. இயல்புநிலை: திறந்த.",
-                        "url": "வீடியோக்கள் / டாக்ஸ் / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

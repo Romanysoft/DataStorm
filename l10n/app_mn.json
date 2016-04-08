@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "Гаралтын CSV - багц зааглагч",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV гаралт файлууд, тохиргоо, CSV аргыг хязгаарлах (анхдагч утга нь: '').",
-                        "url": "видео / Docs / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "Гаралтын CSV - төрлийн талбарыг тогтоох",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "CSV файл гаралт, энгийн аргыг нь ангилахын тулд CSV талбаруудыг тогтоосон.",
-                        "url": "видео / Docs / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "Гаралтын CSV - тохируулах нь хөдөлгүүрүүд нарийн төвөгтэй объект ашиглах",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "CSV файл гаралт, нарийн төвөгтэй оролтын файлыг ашиглан нарийн төвөгтэй объект зохицуулах хөдөлгүүрийг тогтоосон. Default: Нээлттэй.",
-                        "url": "видео / Docs / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

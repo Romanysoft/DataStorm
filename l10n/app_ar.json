@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "الناتج CSV - مجموعة محدد",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "CSV الناتج الملفات والإعدادات، فواصل CSV طريقة (الافتراضي: '').",
-                        "url": "فيديو / مستندات / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "الناتج CSV - لضبط الحقل نوع",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "إخراج ملف CSV، تعيين الحقول CSV لفرز طريقة بسيطة.",
-                        "url": "فيديو / مستندات / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "الناتج CSV - محركات تحديد استخدام كائنات معقدة",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "إخراج ملف CSV، تعيين محرك للتعامل مع كائنات معقدة باستخدام ملفات الإدخال معقدة. الافتراضي: فتح.",
-                        "url": "فيديو / مستندات / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }

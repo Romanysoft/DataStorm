@@ -65,31 +65,31 @@
         "list": [
             {
                 "hrefID": "{{it2csv_separator}}",
-                "section": "आउटपुट सीएसवी - सेट सीमांकक",
+                "section": "{{Output CSV - set delimiter}}",
                 "videos": [
                     {
-                        "description": "सीएसवी आउटपुट फाइल, सेटिंग्स, सीएसवी सीमांकित विधि (डिफ़ॉल्ट: '')।",
-                        "url": "वीडियो / दस्तावेज़ / it2csv_separator.mp4"
+                        "description": "{{CSV output files, settings, CSV delimited method (default: '').}}",
+                        "url": "{{videos/docs/it2csv_separator.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_sortFields}}",
-                "section": "आउटपुट सीएसवी - क्रमबद्ध क्षेत्र स्थापित करने के लिए",
+                "section": "{{Output CSV - to set the sort field}}",
                 "videos": [
                     {
-                        "description": "सीएसवी फ़ाइल उत्पादन, एक सरल विधि से हल करने के लिए सीएसवी क्षेत्रों की स्थापना की।",
-                        "url": "वीडियो / दस्तावेज़ / it2csv_sortFields.mp4"
+                        "description": "{{CSV file output, set the CSV fields to sort a simple method.}}",
+                        "url": "{{videos/docs/it2csv_sortFields.mp4}}"
                     }
                 ]
             },
             {
                 "hrefID": "{{it2csv_useComplexJSONEngine}}",
-                "section": "आउटपुट सीएसवी - स्थापना इंजन जटिल वस्तुओं का उपयोग",
+                "section": "{{Output CSV - Setting engines use complex objects}}",
                 "videos": [
                     {
-                        "description": "सीएसवी फ़ाइल उत्पादन, इंजन जटिल इनपुट फ़ाइलों का उपयोग कर जटिल वस्तुओं को संभालने के लिए निर्धारित किया है। डिफ़ॉल्ट: खोलें।",
-                        "url": "वीडियो / दस्तावेज़ / it2csv_useComplexJSONEngine.mp4"
+                        "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
+                        "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
                     }
                 ]
             }
