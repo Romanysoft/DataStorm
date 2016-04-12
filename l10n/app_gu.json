@@ -2,18 +2,18 @@
     "TopBar": {
         "Home": "મુખ્ય પૃષ્ઠ",
         "Feature": "વિશેષતા",
-        "Documents": "દસ્તાવેજો",
-        "ReleaseNotes": "ReleaseNotes",
-        "Downloads": "ટ્રાયલ",
+        "Video": "વિડિઓ",
+        "ReleaseNotes": "ચેન્જલૉગ",
+        "Downloads": "ડાઉનલોડ કરો",
         "Buy": "ખરીદો",
-        "Roadmap": "RoadMap",
+        "Documents": "દસ્તાવેજીકરણ",
         "ReportIssue": "મુદ્દાઓ",
         "Languages": "ભાષા"
     },
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "માહિતી બંધારણ રૂપાંતર એક બહુમતી, વિન્ડોઝ, લિનક્સ અને MacOSX આધાર આપે છે.",
-        "BtnDownload": "ટ્રાયલ",
+        "BtnDownload": "મફત ટ્રાયલ",
         "BtnBuy": "ખરીદો",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
@@ -90,95 +90,6 @@
                     {
                         "description": "{{CSV file output, set the engine to handle complex objects using complex input files. Default: Open.}}",
                         "url": "{{videos/docs/it2csv_useComplexJSONEngine.mp4}}"
-                    }
-                ]
-            }
-        ]
-    },
-    "ReleaseNotePage": {
-        "labelVersion": "આવૃત્તિ",
-        "list": [
-            {
-                "version": "{{4.23}}",
-                "list": [
-                    {
-                        "platform": "{{Windows,MacOSX,Linux}}",
-                        "content": "{{[Upgrade]the data-processing engine upgrade}}"
-                    },
-                    {
-                        "platform": "{{Windows,MacOSX,Linux}}",
-                        "content": "{{[Upgrade]optimized the mode of engine loading}}"
-                    }
-                ]
-            },
-            {
-                "version": "{{4.21}}",
-                "list": [
-                    {
-                        "platform": "{{Windows,MacOSX}}",
-                        "content": "{{[Upgrade] NativeEngine update}}"
-                    }
-                ]
-            },
-            {
-                "version": "{{4.20}}",
-                "list": [
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "{{[Bug] NativeEngine menu event detection bug.}}"
-                    },
-                    {
-                        "platform": "{{Linux,Windows}}",
-                        "content": "{{[Bug] Fix open save dialog adding extendsion to filename when it shouldn't}}"
-                    },
-                    {
-                        "platform": "{{Linux,Windows}}",
-                        "content": "{{[Bug] Fix bad typing performance..}}"
-                    }
-                ]
-            },
-            {
-                "version": "{{4.19}}",
-                "list": [
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "{{[Bug] NativeEngine process_task contions is '&&' run error.}}"
-                    },
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "{{[Bug] Open the most recently used documents that use dock appliction icon, not normal to open}}"
-                    },
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "{{[Bug] NativeEngine process_task must run success, application can't launch.}}"
-                    },
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "{{[Feature] (Transformation engine) Support for complex object format(all support file format)}}"
-                    },
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "{{[Feature] (Transformation engine) Support for custom to csv}}"
-                    },
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "{{[Feature] (Transformation engine) Support for .ini format file}}"
-                    },
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "{{[Update] (Transformation engine) i18n update}}"
-                    },
-                    {
-                        "platform": "{{MacOSX}}",
-                        "content": "{{[Performance] (Transformation engine) use file stream aysnc.}}"
-                    },
-                    {
-                        "platform": "{{Windows}}",
-                        "content": "પ્રથમ પ્રકાશન"
-                    },
-                    {
-                        "platform": "{{Linux}}",
-                        "content": "પ્રથમ પ્રકાશન"
                     }
                 ]
             }

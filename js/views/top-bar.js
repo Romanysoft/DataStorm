@@ -14,11 +14,11 @@
         var  navgList = [
             {name:l10n["Home"] || "Home", url:"./index.html"},
             {name:l10n["Feature"] || "Feature", url:"./feature.html"},
-            {name:l10n["Documents"] || "Documents", url:"./documents.html"},
-            {name:l10n["ReleaseNotes"] || "ReleaseNotes", url:"./releasenotes.html"},
+            {name:l10n["Video"] || "Documents", url:"./documents.html"},
+            {name:l10n["Documents"] || "Documents", url:RTYConfig.wikiUrl ||""},
+            {name:l10n["ReleaseNotes"] || "ReleaseNotes", url:RTYConfig.changeLogUrl ||""},
             {name:l10n["Downloads"] || "Downloads", url:"./versions.html"},
             {name:l10n["Buy"] || "Buy", url:"./buy.html"},
-            {name:l10n["Roadmap"] || "Roadmap", url:"./roadmap.html"},
             {name:l10n["ReportIssue"] || "ReportIssue", url:RTYConfig.reportIssueUrl ||""},
             {name:l10n["Languages"] || "Languages", url:"./languages.html"},
         ];
