@@ -33,8 +33,11 @@
     </section>
     
     <section class="page-header">
+        <img src="images/ico/logo_72.png"/>
         <h1 class="project-name"></h1>
         <h2 class="project-tagline"></h2>
+        <div class="platform-tags">
+        </div>
         <a href="./versions.html" class="btn btn-download-link"></a>
         <a href="./buy.html" class="btn btn-buy-link"></a>
         <a href="//www.romanysoft.com" target="_blank" class="btn btn-learnmore-link"></a>
@@ -62,6 +65,17 @@
                  {{/each}}
               </ul>
          </div>
+    </script>
+    
+    <!-- Platform template -->
+    <script id="platform-content-tmpl" type="text/html">
+        <p>
+            {{each list as imgUrl}}
+            <a href="./versions.html">
+                <img src="images/platform/{{imgUrl}}.png" style="width:64px">
+            </a>
+            {{/each}}
+        </p>
     </script>
     
     <!-- Scrrens template -->

@@ -22,6 +22,11 @@
         $('.btn-buy-link').html(l10n['BtnBuy']);
         $('.btn-learnmore-link').html(l10n['BtnLearnMore'] || "WWW.ROMANYSOFT.COM");
         
+        // 更新支持的平台
+        htmlContent = template('platform-content-tmpl',{
+            list: RTYConfig.supportPlatforms
+        });
+        $('.platform-tags').html(htmlContent);
 
         // 更新Screents
         htmlContent = template('screen-content-tmpl', {
@@ -61,7 +66,7 @@
                         initEvents();
                     },
                     initEvents = function() {
-                        setInterval(function(){slicebox.next()}, 2000);
+                        setInterval(function(){slicebox.next()}, 2500);
                     };
 
                 return {
