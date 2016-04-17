@@ -10,6 +10,6 @@
         changeLogUrl:"https://github.com/Romanysoft/DataStorm/wiki/Changelog",
         wikiUrl:"https://github.com/Romanysoft/DataStorm/wiki",
         romanysoftHome:"http://www.romanysoft.com",
-        copyright:"Copyright © 2016 Romanysoft LAB."
+        copyright:"Copyright © " + (new Date()).getFullYear() + " Romanysoft LAB."
     }
 })();
