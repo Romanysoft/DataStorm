@@ -20,6 +20,8 @@
 
         $('.btn-download-link').html(l10n['BtnDownload']);
         $('.btn-buy-link').html(l10n['BtnBuy']);
+        $('.btn-learnmore-link').html(l10n['BtnLearnMore'] || "WWW.ROMANYSOFT.COM");
+        
 
         // 更新Screents
         htmlContent = template('screen-content-tmpl', {
@@ -59,7 +61,7 @@
                         initEvents();
                     },
                     initEvents = function() {
-                        setInterval(function(){slicebox.next()}, 5000);
+                        setInterval(function(){slicebox.next()}, 2000);
                     };
 
                 return {
