@@ -26,7 +26,7 @@
         "Features": {
             "SectionName": "Main Features",
             "list": [
-                "Conversion (YAML) file data between support JSON, XML, CSV, PLIST, INI, the .properties and YML.",
+                "Conversion file data between support JSON, XML, CSV, PLIST, INI, the .properties and YML.",
                 "Support batch conversion",
                 "Support customized conversion parameters",
                 "Support complex data file processing, in particular converter nested JSON files to CSV",
