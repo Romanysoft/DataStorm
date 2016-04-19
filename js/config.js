@@ -9,7 +9,7 @@
         reportIssueUrl:"https://github.com/Romanysoft/DataStorm/issues",
         changeLogUrl:"https://github.com/Romanysoft/DataStorm/wiki/Changelog",
         wikiUrl:"https://github.com/Romanysoft/DataStorm/wiki",
-        romanysoftHome:"http://www.romanysoft.com",
+        romanysoftHome:"//www.romanysoft.com",
         copyright:"Copyright © " + (new Date()).getFullYear() + " Romanysoft LAB."
     }
 })();
