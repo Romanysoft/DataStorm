@@ -232,28 +232,29 @@
         "SectionName": "Buy",
         "list": [
             {
-                "name": "{{DataStorm for windows for Vista, Win7,Win8,Win8.1,Win10}}",
+                "name": "{{DataStorm for Windows}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-41}}"
             },
             {
-                "name": "{{DataStorm for MacOSX, for MacOSX 10.7 and later}}",
+                "name": "{{DataStorm for Mac}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
-            },
+            },            
             {
-                "name": "{{DataStorm for MacOSX (Mac App Store), for MacOSX 10.7 and later}}",
+                "name": "{{DataStorm for Mac App Store}}",
                 "logo": "{{images/buy/mas.png}}",
-                "price": "{{$50}}",
                 "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
-                "name": "{{DataStorm for linux}}",
+                "name": "{{DataStorm for Linux}}",
                 "logo": "{{images/buy/buy.png}}",
-                "price": "{{$50}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
+            },
+            {
+                "name": "{{DataStorm for Mac}}",
+                "logo": "{{images/buy/taobao.png}}",
+                "buyURL":"{{https://item.taobao.com/item.htm?id=522999242720}}"
             }
         ]
     },
