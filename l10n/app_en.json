@@ -242,21 +242,11 @@
                 "name": "{{DataStorm for Mac}}",
                 "logo": "{{images/buy/buy.png}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-17}}"
-            },            
-            {
-                "name": "{{DataStorm for Mac App Store}}",
-                "logo": "{{images/buy/mas.png}}",
-                "buyURL": "{{https://itunes.apple.com/us/app/datastorm/id954164365?l=zh&ls=1&mt=12}}"
             },
             {
                 "name": "{{DataStorm for Linux}}",
                 "logo": "{{images/buy/buy.png}}",
                 "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-42}}"
-            },
-            {
-                "name": "{{DataStorm for Mac}}",
-                "logo": "{{images/buy/taobao.png}}",
-                "buyURL":"{{https://item.taobao.com/item.htm?id=522999242720}}"
             }
         ]
     },
