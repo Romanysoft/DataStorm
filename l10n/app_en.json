@@ -102,6 +102,21 @@
         "list": [
             {
                 "version": "{{4.23}}",
+                "updateDate": "{{2016.10.31}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{DataStorm-v4.24-darwin-x64.zip}}",
+                        "size": "{{17.3MB}}",
+                        "downURL": [
+                          "{{http://www.filefactory.com/file/1vzfmdypnpfr/DataStorm-v4.24.0-darwin-x64.zip}}",
+                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/DataStorm/4.24/DataStorm-v4.24.0-darwin-x64.zip}}"
+                        ]
+                    }
+                ]
+            },            
+            {
+                "version": "{{4.23}}",
                 "zipList": [
                     {
                         "osUrl": "{{images/download/win32.png}}",
