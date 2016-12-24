@@ -60,6 +60,15 @@
                     "professional": "PHP framework development"
                 }
             ]
+        },
+        "CooperativePartner":{
+            "SectionName": "WE'RE EVERYWHERE",
+            "list": [
+                {
+                 "img":"http://www.softwarebee.com/images/logo_210x80.gif",  
+                 "url":"http://softwarebee.com/download/try-to-translate-for-mac.html"
+                }
+            ]
         }
     },
     "FeaturePage": {},
@@ -108,10 +117,7 @@
                         "osUrl": "{{images/download/osx.png}}",
                         "name": "{{DataStorm-v4.24-darwin-x64.zip}}",
                         "size": "{{17.3MB}}",
-                        "downURL": [
-                          "{{http://www.filefactory.com/file/1vzfmdypnpfr/DataStorm-v4.24.0-darwin-x64.zip}}",
-                          "{{https://github.com/Romanysoft/AppShareFile/raw/master/apps/DataStorm/4.24/DataStorm-v4.24.0-darwin-x64.zip}}"
-                        ]
+                        "downURL":"{{http://www.filefactory.com/file/1vzfmdypnpfr/DataStorm-v4.24.0-darwin-x64.zip}}"
                     }
                 ]
             },            
